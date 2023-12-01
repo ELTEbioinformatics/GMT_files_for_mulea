@@ -1,0 +1,40 @@
+# Gene set GMT file for mulea Bioconductor R package
+# taxon_name: Schizosaccharomyces pombe
+# taxonomy_ID: 4896
+NA
+# source_url: http://geneontology.org/ 
+# source_PMID: 30395331
+# source_primary_ID: GeneSymbol 
+# source_version: 
+# source_last_update:2023
+# gmt_download_date: 09-05-2023
+# gmt_version:2
+# gmt_entry_names:gene ontology
+# Gene Ontology Term Description Genes
+
+GO:0000228	"nuclear chromosome"	3361456	2543240
+GO:0000785	"chromatin"	3361456
+GO:0005575	"cellular_component"	2541695	2542130	2543240	3361456
+GO:0005622	"intracellular"	2541695	2543240	3361456
+GO:0005634	"nucleus"	3361456	2543240
+GO:0005657	"replication fork"	2543240
+GO:0005694	"chromosome"	3361456	2543240
+GO:0005737	"cytoplasm"	2541695
+GO:0005829	"cytosol"	2541695
+GO:0005971	"ribonucleoside-diphosphate reductase complex"	2541695
+GO:0031298	"replication fork protection complex"	2543240
+GO:0031974	"membrane-enclosed lumen"	3361456	2543240
+GO:0031981	"nuclear lumen"	3361456	2543240
+GO:0032991	"macromolecular complex"	2541695	2542130	2543240	3361456
+GO:0034974	"Swi5-Swi2 complex"	3361456
+GO:0043226	"organelle"	2543240	3361456
+GO:0043227	"membrane-bounded organelle"	3361456	2543240
+GO:0043228	"non-membrane-bounded organelle"	3361456	2543240
+GO:0043229	"intracellular organelle"	2543240	3361456
+GO:0043231	"intracellular membrane-bounded organelle"	3361456	2543240
+GO:0043232	"intracellular non-membrane-bounded organelle"	3361456	2543240
+GO:0043233	"organelle lumen"	3361456	2543240
+GO:0043596	"nuclear replication fork"	2543240
+GO:0070013	"intracellular organelle lumen"	3361456	2543240
+GO:1902494	"catalytic complex"	2541695
+GO:1990204	"oxidoreductase complex"	2541695

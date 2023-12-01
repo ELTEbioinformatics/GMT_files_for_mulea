@@ -1,0 +1,214 @@
+# Gene set GMT file for mulea Bioconductor R package
+# taxon_name: Escherichia coli
+# taxonomy_ID: 562
+NA
+# source_url: http://geneontology.org/ 
+# source_PMID: 30395331
+# source_primary_ID: GeneSymbol 
+# source_version: 
+# source_last_update:2023
+# gmt_download_date: 09-05-2023
+# gmt_version:2
+# gmt_entry_names:gene ontology
+# Gene Ontology Term Description Genes
+
+GO:0000015	"phosphopyruvate hydratase complex"	EB0254
+GO:0000345	"cytosolic DNA-directed RNA polymerase complex"	EB0886
+GO:0000428	"DNA-directed RNA polymerase complex"	EB0886
+GO:0000502	"proteasome complex"	EB1827	EB1627
+GO:0002189	"ribose phosphate diphosphokinase complex"	EB0767
+GO:0005575	"cellular_component"	EB0974	EB2976	EB0156	EB2584	EB0834	EB0275	EB1627	EB2091	EB1282	EB2023	EB0132	EB3983	EB0296	EB1535	EB2009	EB3939	EB1057	EB0313	EB1323	EB3458	EB3032	EB2733	EB0338	EB0254	EB1469	EB2416	EB0319	EB0600	EB1631	EB0417	EB0100	EB3205	EB0898	EB0522	EB0353	EB0304	EB0665	EB0366	EB1092	EB0767	EB1378	EB0024	EB2929	EB4142	EB4299	EB4014	EB1723	EB1727	EB0720	EB0177	EB0632	EB0594	EB0241	EB0550	EB3609	EB2828	EB0187	EB1054	EB0629	EB0833	EB0098	EB1472	EB3213	EB4163	EB0680	EB1552	EB3312	EB1388	EB0926	EB2056	EB0759	EB2407	EB0704	EB0901	EB0855	EB0819	EB3974	EB0866	EB0214	EB0463	EB1803	EB0328	EB4019	EB3620	EB1065	EB0549	EB0886	EB0038	EB0096	EB0227	EB0213	EB2052	EB0924	EB0474	EB0916	EB0044	EB2792	EB0757	EB0004	EB0317	EB0693	EB0230	EB0854	EB2283	EB0649	EB0170	EB1006	EB0869	EB1002	EB2031	EB2820	EB0973	EB0097	EB0150	EB0804	EB3175	EB0258	EB0418	EB0884	EB0176	EB4162	EB0495	EB1827	EB3360	EB1517	EB4161	EB1258	EB0899
+GO:0005576	"extracellular region"	EB0317	EB3175
+GO:0005615	"extracellular space"	EB3175
+GO:0005618	"cell wall"	EB0600	EB0833
+GO:0005622	"intracellular"	EB0974	EB2976	EB0916	EB0757	EB0353	EB1627	EB0004	EB3312	EB0693	EB1388	EB0926	EB0366	EB1092	EB2023	EB2283	EB0132	EB0296	EB1535	EB1006	EB2929	EB4142	EB0704	EB0869	EB3939	EB1057	EB0901	EB0024	EB1727	EB2820	EB0973	EB2733	EB0594	EB0097	EB0866	EB0254	EB0328	EB2416	EB0629	EB0884	EB0886	EB0495	EB3360	EB1827	EB0098	EB0227	EB0213	EB1258	EB1517	EB2052	EB0898	EB0924	EB0899
+GO:0005657	"replication fork"	EB0757
+GO:0005667	"transcription factor complex"	EB2584
+GO:0005694	"chromosome"	EB1006	EB0757
+GO:0005737	"cytoplasm"	EB0974	EB2976	EB0353	EB0004	EB3312	EB0693	EB1388	EB0366	EB2023	EB2283	EB0132	EB0296	EB1535	EB2929	EB4142	EB0024	EB0704	EB0901	EB0973	EB2820	EB2733	EB0594	EB0866	EB0254	EB0886	EB1827	EB0495	EB3360	EB0213	EB2052
+GO:0005777	"peroxisome"	EB2929
+GO:0005793	"endoplasmic reticulum-Golgi intermediate compartment"	EB2976
+GO:0005829	"cytosol"	EB2733	EB2283	EB0594	EB2023	EB0886	EB1827	EB1535	EB0866	EB0693	EB0254	EB2052	EB0901
+GO:0005839	"proteasome core complex"	EB1627
+GO:0005840	"ribosome"	EB0866	EB0869	EB0898	EB0901	EB0899
+GO:0005856	"cytoskeleton"	EB0254
+GO:0005886	"plasma membrane"	EB0680	EB3620	EB0328	EB1631	EB2792	EB0549	EB0550	EB1282	EB0227	EB0924	EB3213	EB0474
+GO:0005887	"integral component of plasma membrane"	EB0550
+GO:0005945	"6-phosphofructokinase complex"	EB0693
+GO:0005948	"acetolactate synthase complex"	EB0495
+GO:0005951	"carbamoyl-phosphate synthase complex"	EB0132
+GO:0005960	"glycine cleavage complex"	EB0366
+GO:0005971	"ribonucleoside-diphosphate reductase complex"	EB2283
+GO:0009274	"peptidoglycan-based cell wall"	EB0600	EB0833
+GO:0009276	"Gram-negative-bacterium-type cell wall"	EB0833
+GO:0009279	"cell outer membrane"	EB3974	EB1002	EB3205
+GO:0009288	"bacterial-type flagellum"	EB0319	EB1323	EB0834	EB4162	EB0317	EB4014	EB4161	EB4019
+GO:0009289	"pilus"	EB2031	EB0304
+GO:0009295	"nucleoid"	EB0313	EB1092
+GO:0009316	"3-isopropylmalate dehydratase complex"	EB1535
+GO:0009317	"acetyl-CoA carboxylase complex"	EB0213
+GO:0009318	"exodeoxyribonuclease VII complex"	EB1065
+GO:0009319	"cytochrome o ubiquinol oxidase complex"	EB0177
+GO:0009325	"nitrate reductase complex"	EB0632
+GO:0009326	"formate dehydrogenase complex"	EB1803
+GO:0009328	"phenylalanine-tRNA ligase complex"	EB0704
+GO:0009330	"DNA topoisomerase complex (ATP-hydrolyzing)"	EB0418
+GO:0009331	"glycerol-3-phosphate dehydrogenase complex"	EB4142
+GO:0009337	"sulfite reductase complex (NADPH)"	EB0187
+GO:0009338	"exodeoxyribonuclease V complex"	EB0819
+GO:0009339	"glycolate oxidase complex"	EB2820
+GO:0009341	"beta-galactosidase complex"	EB0522
+GO:0009344	"nitrite reductase complex [NAD(P)H]"	EB0649
+GO:0009346	"citrate lyase complex"	EB3312
+GO:0009347	"aspartate carbamoyltransferase complex"	EB0804
+GO:0009349	"riboflavin synthase complex"	EB1378
+GO:0009350	"ethanolamine ammonia-lyase complex"	EB4299
+GO:0009358	"polyphosphate kinase complex"	EB1472
+GO:0009360	"DNA polymerase III complex"	EB0241
+GO:0009361	"succinate-CoA ligase complex (ADP-forming)"	EB3360
+GO:0009366	"enterobactin synthetase complex"	EB0258
+GO:0009368	"endopeptidase Clp complex"	EB0156
+GO:0009375	"ferredoxin hydrogenase complex"	EB0463
+GO:0009376	"HslUV protease complex"	EB1827
+GO:0009379	"Holliday junction helicase complex"	EB0916
+GO:0009380	"excinuclease repair complex"	EB1054
+GO:0009390	"dimethyl sulfoxide reductase complex"	EB0230
+GO:0009420	"bacterial-type flagellum filament"	EB0834
+GO:0009421	"bacterial-type flagellum filament cap"	EB0834
+GO:0009424	"bacterial-type flagellum hook"	EB0834
+GO:0009425	"bacterial-type flagellum basal body"	EB0319	EB1323	EB4162	EB4014	EB4161	EB4019
+GO:0009426	"bacterial-type flagellum basal body, distal rod"	EB4019	EB4161	EB4162
+GO:0009427	"bacterial-type flagellum basal body, distal rod, L ring"	EB4161
+GO:0009428	"bacterial-type flagellum basal body, distal rod, P ring"	EB4162
+GO:0009431	"bacterial-type flagellum basal body, MS ring"	EB1323
+GO:0009898	"cytoplasmic side of plasma membrane"	EB0227	EB2792
+GO:0009986	"cell surface"	EB0254
+GO:0015627	"type II protein secretion system complex"	EB2091
+GO:0015934	"large ribosomal subunit"	EB0866	EB0869
+GO:0015935	"small ribosomal subunit"	EB0901	EB0899
+GO:0016020	"membrane"	EB0680	EB2792	EB1282	EB0665	EB0926	EB3983	EB2009	EB1723	EB0177	EB1002	EB3458	EB3974	EB0097	EB0550	EB3609	EB0328	EB1469	EB0629	EB3620	EB1631	EB0176	EB0549	EB0096	EB0100	EB0098	EB0227	EB3205	EB0924	EB3213	EB0474
+GO:0016021	"integral component of membrane"	EB0177	EB3620	EB1002	EB1631	EB3458	EB0549	EB0550	EB3609	EB0665	EB1723	EB0474
+GO:0016465	"chaperonin ATPase complex"	EB0594
+GO:0016469	"proton-transporting two-sector ATPase complex"	EB0096	EB0100	EB0097	EB0098
+GO:0017053	"transcriptional repressor complex"	EB2584
+GO:0018995	"host"	EB3032	EB2056
+GO:0019008	"molybdopterin synthase complex"	EB1552
+GO:0019866	"organelle inner membrane"	EB0629
+GO:0019867	"outer membrane"	EB3974	EB1002	EB3205
+GO:0019897	"extrinsic component of plasma membrane"	EB0680	EB0227
+GO:0019898	"extrinsic component of membrane"	EB0680	EB3458	EB0227
+GO:0020002	"host cell plasma membrane"	EB3032
+GO:0022625	"cytosolic large ribosomal subunit"	EB0866
+GO:0022626	"cytosolic ribosome"	EB0866	EB0901
+GO:0022627	"cytosolic small ribosomal subunit"	EB0901
+GO:0030257	"type III protein secretion system complex"	EB4163
+GO:0030288	"outer membrane-bounded periplasmic space"	EB0038
+GO:0030312	"external encapsulating structure"	EB1002	EB0600	EB3974	EB0833	EB3205
+GO:0030313	"cell envelope"	EB1002	EB3974	EB0833	EB0038	EB3205
+GO:0030428	"cell septum"	EB0214
+GO:0030677	"ribonuclease P complex"	EB0855
+GO:0030694	"bacterial-type flagellum basal body, rod"	EB4019	EB4014	EB4161	EB4162
+GO:0030880	"RNA polymerase complex"	EB0886
+GO:0030894	"replisome"	EB0757
+GO:0030964	"NADH dehydrogenase complex"	EB2009	EB1723	EB0474
+GO:0031090	"organelle membrane"	EB0629
+GO:0031224	"intrinsic component of membrane"	EB0177	EB3620	EB1002	EB1631	EB3458	EB3974	EB0549	EB0550	EB3609	EB0665	EB1723	EB0474
+GO:0031226	"intrinsic component of plasma membrane"	EB0550
+GO:0031230	"intrinsic component of cell outer membrane"	EB3974
+GO:0031234	"extrinsic component of cytoplasmic side of plasma membrane"	EB0227
+GO:0031241	"periplasmic side of cell outer membrane"	EB3974	EB3205
+GO:0031246	"intrinsic component of periplasmic side of cell outer membrane"	EB3974
+GO:0031250	"anaerobic ribonucleoside-triphosphate reductase complex"	EB1388
+GO:0031469	"polyhedral organelle"	EB3939
+GO:0031471	"ethanolamine degradation polyhedral organelle"	EB3939
+GO:0031522	"cell envelope Sec protein transport complex"	EB0759
+GO:0031597	"cytosolic proteasome complex"	EB1827
+GO:0031967	"organelle envelope"	EB0629
+GO:0031975	"envelope"	EB0629	EB1002	EB3974	EB0833	EB0038	EB3205
+GO:0032153	"cell division site"	EB0338
+GO:0032299	"ribonuclease H2 complex"	EB0854
+GO:0032300	"mismatch repair complex"	EB1258
+GO:0032991	"macromolecular complex"	EB0974	EB0156	EB2584	EB0275	EB1627	EB2091	EB1282	EB0132	EB0296	EB1535	EB2009	EB1057	EB0313	EB3458	EB2733	EB0254	EB1469	EB1631	EB0417	EB0100	EB0898	EB0522	EB0353	EB0665	EB0366	EB0767	EB1378	EB0024	EB4142	EB4299	EB1723	EB1727	EB0177	EB0632	EB0594	EB0241	EB0550	EB3609	EB2828	EB0187	EB1054	EB0098	EB1472	EB3213	EB4163	EB1552	EB3312	EB1388	EB0926	EB0759	EB2407	EB0704	EB0901	EB0855	EB0819	EB3974	EB0866	EB0463	EB1803	EB0328	EB3620	EB1065	EB0549	EB0886	EB0096	EB0213	EB2052	EB0924	EB0474	EB0916	EB0757	EB0004	EB0693	EB0230	EB0854	EB2283	EB0649	EB0170	EB0869	EB1002	EB0973	EB2820	EB0097	EB0150	EB0804	EB0258	EB0418	EB0495	EB1827	EB3360	EB1258	EB0899
+GO:0032993	"protein-DNA complex"	EB0313	EB0757
+GO:0033177	"proton-transporting two-sector ATPase complex, proton-transporting domain"	EB0100	EB0097
+GO:0033178	"proton-transporting two-sector ATPase complex, catalytic domain"	EB0098
+GO:0033202	"DNA helicase complex"	EB1057	EB0916
+GO:0033281	"TAT protein transport complex"	EB1282
+GO:0033573	"high-affinity iron permease complex"	EB3620
+GO:0033643	"host cell part"	EB3032	EB2056
+GO:0033644	"host cell membrane"	EB3032	EB2056
+GO:0034702	"ion channel complex"	EB3609
+GO:0034707	"chloride channel complex"	EB3609
+GO:0034708	"methyltransferase complex"	EB1727
+GO:0036125	"fatty acid beta-oxidation multienzyme complex"	EB0275
+GO:0042575	"DNA polymerase complex"	EB0241
+GO:0042579	"microbody"	EB2929
+GO:0042597	"periplasmic space"	EB0038	EB0720
+GO:0042709	"succinate-CoA ligase complex"	EB0974	EB3360
+GO:0042995	"cell projection"	EB0319	EB2031	EB1323	EB0834	EB0304	EB4162	EB0317	EB4014	EB4161	EB4019
+GO:0043190	"ATP-binding cassette (ABC) transporter complex"	EB1631	EB0549	EB0550
+GO:0043226	"organelle"	EB2976	EB0834	EB0757	EB0317	EB1092	EB1006	EB2929	EB4014	EB0869	EB3939	EB0901	EB1323	EB0866	EB0254	EB4019	EB2416	EB0629	EB0319	EB0884	EB4162	EB4161	EB0898	EB0899
+GO:0043227	"membrane-bounded organelle"	EB0629	EB2976	EB2929	EB2416
+GO:0043228	"non-membrane-bounded organelle"	EB0319	EB1323	EB0901	EB0834	EB0757	EB0899	EB4162	EB0317	EB0866	EB1006	EB0254	EB4014	EB4161	EB0869	EB3939	EB0898	EB4019	EB1092
+GO:0043229	"intracellular organelle"	EB0629	EB2976	EB0901	EB0884	EB0757	EB1092	EB0866	EB1006	EB0254	EB2929	EB0869	EB3939	EB0898	EB0899	EB2416
+GO:0043231	"intracellular membrane-bounded organelle"	EB2976	EB2929	EB2416
+GO:0043232	"intracellular non-membrane-bounded organelle"	EB0901	EB0757	EB0866	EB1006	EB0254	EB3939	EB0869	EB0898	EB0899	EB1092
+GO:0043527	"tRNA methyltransferase complex"	EB1727
+GO:0043590	"bacterial nucleoid"	EB1092
+GO:0043657	"host cell"	EB3032	EB2056
+GO:0044096	"type IV pilus"	EB2031
+GO:0044384	"host outer membrane"	EB2056
+GO:0044391	"ribosomal subunit"	EB0866	EB0901	EB0899	EB0869
+GO:0044569	"[Ni-Fe] hydrogenase complex"	EB2828
+GO:0045121	"membrane raft"	EB3983
+GO:0045239	"tricarboxylic acid cycle enzyme complex"	EB0974	EB0353	EB3360	EB0973
+GO:0045240	"dihydrolipoyl dehydrogenase complex"	EB0973
+GO:0045252	"oxoglutarate dehydrogenase complex"	EB0973
+GO:0045254	"pyruvate dehydrogenase complex"	EB0024
+GO:0045259	"proton-transporting ATP synthase complex"	EB0096	EB0098	EB0097
+GO:0045261	"proton-transporting ATP synthase complex, catalytic core F(1)"	EB0098
+GO:0045263	"proton-transporting ATP synthase complex, coupling factor F(o)"	EB0097
+GO:0045271	"respiratory chain complex I"	EB1723	EB0474
+GO:0045272	"plasma membrane respiratory chain complex I"	EB0474
+GO:0045273	"respiratory chain complex II"	EB0328	EB0924	EB0926
+GO:0045274	"plasma membrane respiratory chain complex II"	EB0328	EB0924
+GO:0045281	"succinate dehydrogenase complex"	EB0924	EB0926
+GO:0045282	"plasma membrane succinate dehydrogenase complex"	EB0924
+GO:0045283	"fumarate reductase complex"	EB0328
+GO:0045284	"plasma membrane fumarate reductase complex"	EB0328
+GO:0046930	"pore complex"	EB0665
+GO:0048476	"Holliday junction resolvase complex"	EB0916
+GO:0048500	"signal recognition particle"	EB0296
+GO:0055052	"ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing"	EB0549
+GO:0061695	"transferase complex, transferring phosphorus-containing groups"	EB0767	EB0241	EB0886	EB1472	EB0693
+GO:0070069	"cytochrome complex"	EB0177	EB0170
+GO:0070469	"respiratory chain"	EB0328	EB0176	EB1723	EB0926	EB0924	EB0474
+GO:0070470	"plasma membrane respiratory chain"	EB0328	EB0924	EB0474
+GO:0071513	"phosphopantothenoylcysteine decarboxylase complex"	EB0004
+GO:0071944	"cell periphery"	EB0680	EB3620	EB1002	EB0600	EB0328	EB1631	EB2792	EB3974	EB0549	EB0550	EB0833	EB1282	EB0227	EB3205	EB0924	EB3213	EB0474
+GO:0097347	"TAM protein secretion complex"	EB2407
+GO:0098533	"ATPase dependent transmembrane transport complex"	EB0550	EB0549	EB1631
+GO:0098552	"side of membrane"	EB3205	EB3974	EB0227	EB2792
+GO:0098562	"cytoplasmic side of membrane"	EB0227	EB2792
+GO:0098796	"membrane protein complex"	EB1282	EB0665	EB0926	EB2009	EB1723	EB0177	EB1002	EB3458	EB3974	EB0097	EB0550	EB3609	EB0328	EB1469	EB3620	EB1631	EB0549	EB0096	EB0100	EB0098	EB0924	EB3213	EB0474
+GO:0098797	"plasma membrane protein complex"	EB3620	EB0328	EB1631	EB0549	EB0550	EB1282	EB0924	EB3213	EB0474
+GO:0098803	"respiratory chain complex"	EB0328	EB1723	EB0926	EB0924	EB0474
+GO:0098857	"membrane microdomain"	EB3983
+GO:1902494	"catalytic complex"	EB0974	EB0916	EB0522	EB1627	EB0004	EB3312	EB0693	EB0926	EB0366	EB0230	EB0767	EB1378	EB2283	EB0132	EB1535	EB2009	EB4142	EB4299	EB0704	EB0024	EB1057	EB1723	EB1727	EB0855	EB0177	EB0973	EB2820	EB0819	EB0632	EB2733	EB0241	EB0254	EB0463	EB2828	EB1803	EB0804	EB1054	EB3620	EB1065	EB0417	EB0886	EB0495	EB3360	EB1827	EB1472	EB0213	EB2052	EB0924	EB0474
+GO:1902495	"transmembrane transporter complex"	EB0177	EB3620	EB1002	EB1631	EB3458	EB0549	EB0550	EB3609	EB1723	EB0474
+GO:1902555	"endoribonuclease complex"	EB0855
+GO:1902560	"GMP reductase complex"	EB0417
+GO:1990060	"maltose transport complex"	EB0550
+GO:1990063	"Bam protein complex"	EB3974
+GO:1990077	"primosome complex"	EB0757
+GO:1990099	"pre-primosome complex"	EB0757
+GO:1990195	"macrolide transmembrane transporter complex"	EB3458
+GO:1990204	"oxidoreductase complex"	EB0177	EB3620	EB0973	EB2820	EB0924	EB0474	EB0632	EB2283	EB0417	EB0024	EB2009	EB4142	EB0463	EB0926	EB1803	EB0366	EB1723	EB0230
+GO:1990220	"GroEL-GroES complex"	EB0594
+GO:1990228	"sulfurtransferase complex"	EB2733
+GO:1990230	"iron-sulfur cluster transfer complex"	EB2052
+GO:1990234	"transferase complex"	EB0973	EB0767	EB1378	EB2733	EB0241	EB0886	EB0495	EB0693	EB1472	EB2052	EB0804	EB1727
+GO:1990281	"efflux pump complex"	EB1002
+GO:1990351	"transporter complex"	EB0177	EB3620	EB1002	EB1631	EB3458	EB0549	EB0550	EB3609	EB1723	EB0474
+GO:1990391	"DNA repair complex"	EB1258	EB1054
+GO:1990904	"ribonucleoprotein complex"	EB0296	EB0866	EB0869	EB0898	EB0901	EB0899	EB0855

@@ -1,0 +1,1711 @@
+# Gene set GMT file for mulea Bioconductor R package
+# taxon_name: Dictyostelium discoideum
+# taxonomy_ID: 44689
+NA
+# source_url: http://geneontology.org/ 
+# source_PMID: 30395331
+# source_primary_ID: GeneSymbol 
+# source_version: 
+# source_last_update:2023
+# gmt_download_date: 09-05-2023
+# gmt_version:2
+# gmt_entry_names:gene ontology
+# Gene Ontology Term Description Genes
+
+GO:0000009	"alpha-1,6-mannosyltransferase activity"	Q55FZ9
+GO:0000010	"trans-hexaprenyltranstransferase activity"	Q54VJ9
+GO:0000014	"single-stranded DNA endodeoxyribonuclease activity"	Q55GG6
+GO:0000026	"alpha-1,2-mannosyltransferase activity"	Q54DM9	Q54WW9
+GO:0000030	"mannosyltransferase activity"	Q54IA4	Q55FZ9	Q54WW9	Q55F69	Q7KWM5	P90522	Q54LP3	Q54DM9
+GO:0000033	"alpha-1,3-mannosyltransferase activity"	Q55F69
+GO:0000034	"adenine deaminase activity"	Q54KF3
+GO:0000035	"acyl binding"	Q54E22
+GO:0000049	"tRNA binding"	Q55EX7
+GO:0000062	"fatty-acyl-CoA binding"	Q5FXM5
+GO:0000064	"L-ornithine transmembrane transporter activity"	Q55E85
+GO:0000099	"sulfur amino acid transmembrane transporter activity"	Q54WT7
+GO:0000104	"succinate dehydrogenase activity"	Q55CC2	Q8T2T5
+GO:0000146	"microfilament motor activity"	Q9U1M8
+GO:0000155	"phosphorelay sensor kinase activity"	Q55E44
+GO:0000156	"phosphorelay response regulator activity"	Q869S5
+GO:0000166	"nucleotide binding"	Q55F68	P32254	Q54M18	Q54LW0	Q5FXM5	Q9GPM4	Q9XPJ9	Q54Z60	Q54QF9	Q55CT1	Q55GQ6	Q75JD5	Q55DB0	Q55BI2	P19198	Q86A17	Q55EP5	B0G0Y8
+GO:0000175	"3'-5'-exoribonuclease activity"	Q54W16	Q55DD5	Q55AW0
+GO:0000179	"rRNA (adenine-N6,N6-)-dimethyltransferase activity"	Q54QK7
+GO:0000182	"rDNA binding"	Q54GS8
+GO:0000225	"N-acetylglucosaminylphosphatidylinositol deacetylase activity"	Q54C64
+GO:0000247	"C-8 sterol isomerase activity"	Q55E32
+GO:0000250	"lanosterol synthase activity"	Q55D85
+GO:0000252	"C-3 sterol dehydrogenase (C-4 sterol decarboxylase) activity"	Q54L85
+GO:0000254	"C-4 methylsterol oxidase activity"	Q55D54
+GO:0000268	"peroxisome targeting sequence binding"	Q54WA3	Q555I0	Q54MD1
+GO:0000285	"1-phosphatidylinositol-3-phosphate 5-kinase activity"	B0G126
+GO:0000287	"magnesium ion binding"	Q55FM6
+GO:0000295	"adenine nucleotide transmembrane transporter activity"	B0G159	Q54QI8	Q55DM5	Q1ZXJ4	Q76P23	O97470
+GO:0000309	"nicotinamide-nucleotide adenylyltransferase activity"	Q54IH4
+GO:0000334	"3-hydroxyanthranilate 3,4-dioxygenase activity"	Q54S02
+GO:0000339	"RNA cap binding"	Q55D17	Q554U9
+GO:0000384	"first spliceosomal transesterification activity"	Q54N41
+GO:0000700	"mismatch base pair DNA N-glycosylase activity"	Q1ZXP7
+GO:0000701	"purine-specific mismatch base pair DNA N-glycosylase activity"	Q1ZXP7
+GO:0000702	"oxidized base lesion DNA N-glycosylase activity"	Q1ZXP7	Q86K43
+GO:0000703	"oxidized pyrimidine nucleobase lesion DNA N-glycosylase activity"	Q86K43
+GO:0000773	"phosphatidyl-N-methylethanolamine N-methyltransferase activity"	Q54SD5
+GO:0000774	"adenyl-nucleotide exchange factor activity"	Q54QF9
+GO:0000822	"inositol hexakisphosphate binding"	Q54MJ9
+GO:0000976	"transcription regulatory region sequence-specific DNA binding"	Q554P0	Q55F37	Q54FD6	Q95NZ8	Q54TY7	Q54GS8
+GO:0000977	"RNA polymerase II regulatory region sequence-specific DNA binding"	Q54FD6	Q554P0	Q55F37
+GO:0000978	"RNA polymerase II core promoter proximal region sequence-specific DNA binding"	Q554P0
+GO:0000979	"RNA polymerase II core promoter sequence-specific DNA binding"	Q54FD6
+GO:0000981	"RNA polymerase II transcription factor activity, sequence-specific DNA binding"	Q54WV0
+GO:0000987	"core promoter proximal region sequence-specific DNA binding"	Q554P0	Q54TY7	Q54GS8
+GO:0000992	"polymerase III regulatory region sequence-specific DNA binding"	Q54GS8
+GO:0000993	"RNA polymerase II core binding"	Q54FD6	Q54MB8
+GO:0000994	"RNA polymerase III core binding"	Q54Y76
+GO:0001002	"RNA polymerase III type 1 promoter sequence-specific DNA binding"	Q54GS8
+GO:0001003	"RNA polymerase III type 2 promoter sequence-specific DNA binding"	Q54GS8
+GO:0001016	"RNA polymerase III regulatory region DNA binding"	Q54GS8
+GO:0001018	"mitochondrial RNA polymerase regulatory region DNA binding"	Q95NZ8
+GO:0001046	"core promoter sequence-specific DNA binding"	Q54FD6
+GO:0001054	"RNA polymerase I activity"	Q54SN4
+GO:0001055	"RNA polymerase II activity"	Q86JJ5
+GO:0001056	"RNA polymerase III activity"	Q54SN4
+GO:0001067	"regulatory region nucleic acid binding"	Q554P0	Q55F37	Q54FD6	Q95NZ8	Q54TY7	Q54GS8
+GO:0001091	"RNA polymerase II basal transcription factor binding"	Q54WV4	Q54VV8	Q54DH8
+GO:0001096	"TFIIF-class transcription factor binding"	Q54WV4
+GO:0001097	"TFIIH-class transcription factor binding"	Q54VV8
+GO:0001098	"basal transcription machinery binding"	Q54WV4	Q54VV8	Q54FD6	Q54DH8	Q54MB8
+GO:0001099	"basal RNA polymerase II transcription machinery binding"	Q54WV4	Q54VV8	Q54FD6	Q54DH8	Q54MB8
+GO:0001139	"transcription factor activity, core RNA polymerase II recruiting"	Q54FD6
+GO:0001216	"bacterial-type RNA polymerase transcriptional activator activity, sequence-specific DNA binding"	Q54WV0
+GO:0001228	"transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding"	Q54WV0
+GO:0001614	"purinergic nucleotide receptor activity"	P13773
+GO:0001646	"cAMP receptor activity"	P13773
+GO:0001653	"peptide receptor activity"	Q553Y7
+GO:0001664	"G-protein coupled receptor binding"	P16051
+GO:0001671	"ATPase activator activity"	Q55DB6
+GO:0001716	"L-amino-acid oxidase activity"	Q54EW2
+GO:0001727	"lipid kinase activity"	Q86KF9	Q75JX1
+GO:0001760	"aminocarboxymuconate-semialdehyde decarboxylase activity"	Q54LN9
+GO:0001784	"phosphotyrosine binding"	Q557E7
+GO:0001882	"nucleoside binding"	Q54J75
+GO:0001965	"G-protein alpha-subunit binding"	Q54L90
+GO:0002020	"protease binding"	Q54QM5	Q54NN1
+GO:0002054	"nucleobase binding"	Q55FT1
+GO:0002058	"uracil binding"	Q55FT1
+GO:0002061	"pyrimidine nucleobase binding"	Q55FT1
+GO:0002083	"4-hydroxybenzoate decaprenyltransferase activity"	Q54U71
+GO:0002094	"polyprenyltransferase activity"	Q54U71
+GO:0002161	"aminoacyl-tRNA editing activity"	Q54EY1
+GO:0003674	"molecular_function"	Q54X97	Q54ER8	Q54DD3	Q86GL4	Q54N73	Q6B9X6	Q54K91	Q54PY7	Q55GU1	Q869Z4	Q54YF2	Q54XC1	Q55D51	Q54WT7	Q54EY7	Q8SSN5	Q8T295	Q6TMJ1	Q55EX7	P32254	Q867X6	Q54IH4	P54677	Q54PV1	B0G147	Q54IF7	Q54J34	Q54FK1	Q54X49	Q54UU8	Q55C57	Q55GR8	Q55C66	Q55GL2	Q54WR8	Q54LU8	Q55ED1	O15749	Q86JJ0	Q54L90	Q55AQ3	Q55C91	P42521	Q55G93	P52922	Q8I7C6	Q54TU8	Q54WD6	Q54VM2	Q55E39	Q55CY7	Q556I2	P36412	Q54DA9	Q54I48	Q54X65	Q55G87	Q9TVK6	Q54RP0	Q550R2	Q54NS4	Q54I89	P05987	Q86KR9	Q54WS6	Q54P92	Q8T674	Q54SC9	P14325	Q551A1	Q86IZ9	P22887	Q7Z2B8	Q554C9	Q54RR5	Q559W3	Q54B14	Q54UX3	Q556R9	Q55FK4	Q55FN7	Q86HF4	P54679	Q9GPM4	Q54VI3	Q54XK9	Q54LA1	Q7KWM5	Q54QK7	Q8T293	Q553B6	P34099	Q54JM9	Q55DQ0	Q54MJ7	Q8T1C6	Q54QI7	Q54MA9	Q55F68	Q55DT8	Q86J12	P32253	Q6TU48	Q54MQ7	Q7M438	Q55CX3	Q86AD7	B0G117	Q86B00	Q86CR9	Q86B14	O96099	Q867T7	Q55BH9	Q9NA13	Q54CW7	Q55ER0	Q54HG7	Q54RA2	Q8T2T7	Q86H65	Q55EU7	Q55C16	C7FZW5	Q9NH02	P19198	Q86IX2	Q54VQ5	Q9NCL7	P54654	Q54LT0	Q55G11	Q1ZXF7	Q86AG8	Q551H4	Q55CJ3	Q54SD5	B0G159	Q54PM7	Q54ZY3	Q9U9R7	Q86JE5	Q54NN1	Q54KN7	P34036	Q55AI5	Q55F83	Q55F21	Q54MC0	Q9NKW1	Q55EJ3	C7G026	Q86IG3	Q55AW0	Q54J26	Q54VJ9	Q55FJ5	Q8T1E3	Q95UQ1	Q54QQ0	P13021	P18160	Q54JW5	Q55GH4	Q76P29	Q54PI5	P20425	Q550W6	Q55GM6	Q55D90	Q54VS7	P90522	Q869Y7	Q558U1	Q9GPS6	Q54Z27	Q55GN6	Q54QS0	Q55D12	Q54QW5	Q55C80	Q86K86	P54675	Q55D54	Q54WR1	Q86KU2	Q869R8	Q555Q9	Q55FS0	Q54DF9	Q54Q04	Q54JP5	P02599	Q9UAG7	Q551X6	Q55FZ9	Q54NQ9	Q75JN3	Q54NX0	Q86L14	Q55E85	Q54XX3	Q559G8	Q86AD9	Q75JD5	Q55FI3	Q55EU6	Q54KD8	Q95NZ8	O15736	Q54W16	Q86I22	Q554P0	Q54SF9	Q1ZXF2	Q55CT1	Q552E2	Q54EJ5	Q54YD9	Q54F07	Q86H36	Q554U9	Q55CT0	Q9XZJ3	Q556L1	Q556N5	Q1ZXP8	Q54I98	Q54MD1	Q55B10	Q54BM7	Q55GU3	Q95ZG8	Q86HS9	Q55H50	Q557B6	Q54Z56	Q54C74	Q54FI3	Q55FQ0	Q54E04	Q54HH2	Q86KU6	Q54PW5	P18160	Q55GE2	Q54QI4	Q55FL1	Q55ED0	Q54J75	Q55F34	O15698	Q8I7W9	Q86AS5	Q54Z60	Q54DK1	Q54YZ0	Q54TC2	Q55FW8	Q54C55	Q55DA6	Q869E1	Q968Z6	Q54QG6	Q7YSW8	Q54CD1	Q557H5	P09556	Q54NC1	B0G106	Q54QG0	Q54DM9	O15746	Q8MM62	Q55GW2	Q54S93	Q54GS8	Q54I82	Q54ST2	Q54NW9	Q55GU8	Q55DY8	Q55F69	Q54TY4	Q94502	Q54RE8	Q55E60	Q54LW0	Q555M1	Q555L5	Q55CV0	Q54EW2	P26200	Q1ZXP7	Q76P15	Q54ND5	Q54V75	P34135	Q76P23	Q54CT8	Q54UM1	Q54UF3	Q54MJ9	Q54JD9	Q54RF5	P36413	Q54N49	Q55GS6	Q55G28	Q54SF6	Q86AV9	Q86K43	B0G148	Q54Y03	Q54C45	Q54JC8	Q1ZXQ1	Q54TR7	P34109	Q55DB4	Q54HI0	Q3ZE13	Q55FL5	Q556J0	Q54C02	Q54PG8	Q54Z26	Q75JK0	Q55E34	Q54BW5	Q54X95	Q55E44	Q54UF7	Q86IL5	Q55BZ4	Q553S7	Q55GJ2	Q86AG7	Q54VL9	Q54KM7	Q54R90	Q54XP3	C7G071	Q54QI8	Q54UJ6	Q5R1U3	Q54PA0	Q54KL0	Q54WA3	Q54GJ2	B0G107	Q556J2	Q86JJ5	Q54IA8	Q8WSV6	Q86KF9	Q54UT2	P34112	P18161	Q55C82	Q1ZXF1	Q54VC7	Q55EK3	P54632	Q55AS5	Q86L07	Q86HL5	Q54Q40	Q54G07	Q54YT4	Q54WV0	Q54YS6	Q54J50	O76740	Q557J6	Q55GK0	Q86A67	Q55FF3	Q86I82	Q54BD4	Q54XF2	Q54ER6	Q54UI6	Q54P79	Q55ER8	Q869S7	Q76NT9	Q55AW9	Q54DD0	Q54QM5	Q86KK2	Q54R47	Q86A68	Q54KQ7	Q54SM3	O15751	P46800	Q54KR7	Q75JV7	Q54UP5	Q86HE5	Q55DH6	P51173	Q54KM0	Q559K0	Q54LL8	Q54EW8	Q54PV8	Q54NW6	Q54GN2	P08799	Q8I0F4	Q552W5	Q54QX5	Q55FD5	Q55E26	Q55FN1	Q551H3	Q1ZXI0	Q55FL3	Q54Z01	Q8MXY0	Q54XS0	Q54S52	Q54QN2	Q558Z9	Q54KF3	Q54PZ2	Q55ED4	Q54VG0	Q54ML1	Q9U720	Q54YE7	Q55FT1	Q54JW9	Q54ZR7	Q54YQ9	Q54NP8	O96548	P20425	Q86KG4	Q8T2J9	Q54PC2	Q55DH8	Q23892	O97470	Q55FJ2	Q54LN4	Q54JB3	P83401	Q54N41	Q1ZXJ4	Q94469	Q552S0	Q55FN5	Q54X04	Q5TJ65	Q54BF6	Q75JX0	Q869T9	Q55CY3	Q55E99	P16051	P54651	Q54LT2	Q86H43	Q54SS0	Q54H53	Q54EQ0	Q86AZ6	Q55CC2	Q8T2K9	Q553X7	Q9BPU3	Q00766	Q54VQ7	Q54DM0	Q54M18	Q54R62	Q86AD6	Q54JH6	Q54XF6	Q54BH7	Q1ZXM2	Q54FU9	Q86A01	Q95YH0	Q869V1	Q55DA3	P54671	Q54MR1	P28178	Q1ZXJ3	Q551H0	Q1ZXG5	Q54VB3	Q54VA8	Q552Y2	Q55C99	P13466	Q54DH8	Q5FXM5	Q54UC0	Q1ZXQ7	P54673	Q557H7	Q54U72	Q54N47	Q6RYT0	Q54YW1	Q86B06	Q54RV9	Q55FI1	Q54QM0	Q54MG8	P02887	Q54FB7	Q94497	Q55G81	Q869W7	Q54YD4	Q54QB1	Q54LQ6	Q54VE0	P27133	Q551A3	Q55EI0	Q54H38	Q55GQ6	Q55DB6	Q55E98	P36408	Q9U8P7	C7G023	Q75JN8	Q55CQ6	P52285	Q1ZXH9	Q54Y09	P20054	Q54I86	Q55GB1	Q54EW1	Q86AX3	Q86B09	P13231	Q55CD9	Q95ZG3	Q54RB9	B0G126	Q54N08	Q54HT1	Q55CL6	P10901	Q54J42	Q54MZ3	Q55F11	B0G189	Q54IL5	Q54E83	Q86A24	Q54KX5	Q54NU9	Q86I79	Q54UQ4	P10819	Q6S002	Q55FW3	Q964D8	Q86IZ4	Q54XS1	Q54YM3	Q54NM9	Q55D68	Q54PH5	Q55EL2	Q54N83	Q869S5	Q54T06	Q54J08	Q86KI1	Q55BV5	Q54KG7	Q54DU8	Q55EL3	Q54EY1	Q54FR0	Q55GQ5	Q55F42	Q54KM6	Q55BI2	Q75JF3	Q54E22	Q54G21	Q55DL0	Q54NJ8	Q55G43	Q54DY1	Q54CY5	Q27564	Q54EN1	P54638	Q95ZG4	Q8T137	Q1ZXC6	Q55GV3	P36416	Q552D9	Q557J5	Q76NZ7	Q54K96	Q55EP5	Q54D80	Q86H28	Q54EF1	O77033	Q55A00	Q54WH6	O44007	Q55DR6	Q557H1	Q1ZXH0	Q55DM5	Q54GP3	Q54W88	Q558W0	Q94465	Q54BD5	Q55DP8	Q6XHA5	P25870	Q54QJ9	Q54KV4	Q75JX1	Q8T191	Q54LP3	Q54WI4	Q54J47	B0G190	Q554Z5	Q54DT8	Q9U1M8	Q54Q80	Q54ZD0	Q55DJ5	Q54QF9	Q7KWX2	Q54GN5	Q54YX3	B0G0Y4	Q55E32	Q54GT6	Q54CS9	P34125	Q86A05	P21900	Q54TA0	Q55FE0	Q54HG4	Q54HS3	Q54W52	Q869Z3	Q54PP1	Q556W1	Q553K4	Q54S02	Q54I10	Q54QC1	Q55GU9	Q8MP20	Q9XPJ9	Q54TY7	Q8N0B5	Q54MB8	Q55EY8	Q8MQU6	Q54IJ0	Q54KB7	Q54PM8	Q54XM6	Q54FJ9	Q54F84	Q86HG0	Q9BMX0	Q1ZXC9	Q557J8	Q55C77	Q8TA03	Q54CX6	Q556K3	Q54QZ5	B0G0Y8	Q556K9	Q54CJ3	Q75JR3	P90529	Q54XZ0	Q55GI5	Q55BP5	P34145	Q966U0	P32073	P15808	Q54NY7	P07670	Q55GH9	Q54UP4	Q54DK0	Q55FU2	Q55FV8	Q54I18	Q54W19	Q54NG9	B0G0Z0	Q55E06	Q55G10	P0CD61	Q554E2	O21035	Q54X73	Q552E3	Q54I60	Q551C2	Q54DG1	Q558K8	Q55F37	Q54BM2	Q54P77	Q556G4	Q54K11	Q55AQ8	P46794	Q54QG9	Q54PK9	C7FZZ8	Q55AX2	P54703	Q54VL5	P54678	Q76P10	Q54UQ2	Q55C62	Q55D17	Q55BU2	Q1ZXQ8	Q54R42	Q558Z2	Q54K95	Q86I81	Q55DZ2	Q54R82	Q86JM7	Q54P93	Q54GJ7	O96759	Q75JK9	Q55CQ7	Q54Y51	Q54CP1	Q86A85	Q1ZXE9	Q54WW9	Q54DX7	Q55D85	Q55DV9	Q54B67	Q55FM6	Q869Q9	Q54IA4	Q55DD5	Q54I80	Q55GK8	Q54MH2	Q86AH1	Q86HX0	Q54I63	Q54VQ6	Q869N7	Q553U5	Q54UH8	Q54GH4	Q7KWM9	O15819	Q54VA2	Q54NU0	Q54XR2	Q03101	P13773	Q54DP1	Q54S53	Q55C17	Q557D2	Q54C64	Q553V2	Q54TN3	Q01501	Q55E72	Q54RR8	P54644	Q8MUF9	Q54SN4	Q54WV4	P0CT31	Q8MN58	Q55FW5	Q55GC7	Q55GG6	Q557E7	Q54XD0	Q54F73	Q86AW9	Q54QN0	Q55E68	Q8I7P3	Q54NM6	Q54FD6	Q54XK2	Q55BL4	Q555I0	Q54U59	Q54DA4	Q9XY92	Q55CS9	Q55DB0	Q55CH0	Q54S87	Q86A17	Q54TI6	Q54DR1	Q54XS2	Q54CN7	P36411	Q54VN2	Q55CD6	Q54KN3	Q54YL2	Q54E41	Q5V9E9	Q55DQ5	Q54LN9	Q54ST4	Q55DQ4	Q86HQ3	Q54YN2	Q54GA9	Q86J02	Q54VE8	Q556V9	Q54DN6	Q54PF9	Q54JL3	Q54WW4	Q54NE6	Q75JR4	Q55GG1	Q55EE0	Q54HH8	Q54T81	Q55FS1	Q55EK2	Q54J20	Q02158	Q55GC2	Q54L85	Q54U71	Q8T2T5	Q55CP6	Q54BF0	Q54Z02	Q9GRX6	Q55DZ8	Q54WU6	Q558Z0	Q75JG8	Q54IW7	Q86HF5	C7G082	Q54GU0	Q553E0	P09402	Q54H71	Q54W86	Q54Y76	Q55GJ6	Q55FI4	Q55G38	Q86I14	Q553Y7	Q54VV8	Q54MB5	Q552X2
+GO:0003676	"nucleic acid binding"	Q554P0	Q54CS9	Q86HF5	O77033	Q86AD6	Q3ZE13	Q55CP6	Q55GU9	Q54PH5	Q54H53	Q1ZXH0	Q557B6	Q54F84	Q55F37	Q54BM2	Q54HH8	Q54TY7	Q9BMX0	Q54GS8	Q55FE0	Q8T295	Q54TA0	O21035	Q54J26	Q558W0	Q1ZXP7	Q55FJ5	Q55D17	Q55FQ0	Q95NZ8	Q55FI4	Q55GK0	Q554U9	Q55GG6	Q55EX7	Q55E68	Q55FW8	Q54X73	Q55GL2	Q54FD6	Q54J50	P54671	Q54MA9	Q54XX3
+GO:0003677	"DNA binding"	Q554P0	Q54CS9	O77033	Q86AD6	Q55GU9	Q1ZXH0	Q55F37	Q54TY7	Q54GS8	Q55FW8	Q558W0	Q1ZXP7	Q55FJ5	Q95NZ8	Q55GK0	Q55GG6	Q54FD6	P54671	Q54MA9
+GO:0003678	"DNA helicase activity"	Q54I89	Q55G81	Q86B14	B0G0Y4
+GO:0003682	"chromatin binding"	O77033	P54671	Q55ED4
+GO:0003684	"damaged DNA binding"	Q1ZXP7	Q55GG6	Q558W0
+GO:0003688	"DNA replication origin binding"	Q86AD6
+GO:0003689	"DNA clamp loader activity"	Q54ST4
+GO:0003690	"double-stranded DNA binding"	Q1ZXH0	Q554P0	Q54CS9	Q1ZXP7	Q86AD6	Q55F37	Q54FD6	Q95NZ8	Q54TY7	Q54GS8	Q55GU9
+GO:0003691	"double-stranded telomeric DNA binding"	Q54CS9
+GO:0003697	"single-stranded DNA binding"	Q55FJ5
+GO:0003700	"transcription factor activity, sequence-specific DNA binding"	Q55GC2	Q54WV0
+GO:0003712	"transcription cofactor activity"	Q55DQ5
+GO:0003720	"telomerase activity"	Q54T81
+GO:0003723	"RNA binding"	Q86HF5	Q3ZE13	Q55CP6	Q54PH5	Q54H53	Q557B6	Q54F84	Q54HH8	Q54BM2	Q54TA0	Q9BMX0	Q55FE0	Q8T295	O21035	Q54J26	Q54J50	Q55D17	Q55FQ0	Q55FI4	Q554U9	Q55EX7	Q55E68	Q54X73	Q55GL2	Q54XX3
+GO:0003724	"RNA helicase activity"	P90529	O15698
+GO:0003727	"single-stranded RNA binding"	Q54BM2	Q55CP6	Q86HF5
+GO:0003729	"mRNA binding"	Q54X73	Q554U9	Q9BMX0	O21035	Q55E68
+GO:0003730	"mRNA 3'-UTR binding"	Q55E68
+GO:0003743	"translation initiation factor activity"	Q55FE0
+GO:0003747	"translation release factor activity"	Q9BMX0
+GO:0003755	"peptidyl-prolyl cis-trans isomerase activity"	Q55G43
+GO:0003756	"protein disulfide isomerase activity"	Q869Q9
+GO:0003774	"motor activity"	Q9BPU3	Q9U1M8	P34036	Q6S002
+GO:0003777	"microtubule motor activity"	Q6S002	P34036	Q9BPU3
+GO:0003779	"actin binding"	P26200	P13466	P13021
+GO:0003785	"actin monomer binding"	P26200
+GO:0003796	"lysozyme activity"	Q86HE5
+GO:0003824	"catalytic activity"	Q54X04	Q54I98	Q54I10	Q54BM7	Q55B10	Q54DD3	Q54QC1	Q86GL4	Q86HS9	Q55GU9	Q8MP20	Q75JX0	Q54N73	Q869T9	Q54Z56	Q54K91	Q55EY8	Q8MQU6	Q55CY3	Q54FI3	Q54IJ0	Q55E99	Q54KB7	P54651	Q54LT2	Q55GU1	Q54PM8	Q54HH2	Q869Z4	Q54YF2	Q86KU6	Q86H43	Q54PW5	Q54XC1	Q54SS0	Q54XM6	Q54FJ9	Q55D51	Q86HG0	Q54EY7	Q8SSN5	Q1ZXC9	Q557J8	P18160	Q55C77	Q6TMJ1	Q8TA03	Q54QI4	Q54CX6	Q55CC2	Q8T2K9	Q553X7	Q556K3	Q54QZ5	B0G0Y8	Q00766	Q54CJ3	Q55F34	Q54M18	Q75JR3	Q54R62	O15698	Q8I7W9	Q54IH4	P90529	Q54JH6	Q86AS5	Q54XZ0	Q55GI5	Q54XF6	Q54BH7	Q1ZXM2	Q55BP5	P54677	Q54PV1	Q54YZ0	Q86A01	Q54TC2	Q55FW8	Q966U0	Q54IF7	P32073	Q54DK1	Q55DA6	P15808	Q54J34	Q95YH0	Q869E1	Q54NY7	P07670	Q54FK1	Q54QG6	Q54X49	Q7YSW8	Q54UU8	Q557H5	Q55GR8	Q55C57	P09556	Q54NC1	Q55DA3	Q54UP4	B0G106	Q54QG0	Q54DM9	O15746	Q8MM62	Q55GW2	Q54NG9	Q54MR1	P28178	Q1ZXJ3	Q55E06	Q55G10	P0CD61	Q54WR8	Q554E2	Q551H0	Q1ZXG5	Q54VB3	Q54LU8	Q54I82	Q54ST2	Q54NW9	Q54VA8	Q552Y2	O15749	Q86JJ0	Q55GU8	Q55C99	Q55F69	Q55AQ3	Q55C91	P42521	Q54TY4	Q94502	Q552E3	P52922	Q54RE8	Q55E60	Q8I7C6	Q54I60	Q54UC0	Q551C2	P54673	Q555L5	Q54DG1	Q558K8	Q54WD6	Q54VM2	Q557H7	Q55CV0	Q54EW2	Q55E39	Q54U72	Q556I2	Q1ZXP7	Q54N47	Q54P77	Q556G4	Q54DA9	Q55AQ8	P46794	Q54ND5	Q54V75	P34135	Q6RYT0	Q54QG9	Q54PK9	Q54RP0	Q86B06	Q54RV9	Q55FI1	C7FZZ8	Q54MG8	Q54NS4	Q54FB7	Q54I89	Q86KR9	Q94497	Q55G81	Q54WS6	Q54P92	Q54CT8	Q55AX2	Q54UF3	Q54SC9	P14325	Q54JD9	Q551A1	Q54YD4	Q54VL5	Q54RF5	P22887	P36413	Q76P10	Q54QB1	Q54N49	Q55GS6	Q54UQ2	Q54LQ6	Q55G28	Q54SF6	Q554C9	Q55BU2	Q1ZXQ8	Q86AV9	Q54RR5	Q54B14	Q54R42	Q86K43	B0G148	Q54UX3	Q556R9	Q54Y03	Q54C45	Q54JC8	Q1ZXQ1	Q54K95	Q55FK4	Q55FN7	Q55DB4	Q54HI0	Q3ZE13	Q86HF4	Q54R82	Q55EI0	Q9GPM4	Q54H38	Q54VI3	Q54P93	Q55FL5	Q54GJ7	Q55GQ6	Q54XK9	Q7KWM5	Q54QK7	O96759	Q75JK9	Q553B6	Q54Y51	Q86A85	Q556J0	Q54C02	Q54PG8	Q54Z26	P34099	Q75JK0	Q54JM9	C7G023	Q55DQ0	Q54MJ7	Q75JN8	Q54WW9	Q55CQ6	Q54QI7	Q55D85	Q8T1C6	Q54DX7	Q55E34	Q1ZXH9	Q54Y09	Q55F68	P20054	Q55DT8	Q55DV9	Q86AX3	Q54BW5	Q86B09	Q54X95	Q55CD9	Q55FM6	Q86J12	Q869Q9	Q55E44	B0G126	Q6TU48	Q54UF7	Q54IA4	Q54MQ7	Q55BZ4	Q7M438	Q55DD5	Q54N08	Q54HT1	Q553S7	Q54I80	Q86AD7	Q55GK8	Q55CL6	B0G117	Q86AG7	Q55GJ2	P10901	Q54J42	Q86B00	Q86HX0	Q86AH1	Q54I63	Q86CR9	Q54VL9	Q54VQ6	Q54KM7	Q54R90	Q86B14	Q869N7	Q54XP3	Q55F11	C7G071	Q553U5	O96099	Q54IL5	Q54UH8	Q55BH9	Q54CW7	Q54GH4	Q7KWM9	Q54E83	Q86A24	Q54KX5	Q54VA2	Q55ER0	Q54NU0	Q54NU9	Q54HG7	Q54PA0	Q54KL0	Q86I79	Q54RA2	Q8T2T7	Q54UQ4	Q54GJ2	Q55EU7	B0G107	Q55C16	P10819	C7FZW5	Q9NH02	Q556J2	Q86JJ5	Q54XR2	Q03101	Q54IA8	Q86IX2	Q8WSV6	Q964D8	Q86KF9	Q54UT2	Q54VQ5	Q54XS1	Q54YM3	Q54NM9	Q54DP1	Q55G11	Q55D68	Q54S53	Q55C17	Q557D2	Q54C64	Q1ZXF7	Q86AG8	Q553V2	Q55EL2	Q54TN3	Q54N83	Q55E72	Q869S5	Q54SD5	Q8MUF9	Q54SN4	Q54PM7	Q55C82	Q55GC7	Q55GG6	Q54ZY3	Q54J08	Q1ZXF1	Q55EK3	Q54KG7	Q54XD0	Q54KN7	Q55AS5	Q86HL5	Q55AI5	Q55F83	Q55EL3	Q54Q40	Q55F21	Q54MC0	Q9NKW1	Q55EJ3	C7G026	Q54YT4	Q54EY1	Q54YS6	Q54FR0	Q86IG3	Q55AW0	Q55GQ5	Q55F42	Q54VJ9	Q54KM6	O76740	Q8T1E3	Q55BI2	Q54QQ0	Q86A67	Q86AW9	Q55FF3	P18160	Q8I7P3	Q86I82	Q54NM6	Q55GH4	Q54PI5	P20425	Q54U59	Q54XF2	Q55GM6	Q55DL0	Q54NJ8	Q55G43	Q55D90	Q9XY92	Q54DY1	Q54CY5	Q54ER6	P90522	Q27564	Q869Y7	Q558U1	Q54UI6	Q54P79	Q54EN1	Q55ER8	Q9GPS6	Q869S7	Q55DB0	P54638	Q54Z27	Q76NT9	Q8T137	Q1ZXC6	Q55AW9	Q54DD0	P36416	Q55GN6	Q55D12	Q54S87	Q86A17	Q54QS0	Q552D9	Q557J5	Q54K96	Q54TI6	Q54D80	Q86H28	Q86KK2	Q54R47	Q54DR1	Q86A68	Q54KQ7	Q55C80	Q54XS2	Q55A00	Q54CN7	Q86K86	P54675	O44007	Q55DR6	Q557H1	Q55D54	O15751	P36411	Q54WR1	Q54VN2	Q86KU2	Q54GP3	Q869R8	Q54KR7	Q54W88	Q75JV7	Q558W0	Q54KN3	Q54YL2	Q555Q9	Q55FS0	Q54E41	Q86HE5	Q54DF9	Q5V9E9	Q54Q04	Q54LN9	Q54ST4	Q55DQ4	Q54YN2	Q54JP5	Q54GA9	Q55DH6	Q94465	P51173	Q54VE8	Q54KM0	Q556V9	Q54LL8	Q54DN6	Q54PF9	Q54JL3	Q54EW8	Q54BD5	Q54PV8	Q54NE6	Q54WW4	Q9UAG7	Q55DP8	Q54NW6	Q55FZ9	Q54GN2	Q55EE0	Q6XHA5	Q54QJ9	Q54T81	Q54KV4	Q552W5	Q75JX1	Q55FS1	Q8T191	Q54QX5	Q54LP3	Q55EK2	Q55FD5	Q54NX0	Q54WI4	Q86L14	Q55FN1	Q54J47	Q551H3	Q554Z5	Q1ZXI0	Q54DT8	Q55FL3	Q02158	Q54L85	Q54U71	Q559G8	Q8T2T5	Q55CP6	Q86AD9	Q54ZD0	Q75JD5	Q7KWX2	Q54KF3	Q54GN5	Q55FI3	Q54BF0	Q54VG0	Q54ML1	Q9U720	Q54YE7	Q95NZ8	Q9GRX6	Q55DZ8	Q55FT1	Q54WU6	Q558Z0	O15736	B0G0Y4	Q55E32	Q54GT6	Q54YQ9	Q54W16	Q75JG8	O96548	Q86I22	P20425	Q8T2J9	P34125	Q54SF9	Q86A05	Q1ZXF2	Q55CT1	Q54H71	P21900	Q54PC2	Q55DH8	Q23892	Q54HS3	Q54W86	Q869Z3	Q54PP1	Q54EJ5	Q54YD9	Q55GJ6	Q54F07	Q54LN4	Q556W1	Q86H36	Q55CT0	Q54JB3	P83401	Q553Y7	Q54N41	Q54MB5	Q1ZXP8	Q54S02	Q94469	Q55FN5
+GO:0003825	"alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity"	Q54NU9
+GO:0003827	"alpha-1,3-mannosylglycoprotein 2-beta-N-acetylglucosaminyltransferase activity"	Q55EK3
+GO:0003830	"beta-1,4-mannosylglycoprotein 4-beta-N-acetylglucosaminyltransferase activity"	Q75JV7
+GO:0003837	"beta-ureidopropionase activity"	Q964D8
+GO:0003838	"sterol 24-C-methyltransferase activity"	Q54I98
+GO:0003842	"1-pyrroline-5-carboxylate dehydrogenase activity"	Q54RA2
+GO:0003844	"1,4-alpha-glucan branching enzyme activity"	Q555Q9
+GO:0003848	"2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity"	Q54YD9
+GO:0003853	"2-methylacyl-CoA dehydrogenase activity"	Q54RR5
+GO:0003857	"3-hydroxyacyl-CoA dehydrogenase activity"	Q9NKW1
+GO:0003860	"3-hydroxyisobutyryl-CoA hydrolase activity"	Q55GS6
+GO:0003863	"3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring) activity"	Q55FN7
+GO:0003867	"4-aminobutyrate transaminase activity"	Q55FI1
+GO:0003868	"4-hydroxyphenylpyruvate dioxygenase activity"	Q557J8
+GO:0003870	"5-aminolevulinate synthase activity"	Q54UX3
+GO:0003872	"6-phosphofructokinase activity"	P28178
+GO:0003874	"6-pyruvoyltetrahydropterin synthase activity"	Q1ZXI0
+GO:0003875	"ADP-ribosylarginine hydrolase activity"	Q54H71
+GO:0003876	"AMP deaminase activity"	Q54DD0
+GO:0003880	"protein C-terminal carboxyl O-methyltransferase activity"	Q558K8
+GO:0003882	"CDP-diacylglycerol-serine O-phosphatidyltransferase activity"	Q1ZXJ3
+GO:0003883	"CTP synthase activity"	P20425
+GO:0003884	"D-amino-acid oxidase activity"	Q556W1
+GO:0003886	"DNA (cytosine-5-)-methyltransferase activity"	Q54JH6
+GO:0003887	"DNA-directed DNA polymerase activity"	Q8I7W9
+GO:0003899	"DNA-directed RNA polymerase activity"	Q95NZ8	Q54SN4	Q86JJ5
+GO:0003905	"alkylbase DNA N-glycosylase activity"	Q1ZXP8
+GO:0003906	"DNA-(apurinic or apyrimidinic site) lyase activity"	Q86K43
+GO:0003909	"DNA ligase activity"	Q869E1	Q1ZXG5
+GO:0003910	"DNA ligase (ATP) activity"	Q869E1
+GO:0003911	"DNA ligase (NAD+) activity"	Q1ZXG5
+GO:0003916	"DNA topoisomerase activity"	Q8T2T7	Q55BP5
+GO:0003917	"DNA topoisomerase type I activity"	Q8T2T7
+GO:0003918	"DNA topoisomerase type II (ATP-hydrolyzing) activity"	Q55BP5
+GO:0003921	"GMP synthase activity"	P32073
+GO:0003922	"GMP synthase (glutamine-hydrolyzing) activity"	P32073
+GO:0003924	"GTPase activity"	P36411
+GO:0003925	"obsolete small monomeric GTPase activity"	P36411
+GO:0003933	"GTP cyclohydrolase activity"	Q94465
+GO:0003934	"GTP cyclohydrolase I activity"	Q94465
+GO:0003937	"IMP cyclohydrolase activity"	Q86L14
+GO:0003938	"IMP dehydrogenase activity"	Q54QQ0
+GO:0003941	"L-serine ammonia-lyase activity"	Q86B06
+GO:0003942	"N-acetyl-gamma-glutamyl-phosphate reductase activity"	Q54M18
+GO:0003950	"NAD+ ADP-ribosyltransferase activity"	Q55GU8
+GO:0003952	"NAD+ synthase (glutamine-hydrolyzing) activity"	Q54ML1
+GO:0003953	"NAD+ nucleosidase activity"	Q54HT1
+GO:0003954	"NADH dehydrogenase activity"	Q55CD9
+GO:0003955	"NAD(P)H dehydrogenase (quinone) activity"	Q55CD9
+GO:0003958	"NADPH-hemoprotein reductase activity"	Q55CT1
+GO:0003959	"NADPH dehydrogenase activity"	Q55AQ8
+GO:0003960	"NADPH:quinone reductase activity"	Q869N7
+GO:0003963	"RNA-3'-phosphate cyclase activity"	O15746
+GO:0003964	"RNA-directed DNA polymerase activity"	Q54T81
+GO:0003968	"RNA-directed RNA polymerase activity"	Q54UI6
+GO:0003972	"RNA ligase (ATP) activity"	Q54Y09
+GO:0003973	"(S)-2-hydroxy-acid oxidase activity"	Q54E41
+GO:0003974	"UDP-N-acetylglucosamine 4-epimerase activity"	Q553X7
+GO:0003975	"UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase activity"	P0CD61
+GO:0003977	"UDP-N-acetylglucosamine diphosphorylase activity"	Q54GN5
+GO:0003978	"UDP-glucose 4-epimerase activity"	Q553X7
+GO:0003980	"UDP-glucose:glycoprotein glucosyltransferase activity"	Q8T191
+GO:0003983	"UTP:glucose-1-phosphate uridylyltransferase activity"	Q54YZ0
+GO:0003984	"acetolactate synthase activity"	B0G117
+GO:0003985	"acetyl-CoA C-acetyltransferase activity"	Q86AD9
+GO:0003986	"acetyl-CoA hydrolase activity"	Q54K91
+GO:0003987	"acetate-CoA ligase activity"	Q554Z5
+GO:0003988	"acetyl-CoA C-acyltransferase activity"	Q86AD9
+GO:0003989	"acetyl-CoA carboxylase activity"	Q54J08
+GO:0003991	"acetylglutamate kinase activity"	Q54M18
+GO:0003992	"N2-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase activity"	Q55DT8
+GO:0003993	"acid phosphatase activity"	Q55GW2
+GO:0003994	"aconitate hydratase activity"	Q54XS2
+GO:0003995	"acyl-CoA dehydrogenase activity"	Q54R47	Q54W88	Q54RR5
+GO:0003999	"adenine phosphoribosyltransferase activity"	Q55C82
+GO:0004000	"adenosine deaminase activity"	Q54XP3	Q553U5
+GO:0004001	"adenosine kinase activity"	Q54MB5
+GO:0004013	"adenosylhomocysteinase activity"	P10819
+GO:0004014	"adenosylmethionine decarboxylase activity"	Q8T1E3
+GO:0004016	"adenylate cyclase activity"	Q55F68
+GO:0004017	"adenylate kinase activity"	Q54Y03
+GO:0004018	"N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity"	Q54J34
+GO:0004019	"adenylosuccinate synthase activity"	P21900
+GO:0004021	"L-alanine:2-oxoglutarate aminotransferase activity"	Q54MJ7
+GO:0004022	"alcohol dehydrogenase (NAD) activity"	Q54TC2
+GO:0004024	"alcohol dehydrogenase activity, zinc-dependent"	Q54TC2
+GO:0004030	"aldehyde dehydrogenase [NAD(P)+] activity"	Q54DG1
+GO:0004032	"alditol:NADP+ 1-oxidoreductase activity"	Q55FL3
+GO:0004033	"aldo-keto reductase (NADP) activity"	Q55FL3
+GO:0004037	"allantoicase activity"	Q54VL5
+GO:0004038	"allantoinase activity"	Q55C91
+GO:0004042	"acetyl-CoA:L-glutamate N-acetyltransferase activity"	Q54DY1
+GO:0004044	"amidophosphoribosyltransferase activity"	Q86A85
+GO:0004045	"aminoacyl-tRNA hydrolase activity"	Q54ZD0
+GO:0004046	"aminoacylase activity"	Q55DP8
+GO:0004047	"aminomethyltransferase activity"	Q54DD3
+GO:0004057	"arginyltransferase activity"	Q55EI0
+GO:0004060	"arylamine N-acetyltransferase activity"	Q8SSN5
+GO:0004066	"asparagine synthase (glutamine-hydrolyzing) activity"	Q86A01
+GO:0004067	"asparaginase activity"	Q86I82
+GO:0004069	"L-aspartate:2-oxoglutarate aminotransferase activity"	Q55F21
+GO:0004070	"aspartate carbamoyltransferase activity"	P20054
+GO:0004075	"biotin carboxylase activity"	Q54J08
+GO:0004082	"bisphosphoglycerate mutase activity"	Q54NE6
+GO:0004084	"branched-chain-amino-acid transaminase activity"	Q54N47
+GO:0004088	"carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity"	P20054
+GO:0004089	"carbonate dehydratase activity"	Q55BU2
+GO:0004096	"catalase activity"	Q55DH8
+GO:0004103	"choline kinase activity"	Q869T9
+GO:0004108	"citrate (Si)-synthase activity"	Q8MQU6
+GO:0004109	"coproporphyrinogen oxidase activity"	Q54VE8
+GO:0004112	"cyclic-nucleotide phosphodiesterase activity"	Q8MM62	B0G0Y8
+GO:0004114	"3',5'-cyclic-nucleotide phosphodiesterase activity"	Q8MM62	B0G0Y8
+GO:0004115	"3',5'-cyclic-AMP phosphodiesterase activity"	Q8MM62
+GO:0004122	"cystathionine beta-synthase activity"	P46794
+GO:0004123	"cystathionine gamma-lyase activity"	Q55DV9
+GO:0004124	"cysteine synthase activity"	Q54CN7
+GO:0004126	"cytidine deaminase activity"	Q54I82
+GO:0004127	"cytidylate kinase activity"	P20425
+GO:0004128	"cytochrome-b5 reductase activity, acting on NAD(P)H"	Q54NC1
+GO:0004136	"deoxyadenosine kinase activity"	Q54YL2
+GO:0004138	"deoxyguanosine kinase activity"	Q54UT2
+GO:0004143	"diacylglycerol kinase activity"	P34125
+GO:0004144	"diacylglycerol O-acyltransferase activity"	Q55BH9
+GO:0004148	"dihydrolipoyl dehydrogenase activity"	Q54EW8
+GO:0004149	"dihydrolipoyllysine-residue succinyltransferase activity"	Q869Y7
+GO:0004150	"dihydroneopterin aldolase activity"	Q54YD9
+GO:0004151	"dihydroorotase activity"	P20054
+GO:0004152	"dihydroorotate dehydrogenase activity"	P07670
+GO:0004155	"6,7-dihydropteridine reductase activity"	Q86A17
+GO:0004156	"dihydropteroate synthase activity"	Q54YD9
+GO:0004157	"dihydropyrimidinase activity"	Q55DL0
+GO:0004161	"dimethylallyltranstransferase activity"	Q55EU7
+GO:0004163	"diphosphomevalonate decarboxylase activity"	Q54YQ9
+GO:0004164	"diphthine synthase activity"	Q75JG8
+GO:0004169	"dolichyl-phosphate-mannose-protein mannosyltransferase activity"	Q54LP3
+GO:0004170	"dUTP diphosphatase activity"	Q54BW5
+GO:0004174	"electron-transferring-flavoprotein dehydrogenase activity"	Q54XM6
+GO:0004175	"endopeptidase activity"	Q8MUF9	Q55GJ6
+GO:0004177	"aminopeptidase activity"	P52922	Q55E60
+GO:0004180	"carboxypeptidase activity"	Q86I79
+GO:0004185	"serine-type carboxypeptidase activity"	Q86I79
+GO:0004197	"cysteine-type endopeptidase activity"	Q8MUF9
+GO:0004198	"calcium-dependent cysteine-type endopeptidase activity"	Q8MUF9
+GO:0004298	"threonine-type endopeptidase activity"	Q55GJ6
+GO:0004300	"enoyl-CoA hydratase activity"	Q1ZXF1
+GO:0004301	"epoxide hydrolase activity"	P52922
+GO:0004303	"estradiol 17-beta-dehydrogenase activity"	Q54XZ0
+GO:0004305	"ethanolamine kinase activity"	Q869T9
+GO:0004306	"ethanolamine-phosphate cytidylyltransferase activity"	Q55BZ4
+GO:0004310	"farnesyl-diphosphate farnesyltransferase activity"	Q54DR1
+GO:0004311	"farnesyltranstransferase activity"	Q54JB3	Q54DR1
+GO:0004312	"fatty acid synthase activity"	Q55E72	C7FZW5
+GO:0004315	"3-oxoacyl-[acyl-carrier-protein] synthase activity"	Q55E72
+GO:0004322	"ferroxidase activity"	Q54C45
+GO:0004325	"ferrochelatase activity"	Q54IA8
+GO:0004326	"tetrahydrofolylpolyglutamate synthase activity"	Q54CY5
+GO:0004332	"fructose-bisphosphate aldolase activity"	Q86A67
+GO:0004333	"fumarate hydratase activity"	Q54VA2
+GO:0004334	"fumarylacetoacetase activity"	Q1ZXQ1
+GO:0004335	"galactokinase activity"	Q54DN6
+GO:0004337	"geranyltranstransferase activity"	Q55EU7
+GO:0004342	"glucosamine-6-phosphate deaminase activity"	Q54XK9
+GO:0004343	"glucosamine 6-phosphate N-acetyltransferase activity"	Q54WR8
+GO:0004345	"glucose-6-phosphate dehydrogenase activity"	Q557D2
+GO:0004347	"glucose-6-phosphate isomerase activity"	Q5V9E9
+GO:0004351	"glutamate decarboxylase activity"	Q54VQ5
+GO:0004352	"glutamate dehydrogenase (NAD+) activity"	Q54VI3
+GO:0004353	"glutamate dehydrogenase [NAD(P)+] activity"	Q54VI3	Q54KB7
+GO:0004354	"glutamate dehydrogenase (NADP+) activity"	Q54KB7
+GO:0004356	"glutamate-ammonia ligase activity"	Q86B00
+GO:0004357	"glutamate-cysteine ligase activity"	Q54PC2
+GO:0004358	"glutamate N-acetyltransferase activity"	Q54DY1
+GO:0004359	"glutaminase activity"	Q54ML1
+GO:0004361	"glutaryl-CoA dehydrogenase activity"	Q54R47
+GO:0004362	"glutathione-disulfide reductase activity"	Q8T137
+GO:0004363	"glutathione synthase activity"	Q54E83
+GO:0004364	"glutathione transferase activity"	Q55FF3
+GO:0004365	"glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity"	Q94469
+GO:0004368	"glycerol-3-phosphate dehydrogenase activity"	Q54QC1
+GO:0004371	"glycerone kinase activity"	Q55EE0
+GO:0004372	"glycine hydroxymethyltransferase activity"	Q54Z26
+GO:0004373	"glycogen (starch) synthase activity"	Q55GH4
+GO:0004375	"glycine dehydrogenase (decarboxylating) activity"	Q54KM7
+GO:0004376	"glycolipid mannosyltransferase activity"	Q7KWM5	Q54DM9
+GO:0004377	"GDP-Man:Man3GlcNAc2-PP-Dol alpha-1,2-mannosyltransferase activity"	Q54DM9
+GO:0004378	"GDP-Man:Man1GlcNAc2-PP-Dol alpha-1,3-mannosyltransferase activity"	Q7KWM5
+GO:0004379	"glycylpeptide N-tetradecanoyltransferase activity"	Q553B6
+GO:0004381	"fucosylgalactoside 3-alpha-galactosyltransferase activity"	Q54RP0
+GO:0004383	"guanylate cyclase activity"	Q553Y7
+GO:0004385	"guanylate kinase activity"	Q54XF2
+GO:0004386	"helicase activity"	Q54I89	O15698	Q55G81	P90529	Q86B14	Q55CP6	B0G0Y4
+GO:0004395	"hexaprenyldihydroxybenzoate methyltransferase activity"	Q54XD0
+GO:0004397	"histidine ammonia-lyase activity"	Q556V9
+GO:0004402	"histone acetyltransferase activity"	Q86J12
+GO:0004407	"histone deacetylase activity"	Q55FN5	Q55DB0
+GO:0004408	"holocytochrome-c synthase activity"	Q552W5
+GO:0004411	"homogentisate 1,2-dioxygenase activity"	Q54QI4
+GO:0004416	"hydroxyacylglutathione hydrolase activity"	Q54MR1
+GO:0004418	"hydroxymethylbilane synthase activity"	Q54P93
+GO:0004419	"hydroxymethylglutaryl-CoA lyase activity"	Q54QI7
+GO:0004420	"hydroxymethylglutaryl-CoA reductase (NADPH) activity"	P34135
+GO:0004421	"hydroxymethylglutaryl-CoA synthase activity"	Q86HL5
+GO:0004422	"hypoxanthine phosphoribosyltransferase activity"	Q54NJ8
+GO:0004427	"inorganic diphosphatase activity"	Q54PV8
+GO:0004430	"1-phosphatidylinositol 4-kinase activity"	P54677
+GO:0004435	"phosphatidylinositol phospholipase C activity"	Q02158
+GO:0004438	"phosphatidylinositol-3-phosphatase activity"	Q55AW9
+GO:0004439	"phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity"	Q8I7P3
+GO:0004441	"inositol-1,4-bisphosphate 1-phosphatase activity"	Q55F34
+GO:0004446	"inositol-hexakisphosphate phosphatase activity"	Q54ND5
+GO:0004448	"isocitrate dehydrogenase activity"	Q55BI2	Q75JR3
+GO:0004449	"isocitrate dehydrogenase (NAD+) activity"	Q55BI2
+GO:0004450	"isocitrate dehydrogenase (NADP+) activity"	Q75JR3
+GO:0004452	"isopentenyl-diphosphate delta-isomerase activity"	Q9NH02
+GO:0004454	"ketohexokinase activity"	Q54D80
+GO:0004457	"lactate dehydrogenase activity"	Q54UF7
+GO:0004462	"lactoylglutathione lyase activity"	Q54EY7
+GO:0004467	"long-chain fatty acid-CoA ligase activity"	Q55DR6
+GO:0004470	"malic enzyme activity"	Q6TU48
+GO:0004471	"malate dehydrogenase (decarboxylating) (NAD+) activity"	Q6TU48
+GO:0004473	"malate dehydrogenase (decarboxylating) (NADP+) activity"	Q6TU48
+GO:0004474	"malate synthase activity"	Q8T2K9
+GO:0004475	"mannose-1-phosphate guanylyltransferase activity"	Q86HG0
+GO:0004476	"mannose-6-phosphate isomerase activity"	Q54PA0
+GO:0004478	"methionine adenosyltransferase activity"	Q54F07
+GO:0004483	"mRNA (nucleoside-2'-O-)-methyltransferase activity"	Q54WR1
+GO:0004485	"methylcrotonoyl-CoA carboxylase activity"	Q8T2J9
+GO:0004486	"methylenetetrahydrofolate dehydrogenase [NAD(P)+] activity"	Q86KU6
+GO:0004487	"methylenetetrahydrofolate dehydrogenase (NAD+) activity"	Q86KU6
+GO:0004488	"methylenetetrahydrofolate dehydrogenase (NADP+) activity"	Q86KU6
+GO:0004490	"methylglutaconyl-CoA hydratase activity"	Q54HG7
+GO:0004491	"methylmalonate-semialdehyde dehydrogenase (acylating) activity"	Q54I10
+GO:0004493	"methylmalonyl-CoA epimerase activity"	Q553V2
+GO:0004496	"mevalonate kinase activity"	Q86AG7
+GO:0004497	"monooxygenase activity"	Q54RE8	Q55D54	Q54XS1	Q54EN1	Q54VB3	Q556G4	Q54GH4	Q1ZXH9	Q55EK2
+GO:0004502	"kynurenine 3-monooxygenase activity"	Q54RE8
+GO:0004505	"phenylalanine 4-monooxygenase activity"	Q54XS1
+GO:0004510	"tryptophan 5-monooxygenase activity"	Q54XS1
+GO:0004512	"inositol-3-phosphate synthase activity"	Q54N49
+GO:0004514	"nicotinate-nucleotide diphosphorylase (carboxylating) activity"	Q75JX0
+GO:0004515	"nicotinate-nucleotide adenylyltransferase activity"	Q54IH4
+GO:0004516	"nicotinate phosphoribosyltransferase activity"	Q55G10
+GO:0004518	"nuclease activity"	Q8I7W9	Q3ZE13	Q551H0	Q54NU0	Q966U0	Q55FW8	Q55AW0	Q558W0	Q7M438	Q55DD5	Q55FS1	Q55GJ2	Q55GG6	Q86K43	Q54VL9	Q54W16	P51173
+GO:0004519	"endonuclease activity"	Q551H0	Q54NU0	Q7M438	Q86K43	Q54VL9	Q55FS1	Q3ZE13	Q55GJ2	Q55GG6	Q966U0
+GO:0004520	"endodeoxyribonuclease activity"	Q551H0	Q54NU0	Q966U0	Q55GG6
+GO:0004521	"endoribonuclease activity"	Q7M438	Q54VL9	Q55FS1	Q3ZE13	Q55GJ2
+GO:0004525	"ribonuclease III activity"	Q55FS1
+GO:0004526	"ribonuclease P activity"	Q3ZE13
+GO:0004527	"exonuclease activity"	P51173	Q558W0	Q55DD5	Q8I7W9	Q54W16	Q55FW8	Q55AW0
+GO:0004528	"phosphodiesterase I activity"	Q55FW8
+GO:0004529	"exodeoxyribonuclease activity"	Q558W0	P51173
+GO:0004532	"exoribonuclease activity"	Q55DD5	Q55AW0	Q54W16
+GO:0004535	"poly(A)-specific ribonuclease activity"	Q55DD5
+GO:0004536	"deoxyribonuclease activity"	Q551H0	Q54NU0	Q558W0	Q55GG6	Q966U0	P51173
+GO:0004540	"ribonuclease activity"	Q7M438	Q55DD5	Q54VL9	Q55FS1	Q54W16	Q3ZE13	Q55GJ2	Q55AW0
+GO:0004549	"tRNA-specific ribonuclease activity"	Q3ZE13
+GO:0004550	"nucleoside diphosphate kinase activity"	P22887
+GO:0004551	"nucleotide diphosphatase activity"	Q54FR0	Q86KK2
+GO:0004553	"hydrolase activity, hydrolyzing O-glycosyl compounds"	Q54YM3	Q55B10	Q54S53	Q54KX5	O15751	Q55ER0	Q54SC9	Q23892	Q6TMJ1	P10901	Q86HE5	Q54QZ5	Q94502
+GO:0004555	"alpha,alpha-trehalase activity"	Q54QZ5
+GO:0004556	"alpha-amylase activity"	O15751
+GO:0004557	"alpha-galactosidase activity"	Q55B10
+GO:0004559	"alpha-mannosidase activity"	Q55ER0
+GO:0004560	"alpha-L-fucosidase activity"	P10901
+GO:0004563	"beta-N-acetylhexosaminidase activity"	Q54SC9	Q54S53
+GO:0004568	"chitinase activity"	Q54YM3
+GO:0004576	"oligosaccharyl transferase activity"	Q54NM9
+GO:0004578	"chitobiosyldiphosphodolichol beta-mannosyltransferase activity"	P90522
+GO:0004579	"dolichyl-diphosphooligosaccharide-protein glycotransferase activity"	Q54NM9
+GO:0004581	"dolichyl-phosphate beta-glucosyltransferase activity"	Q54J42
+GO:0004582	"dolichyl-phosphate beta-D-mannosyltransferase activity"	Q54LP3
+GO:0004586	"ornithine decarboxylase activity"	Q54UF3
+GO:0004587	"ornithine-oxo-acid transaminase activity"	Q54JP5
+GO:0004588	"orotate phosphoribosyltransferase activity"	P09556
+GO:0004590	"orotidine-5'-phosphate decarboxylase activity"	P09556
+GO:0004591	"oxoglutarate dehydrogenase (succinyl-transferring) activity"	Q54VG0
+GO:0004592	"pantoate-beta-alanine ligase activity"	Q54I80
+GO:0004596	"peptide alpha-N-acetyltransferase activity"	P36416
+GO:0004601	"peroxidase activity"	Q55DH8	Q54GA9
+GO:0004602	"glutathione peroxidase activity"	Q54GA9
+GO:0004605	"phosphatidate cytidylyltransferase activity"	Q55D90
+GO:0004608	"phosphatidylethanolamine N-methyltransferase activity"	Q54SD5
+GO:0004609	"phosphatidylserine decarboxylase activity"	C7FZZ8
+GO:0004611	"phosphoenolpyruvate carboxykinase activity"	Q869Z4	Q75JD5
+GO:0004612	"phosphoenolpyruvate carboxykinase (ATP) activity"	Q75JD5
+GO:0004613	"phosphoenolpyruvate carboxykinase (GTP) activity"	Q869Z4
+GO:0004614	"phosphoglucomutase activity"	Q54UQ2
+GO:0004615	"phosphomannomutase activity"	Q86B09
+GO:0004616	"phosphogluconate dehydrogenase (decarboxylating) activity"	Q8TA03
+GO:0004617	"phosphoglycerate dehydrogenase activity"	Q54UH8
+GO:0004618	"phosphoglycerate kinase activity"	Q9GPM4
+GO:0004620	"phospholipase activity"	Q55FN1	Q02158	Q55GC7	Q86AV9	Q54QX5
+GO:0004621	"glycosylphosphatidylinositol phospholipase D activity"	Q86AV9
+GO:0004623	"phospholipase A2 activity"	Q54QX5
+GO:0004629	"phospholipase C activity"	Q02158
+GO:0004630	"phospholipase D activity"	Q86AV9
+GO:0004633	"phosphopantothenoylcysteine decarboxylase activity"	Q54Y51
+GO:0004634	"phosphopyruvate hydratase activity"	Q55F83
+GO:0004637	"phosphoribosylamine-glycine ligase activity"	Q54GJ2
+GO:0004641	"phosphoribosylformylglycinamidine cyclo-ligase activity"	Q54GJ2
+GO:0004642	"phosphoribosylformylglycinamidine synthase activity"	Q54JC8
+GO:0004643	"phosphoribosylaminoimidazolecarboxamide formyltransferase activity"	Q86L14
+GO:0004644	"phosphoribosylglycinamide formyltransferase activity"	Q54I60
+GO:0004645	"phosphorylase activity"	Q00766
+GO:0004648	"O-phospho-L-serine:2-oxoglutarate aminotransferase activity"	Q55CQ6
+GO:0004655	"porphobilinogen synthase activity"	Q55E06
+GO:0004657	"proline dehydrogenase activity"	Q86H28
+GO:0004658	"propionyl-CoA carboxylase activity"	Q553S7
+GO:0004659	"prenyltransferase activity"	Q54VJ9	Q54JB3	Q54DR1	Q55E99	Q54U71	Q55D51	Q55DA3	Q55DQ4	Q55EU7
+GO:0004660	"protein farnesyltransferase activity"	Q55D51
+GO:0004661	"protein geranylgeranyltransferase activity"	Q55DQ4	Q55DA3
+GO:0004662	"CAAX-protein geranylgeranyltransferase activity"	Q55DA3
+GO:0004663	"Rab geranylgeranyltransferase activity"	Q55DQ4
+GO:0004664	"prephenate dehydratase activity"	Q54XS1
+GO:0004671	"protein C-terminal S-isoprenylcysteine carboxyl O-methyltransferase activity"	Q558K8
+GO:0004672	"protein kinase activity"	Q54YF2	Q54UC0	Q54R82	Q54SF9	Q54N73	Q6XHA5	Q55E44	Q54LU8	Q54BF0	Q54QB1	Q869S5	Q54W86	Q558U1	P18160	Q95YH0	Q86AD7	Q55CL6	Q75JK0	P34099	Q55C57	Q54PK9
+GO:0004673	"protein histidine kinase activity"	Q55E44
+GO:0004674	"protein serine/threonine kinase activity"	Q95YH0	Q54YF2	Q54PK9	Q54UC0	Q86AD7	Q54LU8	Q54BF0	Q54QB1	Q54R82	Q54W86	Q558U1	Q54SF9	P34099
+GO:0004676	"3-phosphoinositide-dependent protein kinase activity"	Q54PK9
+GO:0004677	"DNA-dependent protein kinase activity"	Q54UC0
+GO:0004679	"AMP-activated protein kinase activity"	Q54YF2
+GO:0004683	"calmodulin-dependent protein kinase activity"	Q54W86	Q54SF9
+GO:0004687	"myosin light chain kinase activity"	Q86AD7
+GO:0004690	"cyclic nucleotide-dependent protein kinase activity"	P34099
+GO:0004691	"cAMP-dependent protein kinase activity"	P34099
+GO:0004693	"cyclin-dependent protein serine/threonine kinase activity"	Q95YH0
+GO:0004694	"eukaryotic translation initiation factor 2alpha kinase activity"	Q558U1
+GO:0004707	"MAP kinase activity"	Q54QB1
+GO:0004708	"MAP kinase kinase activity"	Q55CL6
+GO:0004709	"MAP kinase kinase kinase activity"	Q54R82
+GO:0004712	"protein serine/threonine/tyrosine kinase activity"	Q55CL6	Q75JK0
+GO:0004713	"protein tyrosine kinase activity"	Q54N73	Q6XHA5	P18160
+GO:0004714	"transmembrane receptor protein tyrosine kinase activity"	Q54N73
+GO:0004715	"non-membrane spanning protein tyrosine kinase activity"	P18160
+GO:0004719	"protein-L-isoaspartate (D-aspartate) O-methyltransferase activity"	Q9GPS6
+GO:0004721	"phosphoprotein phosphatase activity"	Q55E39	Q55GW2	Q76P10	Q7YSW8	Q54R42
+GO:0004722	"protein serine/threonine phosphatase activity"	Q7YSW8	Q55E39
+GO:0004723	"calcium-dependent protein serine/threonine phosphatase activity"	Q7YSW8
+GO:0004725	"protein tyrosine phosphatase activity"	Q55GW2
+GO:0004729	"oxygen-dependent protoporphyrinogen oxidase activity"	Q54DT8
+GO:0004733	"pyridoxamine-phosphate oxidase activity"	Q54YS6
+GO:0004735	"pyrroline-5-carboxylate reductase activity"	Q55E34
+GO:0004738	"pyruvate dehydrogenase activity"	Q86HX0
+GO:0004739	"pyruvate dehydrogenase (acetyl-transferring) activity"	Q86HX0
+GO:0004742	"dihydrolipoyllysine-residue acetyltransferase activity"	P36413
+GO:0004743	"pyruvate kinase activity"	Q54RF5
+GO:0004747	"ribokinase activity"	Q54UQ4
+GO:0004748	"ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor"	P42521
+GO:0004749	"ribose phosphate diphosphokinase activity"	Q75JN8
+GO:0004750	"ribulose-phosphate 3-epimerase activity"	Q54YE7
+GO:0004751	"ribose-5-phosphate isomerase activity"	Q551C2
+GO:0004753	"saccharopine dehydrogenase activity"	Q54NG9
+GO:0004755	"saccharopine dehydrogenase (NADP+, L-glutamate-forming) activity"	Q54NG9
+GO:0004756	"selenide, water dikinase activity"	Q94497
+GO:0004757	"sepiapterin reductase activity"	Q54GP3
+GO:0004758	"serine C-palmitoyltransferase activity"	Q55FL5
+GO:0004760	"serine-pyruvate transaminase activity"	Q54GT6
+GO:0004766	"spermidine synthase activity"	Q9XY92
+GO:0004767	"sphingomyelin phosphodiesterase activity"	Q55GC7
+GO:0004769	"steroid delta-isomerase activity"	Q55E32
+GO:0004774	"succinate-CoA ligase activity"	Q869S7	Q55AI5
+GO:0004775	"succinate-CoA ligase (ADP-forming) activity"	Q55AI5
+GO:0004776	"succinate-CoA ligase (GDP-forming) activity"	Q869S7
+GO:0004784	"superoxide dismutase activity"	Q55GQ5
+GO:0004788	"thiamine diphosphokinase activity"	Q55GR8
+GO:0004791	"thioredoxin-disulfide reductase activity"	Q54UU8
+GO:0004792	"thiosulfate sulfurtransferase activity"	Q55FS0
+GO:0004797	"thymidine kinase activity"	Q27564
+GO:0004798	"thymidylate kinase activity"	Q54GN2
+GO:0004799	"thymidylate synthase activity"	P15808
+GO:0004800	"thyroxine 5'-deiodinase activity"	Q552Y2
+GO:0004801	"sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase activity"	Q54UP4
+GO:0004802	"transketolase activity"	Q556J0
+GO:0004807	"triose-phosphate isomerase activity"	Q869R8
+GO:0004812	"aminoacyl-tRNA ligase activity"	Q86A68	Q86H43	Q54PF9	Q55GM6	Q8MP20	P14325	Q54X95	Q551A1	Q54YD4	Q55FI3	Q54N83	Q86KU2	Q75JK9	Q869Z3	Q54ZY3	Q55DZ8	Q55C99	Q558Z0	Q55D12	Q54TY4
+GO:0004813	"alanine-tRNA ligase activity"	Q86H43
+GO:0004814	"arginine-tRNA ligase activity"	Q558Z0
+GO:0004815	"aspartate-tRNA ligase activity"	Q55C99
+GO:0004816	"asparagine-tRNA ligase activity"	Q55FI3
+GO:0004817	"cysteine-tRNA ligase activity"	Q54ZY3
+GO:0004818	"glutamate-tRNA ligase activity"	Q869Z3
+GO:0004819	"glutamine-tRNA ligase activity"	P14325
+GO:0004820	"glycine-tRNA ligase activity"	Q54PF9
+GO:0004821	"histidine-tRNA ligase activity"	Q55D12
+GO:0004822	"isoleucine-tRNA ligase activity"	Q54YD4
+GO:0004823	"leucine-tRNA ligase activity"	Q54N83
+GO:0004824	"lysine-tRNA ligase activity"	Q54TY4
+GO:0004825	"methionine-tRNA ligase activity"	Q54X95
+GO:0004826	"phenylalanine-tRNA ligase activity"	Q86A68
+GO:0004827	"proline-tRNA ligase activity"	Q75JK9
+GO:0004828	"serine-tRNA ligase activity"	Q55GM6
+GO:0004829	"threonine-tRNA ligase activity"	Q8MP20
+GO:0004830	"tryptophan-tRNA ligase activity"	Q55DZ8
+GO:0004831	"tyrosine-tRNA ligase activity"	Q551A1
+GO:0004832	"valine-tRNA ligase activity"	Q86KU2
+GO:0004833	"tryptophan 2,3-dioxygenase activity"	Q55DB4
+GO:0004838	"L-tyrosine:2-oxoglutarate aminotransferase activity"	Q54K95
+GO:0004839	"ubiquitin activating enzyme activity"	Q55C16
+GO:0004842	"ubiquitin-protein transferase activity"	Q55EY8	O44007
+GO:0004844	"uracil DNA N-glycosylase activity"	Q1ZXM2
+GO:0004845	"uracil phosphoribosyltransferase activity"	Q55GQ6
+GO:0004846	"urate oxidase activity"	Q54LT2
+GO:0004849	"uridine kinase activity"	Q55EL3
+GO:0004850	"uridine phosphorylase activity"	Q54PM8
+GO:0004852	"uroporphyrinogen-III synthase activity"	Q54NS4
+GO:0004853	"uroporphyrinogen decarboxylase activity"	Q54DF9
+GO:0004854	"xanthine dehydrogenase activity"	Q54FB7
+GO:0004860	"protein kinase inhibitor activity"	P05987
+GO:0004862	"cAMP-dependent protein kinase inhibitor activity"	P05987
+GO:0004864	"protein phosphatase inhibitor activity"	Q86IZ4
+GO:0004866	"endopeptidase inhibitor activity"	Q5R1U3	Q55DZ2
+GO:0004869	"cysteine-type endopeptidase inhibitor activity"	Q5R1U3
+GO:0004888	"transmembrane signaling receptor activity"	P13773	Q54N73	Q1ZXQ7	Q54K11	Q55CD6
+GO:0004930	"G-protein coupled receptor activity"	P13773	Q54K11	Q1ZXQ7
+GO:0004965	"G-protein coupled GABA receptor activity"	Q54K11
+GO:0005047	"signal recognition particle binding"	Q54ZR7
+GO:0005048	"signal sequence binding"	Q86JE5	Q54XK2	Q54WA3	Q555I0	Q556L1	Q54MD1	Q54QM0	Q55CQ7
+GO:0005049	"nuclear export signal receptor activity"	Q54UP5
+GO:0005052	"peroxisome matrix targeting signal-1 binding"	Q54MD1
+GO:0005053	"peroxisome matrix targeting signal-2 binding"	Q54WA3
+GO:0005080	"protein kinase C binding"	P46800
+GO:0005085	"guanyl-nucleotide exchange factor activity"	Q55GH9
+GO:0005092	"GDP-dissociation inhibitor activity"	Q95UQ1
+GO:0005094	"Rho GDP-dissociation inhibitor activity"	Q95UQ1
+GO:0005096	"GTPase activator activity"	Q55GH9
+GO:0005102	"receptor binding"	Q54C55	Q968Z6	P16051	Q559W3
+GO:0005198	"structural molecule activity"	Q55EU6	Q55FU2	O15819
+GO:0005200	"structural constituent of cytoskeleton"	Q55EU6
+GO:0005215	"transporter activity"	Q54EF1	Q54QI8	Q9NA13	Q54BF6	Q55GU3	Q54TU8	Q55DM5	Q76P15	Q54I48	Q54PY7	Q55FW3	Q86HQ3	Q9TVK6	Q76P23	Q9NCL7	Q559K0	Q54LT0	Q75JR4	Q551X6	Q8T674	Q869W7	Q54WT7	Q54EQ0	P54678	Q01501	Q55GE2	B0G159	Q54T06	Q54NQ9	Q86AZ6	Q75JN3	Q55FL1	Q55E85	Q8MXY0	Q86I81	Q54S52	P54679	Q54QN2	Q86JM7	Q54G07	Q54FU9	Q55E98	Q55F42	Q54Z02	Q75JF3	Q869V1	Q54CD1	Q9U8P7	Q54JW5	Q55C66	Q55FV8	Q54W19	Q86KG4	Q54XK2	Q54I86	Q550W6	Q54DA4	Q54GU0	Q55GB1	Q54B67	Q55CD9	Q54VS7	Q54RB9	O97470	Q54NW9	Q55CS9	Q55CX3	Q55G38	Q55DY8	Q553K4	Q1ZXJ4	Q552S0
+GO:0005216	"ion channel activity"	Q86JM7	Q55CX3	Q9NA13	Q75JF3	Q01501	Q75JR4	Q54S52	Q55F42	Q54TU8
+GO:0005217	"intracellular ligand-gated ion channel activity"	Q86JM7	Q9NA13
+GO:0005220	"inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity"	Q9NA13
+GO:0005227	"calcium activated cation channel activity"	Q75JR4	Q55CX3
+GO:0005244	"voltage-gated ion channel activity"	Q75JF3	Q01501
+GO:0005247	"voltage-gated chloride channel activity"	Q75JF3
+GO:0005253	"anion channel activity"	Q75JF3	Q01501
+GO:0005254	"chloride channel activity"	Q75JF3
+GO:0005261	"cation channel activity"	Q86JM7	Q55CX3	Q9NA13	Q75JR4	Q55F42	Q54TU8
+GO:0005262	"calcium channel activity"	Q54TU8	Q86JM7	Q9NA13
+GO:0005267	"potassium channel activity"	Q55CX3
+GO:0005275	"amine transmembrane transporter activity"	Q54I48
+GO:0005310	"dicarboxylic acid transmembrane transporter activity"	Q55GE2	Q54PY7	Q54B67	Q54RB9
+GO:0005313	"L-glutamate transmembrane transporter activity"	Q54RB9
+GO:0005315	"inorganic phosphate transmembrane transporter activity"	Q54BF6
+GO:0005319	"lipid transporter activity"	Q86KG4	Q9NCL7	Q54G07	Q9TVK6	Q54W19
+GO:0005324	"long-chain fatty acid transporter activity"	Q54W19
+GO:0005338	"nucleotide-sugar transmembrane transporter activity"	Q54I86	Q869W7	Q550W6
+GO:0005342	"organic acid transmembrane transporter activity"	Q54PY7	Q55GU3	Q54B67	Q54WT7	Q86I81	Q55E85	Q54RB9	Q55GE2
+GO:0005344	"oxygen transporter activity"	Q9UAG7
+GO:0005346	"purine ribonucleotide transmembrane transporter activity"	B0G159	Q54QI8	Q55DM5	Q1ZXJ4	Q76P23	O97470
+GO:0005347	"ATP transmembrane transporter activity"	B0G159	O97470
+GO:0005372	"water transmembrane transporter activity"	Q9U8P7
+GO:0005381	"iron ion transmembrane transporter activity"	Q55DY8
+GO:0005385	"zinc ion transmembrane transporter activity"	Q55E98
+GO:0005388	"calcium-transporting ATPase activity"	P54678
+GO:0005391	"sodium:potassium-exchanging ATPase activity"	Q55FW3
+GO:0005451	"monovalent cation:proton antiporter activity"	Q552S0
+GO:0005457	"GDP-fucose transmembrane transporter activity"	Q550W6
+GO:0005459	"UDP-galactose transmembrane transporter activity"	Q54I86
+GO:0005460	"UDP-glucose transmembrane transporter activity"	Q54I86
+GO:0005462	"UDP-N-acetylglucosamine transmembrane transporter activity"	Q869W7
+GO:0005469	"succinate:fumarate antiporter activity"	Q54B67
+GO:0005471	"ATP:ADP antiporter activity"	O97470
+GO:0005483	"soluble NSF attachment protein activity"	Q9U9R7
+GO:0005488	"binding"	B0G189	Q5TJ65	Q55E60	O77033	Q54SM3	Q54LW0	Q5FXM5	Q54UJ6	Q9NA13	Q54MD1	Q54X97	Q54E83	Q95ZG8	Q55GU9	O15819	Q1ZXH0	Q9XPJ9	Q55H50	Q557B6	Q54WA3	Q6B9X6	Q55F37	Q54BM2	Q54TY7	Q8N0B5	Q54C74	P46800	Q54MB8	P26200	Q54FI3	Q54U72	Q55CY7	Q558W0	Q1ZXP7	Q55FQ0	P16051	P36412	P19198	P54651	Q54E04	Q55FW8	Q5V9E9	Q54X65	Q55G87	Q54YW1	Q550R2	Q54QM0	Q55FI1	P02887	Q54FB7	Q559K0	Q54I89	P54654	P05987	Q55G81	Q54P92	P02599	Q55GG1	Q54PH5	Q9UAG7	Q54H53	Q54MJ9	P25870	P54703	Q54TN3	Q54RF5	Q54F84	Q54HH8	P08799	Q9BMX0	Q7Z2B8	Q8T295	Q54RR8	P34112	P54644	Q54WV4	Q54J20	Q55C62	Q8I0F4	P18161	Q55D17	P0CT31	Q8MN58	Q55FW5	Q1ZXQ8	Q55GG6	Q559W3	Q55EK2	Q55EX7	Q55ED0	Q55CC2	Q86KI1	Q9BPU3	Q86JE5	Q54J75	B0G190	B0G0Y8	Q54NN1	Q54VQ7	Q54VC7	P27133	Q54C45	Q54DM0	Q557E7	Q54XX3	Q551A3	Q54TR7	P32254	Q867X6	P34109	Q54Z01	Q54HI0	Q54M18	P54632	Q86AD6	Q54DU8	Q54Q80	Q3ZE13	P34036	Q55CP6	Q9GPM4	Q558Z9	Q54Z60	Q54QF9	Q55FL5	C7G026	Q55GQ6	Q75JD5	P34145	Q54LA1	P36408	Q54PZ2	Q54J50	Q55ED4	Q55GQ5	Q8T293	Q55CQ7	Q54C55	B0G147	Q54J26	Q55EU6	Q54KD8	Q55FJ5	Q54CP1	Q968Z6	Q557J6	Q95NZ8	Q1ZXE9	Q55GK0	P13021	Q54E22	Q55FT1	Q55BI2	Q54WU6	Q55E68	Q54YX3	P34099	Q55GR8	Q54ZR7	Q54G21	Q55GL2	Q54BD4	Q54FD6	Q54NP8	P52285	P54671	Q54MA9	Q55F68	P20054	Q554P0	Q54CS9	Q86HF5	Q54XK2	B0G0Z0	Q55BL4	Q555I0	P28178	Q54EW1	Q54S93	Q55FM6	Q55CT1	Q553E0	P09402	Q95ZG3	Q54TA0	Q54ER6	Q54GS8	Q55FE0	Q54W52	O21035	Q55ED1	Q54Y76	Q552E2	Q55DB0	Q95ZG4	Q55FI4	Q54MH2	Q54L90	B0G117	Q554U9	Q55GV3	Q86A17	Q54MZ3	Q54X73	Q86I14	Q9XZJ3	Q54QM5	Q54VV8	P13466	Q55EP5	Q556L1	Q55C91	Q54KM7	Q54DH8	Q55G93	Q552X2
+GO:0005496	"steroid binding"	Q55BL4
+GO:0005504	"fatty acid binding"	Q54DM0	Q54TR7
+GO:0005506	"iron ion binding"	Q55EK2	Q54C45
+GO:0005507	"copper ion binding"	Q55GQ5
+GO:0005509	"calcium ion binding"	Q55G87
+GO:0005515	"protein binding"	Q5TJ65	Q54UJ6	Q54X97	Q95ZG8	O15819	Q6B9X6	Q55F37	Q8N0B5	Q54C74	P46800	Q54MB8	P26200	P16051	P36412	P54651	Q54E04	Q54YW1	Q55G87	Q550R2	Q55FI1	P54654	P05987	P02599	P25870	P54703	Q54TN3	P08799	Q7Z2B8	Q54RR8	P34112	P54644	Q54WV4	Q55C62	P18161	P0CT31	Q8MN58	Q1ZXQ8	Q559W3	Q55ED0	Q86KI1	Q9BPU3	Q54NN1	Q54VQ7	P27133	Q557E7	P34109	P32254	Q54Z01	Q54HI0	P54632	Q54DU8	Q54Q80	P34036	Q54QF9	P34145	Q54LA1	Q54PZ2	P36408	B0G147	Q54C55	Q55EU6	Q54CP1	Q968Z6	Q557J6	P13021	P34099	Q54BD4	Q54FD6	P52285	P28178	Q553E0	P09402	Q95ZG3	Q55ED1	Q54Y76	Q95ZG4	Q54MH2	Q54L90	Q55GV3	Q86I14	Q9XZJ3	Q54QM5	Q54VV8	P13466	Q54DH8	Q55G93	Q552X2
+GO:0005516	"calmodulin binding"	Q6B9X6
+GO:0005522	"profilin binding"	Q557J6
+GO:0005524	"ATP binding"	Q55F68
+GO:0005525	"GTP binding"	Q55GQ6
+GO:0005527	"macrolide binding"	Q54G21
+GO:0005542	"folic acid binding"	Q559K0
+GO:0005543	"phospholipid binding"	B0G190	Q54VC7	Q54J20	Q54YX3	Q551A3	Q55GG1	Q558Z9
+GO:0005544	"calcium-dependent phospholipid binding"	Q55GG1
+GO:0005546	"phosphatidylinositol-4,5-bisphosphate binding"	Q558Z9
+GO:0005548	"phospholipid transporter activity"	Q54G07	Q9NCL7
+GO:0008013	"beta-catenin binding"	Q54MH2
+GO:0008017	"microtubule binding"	Q1ZXQ8	Q9BPU3	Q95ZG3
+GO:0008028	"monocarboxylic acid transmembrane transporter activity"	Q55GU3
+GO:0008047	"enzyme activator activity"	Q867T7	P32253	Q54UM1
+GO:0008061	"chitin binding"	Q8T293
+GO:0008079	"translation termination factor activity"	Q9BMX0
+GO:0008080	"N-acetyltransferase activity"	Q55EJ3	Q54DY1	Q86J12	Q8SSN5	P36416	Q54WR8
+GO:0008081	"phosphoric diester hydrolase activity"	Q8MM62	Q02158	B0G0Y8	Q55GC7	Q86AV9	Q55FW8
+GO:0008083	"growth factor activity"	Q968Z6
+GO:0008092	"cytoskeletal protein binding"	P26200	P34109	Q55EU6	Q54Z01	Q9BPU3	Q54YW1	P54632	P09402	P13466	Q95ZG3	Q557J6	Q95ZG4	Q1ZXQ8	P28178	P13021	Q7Z2B8	Q55G93	P54644
+GO:0008093	"cytoskeletal adaptor activity"	Q55E26
+GO:0008094	"DNA-dependent ATPase activity"	Q54I89	Q54ST4	Q55BP5	Q552D9	Q55G81	Q86B14	Q55CP6	Q55GU9	B0G0Y4
+GO:0008097	"5S rRNA binding"	Q54XX3
+GO:0008106	"alcohol dehydrogenase (NADP+) activity"	Q55FL3
+GO:0008107	"galactoside 2-alpha-L-fucosyltransferase activity"	Q54QG0
+GO:0008113	"peptide-methionine (S)-S-oxide reductase activity"	Q551H3
+GO:0008115	"sarcosine oxidase activity"	Q54EW2
+GO:0008117	"sphinganine-1-phosphate aldolase activity"	Q54RV9
+GO:0008121	"ubiquinol-cytochrome-c reductase activity"	Q54NW9
+GO:0008124	"4-alpha-hydroxytetrahydrobiopterin dehydratase activity"	Q54XF6
+GO:0008126	"acetylesterase activity"	Q54H38
+GO:0008134	"transcription factor binding"	Q54WV4	Q86I14	Q54HI0	P18161	Q54VV8	Q54UJ6	Q54VQ7	Q54DH8
+GO:0008135	"translation factor activity, RNA binding"	Q9BMX0	Q55FE0
+GO:0008137	"NADH dehydrogenase (ubiquinone) activity"	Q55CD9
+GO:0008138	"protein tyrosine/serine/threonine phosphatase activity"	Q55E39	Q54R42
+GO:0008139	"nuclear localization sequence binding"	Q55CQ7
+GO:0008143	"poly(A) binding"	Q55CP6
+GO:0008146	"sulfotransferase activity"	Q55GK8
+GO:0008157	"protein phosphatase 1 binding"	Q552X2
+GO:0008160	"protein tyrosine phosphatase activator activity"	Q54WH6
+GO:0008168	"methyltransferase activity"	Q54I98	Q54XD0	Q54HI0	Q54U59	Q55AS5	Q54BD5	Q55D68	Q54P92	Q86A24	Q54DD3	Q54JH6	Q558K8	Q54WD6	Q55AX2	Q86HS9	Q54VN2	Q54WR1	Q54QK7	Q54ST2	Q54HS3	Q54SD5	Q54VA8	P15808	Q55DA6	Q9GPS6	O15749	Q554C9	Q86JJ0	Q54X49	Q54NX0	Q86AH1	C7G023	B0G148	Q75JG8	Q55DH6	Q552E3
+GO:0008169	"C-methyltransferase activity"	Q54I98	Q54XD0	Q54VN2
+GO:0008170	"N-methyltransferase activity"	Q54HI0	B0G148	Q554C9	Q55D68	Q54QK7	Q54HS3	Q86A24	Q54SD5	Q55AX2	Q552E3
+GO:0008171	"O-methyltransferase activity"	Q54XD0	Q54WR1	Q9GPS6	Q55AS5	Q54BD5	Q54NX0	Q558K8
+GO:0008172	"S-methyltransferase activity"	Q54P92	Q54X49
+GO:0008173	"RNA methyltransferase activity"	Q54BD5	Q54WD6	Q54WR1	Q54QK7	Q55DA6	Q54VA8	O15749	Q554C9	Q86JJ0	Q54NX0	Q86AH1	C7G023
+GO:0008174	"mRNA methyltransferase activity"	Q54WR1
+GO:0008175	"tRNA methyltransferase activity"	C7G023	O15749	Q86JJ0	Q54BD5	Q54WD6	Q54VA8
+GO:0008177	"succinate dehydrogenase (ubiquinone) activity"	Q55CC2
+GO:0008179	"adenylate cyclase binding"	P54654
+GO:0008184	"glycogen phosphorylase activity"	Q00766
+GO:0008186	"RNA-dependent ATPase activity"	Q86IZ9	P90529	O15698	Q55CP6
+GO:0008187	"poly-pyrimidine tract binding"	Q54BM2
+GO:0008190	"eukaryotic initiation factor 4E binding"	Q54DU8
+GO:0008194	"UDP-glycosyltransferase activity"	Q54NU9	Q75JV7	Q9U720	Q54IL5	Q8T1C6	Q55GH4	Q54RP0	Q8T191	Q55FD5	Q55EK3	Q54J42
+GO:0008199	"ferric iron binding"	Q54C45
+GO:0008233	"peptidase activity"	P52922	Q55E60	Q54Q40	Q54WW4	Q86AS5	Q557H1	Q557H7	Q86I79	Q8MUF9	Q55GJ6	Q54LN4	Q55CT0	Q54XR2
+GO:0008234	"cysteine-type peptidase activity"	Q8MUF9	Q54XR2	Q557H7	Q54LN4	Q54Q40
+GO:0008235	"metalloexopeptidase activity"	Q557H1	Q55E60
+GO:0008236	"serine-type peptidase activity"	Q55CT0	Q86I79
+GO:0008237	"metallopeptidase activity"	Q557H1	Q55E60	Q54Q40
+GO:0008238	"exopeptidase activity"	P52922	Q557H1	Q55E60	Q86I79	Q55CT0
+GO:0008239	"dipeptidyl-peptidase activity"	Q557H1
+GO:0008240	"tripeptidyl-peptidase activity"	Q55CT0
+GO:0008242	"omega peptidase activity"	Q54LN4	Q54WW4
+GO:0008251	"tRNA-specific adenosine deaminase activity"	Q54XP3
+GO:0008252	"nucleotidase activity"	Q54XC1	Q55F34
+GO:0008253	"5'-nucleotidase activity"	Q54XC1
+GO:0008260	"3-oxoacid CoA-transferase activity"	Q54JD9
+GO:0008265	"Mo-molybdopterin cofactor sulfurase activity"	Q559G8
+GO:0008266	"poly(U) RNA binding"	Q54BM2
+GO:0008270	"zinc ion binding"	Q55GK0
+GO:0008276	"protein methyltransferase activity"	Q54HI0	Q9GPS6	B0G148	Q54HS3	Q55DH6	Q86A24	Q558K8	Q55AX2	Q552E3
+GO:0008289	"lipid binding"	Q54TR7	Q55BL4	B0G190	Q54VC7	Q54J20	Q54YX3	Q54DM0	Q551A3	Q55GG1	Q558Z9
+GO:0008296	"3'-5'-exodeoxyribonuclease activity"	P51173
+GO:0008308	"voltage-gated anion channel activity"	Q75JF3	Q01501
+GO:0008309	"double-stranded DNA exodeoxyribonuclease activity"	P51173
+GO:0008311	"double-stranded DNA 3'-5' exodeoxyribonuclease activity"	P51173
+GO:0008312	"7S RNA binding"	Q55GL2
+GO:0008318	"protein prenyltransferase activity"	Q55D51	Q55DA3	Q55DQ4
+GO:0008320	"protein transmembrane transporter activity"	Q54XK2	Q54EQ0	Q76P15
+GO:0008324	"cation transmembrane transporter activity"	Q8MXY0	Q9NA13	Q54DA4	Q75JR4	P54679	Q54TU8	Q86JM7	P54678	Q54VS7	Q55E98	Q54NW9	Q55F42	Q55CS9	Q54T06	Q55CX3	Q869V1	Q55FL1	Q54I48	Q55DY8	Q55G38	Q55FW3	Q1ZXJ4	Q76P23	Q55E85	Q552S0
+GO:0008353	"RNA polymerase II carboxy-terminal domain kinase activity"	Q95YH0
+GO:0008374	"O-acyltransferase activity"	Q54DX7	Q54MC0	Q55BH9
+GO:0008375	"acetylglucosaminyltransferase activity"	Q75JV7	Q8T1C6	Q55EK3
+GO:0008378	"galactosyltransferase activity"	Q54RP0
+GO:0008381	"mechanically-gated ion channel activity"	Q54S52
+GO:0008398	"sterol 14-demethylase activity"	Q1ZXH9
+GO:0008408	"3'-5' exonuclease activity"	Q55DD5	Q8I7W9	Q55AW0	Q54W16	P51173
+GO:0008409	"5'-3' exonuclease activity"	Q558W0
+GO:0008410	"CoA-transferase activity"	Q54JD9	Q54K91
+GO:0008412	"4-hydroxybenzoate octaprenyltransferase activity"	Q54U71
+GO:0008417	"fucosyltransferase activity"	Q54V75	Q54QG0
+GO:0008419	"RNA lariat debranching enzyme activity"	Q54VL9
+GO:0008422	"beta-glucosidase activity"	Q23892
+GO:0008425	"2-polyprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity"	Q54XD0	Q54VN2
+GO:0008441	"3'(2'),5'-bisphosphate nucleotidase activity"	Q55F34
+GO:0008442	"3-hydroxyisobutyrate dehydrogenase activity"	Q54CX6
+GO:0008443	"phosphofructokinase activity"	P28178
+GO:0008444	"CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity"	Q7KWX2
+GO:0008445	"D-aspartate oxidase activity"	Q556W1
+GO:0008446	"GDP-mannose 4,6-dehydratase activity"	Q1ZXF7
+GO:0008452	"RNA ligase activity"	Q54Y09
+GO:0008453	"alanine-glyoxylate transaminase activity"	Q54GT6
+GO:0008460	"dTDP-glucose 4,6-dehydratase activity"	Q54WS6
+GO:0008469	"histone-arginine N-methyltransferase activity"	Q552E3	Q54HI0
+GO:0008470	"isovaleryl-CoA dehydrogenase activity"	Q54W88
+GO:0008474	"palmitoyl-(protein) hydrolase activity"	Q55FK4
+GO:0008477	"purine nucleosidase activity"	Q7KWM9
+GO:0008478	"pyridoxal kinase activity"	P18160
+GO:0008481	"sphinganine kinase activity"	Q86KF9
+GO:0008483	"transaminase activity"	Q54GT6	Q86AG8	Q54KM6	Q54MJ7	Q54N47	Q55CQ6	Q54JP5	Q55DT8	Q55FI1	Q55F21	Q54K95
+GO:0008488	"gamma-glutamyl carboxylase activity"	C7G026
+GO:0008495	"protoheme IX farnesyltransferase activity"	Q54JB3
+GO:0008509	"anion transmembrane transporter activity"	Q54QI8	Q54I86	Q86I81	Q54GU0	Q55GU3	Q54QN2	Q54B67	Q869W7	Q55DM5	Q54WT7	Q01501	Q54RB9	O97470	B0G159	Q86AZ6	Q75JF3	Q54PY7	Q86HQ3	Q1ZXJ4	Q76P23	Q55E85	Q552S0
+GO:0008514	"organic anion transmembrane transporter activity"	B0G159	Q54PY7	Q55GU3	Q54B67	Q869W7	Q54QI8	Q54I86	Q54WT7	Q55DM5	Q86I81	Q1ZXJ4	Q76P23	Q55E85	Q54RB9	O97470	Q54QN2
+GO:0008517	"folic acid transporter activity"	Q86I81
+GO:0008519	"ammonium transmembrane transporter activity"	Q8MXY0
+GO:0008521	"acetyl-CoA transporter activity"	Q1ZXJ4
+GO:0008525	"phosphatidylcholine transporter activity"	Q9NCL7
+GO:0008534	"oxidized purine nucleobase lesion DNA N-glycosylase activity"	Q1ZXP7
+GO:0008553	"hydrogen-exporting ATPase activity, phosphorylative mechanism"	P54679
+GO:0008554	"sodium-exporting ATPase activity, phosphorylative mechanism"	Q55FW3
+GO:0008556	"potassium-transporting ATPase activity"	Q55FW3
+GO:0008568	"microtubule-severing ATPase activity"	Q54KQ7
+GO:0008569	"ATP-dependent microtubule motor activity, minus-end-directed"	P34036
+GO:0008574	"ATP-dependent microtubule motor activity, plus-end-directed"	Q6S002
+GO:0008579	"JUN kinase phosphatase activity"	Q54R42
+GO:0008597	"calcium-dependent protein serine/threonine phosphatase regulator activity"	Q55G87
+GO:0008603	"cAMP-dependent protein kinase regulator activity"	P05987	Q55CH0
+GO:0008607	"phosphorylase kinase regulator activity"	Q54XS0
+GO:0008609	"alkylglycerone-phosphate synthase activity"	O96759
+GO:0008641	"small protein activating enzyme activity"	Q55C16	Q54QG9	Q86CR9	Q54C02	Q55FS0	Q54WI4
+GO:0008649	"rRNA methyltransferase activity"	Q86AH1	Q554C9	Q54QK7	Q54NX0	Q55DA6
+GO:0008650	"rRNA (uridine-2'-O-)-methyltransferase activity"	Q54NX0
+GO:0008681	"2-octaprenyl-6-methoxyphenol hydroxylase activity"	Q54EN1
+GO:0008682	"2-octoprenyl-3-methyl-6-methoxy-1,4-benzoquinone hydroxylase activity"	Q54VB3
+GO:0008689	"3-demethylubiquinone-9 3-O-methyltransferase activity"	Q54XD0
+GO:0008705	"methionine synthase activity"	Q54P92
+GO:0008720	"D-lactate dehydrogenase activity"	Q54UF7
+GO:0008721	"D-serine ammonia-lyase activity"	Q54HH2
+GO:0008725	"DNA-3-methyladenine glycosylase activity"	Q1ZXP8
+GO:0008757	"S-adenosylmethionine-dependent methyltransferase activity"	Q54I98	Q54XD0	Q54HI0	Q54U59	Q55AS5	Q55D68	Q86A24	Q54JH6	Q54WD6	Q558K8	Q55AX2	Q86HS9	Q54VN2	Q54WR1	Q54QK7	Q54ST2	Q54HS3	Q54SD5	Q55DA6	Q54VA8	Q9GPS6	O15749	Q554C9	Q86JJ0	Q54NX0	Q86AH1	C7G023	B0G148	Q75JG8	Q552E3
+GO:0008775	"acetate CoA-transferase activity"	Q54K91
+GO:0008777	"acetylornithine deacetylase activity"	P54638
+GO:0008793	"aromatic-amino-acid:2-oxoglutarate aminotransferase activity"	Q86AG8
+GO:0008798	"beta-aspartyl-peptidase activity"	Q54WW4
+GO:0008821	"crossover junction endodeoxyribonuclease activity"	Q551H0
+GO:0008832	"dGTPase activity"	B0G107
+GO:0008833	"deoxyribonuclease IV (phage-T4-induced) activity"	Q966U0
+GO:0008837	"diaminopimelate epimerase activity"	O96548
+GO:0008873	"gluconate 2-dehydrogenase activity"	Q54DP1
+GO:0008875	"gluconate dehydrogenase activity"	Q54DP1
+GO:0008892	"guanine deaminase activity"	Q86AW9
+GO:0008893	"guanosine-3',5'-bis(diphosphate) 3'-diphosphatase activity"	Q54KN3
+GO:0008905	"mannose-phosphate guanylyltransferase activity"	Q86HG0
+GO:0008934	"inositol monophosphate 1-phosphatase activity"	Q54U72
+GO:0008936	"nicotinamidase activity"	Q54BH7
+GO:0008941	"nitric oxide dioxygenase activity"	Q9UAG7
+GO:0008948	"oxaloacetate decarboxylase activity"	Q6TU48
+GO:0008962	"phosphatidylglycerophosphatase activity"	Q86IG3
+GO:0008973	"phosphopentomutase activity"	Q54UQ2
+GO:0008976	"polyphosphate kinase activity"	Q54BM7
+GO:0008988	"rRNA (adenine-N6-)-methyltransferase activity"	Q554C9
+GO:0008998	"ribonucleoside-triphosphate reductase activity"	Q54CW7
+GO:0009002	"serine-type D-Ala-D-Ala carboxypeptidase activity"	Q86I79
+GO:0009008	"DNA-methyltransferase activity"	Q54JH6
+GO:0009019	"tRNA (guanine-N1-)-methyltransferase activity"	Q54WD6
+GO:0009041	"uridylate kinase activity"	P20425
+GO:0009055	"electron carrier activity"	Q55CD9	Q54NW9	Q55CC2	Q54XM6
+GO:0009678	"hydrogen-translocating pyrophosphatase activity"	Q55CS9	P54679
+GO:0009815	"1-aminocyclopropane-1-carboxylate oxidase activity"	Q76NT9
+GO:0009824	"AMP dimethylallyltransferase activity"	Q86K86
+GO:0009916	"alternative oxidase activity"	Q8WSV6
+GO:0009922	"fatty acid elongase activity"	C7FZW5
+GO:0009927	"histidine phosphotransfer kinase activity"	Q869S5
+GO:0009931	"calcium-dependent protein serine/threonine kinase activity"	Q54BF0
+GO:0009975	"cyclase activity"	Q553Y7	Q55F68	O15746
+GO:0010181	"FMN binding"	Q55CT1
+GO:0010308	"acireductone dioxygenase (Ni2+-requiring) activity"	Q54ER6
+GO:0010309	"acireductone dioxygenase [iron(II)-requiring] activity"	Q54ER6
+GO:0010340	"carboxyl-O-methyltransferase activity"	Q9GPS6	Q558K8
+GO:0010420	"polyprenyldihydroxybenzoate methyltransferase activity"	Q54XD0
+GO:0010485	"H4 histone acetyltransferase activity"	Q86J12
+GO:0010851	"cyclase regulator activity"	P32253
+GO:0010853	"cyclase activator activity"	P32253
+GO:0010856	"adenylate cyclase activator activity"	P32253
+GO:0010857	"calcium-dependent protein kinase activity"	Q54BF0
+GO:0010997	"anaphase-promoting complex binding"	Q54MZ3
+GO:0015020	"glucuronosyltransferase activity"	Q55FD5
+GO:0015035	"protein disulfide oxidoreductase activity"	Q8T137	B0G106	Q54UU8
+GO:0015036	"disulfide oxidoreductase activity"	Q54KN7	Q8T137	B0G106	Q54UU8
+GO:0015038	"glutathione disulfide oxidoreductase activity"	Q8T137
+GO:0015039	"NADPH-adrenodoxin reductase activity"	Q54KG7
+GO:0015075	"ion transmembrane transporter activity"	Q54QI8	Q54I86	Q8MXY0	Q86I81	Q9NA13	Q54DA4	Q54GU0	Q75JR4	Q54S52	P54679	Q54TU8	Q54QN2	Q55GU3	Q86JM7	Q54B67	Q869W7	Q55DM5	Q54WT7	P54678	Q54VS7	Q55E98	Q01501	Q54RB9	O97470	Q54NW9	Q55F42	B0G159	Q55CS9	Q54T06	Q55CX3	Q54NQ9	Q86AZ6	Q75JF3	Q869V1	Q55FL1	Q54I48	Q54CD1	Q54PY7	Q55DY8	Q55G38	Q55FW3	Q86HQ3	Q1ZXJ4	Q76P23	Q55E85	Q552S0
+GO:0015078	"hydrogen ion transmembrane transporter activity"	Q55CS9	Q55G38	Q1ZXJ4	Q552S0	Q54NW9	P54679	Q55F42
+GO:0015079	"potassium ion transmembrane transporter activity"	Q55FW3	Q55CX3	Q54DA4	Q552S0
+GO:0015081	"sodium ion transmembrane transporter activity"	Q55FW3	Q552S0
+GO:0015085	"calcium ion transmembrane transporter activity"	Q86JM7	P54678	Q9NA13	Q54TU8
+GO:0015086	"cadmium ion transmembrane transporter activity"	Q869V1
+GO:0015093	"ferrous iron transmembrane transporter activity"	Q55DY8
+GO:0015101	"organic cation transmembrane transporter activity"	Q54I48	Q76P23	Q54VS7
+GO:0015103	"inorganic anion transmembrane transporter activity"	Q86HQ3	Q86AZ6	Q75JF3	Q01501	Q54GU0
+GO:0015105	"arsenite transmembrane transporter activity"	Q54GU0
+GO:0015108	"chloride transmembrane transporter activity"	Q86AZ6
+GO:0015114	"phosphate ion transmembrane transporter activity"	Q86HQ3
+GO:0015117	"thiosulfate transmembrane transporter activity"	Q54PY7
+GO:0015131	"oxaloacetate transmembrane transporter activity"	Q54PY7
+GO:0015138	"fumarate transmembrane transporter activity"	Q54B67
+GO:0015140	"malate transmembrane transporter activity"	Q54PY7
+GO:0015141	"succinate transmembrane transporter activity"	Q54PY7	Q54B67
+GO:0015144	"carbohydrate transmembrane transporter activity"	Q54JW5	Q55FV8
+GO:0015165	"pyrimidine nucleotide-sugar transmembrane transporter activity"	Q54I86	Q869W7
+GO:0015171	"amino acid transmembrane transporter activity"	Q54WT7	Q55E85	Q54RB9
+GO:0015172	"acidic amino acid transmembrane transporter activity"	Q54RB9
+GO:0015179	"L-amino acid transmembrane transporter activity"	Q54WT7	Q55E85	Q54RB9
+GO:0015183	"L-aspartate transmembrane transporter activity"	Q54RB9
+GO:0015184	"L-cystine transmembrane transporter activity"	Q54WT7
+GO:0015215	"nucleotide transmembrane transporter activity"	B0G159	Q551X6	Q54QI8	Q55DM5	Q54FU9	Q1ZXJ4	Q76P23	O97470	Q54QN2	Q54Z02
+GO:0015216	"purine nucleotide transmembrane transporter activity"	B0G159	Q54QI8	Q55DM5	Q1ZXJ4	Q76P23	O97470
+GO:0015217	"ADP transmembrane transporter activity"	O97470	Q76P23
+GO:0015218	"pyrimidine nucleotide transmembrane transporter activity"	Q54Z02
+GO:0015220	"choline transmembrane transporter activity"	Q54I48
+GO:0015228	"coenzyme A transmembrane transporter activity"	Q54QI8
+GO:0015230	"FAD transmembrane transporter activity"	Q54QN2
+GO:0015234	"thiamine transmembrane transporter activity"	Q54VS7
+GO:0015248	"sterol transporter activity"	Q86KG4
+GO:0015250	"water channel activity"	Q9U8P7
+GO:0015252	"hydrogen ion channel activity"	Q55F42
+GO:0015267	"channel activity"	Q9U8P7	Q86JM7	Q55CX3	Q9NA13	Q75JF3	Q01501	Q75JR4	Q54S52	Q55F42	Q54TU8
+GO:0015269	"calcium-activated potassium channel activity"	Q55CX3
+GO:0015276	"ligand-gated ion channel activity"	Q86JM7	Q9NA13
+GO:0015278	"calcium-release channel activity"	Q86JM7	Q9NA13
+GO:0015288	"porin activity"	Q01501
+GO:0015291	"secondary active transmembrane transporter activity"	Q54BF6	Q54B67	Q553K4	Q54LT0	Q1ZXJ4	Q552S0	O97470
+GO:0015292	"uniporter activity"	Q54LT0
+GO:0015293	"symporter activity"	Q553K4	Q1ZXJ4
+GO:0015294	"solute:cation symporter activity"	Q1ZXJ4
+GO:0015295	"solute:proton symporter activity"	Q1ZXJ4
+GO:0015297	"antiporter activity"	O97470	Q54B67	Q552S0
+GO:0015298	"solute:cation antiporter activity"	Q552S0
+GO:0015299	"solute:proton antiporter activity"	Q552S0
+GO:0015301	"anion:anion antiporter activity"	O97470	Q54B67
+GO:0015318	"inorganic solute uptake transmembrane transporter activity"	Q8MXY0	Q9NA13	Q54DA4	Q54GU0	Q75JR4	Q54BF6	Q54S52	P54679	Q54TU8	Q86JM7	P54678	Q55E98	Q01501	Q54NW9	Q55F42	Q55CS9	Q54T06	Q55CX3	Q86AZ6	Q75JF3	Q869V1	Q55FL1	Q9U8P7	Q55DY8	Q55G38	Q55FW3	Q86HQ3	Q1ZXJ4	Q552S0
+GO:0015385	"sodium:proton antiporter activity"	Q552S0
+GO:0015386	"potassium:proton antiporter activity"	Q552S0
+GO:0015399	"primary active transmembrane transporter activity"	Q55CS9	Q8T674	Q55CD9	Q55FW3	Q54XK2	P54678	Q54EQ0	Q54CD1	Q86AZ6	Q54NW9	P54679	Q55GB1
+GO:0015450	"P-P-bond-hydrolysis-driven protein transmembrane transporter activity"	Q54XK2	Q54EQ0
+GO:0015453	"oxidoreduction-driven active transmembrane transporter activity"	Q54NW9	Q55CD9
+GO:0015462	"protein-transmembrane transporting ATPase activity"	Q54EQ0
+GO:0015491	"cation:cation antiporter activity"	Q552S0
+GO:0015556	"C4-dicarboxylate transmembrane transporter activity"	Q54PY7	Q54B67	Q54RB9
+GO:0015605	"organophosphate ester transmembrane transporter activity"	B0G159	Q551X6	Q54QI8	Q55DM5	Q54FU9	Q1ZXJ4	Q76P23	O97470	Q54QN2	Q54Z02
+GO:0015631	"tubulin binding"	Q54Z01	Q9BPU3	Q95ZG3	Q95ZG4	Q1ZXQ8	P28178	Q55G93
+GO:0015645	"fatty acid ligase activity"	Q55DR6
+GO:0015662	"ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism"	Q55FW3	P54678	Q54CD1	P54679
+GO:0015665	"alcohol transmembrane transporter activity"	Q54I48
+GO:0015922	"aspartate oxidase activity"	Q556W1
+GO:0015923	"mannosidase activity"	Q55ER0
+GO:0015925	"galactosidase activity"	Q55B10
+GO:0015926	"glucosidase activity"	Q94502	Q23892	Q54KX5
+GO:0015927	"trehalase activity"	Q54QZ5
+GO:0015928	"fucosidase activity"	P10901
+GO:0015929	"hexosaminidase activity"	Q54S53	Q54SC9
+GO:0015932	"nucleobase-containing compound transmembrane transporter activity"	O97470	B0G159	Q551X6	Q869W7	Q54QI8	Q55DM5	Q54I86	Q54FU9	Q550W6	Q1ZXJ4	Q76P23	Q54QN2	Q54Z02
+GO:0016018	"cyclosporin A binding"	Q54SM3
+GO:0016034	"maleylacetoacetate isomerase activity"	Q54YN2
+GO:0016149	"translation release factor activity, codon specific"	Q9BMX0
+GO:0016151	"nickel cation binding"	Q54ER6
+GO:0016153	"urocanate hydratase activity"	Q86AX3
+GO:0016160	"amylase activity"	O15751
+GO:0016174	"NAD(P)H oxidase activity"	Q9GRX6
+GO:0016175	"superoxide-generating NADPH oxidase activity"	Q86GL4
+GO:0016176	"superoxide-generating NADPH oxidase activator activity"	Q867T7
+GO:0016207	"4-coumarate-CoA ligase activity"	Q54P79
+GO:0016208	"AMP binding"	Q54Z60
+GO:0016209	"antioxidant activity"	Q54GA9	Q555L5	Q55DH8	Q8T137	Q54UU8	Q55GQ5
+GO:0016210	"naringenin-chalcone synthase activity"	Q55E72
+GO:0016211	"ammonia ligase activity"	Q86B00
+GO:0016212	"kynurenine-oxoglutarate transaminase activity"	Q55F21
+GO:0016229	"steroid dehydrogenase activity"	Q54XZ0
+GO:0016231	"beta-N-acetylglucosaminidase activity"	Q54S53
+GO:0016251	"obsolete general RNA polymerase II transcription factor activity"	Q54IW7
+GO:0016273	"arginine N-methyltransferase activity"	Q54HI0	Q552E3
+GO:0016274	"protein-arginine N-methyltransferase activity"	Q54HI0	Q552E3
+GO:0016278	"lysine N-methyltransferase activity"	B0G148	Q54HS3	Q86A24	Q55AX2
+GO:0016279	"protein-lysine N-methyltransferase activity"	B0G148	Q54HS3	Q86A24	Q55AX2
+GO:0016286	"small conductance calcium-activated potassium channel activity"	Q55CX3
+GO:0016289	"CoA hydrolase activity"	Q55GS6	Q54K91
+GO:0016298	"lipase activity"	Q55FN1	Q02158	Q54QX5	Q54LL8	Q55GC7	Q86AV9	Q54H38
+GO:0016301	"kinase activity"	P20425	Q54UT2	Q54YF2	C7G071	Q54M18	Q54PI5	Q54DN6	Q54UC0	Q94497	Q54BM7	P28178	Q54XF2	P34125	Q55EL3	Q54R82	P54675	Q9GPM4	Q54SF9	Q54CT8	Q54XC1	Q54GN2	Q55EE0	Q6XHA5	Q54N73	P22887	Q869T9	Q55E44	P54677	Q54LU8	Q27564	Q54BF0	Q54QB1	Q54UQ4	Q869S5	B0G126	Q54W86	Q558U1	P18160	Q95YH0	Q54PM7	Q75JX1	Q54YL2	Q86AD7	Q54Z27	Q55CL6	Q86AG7	P18160	Q55GN6	Q75JK0	P54673	P34099	Q55C57	Q54PK9	Q54Y03	Q54MB5	Q54D80	Q86KF9
+GO:0016303	"1-phosphatidylinositol-3-kinase activity"	P54675
+GO:0016307	"phosphatidylinositol phosphate kinase activity"	B0G126	Q55GN6	P54673
+GO:0016312	"inositol bisphosphate phosphatase activity"	Q55F34
+GO:0016405	"CoA-ligase activity"	Q54P79	Q54P77	Q554Z5	Q55DR6
+GO:0016407	"acetyltransferase activity"	Q55EJ3	Q54DY1	Q86J12	P36413	Q8SSN5	Q1ZXC6	Q86AD9	P36416	Q54WR8	Q86A05
+GO:0016408	"C-acyltransferase activity"	Q55FL5	Q86AD9
+GO:0016409	"palmitoyltransferase activity"	Q55FL5	Q557H5
+GO:0016410	"N-acyltransferase activity"	Q55EJ3	Q54UX3	Q54DY1	Q86J12	Q8SSN5	P36416	Q553B6	Q54WR8	Q54S87
+GO:0016411	"acylglycerol O-acyltransferase activity"	Q55BH9
+GO:0016417	"S-acyltransferase activity"	Q869Y7	P36413	Q557H5
+GO:0016418	"S-acetyltransferase activity"	P36413
+GO:0016421	"CoA carboxylase activity"	Q553S7	Q54J08	Q8T2J9
+GO:0016423	"tRNA (guanine) methyltransferase activity"	O15749	Q54WD6
+GO:0016426	"tRNA (adenine) methyltransferase activity"	Q86JJ0
+GO:0016427	"tRNA (cytosine) methyltransferase activity"	C7G023	Q54VA8
+GO:0016428	"tRNA (cytosine-5-)-methyltransferase activity"	C7G023
+GO:0016429	"tRNA (adenine-N1-)-methyltransferase activity"	Q86JJ0
+GO:0016433	"rRNA (adenine) methyltransferase activity"	Q54QK7	Q554C9
+GO:0016435	"rRNA (guanine) methyltransferase activity"	Q55DA6
+GO:0016436	"rRNA (uridine) methyltransferase activity"	Q54NX0
+GO:0016453	"C-acetyltransferase activity"	Q86AD9
+GO:0016454	"C-palmitoyltransferase activity"	Q55FL5
+GO:0016462	"pyrophosphatase activity"	Q86KK2	P36411	Q86IX2	Q54R62	Q55G28	P54651	Q54PV8	Q54FR0	Q54BW5	Q54LQ6
+GO:0016491	"oxidoreductase activity"	Q54RE8	Q54R47	O96099	Q54I10	Q54UH8	Q555L5	Q54CW7	Q54GH4	Q54DG1	Q54QC1	Q86GL4	Q54VM2	Q55D54	Q54RA2	Q54GP3	Q54W88	Q54EW2	Q556I2	Q54KB7	Q556G4	Q556J2	Q55AQ8	Q54E41	Q54LT2	P34135	Q54GA9	Q8WSV6	Q54VE8	Q54XS1	Q54FB7	Q86KU6	Q86KR9	Q54DP1	Q54EW8	Q55C17	Q557D2	Q54XM6	Q9UAG7	Q557J8	Q55C77	Q8TA03	Q54SF6	Q54QI4	Q54CX6	Q54RR5	Q55EK2	Q55CC2	Q556K3	Q551H3	Q54C45	Q54DT8	Q55FL3	Q54KG7	Q55FN7	Q55DB4	Q54M18	Q54L85	Q75JR3	Q54KN7	Q8T2T5	Q9NKW1	Q54VI3	Q54XZ0	Q55GI5	Q54GJ7	Q54YT4	Q54YS6	Q54DK1	Q54TC2	Q54VG0	Q55GQ5	O76740	P07670	Q55BI2	Q54QQ0	Q9GRX6	Q55FT1	Q54UU8	Q54WU6	Q54NC1	Q55E34	Q1ZXH9	B0G106	Q54NG9	Q55CD9	Q55CT1	Q55DH8	Q54VB3	Q54ER6	Q54NW9	Q6TU48	Q54UF7	Q54EN1	Q54PP1	Q552Y2	Q54N08	Q54EJ5	Q76NT9	Q8T137	Q556W1	Q86A17	P83401	Q86HX0	Q54K96	P42521	Q54KM7	Q54S02	Q869N7	Q86H28	Q94469
+GO:0016502	"nucleotide receptor activity"	P13773
+GO:0016504	"peptidase activator activity"	Q556N5
+GO:0016530	"metallochaperone activity"	Q54F73	Q54PZ2	Q54C45	Q76NZ7
+GO:0016531	"copper chaperone activity"	Q54PZ2	Q54F73
+GO:0016532	"superoxide dismutase copper chaperone activity"	Q54F73
+GO:0016538	"cyclin-dependent protein serine/threonine kinase regulator activity"	Q95YH0
+GO:0016594	"glycine binding"	Q54KM7
+GO:0016597	"amino acid binding"	P20054	Q54KM7	Q54EW1
+GO:0016603	"glutaminyl-peptide cyclotransferase activity"	Q54B14
+GO:0016614	"oxidoreductase activity, acting on CH-OH group of donors"	Q54L85	Q75JR3	Q54UH8	Q54DP1	Q557D2	Q54QC1	Q9NKW1	Q54VM2	Q54XZ0	Q55GI5	Q54GJ7	Q54GP3	Q54TC2	Q6TU48	Q54UF7	Q55C77	Q8TA03	Q55BI2	Q54CX6	Q54QQ0	Q556J2	Q54E41	P34135	Q55FL3
+GO:0016615	"malate dehydrogenase activity"	Q6TU48	Q54VM2
+GO:0016616	"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"	Q54L85	Q75JR3	Q54UH8	Q54DP1	Q557D2	Q9NKW1	Q54VM2	Q54XZ0	Q54GP3	Q54TC2	Q6TU48	Q54UF7	Q55C77	Q8TA03	Q55BI2	Q54CX6	Q54QQ0	Q556J2	P34135	Q55FL3
+GO:0016618	"hydroxypyruvate reductase activity"	Q54DP1
+GO:0016620	"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor"	P83401	Q54M18	Q54I10	Q94469	Q54DG1
+GO:0016624	"oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor"	Q54VG0	Q55FN7	Q86HX0
+GO:0016627	"oxidoreductase activity, acting on the CH-CH group of donors"	Q54VE8	Q54R47	Q54W88	Q54PP1	P07670	Q54YT4	Q55FT1	Q8T2T5	Q54RR5	Q54DT8	Q55C17	Q55CC2
+GO:0016628	"oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor"	Q54PP1	Q54YT4	Q55C17	Q55FT1
+GO:0016634	"oxidoreductase activity, acting on the CH-CH group of donors, oxygen as acceptor"	Q54DT8	Q54VE8
+GO:0016635	"oxidoreductase activity, acting on the CH-CH group of donors, quinone or related compound as acceptor"	P07670	Q55CC2
+GO:0016638	"oxidoreductase activity, acting on the CH-NH2 group of donors"	Q54VI3	Q556K3	Q54KB7	Q54YS6	Q54KM7	Q76NT9	Q556W1	Q54EW2
+GO:0016639	"oxidoreductase activity, acting on the CH-NH2 group of donors, NAD or NADP as acceptor"	Q54VI3	Q54KB7
+GO:0016641	"oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor"	Q556K3	Q54YS6	Q76NT9	Q556W1	Q54EW2
+GO:0016642	"oxidoreductase activity, acting on the CH-NH2 group of donors, disulfide as acceptor"	Q54KM7
+GO:0016645	"oxidoreductase activity, acting on the CH-NH group of donors"	Q86A17	Q54NG9	Q86KU6	Q54EW2	Q54RA2	Q55E34	Q86H28	Q54XM6
+GO:0016646	"oxidoreductase activity, acting on the CH-NH group of donors, NAD or NADP as acceptor"	Q86A17	Q54NG9	Q86KU6	Q54RA2	Q55E34
+GO:0016647	"oxidoreductase activity, acting on the CH-NH group of donors, oxygen as acceptor"	Q54EW2
+GO:0016649	"oxidoreductase activity, acting on the CH-NH group of donors, quinone or similar compound as acceptor"	Q54XM6
+GO:0016651	"oxidoreductase activity, acting on NAD(P)H"	Q55CD9	Q55CT1	O76740	Q54NC1	Q9GRX6	Q869N7	Q55AQ8	Q86GL4
+GO:0016653	"oxidoreductase activity, acting on NAD(P)H, heme protein as acceptor"	O76740	Q55CT1	Q54NC1
+GO:0016655	"oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor"	Q55CD9	Q869N7
+GO:0016661	"oxidoreductase activity, acting on other nitrogenous compounds as donors"	Q54LT2
+GO:0016663	"oxidoreductase activity, acting on other nitrogenous compounds as donors, oxygen as acceptor"	Q54LT2
+GO:0016667	"oxidoreductase activity, acting on a sulfur group of donors"	Q54KN7	Q551H3	Q54EW8	Q8T137	Q54DK1	B0G106	Q54UU8
+GO:0016668	"oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor"	B0G106	Q54UU8	Q54EW8	Q8T137
+GO:0016671	"oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor"	Q551H3
+GO:0016672	"oxidoreductase activity, acting on a sulfur group of donors, quinone or similar compound as acceptor"	Q54DK1
+GO:0016679	"oxidoreductase activity, acting on diphenols and related substances as donors"	Q54NW9	Q8WSV6
+GO:0016682	"oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor"	Q8WSV6
+GO:0016684	"oxidoreductase activity, acting on peroxide as acceptor"	Q54GA9	Q555L5	Q55DH8	Q54WU6
+GO:0016701	"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen"	Q556I2	Q55DB4	Q54EJ5	Q54QI4	Q54ER6	Q54GH4	Q54S02	Q557J8
+GO:0016702	"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen"	Q556I2	Q55DB4	Q54EJ5	Q54QI4	Q54ER6	Q54S02	Q557J8
+GO:0016705	"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"	Q54RE8	Q54XS1	O96099	Q86KR9	Q9UAG7	Q55D54	Q54VB3	Q54EN1	Q54N08	Q54SF6	Q556G4	Q55EK2	Q54K96	Q1ZXH9
+GO:0016706	"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors"	Q54K96	Q86KR9	Q54N08	Q54SF6
+GO:0016708	"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of two atoms of oxygen into one donor"	Q9UAG7
+GO:0016709	"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen"	Q54RE8	Q55D54	Q54VB3	Q1ZXH9
+GO:0016712	"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen"	Q54EN1
+GO:0016714	"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced pteridine as one donor, and incorporation of one atom of oxygen"	Q54XS1
+GO:0016717	"oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water"	O96099
+GO:0016721	"oxidoreductase activity, acting on superoxide radicals as acceptor"	Q55GQ5
+GO:0016722	"oxidoreductase activity, oxidizing metal ions"	Q54C45
+GO:0016724	"oxidoreductase activity, oxidizing metal ions, oxygen as acceptor"	Q54C45
+GO:0016725	"oxidoreductase activity, acting on CH or CH2 groups"	P42521	Q54CW7	Q54FB7
+GO:0016726	"oxidoreductase activity, acting on CH or CH2 groups, NAD or NADP as acceptor"	Q54FB7
+GO:0016728	"oxidoreductase activity, acting on CH or CH2 groups, disulfide as acceptor"	P42521	Q54CW7
+GO:0016730	"oxidoreductase activity, acting on iron-sulfur proteins as donors"	Q54KG7
+GO:0016731	"oxidoreductase activity, acting on iron-sulfur proteins as donors, NAD or NADP as acceptor"	Q54KG7
+GO:0016740	"transferase activity"	Q54X04	Q54I98	Q54BM7	Q54DD3	Q86HS9	Q75JX0	Q54N73	Q869T9	Q54Z56	Q54K91	Q55EY8	Q8MQU6	Q54FI3	Q55E99	Q55GU1	Q54PM8	Q54YF2	Q54PW5	Q54XC1	Q55D51	Q86HG0	Q8SSN5	Q1ZXC9	P18160	Q8T2K9	Q00766	Q54M18	Q8I7W9	Q54IH4	Q54JH6	P54677	Q54YZ0	Q55DA6	P15808	Q95YH0	Q54QG6	Q54X49	Q557H5	Q55GR8	Q55C57	P09556	Q55DA3	Q54UP4	Q54QG0	Q54DM9	P28178	Q1ZXJ3	P0CD61	Q54WR8	Q554E2	Q54LU8	Q54ST2	Q54VA8	O15749	Q86JJ0	Q55GU8	Q55F69	Q55AQ3	Q552E3	Q8I7C6	Q54I60	Q54UC0	P54673	Q558K8	Q54WD6	Q54N47	Q54V75	Q54PK9	Q54RP0	Q55FI1	Q94497	Q54P92	Q54CT8	Q55AX2	Q54JD9	Q54RF5	P22887	P36413	Q54QB1	Q554C9	Q1ZXQ8	Q54B14	B0G148	Q54UX3	Q54Y03	Q54K95	Q54HI0	Q86HF4	Q54R82	Q55EI0	Q9GPM4	Q54P93	Q55FL5	Q55GQ6	Q7KWM5	Q54QK7	O96759	Q553B6	Q86A85	Q556J0	Q54PG8	Q54Z26	Q75JK0	P34099	C7G023	Q54WW9	Q54MJ7	Q75JN8	Q55CQ6	Q8T1C6	Q54DX7	Q55F68	P20054	Q55DT8	Q86J12	Q55E44	B0G126	Q54IA4	Q54MQ7	Q55BZ4	Q86AD7	Q55GK8	Q55CL6	B0G117	Q86AG7	Q54J42	Q86AH1	Q54I63	Q54VQ6	Q55F11	C7G071	Q54IL5	Q55BH9	Q86A24	Q54NU9	Q54KL0	Q54UQ4	Q55EU7	C7FZW5	Q86JJ5	Q86KF9	Q54UT2	Q54NM9	Q55D68	Q86AG8	Q55EL2	Q55E72	Q869S5	Q54SD5	Q54SN4	Q54PM7	Q55C82	Q55EK3	Q54XD0	Q55AS5	Q86HL5	Q55EL3	Q55F21	Q54MC0	Q55EJ3	Q54VJ9	Q54KM6	Q55FF3	P18160	Q55GH4	Q54PI5	Q54U59	Q54XF2	Q54NJ8	Q55D90	Q9XY92	Q54DY1	P90522	Q27564	Q869Y7	Q558U1	Q54UI6	Q9GPS6	Q54Z27	Q1ZXC6	P36416	Q55GN6	Q54S87	Q54QS0	Q54TI6	Q54D80	Q54DR1	Q54CN7	Q86K86	P54675	O44007	Q54VN2	Q54WR1	Q54KR7	Q75JV7	Q54YL2	Q555Q9	Q55FS0	Q55DQ4	Q54JP5	Q55DH6	Q54KM0	Q54DN6	Q54JL3	Q54BD5	Q55FZ9	Q54GN2	Q55EE0	Q6XHA5	Q54QJ9	Q54T81	Q54KV4	Q75JX1	Q8T191	Q54LP3	Q55FD5	Q54NX0	Q86L14	Q559G8	Q54U71	Q86AD9	Q7KWX2	Q54GN5	Q54BF0	Q9U720	Q95NZ8	O15736	Q54GT6	Q75JG8	P20425	P34125	Q54SF9	Q86A05	Q1ZXF2	Q54HS3	Q54W86	Q54YD9	Q54F07	Q86H36	Q54JB3	Q54MB5
+GO:0016741	"transferase activity, transferring one-carbon groups"	P20054	Q54I98	Q54XD0	Q54HI0	Q54I60	Q54U59	Q55AS5	Q54JL3	Q54BD5	Q55D68	Q54P92	Q86A24	Q54DD3	Q54JH6	Q558K8	Q54WD6	Q55AX2	Q86HS9	Q54VN2	Q54WR1	Q54QK7	Q54ST2	Q54HS3	Q54SD5	Q54VA8	P15808	Q55DA6	Q9GPS6	O15749	Q554C9	Q86JJ0	Q54X49	Q54NX0	Q54Z26	Q86L14	Q86AH1	C7G023	B0G148	Q75JG8	Q55DH6	Q552E3
+GO:0016742	"hydroxymethyl-, formyl- and related transferase activity"	Q54I60	Q54JL3	Q54Z26	Q86L14
+GO:0016743	"carboxyl- or carbamoyltransferase activity"	P20054
+GO:0016744	"transferase activity, transferring aldehyde or ketonic groups"	Q54UP4	B0G117	Q556J0
+GO:0016746	"transferase activity, transferring acyl groups"	Q55BH9	Q86HL5	Q86AD9	Q55EI0	Q54WR8	Q86A05	Q54MC0	Q55EJ3	Q55FL5	Q54KL0	Q54DY1	Q86J12	Q55E72	P36413	Q8SSN5	Q869Y7	Q553B6	Q8MQU6	C7FZW5	Q1ZXC6	Q54B14	P36416	Q54S87	Q557H5	Q55GU1	Q8T2K9	Q54UX3	Q54DX7
+GO:0016747	"transferase activity, transferring acyl groups other than amino-acyl groups"	Q55BH9	Q86AD9	Q54WR8	Q86A05	Q54MC0	Q55EJ3	Q55FL5	Q54DY1	Q86J12	Q55E72	P36413	Q8SSN5	Q869Y7	Q553B6	C7FZW5	Q1ZXC6	P36416	Q54S87	Q557H5	Q55GU1	Q54UX3	Q54DX7
+GO:0016748	"succinyltransferase activity"	Q869Y7	Q54UX3
+GO:0016749	"N-succinyltransferase activity"	Q54UX3
+GO:0016751	"S-succinyltransferase activity"	Q869Y7
+GO:0016755	"transferase activity, transferring amino-acyl groups"	Q55EI0	Q54B14
+GO:0016757	"transferase activity, transferring glycosyl groups"	Q55F11	Q54IL5	Q54NM9	Q8I7C6	Q54NJ8	Q554E2	Q55FZ9	Q54NU9	Q75JX0	Q55GQ6	Q54Z56	Q7KWM5	P90522	Q54IA4	Q75JV7	Q9U720	Q55EK3	Q86A85	Q55C82	Q555Q9	Q55GU8	Q8T191	Q54QG6	Q54PG8	Q54LP3	Q55FD5	Q54J42	Q54V75	P09556	Q54PM8	Q54WW9	Q55F69	Q8T1C6	Q55GH4	Q54RP0	Q00766	Q54QG0	Q54DM9
+GO:0016758	"transferase activity, transferring hexosyl groups"	Q55F11	Q54IL5	Q54NM9	Q554E2	Q55FZ9	Q54NU9	Q54Z56	Q7KWM5	P90522	Q54IA4	Q75JV7	Q9U720	Q55EK3	Q555Q9	Q8T191	Q54QG6	Q54LP3	Q55FD5	Q54J42	Q54V75	Q54WW9	Q55F69	Q8T1C6	Q55GH4	Q54RP0	Q00766	Q54QG0	Q54DM9
+GO:0016759	"cellulose synthase activity"	Q9U720
+GO:0016760	"cellulose synthase (UDP-forming) activity"	Q9U720
+GO:0016763	"transferase activity, transferring pentosyl groups"	P09556	Q75JX0	Q55GQ6	Q54PM8	Q8I7C6	Q86A85	Q55C82	Q55GU8	Q54PG8	Q54NJ8
+GO:0016765	"transferase activity, transferring alkyl or aryl (other than methyl) groups"	Q54DR1	Q54U71	Q54CN7	Q86K86	Q54PW5	Q54P93	Q9XY92	Q55D51	O96759	Q55EU7	Q54MQ7	Q54VJ9	Q55E99	Q54YD9	Q54F07	Q55FF3	Q54JB3	Q55DQ4	Q55DA3
+GO:0016769	"transferase activity, transferring nitrogenous groups"	Q54GT6	Q86AG8	Q54KM6	Q54MJ7	Q54N47	Q55CQ6	Q54JP5	Q55DT8	Q55FI1	Q55F21	Q54K95
+GO:0016772	"transferase activity, transferring phosphorus-containing groups"	C7G071	Q54UC0	Q54BM7	P54673	P54675	Q54N73	Q869T9	Q54UQ4	Q54YL2	Q55FS0	Q86JJ5	Q54PK9	Q86KF9	Q54UT2	Q54KM0	Q54YF2	Q54DN6	Q94497	Q54CT8	Q54XC1	Q54GN2	Q55EE0	Q6XHA5	Q54RF5	Q86HG0	P22887	Q54QJ9	Q54T81	Q54QB1	Q869S5	P18160	Q54SN4	Q54PM7	Q75JX1	Q54Y03	Q54M18	Q8I7W9	Q54IH4	Q55EL3	Q54R82	Q9GPM4	Q7KWX2	Q54GN5	P54677	Q54YZ0	Q54BF0	Q95YH0	Q95NZ8	P18160	Q75JK0	P34099	Q55GR8	Q55C57	Q75JN8	P20425	Q55F68	Q54PI5	P28178	Q1ZXJ3	Q54XF2	P34125	P0CD61	Q54SF9	Q1ZXF2	Q55D90	Q55E44	Q54LU8	Q27564	B0G126	Q54W86	Q54UI6	Q558U1	Q55BZ4	Q54YD9	Q54Z27	Q86AD7	Q55CL6	Q86AG7	Q86H36	Q55GN6	Q55AQ3	Q54MB5	Q54D80
+GO:0016773	"phosphotransferase activity, alcohol group as acceptor"	Q54YF2	Q54PI5	Q54DN6	Q54UC0	P54673	P54675	P28178	P34125	Q54XC1	Q54R82	Q54SF9	Q55EE0	Q6XHA5	Q54N73	Q54RF5	Q869T9	Q55E44	P54677	Q54LU8	Q54BF0	Q54QB1	Q54UQ4	Q869S5	B0G126	Q54W86	Q558U1	P18160	Q95YH0	Q54Z27	Q86AD7	Q55CL6	Q86AG7	P18160	Q55GN6	Q75JK0	P34099	Q55C57	Q54PK9	Q54MB5	Q54D80	Q86KF9
+GO:0016774	"phosphotransferase activity, carboxyl group as acceptor"	Q54M18	Q9GPM4
+GO:0016775	"phosphotransferase activity, nitrogenous group as acceptor"	Q55E44
+GO:0016776	"phosphotransferase activity, phosphate group as acceptor"	P20425	Q54GN2	P22887	Q54BM7	Q54QJ9	Q54Y03	Q54XF2	Q54CT8
+GO:0016778	"diphosphotransferase activity"	Q55GR8	Q75JN8	Q54YD9
+GO:0016779	"nucleotidyltransferase activity"	Q54KM0	Q8I7W9	Q54IH4	Q1ZXF2	Q55D90	Q86HG0	Q54GN5	Q54YZ0	Q54T81	Q54UI6	Q54SN4	Q55BZ4	Q95NZ8	Q86H36	Q55FS0	Q86JJ5
+GO:0016780	"phosphotransferase activity, for other substituted phosphate groups"	Q55AQ3	Q7KWX2	Q1ZXJ3	P0CD61
+GO:0016781	"phosphotransferase activity, paired acceptors"	Q94497
+GO:0016782	"transferase activity, transferring sulfur-containing groups"	Q54X04	Q54JD9	Q559G8	Q54I63	Q55GK8	Q86HF4	Q54K91	Q55FS0	Q54KV4
+GO:0016783	"sulfurtransferase activity"	Q54X04	Q559G8	Q54I63	Q86HF4	Q55FS0
+GO:0016785	"transferase activity, transferring selenium-containing groups"	Q54VQ6
+GO:0016787	"hydrolase activity"	P52922	Q553U5	Q55E60	Q55C80	Q55B10	Q55A00	Q7KWM9	Q54KX5	Q557H1	O15751	Q55ER0	Q54NU0	P36411	Q557H7	Q86I79	Q54K91	B0G107	Q55E39	Q54U72	Q55CY3	Q558W0	Q1ZXP7	Q54KN3	P10819	P54651	Q54ND5	Q86HE5	Q54XR2	Q6RYT0	Q54Q04	Q86IX2	Q964D8	Q54MG8	Q94465	P51173	Q54YM3	Q54LL8	Q55G81	Q55G11	Q54PV8	Q54WW4	Q54S53	Q54XC1	Q54C64	Q55DP8	Q54NW6	Q54SC9	Q54TN3	Q54VL5	Q76P10	Q55GS6	Q54LQ6	Q8MUF9	Q6TMJ1	Q55G28	Q55FS1	Q55GC7	Q55GG6	Q86AV9	Q54QX5	Q54R42	Q86L14	Q55FN1	Q54QZ5	Q86K43	B0G0Y8	Q54CJ3	Q1ZXQ1	Q02158	Q55FK4	Q55F34	Q54R62	Q8I7W9	Q3ZE13	Q54Q40	Q54H38	Q54ZD0	Q86AS5	Q54BH7	Q1ZXM2	Q54XK9	Q54EY1	Q54KF3	Q54PV1	Q966U0	Q55FW8	Q86IG3	Q54FR0	Q55AW0	Q54IF7	Q86KK2	Q54ML1	Q54FK1	Q86AW9	Q7YSW8	Q54JM9	Q8I7P3	Q86I82	Q55DQ0	Q54W16	Q86I22	Q8MM62	P20054	Q55GW2	Q54MR1	Q54BW5	Q55DL0	Q551H0	Q55FM6	Q54H71	Q23892	Q54I82	Q7M438	Q55DD5	Q54HT1	Q55DB0	P54638	Q55GJ6	Q55GJ2	Q54LN4	P10901	Q55AW9	Q54DD0	Q55CT0	Q557J5	Q54VL9	Q55C91	Q94502	Q1ZXP8	Q55FN5	Q54XP3
+GO:0016788	"hydrolase activity, acting on ester bonds"	Q55C80	Q55A00	Q54NU0	Q54K91	B0G107	Q55E39	Q54U72	Q558W0	Q54KN3	Q54ND5	Q6RYT0	Q54MG8	P51173	Q54LL8	Q54XC1	Q54TN3	Q76P10	Q55GS6	Q55FS1	Q55GC7	Q86AV9	Q55GG6	Q54QX5	Q54R42	Q55FN1	Q86K43	B0G0Y8	Q54CJ3	Q02158	Q55FK4	Q55F34	Q8I7W9	Q3ZE13	Q54H38	Q54ZD0	Q54EY1	Q54PV1	Q966U0	Q55FW8	Q86IG3	Q54IF7	Q55AW0	Q54FK1	Q7YSW8	Q8I7P3	Q54W16	Q8MM62	Q55GW2	Q54MR1	Q551H0	Q55FM6	Q7M438	Q55DD5	Q55GJ2	Q55AW9	Q54VL9
+GO:0016790	"thiolester hydrolase activity"	Q55FK4	Q54MR1	Q54K91	Q55GS6
+GO:0016791	"phosphatase activity"	Q55GW2	Q55F34	Q55A00	Q54XC1	Q55FM6	Q54PV1	Q76P10	Q86IG3	Q54IF7	Q55E39	Q54U72	Q54FK1	Q7YSW8	Q55AW9	Q54R42	Q54ND5	Q8I7P3	Q6RYT0	Q54MG8
+GO:0016793	"triphosphoric monoester hydrolase activity"	B0G107
+GO:0016794	"diphosphoric monoester hydrolase activity"	Q54KN3
+GO:0016796	"exonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters"	P51173	Q558W0	Q55DD5	Q54W16	Q55AW0
+GO:0016798	"hydrolase activity, acting on glycosyl bonds"	Q54YM3	Q55B10	Q54S53	Q7KWM9	Q54KX5	O15751	Q55ER0	Q54SC9	Q1ZXM2	Q54H71	Q23892	Q1ZXP7	Q6TMJ1	Q54HT1	P10901	Q86HE5	Q54QZ5	Q86K43	Q94502	Q1ZXP8
+GO:0016799	"hydrolase activity, hydrolyzing N-glycosyl compounds"	Q1ZXP7	Q86K43	Q1ZXM2	Q54HT1	Q54H71	Q1ZXP8	Q7KWM9
+GO:0016801	"hydrolase activity, acting on ether bonds"	P52922	P10819
+GO:0016802	"trialkylsulfonium hydrolase activity"	P10819
+GO:0016803	"ether hydrolase activity"	P52922
+GO:0016805	"dipeptidase activity"	Q55E60
+GO:0016810	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"	P20054	Q553U5	Q55G11	Q54C64	Q55DL0	Q55DP8	Q54NW6	Q54BH7	Q54VL5	Q54KF3	Q54I82	Q55CY3	Q54ML1	Q6TMJ1	Q55DB0	P54638	Q86AW9	Q54DD0	Q86L14	Q54JM9	Q557J5	Q86I82	Q55DQ0	Q55C91	Q964D8	Q94465	Q55FN5	Q54XP3
+GO:0016811	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides"	Q54JM9	Q55DP8	Q557J5	Q54ML1	Q86I82	Q54BH7	Q6TMJ1	Q55DQ0	P54638	Q55DB0	Q55G11	Q964D8	Q54C64	Q55FN5
+GO:0016812	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides"	Q55CY3	Q54NW6	P20054	Q55C91	Q55DL0
+GO:0016813	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines"	Q54VL5
+GO:0016814	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amidines"	Q553U5	Q54KF3	Q86AW9	Q54XP3	Q54I82	Q94465	Q54DD0	Q86L14
+GO:0016817	"hydrolase activity, acting on acid anhydrides"	Q54R62	Q55G81	Q54PV8	Q54BW5	P36411	Q54FR0	Q54LQ6	Q55G28	P54651	Q86IX2	Q86KK2
+GO:0016818	"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"	Q54R62	Q55G81	Q54PV8	Q54BW5	P36411	Q54FR0	Q54LQ6	Q55G28	P54651	Q86IX2	Q86KK2
+GO:0016822	"hydrolase activity, acting on acid carbon-carbon bonds"	Q1ZXQ1	Q54Q04	Q86I22
+GO:0016823	"hydrolase activity, acting on acid carbon-carbon bonds, in ketonic substances"	Q1ZXQ1	Q54Q04	Q86I22
+GO:0016825	"hydrolase activity, acting on acid phosphorus-nitrogen bonds"	Q76P10
+GO:0016829	"lyase activity"	Q55F68	Q54VQ5	Q54XS1	Q54NS4	Q556V9	Q54XS2	Q54JL3	Q54WS6	Q55E06	Q55F83	Q55DV9	Q86AX3	Q54VA2	Q54UF3	Q54HG7	Q54XF6	Q1ZXF7	Q54FJ9	C7G026	Q75JD5	C7FZZ8	Q54EY7	Q6TU48	Q54Y51	Q54J34	Q54NY7	Q54KM6	Q54IJ0	Q7M438	Q552W5	Q54YD9	Q8T1E3	Q55BU2	Q86A67	Q54DA9	P46794	Q54J47	Q54DF9	P09556	Q03101	Q54YQ9	Q54LN9	Q54IA8	Q553Y7	Q54NM6	Q86K43	Q54QI7	Q54HH2	Q86B06	Q1ZXF1	Q54RV9	Q1ZXI0	Q869Z4
+GO:0016830	"carbon-carbon lyase activity"	Q54VQ5	Q54UF3	C7G026	Q75JD5	Q6TU48	Q54Y51	Q54YD9	Q8T1E3	Q86A67	Q54DA9	Q54DF9	P09556	Q54YQ9	Q54LN9	Q54NM6	Q54QI7	Q54RV9	C7FZZ8	Q869Z4
+GO:0016831	"carboxy-lyase activity"	Q54UF3	Q54VQ5	Q54DF9	P09556	Q54YQ9	Q54LN9	C7G026	Q75JD5	Q8T1E3	C7FZZ8	Q6TU48	Q869Z4	Q54Y51
+GO:0016832	"aldehyde-lyase activity"	Q54DA9	Q54RV9	Q86A67	Q54YD9
+GO:0016833	"oxo-acid-lyase activity"	Q54QI7
+GO:0016835	"carbon-oxygen lyase activity"	Q54XS1	Q54NS4	Q54XS2	Q54WS6	Q55E06	Q55F83	Q86AX3	Q54VA2	Q54HG7	Q54XF6	Q1ZXF7	Q54FJ9	Q54NY7	Q54IJ0	Q55BU2	P46794	Q86K43	Q1ZXF1	Q1ZXI0
+GO:0016836	"hydro-lyase activity"	Q54XS1	Q54NS4	Q54XS2	Q54WS6	Q55E06	Q55F83	Q86AX3	Q54VA2	Q54HG7	Q54XF6	Q1ZXF7	Q54FJ9	Q54NY7	Q54IJ0	Q55BU2	P46794	Q1ZXF1
+GO:0016838	"carbon-oxygen lyase activity, acting on phosphates"	Q1ZXI0
+GO:0016840	"carbon-nitrogen lyase activity"	Q54J34	Q54J47	Q556V9	Q54JL3	Q54HH2	Q86B06
+GO:0016841	"ammonia-lyase activity"	Q556V9	Q54JL3	Q54HH2	Q86B06
+GO:0016842	"amidine-lyase activity"	Q54J34
+GO:0016843	"amine-lyase activity"	Q54J47
+GO:0016846	"carbon-sulfur lyase activity"	Q54KM6	Q552W5	Q54EY7	Q55DV9
+GO:0016849	"phosphorus-oxygen lyase activity"	Q55F68	Q03101	Q553Y7	Q7M438	Q54NM6
+GO:0016853	"isomerase activity"	Q551C2	Q54NE6	Q54SS0	Q86B09	Q553V2	Q55G43	Q54PA0	Q55BP5	Q55FM6	Q54XK9	Q869Q9	Q8T2T7	Q869R8	Q54N49	Q55CV0	Q54UQ2	Q54YE7	Q9NH02	Q55E32	Q553X7	Q5V9E9	Q54YN2	Q556R9	Q55D85	Q54HH2	Q54R90	O96548
+GO:0016854	"racemase and epimerase activity"	Q55CV0	Q553X7	Q553V2	Q54YE7	Q556R9	Q54HH2	O96548
+GO:0016855	"racemase and epimerase activity, acting on amino acids and derivatives"	Q54HH2	O96548
+GO:0016857	"racemase and epimerase activity, acting on carbohydrates and derivatives"	Q54YE7	Q553X7	Q556R9
+GO:0016859	"cis-trans isomerase activity"	Q55G43	Q54YN2
+GO:0016860	"intramolecular oxidoreductase activity"	Q55E32	Q5V9E9	Q55FM6	Q54PA0	Q54XK9	Q551C2	Q869Q9	Q9NH02	Q54R90	Q869R8	Q54SS0
+GO:0016861	"intramolecular oxidoreductase activity, interconverting aldoses and ketoses"	Q5V9E9	Q54PA0	Q54XK9	Q551C2	Q54R90	Q869R8
+GO:0016862	"intramolecular oxidoreductase activity, interconverting keto- and enol-groups"	Q55FM6
+GO:0016863	"intramolecular oxidoreductase activity, transposing C=C bonds"	Q55E32	Q9NH02	Q54SS0
+GO:0016864	"intramolecular oxidoreductase activity, transposing S-S bonds"	Q869Q9
+GO:0016866	"intramolecular transferase activity"	Q55D85	Q54NE6	Q86B09	Q54UQ2
+GO:0016868	"intramolecular transferase activity, phosphotransferases"	Q54NE6	Q86B09	Q54UQ2
+GO:0016871	"cycloartenol synthase activity"	Q55D85
+GO:0016872	"intramolecular lyase activity"	Q54N49
+GO:0016874	"ligase activity"	P20054	Q86A68	Q86H43	P20425	Q8T2J9	Q54PF9	Q55AI5	Q55GM6	Q55G10	Q54E83	Q55DR6	Q8MP20	P14325	Q1ZXG5	Q54X95	Q54YD4	Q551A1	P21900	Q54PC2	Q54CY5	Q55FI3	Q54N83	Q86A01	Q86KU2	Q75JK9	P32073	Q54GJ2	Q55F42	Q869Z3	Q55C16	Q54P79	Q54ML1	Q869E1	Q55ER8	Q869S7	Q553S7	Q54I80	Q54C02	Q54P77	Q54ZY3	Q55DZ8	Q55FS0	Q54J08	Q558Z0	Q55C99	Q54WI4	Q55D12	Q54QG9	Q86B00	Q86CR9	Q54TY4	Q54JC8	Q554Z5	Q54Y09	O15746
+GO:0016875	"ligase activity, forming carbon-oxygen bonds"	Q86A68	Q86H43	Q54PF9	Q55GM6	Q8MP20	P14325	Q54X95	Q551A1	Q54YD4	Q55FI3	Q54N83	Q86KU2	Q75JK9	Q869Z3	Q54ZY3	Q55DZ8	Q55C99	Q558Z0	Q55D12	Q54TY4
+GO:0016877	"ligase activity, forming carbon-sulfur bonds"	Q55C16	Q54P79	Q54QG9	Q869S7	Q55FS0	Q86CR9	Q54C02	Q54P77	Q55AI5	Q554Z5	Q54WI4	Q55DR6
+GO:0016878	"acid-thiol ligase activity"	Q54P79	Q869S7	Q55AI5	Q554Z5	Q55DR6
+GO:0016879	"ligase activity, forming carbon-nitrogen bonds"	P20054	P20425	Q55G10	Q54E83	P21900	Q54PC2	Q54CY5	Q86A01	Q54GJ2	P32073	Q54ML1	Q55ER8	Q54I80	Q54J08	Q86B00	Q54JC8
+GO:0016880	"acid-ammonia (or amide) ligase activity"	Q86B00
+GO:0016881	"acid-amino acid ligase activity"	Q54I80	Q54PC2	Q54CY5	Q54E83
+GO:0016882	"cyclo-ligase activity"	Q54GJ2
+GO:0016884	"carbon-nitrogen ligase activity, with glutamine as amido-N-donor"	P20054	Q54ML1	Q55ER8	Q86A01	Q54JC8	P32073
+GO:0016885	"ligase activity, forming carbon-carbon bonds"	Q553S7	Q54J08	Q8T2J9
+GO:0016886	"ligase activity, forming phosphoric ester bonds"	Q54Y09	Q869E1	O15746	Q1ZXG5
+GO:0016887	"ATPase activity"	P54651
+GO:0016888	"endodeoxyribonuclease activity, producing 5'-phosphomonoesters"	Q54NU0	Q966U0
+GO:0016889	"endodeoxyribonuclease activity, producing 3'-phosphomonoesters"	Q551H0
+GO:0016891	"endoribonuclease activity, producing 5'-phosphomonoesters"	Q54VL9	Q55FS1	Q3ZE13
+GO:0016893	"endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters"	Q54NU0	Q54VL9	Q55FS1	Q3ZE13	Q966U0
+GO:0016894	"endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 3'-phosphomonoesters"	Q551H0
+GO:0016895	"exodeoxyribonuclease activity, producing 5'-phosphomonoesters"	Q558W0	P51173
+GO:0016896	"exoribonuclease activity, producing 5'-phosphomonoesters"	Q55DD5	Q55AW0	Q54W16
+GO:0016899	"oxidoreductase activity, acting on the CH-OH group of donors, oxygen as acceptor"	Q54E41
+GO:0016901	"oxidoreductase activity, acting on the CH-OH group of donors, quinone or similar compound as acceptor"	Q54QC1
+GO:0016903	"oxidoreductase activity, acting on the aldehyde or oxo group of donors"	Q55FN7	P83401	Q86HX0	Q54M18	Q54I10	Q94469	Q54VG0	Q54DG1	Q55FL3
+GO:0016905	"myosin heavy chain kinase activity"	Q54SF9
+GO:0016906	"sterol 3-beta-glucosyltransferase activity"	Q54IL5
+GO:0016917	"GABA receptor activity"	Q54K11
+GO:0016922	"ligand-dependent nuclear receptor binding"	Q54UJ6	Q54HI0
+GO:0017018	"myosin phosphatase activity"	Q55E39
+GO:0017022	"myosin binding"	P34109	Q55EU6	Q54YW1	P54632	P09402	Q557J6	Q7Z2B8
+GO:0017024	"myosin I binding"	P09402	Q557J6
+GO:0017040	"ceramidase activity"	Q55G11	Q6TMJ1
+GO:0017050	"D-erythro-sphingosine kinase activity"	Q75JX1
+GO:0017057	"6-phosphogluconolactonase activity"	Q54CJ3
+GO:0017069	"snRNA binding"	Q55FQ0	Q54HH8	Q8T295
+GO:0017070	"U6 snRNA binding"	Q8T295
+GO:0017076	"purine nucleotide binding"	Q55F68	Q9XPJ9	P32254	Q54Z60	Q54QF9	Q55GQ6	Q5FXM5	Q55EP5	B0G0Y8	Q75JD5	P19198	Q9GPM4
+GO:0017108	"5'-flap endonuclease activity"	Q54NU0
+GO:0017111	"nucleoside-triphosphatase activity"	P54651	P36411
+GO:0017113	"dihydropyrimidine dehydrogenase (NADP+) activity"	Q55FT1
+GO:0017116	"single-stranded DNA-dependent ATP-dependent DNA helicase activity"	Q86B14
+GO:0017124	"SH3 domain binding"	Q5TJ65
+GO:0017136	"NAD-dependent histone deacetylase activity"	Q55DB0
+GO:0017168	"5-oxoprolinase (ATP-hydrolyzing) activity"	Q54NW6
+GO:0017169	"CDP-alcohol phosphatidyltransferase activity"	Q1ZXJ3	Q7KWX2
+GO:0017171	"serine hydrolase activity"	Q55CT0	Q86I79
+GO:0018024	"histone-lysine N-methyltransferase activity"	Q54HS3	B0G148	Q55AX2
+GO:0018064	"protein-histidine N-methyltransferase activity"	Q55D68
+GO:0018114	"threonine racemase activity"	Q54HH2
+GO:0018455	"alcohol dehydrogenase [NAD(P)+] activity"	Q54TC2
+GO:0018478	"malonate-semialdehyde dehydrogenase (acetylating) activity"	Q54I10
+GO:0018773	"acetylpyruvate hydrolase activity"	Q86I22
+GO:0019001	"guanyl nucleotide binding"	Q55EP5	Q55GQ6	P32254	B0G0Y8
+GO:0019003	"GDP binding"	P32254
+GO:0019104	"DNA N-glycosylase activity"	Q1ZXP7	Q86K43	Q1ZXM2	Q1ZXP8
+GO:0019107	"myristoyltransferase activity"	Q553B6
+GO:0019135	"deoxyhypusine monooxygenase activity"	Q556G4
+GO:0019136	"deoxynucleoside kinase activity"	Q54UT2	Q27564	Q54YL2
+GO:0019166	"trans-2-enoyl-CoA reductase (NADPH) activity"	Q54YT4
+GO:0019187	"beta-1,4-mannosyltransferase activity"	P90522
+GO:0019199	"transmembrane receptor protein kinase activity"	Q54N73
+GO:0019200	"carbohydrate kinase activity"	Q54PM7	Q54DN6	P28178	Q54D80	Q54UQ4
+GO:0019202	"amino acid kinase activity"	C7G071
+GO:0019203	"carbohydrate phosphatase activity"	Q6RYT0
+GO:0019205	"nucleobase-containing compound kinase activity"	P20425	Q54UT2	Q54GN2	P22887	Q54CT8	Q54YL2	Q54Z27	Q54Y03	Q54MB5	Q54XF2	Q27564	Q55EL3	Q54XC1
+GO:0019206	"nucleoside kinase activity"	Q54UT2	Q54YL2	Q54MB5	Q27564	Q55EL3
+GO:0019207	"kinase regulator activity"	Q55FJ2	Q95YH0	P05987	P54673	Q54DK0	Q551H4	Q550R2	Q54XS0	Q55CH0	Q54C74
+GO:0019208	"phosphatase regulator activity"	Q86IL5	Q55G87	Q54WH6	Q54HG4	Q55CJ3	Q86IZ4	Q54I18
+GO:0019209	"kinase activator activity"	Q551H4	P54673
+GO:0019210	"kinase inhibitor activity"	P05987
+GO:0019211	"phosphatase activator activity"	Q55CJ3	Q54WH6	Q54I18
+GO:0019212	"phosphatase inhibitor activity"	Q54HG4	Q86IZ4
+GO:0019213	"deacetylase activity"	Q54C64	Q55FN5	Q55DB0	P54638
+GO:0019238	"cyclohydrolase activity"	Q94465	Q86L14
+GO:0019239	"deaminase activity"	Q553U5	Q54XK9	Q54KF3	Q86AW9	Q54I82	Q54DD0	Q54XP3
+GO:0019706	"protein-cysteine S-palmitoyltransferase activity"	Q557H5
+GO:0019707	"protein-cysteine S-acyltransferase activity"	Q557H5
+GO:0019776	"Atg8 ligase activity"	O15736
+GO:0019778	"Atg12 activating enzyme activity"	Q86CR9
+GO:0019779	"Atg8 activating enzyme activity"	Q86CR9
+GO:0019781	"NEDD8 activating enzyme activity"	Q54QG9
+GO:0019783	"ubiquitin-like protein-specific protease activity"	Q54XR2	Q557H7	Q54Q40
+GO:0019784	"NEDD8-specific protease activity"	Q54XR2
+GO:0019786	"Atg8-specific protease activity"	Q557H7
+GO:0019787	"ubiquitin-like protein transferase activity"	Q54KR7	Q55EL2	O44007	Q54TI6	Q1ZXC9	Q54QS0	O15736	Q55EY8
+GO:0019788	"NEDD8 transferase activity"	Q54TI6
+GO:0019789	"SUMO transferase activity"	Q54KR7
+GO:0019825	"oxygen binding"	Q9UAG7
+GO:0019829	"cation-transporting ATPase activity"	Q55CS9	Q55FW3	P54678	P54679
+GO:0019842	"vitamin binding"	Q55GR8	Q54FI3	Q559K0	Q55FL5	C7G026	B0G0Z0	B0G117	Q54P92
+GO:0019843	"rRNA binding"	Q54J50	Q54XX3
+GO:0019887	"protein kinase regulator activity"	Q95YH0	P05987	P54673	Q551H4	Q550R2	Q54XS0	Q55CH0
+GO:0019888	"protein phosphatase regulator activity"	Q86IL5	Q55G87	Q54WH6	Q86IZ4	Q54I18
+GO:0019899	"enzyme binding"	P54654	P05987	Q54Q80	Q54TN3	P34145	Q8N0B5	P46800	Q54MB8	Q54RR8	Q55C62	Q54Y76	Q54E04	Q55GV3	Q9XZJ3	Q55G87	Q54QM5	P13466	Q54NN1	Q54BD4	Q54FD6	Q552X2
+GO:0019900	"kinase binding"	Q55C62	P05987	P13466	P34145	Q54BD4	Q8N0B5	P46800	Q54RR8
+GO:0019901	"protein kinase binding"	P05987	P13466	Q54BD4	P34145	Q8N0B5	P46800	Q54RR8
+GO:0019902	"phosphatase binding"	Q55G87	Q54TN3	Q552X2
+GO:0019903	"protein phosphatase binding"	Q55G87	Q54TN3	Q552X2
+GO:0019904	"protein domain specific binding"	P52285	Q5TJ65
+GO:0019948	"SUMO activating enzyme activity"	Q54WI4
+GO:0020037	"heme binding"	Q867X6
+GO:0022803	"passive transmembrane transporter activity"	Q9U8P7	Q86JM7	Q55CX3	Q9NA13	Q75JF3	Q01501	Q75JR4	Q54S52	Q55F42	Q54TU8
+GO:0022804	"active transmembrane transporter activity"	Q54XK2	Q54LT0	Q54BF6	P54679	Q55GB1	Q8T674	Q54B67	Q55CD9	Q54EQ0	P54678	O97470	Q54NW9	Q55CS9	Q86AZ6	Q54CD1	Q55FW3	Q553K4	Q1ZXJ4	Q552S0
+GO:0022821	"potassium ion antiporter activity"	Q552S0
+GO:0022829	"wide pore channel activity"	Q01501
+GO:0022832	"voltage-gated channel activity"	Q75JF3	Q01501
+GO:0022834	"ligand-gated channel activity"	Q86JM7	Q9NA13
+GO:0022836	"gated channel activity"	Q55CX3	Q9NA13	Q75JF3	Q01501	Q75JR4	Q54S52	Q86JM7
+GO:0022839	"ion gated channel activity"	Q75JR4	Q55CX3
+GO:0022853	"active ion transmembrane transporter activity"	O97470	Q55CS9	Q54B67	Q55FW3	P54678	Q54CD1	Q54NW9	Q86AZ6	Q1ZXJ4	Q552S0	P54679
+GO:0022857	"transmembrane transporter activity"	Q54EF1	Q54QI8	Q9NA13	Q54BF6	Q55GU3	Q54TU8	Q55DM5	Q76P15	Q54I48	Q54PY7	Q55FW3	Q86HQ3	Q76P23	Q559K0	Q54LT0	Q75JR4	Q551X6	Q8T674	Q869W7	Q54WT7	Q54EQ0	P54678	Q01501	Q55GE2	B0G159	Q54T06	Q54NQ9	Q86AZ6	Q55FL1	Q55E85	Q8MXY0	Q86I81	Q54S52	P54679	Q54QN2	Q86JM7	Q54FU9	Q55E98	Q55F42	Q54Z02	Q75JF3	Q869V1	Q54CD1	Q9U8P7	Q54JW5	Q55C66	Q55FV8	Q54XK2	Q54I86	Q550W6	Q54DA4	Q54GU0	Q55GB1	Q54B67	Q55CD9	Q54VS7	Q54RB9	O97470	Q54NW9	Q55CS9	Q55CX3	Q55G38	Q55DY8	Q553K4	Q1ZXJ4	Q552S0
+GO:0022884	"macromolecule transmembrane transporter activity"	Q54XK2	Q54EQ0	Q76P15
+GO:0022890	"inorganic cation transmembrane transporter activity"	Q8MXY0	Q9NA13	Q54DA4	Q75JR4	P54679	Q54TU8	Q86JM7	P54678	Q55E98	Q54NW9	Q55F42	Q55CS9	Q54T06	Q55CX3	Q869V1	Q55FL1	Q55DY8	Q55G38	Q55FW3	Q1ZXJ4	Q552S0
+GO:0030060	"L-malate dehydrogenase activity"	Q54VM2
+GO:0030145	"manganese ion binding"	Q55E60
+GO:0030159	"receptor signaling complex scaffold activity"	P36408
+GO:0030170	"pyridoxal phosphate binding"	Q55FL5
+GO:0030234	"enzyme regulator activity"	Q867T7	P05987	P54673	Q55DZ2	Q5R1U3	Q54WH6	Q54XS0	Q86L07	Q555M1	Q54UM1	Q551H4	P32253	Q54C74	Q54HG4	Q55CJ3	Q55FJ2	Q86IL5	Q95YH0	Q95UQ1	Q55CH0	Q55GH9	Q54MZ3	Q55G87	Q54DK0	Q550R2	Q556N5	Q556K9	Q86IZ4	Q54I18
+GO:0030246	"carbohydrate binding"	Q5V9E9	B0G0Z0	Q55FW5	P02887
+GO:0030249	"guanylate cyclase regulator activity"	P32253
+GO:0030250	"guanylate cyclase activator activity"	P32253
+GO:0030267	"glyoxylate reductase (NADP) activity"	Q54DP1
+GO:0030276	"clathrin binding"	Q86KI1	P25870	Q8MN58
+GO:0030291	"protein serine/threonine kinase inhibitor activity"	P05987
+GO:0030295	"protein kinase activator activity"	Q551H4	P54673
+GO:0030331	"estrogen receptor binding"	Q54HI0
+GO:0030332	"cyclin binding"	P34112
+GO:0030337	"DNA polymerase processivity factor activity"	Q86L07
+GO:0030350	"iron-responsive element binding"	Q54X73
+GO:0030366	"molybdopterin synthase activity"	Q86HF4
+GO:0030378	"serine racemase activity"	Q54HH2
+GO:0030409	"glutamate formimidoyltransferase activity"	Q54JL3
+GO:0030412	"formimidoyltetrahydrofolate cyclodeaminase activity"	Q54JL3
+GO:0030414	"peptidase inhibitor activity"	Q55DZ2	Q5R1U3	Q555M1
+GO:0030429	"kynureninase activity"	Q54Q04
+GO:0030515	"snoRNA binding"	Q55FI4	Q54H53
+GO:0030523	"dihydrolipoamide S-acyltransferase activity"	P36413
+GO:0030527	"structural constituent of chromatin"	O15819
+GO:0030545	"receptor regulator activity"	Q968Z6	Q559W3
+GO:0030546	"receptor activator activity"	Q968Z6
+GO:0030547	"receptor inhibitor activity"	Q559W3
+GO:0030551	"cyclic nucleotide binding"	P19198	B0G0Y8
+GO:0030552	"cAMP binding"	P19198
+GO:0030553	"cGMP binding"	B0G0Y8
+GO:0030554	"adenyl nucleotide binding"	Q55F68	Q9XPJ9	Q54Z60	Q54QF9	Q5FXM5	P19198	Q9GPM4
+GO:0030580	"quinone cofactor methyltransferase activity"	Q54XD0	Q54VN2
+GO:0030619	"U1 snRNA binding"	Q55FQ0
+GO:0030623	"U5 snRNA binding"	Q8T295
+GO:0030628	"pre-mRNA 3'-splice site binding"	Q54TA0
+GO:0030674	"protein binding, bridging"	Q86KI1	P13231	Q558Z2	C7G082	P36408	Q9U9R7	Q54VE0	Q55E26
+GO:0030695	"GTPase regulator activity"	Q95UQ1	Q55GH9
+GO:0030735	"carnosine N-methyltransferase activity"	Q54ST2
+GO:0030942	"endoplasmic reticulum signal peptide binding"	Q556L1
+GO:0030943	"mitochondrion targeting sequence binding"	Q54QM0
+GO:0030955	"potassium ion binding"	Q54RF5
+GO:0030975	"thiamine binding"	Q55GR8
+GO:0030976	"thiamine pyrophosphate binding"	B0G117
+GO:0030983	"mismatched DNA binding"	Q1ZXH0	Q1ZXP7	Q55GU9
+GO:0031005	"filamin binding"	P54644
+GO:0031071	"cysteine desulfurase activity"	Q54X04
+GO:0031127	"alpha-(1,2)-fucosyltransferase activity"	Q54QG0
+GO:0031151	"histone methyltransferase activity (H3-K79 specific)"	Q55AX2
+GO:0031177	"phosphopantetheine binding"	Q54FI3
+GO:0031210	"phosphatidylcholine binding"	Q54VC7
+GO:0031267	"small GTPase binding"	Q55GV3
+GO:0031369	"translation initiation factor binding"	Q54X97	Q54DU8	Q54LA1
+GO:0031386	"protein tag"	Q54QN0
+GO:0031403	"lithium ion binding"	Q54U72
+GO:0031405	"lipoic acid binding"	Q54TR7
+GO:0031406	"carboxylic acid binding"	Q54TR7	Q559K0	B0G0Z0	Q54KM7	Q54DM0	Q54WU6	Q54EW1
+GO:0031418	"L-ascorbic acid binding"	B0G0Z0
+GO:0031419	"cobalamin binding"	Q54P92
+GO:0031420	"alkali metal ion binding"	Q54U72	Q54RF5
+GO:0031434	"mitogen-activated protein kinase kinase binding"	Q8N0B5
+GO:0031490	"chromatin DNA binding"	O77033	P54671
+GO:0031491	"nucleosome binding"	P54671
+GO:0031492	"nucleosomal DNA binding"	P54671
+GO:0031543	"peptidyl-proline dioxygenase activity"	Q86KR9
+GO:0031559	"oxidosqualene cyclase activity"	Q55D85
+GO:0031593	"polyubiquitin binding"	Q553E0
+GO:0031625	"ubiquitin protein ligase binding"	Q9XZJ3
+GO:0031681	"G-protein beta-subunit binding"	Q95ZG8
+GO:0031682	"G-protein gamma-subunit binding"	P36408
+GO:0031683	"G-protein beta/gamma-subunit complex binding"	Q55EP5
+GO:0032027	"myosin light chain binding"	P34109
+GO:0032036	"myosin heavy chain binding"	P54632	Q7Z2B8	Q557J6
+GO:0032037	"myosin I heavy chain binding"	Q557J6
+GO:0032038	"myosin II heavy chain binding"	P54632
+GO:0032050	"clathrin heavy chain binding"	Q8MN58
+GO:0032051	"clathrin light chain binding"	P25870
+GO:0032135	"DNA insertion or deletion binding"	Q1ZXH0
+GO:0032182	"ubiquitin-like protein binding"	B0G147
+GO:0032216	"glucosaminyl-phosphotidylinositol O-acyltransferase activity"	Q54MC0
+GO:0032266	"phosphatidylinositol-3-phosphate binding"	Q551A3
+GO:0032296	"double-stranded RNA-specific ribonuclease activity"	Q55FS1
+GO:0032356	"oxidized DNA binding"	Q1ZXP7
+GO:0032357	"oxidized purine DNA binding"	Q1ZXP7
+GO:0032404	"mismatch repair complex binding"	Q54KD8
+GO:0032407	"MutSalpha complex binding"	Q54KD8
+GO:0032451	"demethylase activity"	Q54K96	Q54N08	Q1ZXH9
+GO:0032452	"histone demethylase activity"	Q54K96
+GO:0032453	"histone demethylase activity (H3-K4 specific)"	Q54K96
+GO:0032549	"ribonucleoside binding"	Q54J75
+GO:0032553	"ribonucleotide binding"	Q55F68	Q9XPJ9	P32254	Q54Z60	Q55CT1	Q55GQ6	Q5FXM5	B0G0Y8	P19198	Q9GPM4
+GO:0032555	"purine ribonucleotide binding"	Q55F68	Q9XPJ9	P32254	Q54Z60	Q55GQ6	Q5FXM5	B0G0Y8	P19198	Q9GPM4
+GO:0032559	"adenyl ribonucleotide binding"	Q55F68	Q9XPJ9	Q54Z60	Q5FXM5	P19198	Q9GPM4
+GO:0032561	"guanyl ribonucleotide binding"	Q55GQ6	P32254	B0G0Y8
+GO:0032767	"copper-dependent protein binding"	Q54PZ2
+GO:0032794	"GTPase activating protein binding"	P36412
+GO:0032934	"sterol binding"	Q55BL4
+GO:0032977	"membrane insertase activity"	Q86J02
+GO:0033192	"calmodulin-dependent protein phosphatase activity"	Q7YSW8
+GO:0033204	"ribonuclease P RNA binding"	Q3ZE13
+GO:0033218	"amide binding"	Q54FI3	Q55CY7	Q559K0	Q54E83	Q54XK2	Q54SM3	Q86JE5	Q54WA3	Q5FXM5	Q555I0	Q556L1	Q54MD1	Q54QM0	Q55CQ7
+GO:0033293	"monocarboxylic acid binding"	Q54DM0	Q54TR7
+GO:0033328	"peroxisome membrane targeting sequence binding"	Q555I0
+GO:0033558	"protein deacetylase activity"	Q55FN5	Q55DB0
+GO:0033677	"DNA/RNA helicase activity"	Q55CP6
+GO:0033699	"DNA 5'-adenosine monophosphate hydrolase activity"	Q558W0
+GO:0033721	"aldehyde dehydrogenase (NADP+) activity"	Q54DG1
+GO:0033744	"L-methionine:thioredoxin-disulfide S-oxidoreductase activity"	Q551H3
+GO:0033764	"steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"	Q54XZ0
+GO:0033830	"Skp1-protein-hydroxyproline N-acetylglucosaminyltransferase activity"	Q8T1C6
+GO:0033862	"UMP kinase activity"	P20425
+GO:0033897	"ribonuclease T2 activity"	Q7M438
+GO:0034038	"deoxyhypusine synthase activity"	Q54MQ7
+GO:0034039	"8-oxo-7,8-dihydroguanine DNA N-glycosylase activity"	Q1ZXP7
+GO:0034061	"DNA polymerase activity"	Q1ZXF2	Q8I7W9	Q54T81
+GO:0034062	"RNA polymerase activity"	Q54SN4	Q86JJ5	Q95NZ8	Q86H36	Q54UI6
+GO:0034212	"peptide N-acetyltransferase activity"	Q86J12	P36416
+GO:0034228	"ethanolamine transmembrane transporter activity"	Q54I48
+GO:0034236	"protein kinase A catalytic subunit binding"	P05987
+GO:0034237	"protein kinase A regulatory subunit binding"	P34099
+GO:0034338	"short-chain carboxylesterase activity"	Q54H38
+GO:0034386	"4-aminobutyrate:2-oxoglutarate transaminase activity"	Q55FI1
+GO:0034416	"bisphosphoglycerate phosphatase activity"	Q54ND5
+GO:0034417	"bisphosphoglycerate 3-phosphatase activity"	Q54ND5
+GO:0034450	"ubiquitin-ubiquitin ligase activity"	O44007
+GO:0034458	"3'-5' RNA helicase activity"	O15698
+GO:0034485	"phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity"	Q54PV1
+GO:0034513	"box H/ACA snoRNA binding"	Q54H53
+GO:0034545	"fumarylpyruvate hydrolase activity"	Q86I22
+GO:0034584	"piRNA binding"	Q86HF5
+GO:0034593	"phosphatidylinositol bisphosphate phosphatase activity"	Q8I7P3
+GO:0034594	"phosphatidylinositol trisphosphate phosphatase activity"	Q54PV1
+GO:0034595	"phosphatidylinositol phosphate 5-phosphatase activity"	Q8I7P3	Q54PV1
+GO:0034596	"phosphatidylinositol phosphate 4-phosphatase activity"	Q55AW9
+GO:0034647	"histone demethylase activity (H3-trimethyl-K4 specific)"	Q54K96
+GO:0034722	"gamma-glutamyl-peptidase activity"	Q54LN4
+GO:0034979	"NAD-dependent protein deacetylase activity"	Q55DB0
+GO:0034986	"iron chaperone activity"	Q54C45
+GO:0035004	"phosphatidylinositol 3-kinase activity"	P54675	P54673
+GO:0035005	"1-phosphatidylinositol-4-phosphate 3-kinase activity"	P54673
+GO:0035014	"phosphatidylinositol 3-kinase regulator activity"	Q54DK0	Q55FJ2
+GO:0035064	"methylated histone binding"	Q54CP1
+GO:0035091	"phosphatidylinositol binding"	B0G190	Q54J20	Q54YX3	Q551A3	Q558Z9
+GO:0035173	"histone kinase activity"	Q54LU8
+GO:0035184	"histone threonine kinase activity"	Q54LU8
+GO:0035197	"siRNA binding"	Q557B6
+GO:0035242	"protein-arginine omega-N asymmetric methyltransferase activity"	Q54HI0
+GO:0035250	"UDP-galactosyltransferase activity"	Q54RP0
+GO:0035251	"UDP-glucosyltransferase activity"	Q54NU9	Q9U720	Q54IL5	Q55GH4	Q8T191	Q54J42
+GO:0035312	"5'-3' exodeoxyribonuclease activity"	Q558W0
+GO:0035485	"adenine/guanine mispair binding"	Q1ZXP7
+GO:0035497	"cAMP response element binding"	Q554P0
+GO:0035514	"DNA demethylase activity"	Q54N08
+GO:0035515	"oxidative RNA demethylase activity"	Q54N08
+GO:0035516	"oxidative DNA demethylase activity"	Q54N08
+GO:0035529	"NADH pyrophosphatase activity"	Q54FR0
+GO:0035591	"signaling adaptor activity"	P36408	C7G082
+GO:0035596	"methylthiotransferase activity"	Q54KV4
+GO:0035597	"N6-isopentenyladenosine methylthiotransferase activity"	Q54KV4
+GO:0035615	"clathrin adaptor activity"	Q86KI1
+GO:0035639	"purine ribonucleoside triphosphate binding"	Q55F68	Q55GQ6
+GO:0035673	"oligopeptide transmembrane transporter activity"	Q54EF1
+GO:0035870	"dITP diphosphatase activity"	Q54LQ6
+GO:0035925	"mRNA 3'-UTR AU-rich region binding"	Q55E68
+GO:0036002	"pre-mRNA binding"	Q54TA0	Q8T295	Q54PH5
+GO:0036080	"purine nucleotide-sugar transmembrane transporter activity"	Q550W6
+GO:0036094	"small molecule binding"	Q55F68	P20054	P32254	Q559K0	Q54TR7	Q54M18	Q54LW0	Q5FXM5	B0G0Z0	Q9NA13	Q54P92	Q54EW1	Q9GPM4	Q9UAG7	Q9XPJ9	Q54MJ9	Q54QF9	Q54Z60	Q55CT1	Q55GQ6	C7G026	Q55FL5	Q75JD5	Q54FI3	Q55DB0	Q55BI2	P19198	B0G117	Q55FT1	Q55GR8	Q86A17	Q5V9E9	Q54J75	Q55EP5	B0G0Y8	Q54KM7
+GO:0036121	"double-stranded DNA-dependent ATP-dependent DNA helicase activity"	Q54I89
+GO:0036137	"kynurenine aminotransferase activity"	Q55F21
+GO:0036220	"ITP diphosphatase activity"	Q54LQ6
+GO:0036222	"XTP diphosphatase activity"	Q54LQ6
+GO:0036361	"racemase activity, acting on amino acids and derivatives"	Q54HH2	O96548
+GO:0036381	"pyridoxal 5'-phosphate synthase (glutamine hydrolysing) activity"	Q54J47
+GO:0036402	"proteasome-activating ATPase activity"	Q55BV5
+GO:0036424	"L-phosphoserine phosphatase activity"	Q54IF7
+GO:0036430	"CMP kinase activity"	P20425
+GO:0036431	"dCMP kinase activity"	P20425
+GO:0036440	"citrate synthase activity"	Q8MQU6
+GO:0036456	"L-methionine-(S)-S-oxide reductase activity"	Q551H3
+GO:0038023	"signaling receptor activity"	P13773	Q553Y7	Q54N73	Q1ZXQ7	Q54K11	Q55CD6
+GO:0038024	"cargo receptor activity"	Q54ER8
+GO:0039706	"co-receptor binding"	Q559W3
+GO:0042054	"histone methyltransferase activity"	Q54HI0	B0G148	Q54HS3	Q55AX2	Q552E3
+GO:0042083	"5,10-methylenetetrahydrofolate-dependent methyltransferase activity"	P15808
+GO:0042084	"5-methyltetrahydrofolate-dependent methyltransferase activity"	Q54P92
+GO:0042132	"fructose 1,6-bisphosphate 1-phosphatase activity"	Q6RYT0
+GO:0042162	"telomeric DNA binding"	Q54MA9	Q54CS9
+GO:0042277	"peptide binding"	Q54E83	Q55CY7	Q54XK2	Q54SM3	Q86JE5	Q54WA3	Q555I0	Q556L1	Q54MD1	Q54QM0	Q55CQ7
+GO:0042281	"dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase activity"	Q54QG6
+GO:0042283	"dolichyl pyrophosphate Glc1Man9GlcNAc2 alpha-1,3-glucosyltransferase activity"	Q554E2
+GO:0042285	"xylosyltransferase activity"	Q54PG8
+GO:0042292	"URM1 activating enzyme activity"	Q55FS0
+GO:0042392	"sphingosine-1-phosphate phosphatase activity"	Q55A00
+GO:0042393	"histone binding"	Q54CP1	Q55ED1
+GO:0042409	"caffeoyl-CoA O-methyltransferase activity"	Q55AS5
+GO:0042577	"lipid phosphatase activity"	Q55A00
+GO:0042578	"phosphoric ester hydrolase activity"	Q8MM62	Q02158	Q55GW2	Q55F34	Q55A00	Q54XC1	Q55FM6	Q54PV1	Q76P10	Q55FW8	Q86IG3	Q54IF7	B0G107	Q55E39	Q54U72	Q54KN3	Q54FK1	Q55GC7	Q86AV9	Q55AW9	Q7YSW8	Q54R42	Q54ND5	Q8I7P3	Q6RYT0	B0G0Y8	Q54MG8
+GO:0042625	"ATPase coupled ion transmembrane transporter activity"	Q55CS9
+GO:0042626	"ATPase activity, coupled to transmembrane movement of substances"	Q55CS9	Q8T674	Q54XK2	Q55FW3	P54678	Q54EQ0	Q54CD1	Q86AZ6	P54679	Q55GB1
+GO:0042799	"histone methyltransferase activity (H4-K20 specific)"	B0G148
+GO:0042800	"histone methyltransferase activity (H3-K4 specific)"	Q54HS3
+GO:0042802	"identical protein binding"	Q55FI1	Q54QF9
+GO:0042803	"protein homodimerization activity"	Q54QF9
+GO:0042826	"histone deacetylase binding"	Q54Q80
+GO:0042887	"amide transmembrane transporter activity"	Q54EF1	Q86I81	Q1ZXJ4
+GO:0042910	"xenobiotic transporter activity"	Q55C66
+GO:0043014	"alpha-tubulin binding"	Q54Z01
+GO:0043015	"gamma-tubulin binding"	Q95ZG4
+GO:0043021	"ribonucleoprotein complex binding"	B0G189	Q54I89	Q54ZR7	Q54W52
+GO:0043022	"ribosome binding"	B0G189
+GO:0043024	"ribosomal small subunit binding"	Q54I89
+GO:0043138	"3'-5' DNA helicase activity"	Q86B14	B0G0Y4
+GO:0043139	"5'-3' DNA helicase activity"	Q55G81
+GO:0043167	"ion binding"	Q55F68	Q54TR7	P32254	Q559K0	Q55E60	Q54M18	Q54LW0	B0G0Z0	Q9NA13	Q54E83	Q54EW1	Q9GPM4	Q558Z9	Q54MJ9	Q54Z60	Q55H50	Q55FM6	Q55CT1	Q55GQ6	Q55FL5	Q54RF5	Q54ER6	Q55GQ5	Q54U72	Q55DB0	P19198	Q1ZXE9	Q55GK0	B0G117	Q55EK2	Q54WU6	Q55GR8	Q86A17	Q55G87	B0G0Y8	Q55C91	Q54KM7	Q54VC7	Q54C45	Q54DM0
+GO:0043168	"anion binding"	Q55F68	Q54TR7	P32254	Q559K0	Q54M18	Q54LW0	B0G0Z0	Q9NA13	Q54E83	Q54EW1	Q9GPM4	Q558Z9	Q54MJ9	Q54Z60	Q55FL5	Q55CT1	Q55GQ6	Q55DB0	P19198	Q1ZXE9	B0G117	Q54WU6	Q86A17	B0G0Y8	Q54KM7	Q54DM0
+GO:0043169	"cation binding"	Q55E60	Q54EW1	Q54Z60	Q55H50	Q55FM6	Q54RF5	Q54ER6	Q55GQ5	Q54U72	Q55GK0	B0G117	Q55EK2	Q55GR8	Q55G87	Q55C91	Q54KM7	Q54VC7	Q54C45
+GO:0043175	"RNA polymerase core enzyme binding"	Q54Y76	Q54FD6	Q54MB8
+GO:0043177	"organic acid binding"	Q54TR7	P20054	Q559K0	B0G0Z0	Q54KM7	Q54EW1
+GO:0043178	"alcohol binding"	Q55GR8	Q54MJ9	Q9NA13
+GO:0043225	"anion transmembrane-transporting ATPase activity"	Q86AZ6
+GO:0043295	"glutathione binding"	Q54E83
+GO:0043325	"phosphatidylinositol-3,4-bisphosphate binding"	Q1ZXE9
+GO:0043333	"2-octaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity"	Q54VN2
+GO:0043334	"2-hexaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity"	Q54VN2
+GO:0043422	"protein kinase B binding"	P13466
+GO:0043424	"protein histidine kinase binding"	Q54RR8
+GO:0043495	"protein anchor"	Q558Z2
+GO:0043515	"kinetochore binding"	Q54NP8
+GO:0043531	"ADP binding"	Q9GPM4
+GO:0043539	"protein serine/threonine kinase activator activity"	Q551H4
+GO:0043546	"molybdopterin cofactor binding"	Q54FB7
+GO:0043548	"phosphatidylinositol 3-kinase binding"	P32254
+GO:0043565	"sequence-specific DNA binding"	Q554P0	Q54CS9	Q86AD6	Q55F37	Q54FD6	Q95NZ8	Q54TY7	Q55GK0	Q54GS8	Q54MA9
+GO:0043621	"protein self-association"	P27133
+GO:0043715	"2,3-diketo-5-methylthiopentyl-1-phosphate enolase activity"	Q55FM6
+GO:0043716	"2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase activity"	Q55FM6
+GO:0043733	"DNA-3-methylbase glycosylase activity"	Q1ZXP8
+GO:0043795	"glyceraldehyde oxidoreductase activity"	Q55FL3
+GO:0043812	"phosphatidylinositol-4-phosphate phosphatase activity"	Q55AW9
+GO:0043829	"tRNA-specific adenosine-37 deaminase activity"	Q54XP3
+GO:0043874	"acireductone synthase activity"	Q55FM6
+GO:0043878	"glyceraldehyde-3-phosphate dehydrogenase (NAD+) (non-phosphorylating) activity"	P83401
+GO:0043891	"glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating) activity"	Q94469
+GO:0043956	"3-hydroxypropionyl-CoA dehydratase activity"	Q1ZXF1
+GO:0044183	"protein binding involved in protein folding"	P54651	Q86H65
+GO:0044389	"ubiquitin-like protein ligase binding"	Q9XZJ3
+GO:0044540	"L-cystine L-cysteine-lyase (deaminating)"	Q55DV9
+GO:0044594	"17-beta-hydroxysteroid dehydrogenase (NAD+) activity"	Q54XZ0
+GO:0044610	"FMN transmembrane transporter activity"	Q76P23
+GO:0044769	"ATPase activity, coupled to transmembrane movement of ions, rotational mechanism"	Q55CS9
+GO:0044877	"macromolecular complex binding"	B0G189	Q54I89	Q54S93	Q54W52	Q54WV4	Q54KD8	Q8I0F4	Q552E2	Q54MZ3	Q54ZR7	Q54X65	Q54VV8	P13466	Q55EP5	P54671
+GO:0045028	"G-protein coupled purinergic nucleotide receptor activity"	P13773
+GO:0045127	"N-acetylglucosamine kinase activity"	Q54PM7
+GO:0045140	"inositol phosphoceramide synthase activity"	Q55F11
+GO:0045159	"myosin II binding"	P54632	Q54YW1
+GO:0045182	"translation regulator activity"	P46800	Q9BMX0	Q55FE0	Q558U1
+GO:0045294	"alpha-catenin binding"	Q550R2
+GO:0045309	"protein phosphorylated amino acid binding"	Q557E7	Q54MB8
+GO:0045503	"dynein light chain binding"	P54703
+GO:0045504	"dynein heavy chain binding"	P54703
+GO:0045505	"dynein intermediate chain binding"	P34036
+GO:0046316	"gluconokinase activity"	Q54PI5
+GO:0046404	"ATP-dependent polydeoxyribonucleotide 5'-hydroxyl-kinase activity"	Q54Z27
+GO:0046523	"S-methyl-5-thioribose-1-phosphate isomerase activity"	Q54R90
+GO:0046527	"glucosyltransferase activity"	Q554E2	Q54NU9	Q9U720	Q54IL5	Q54Z56	Q55GH4	Q54QG6	Q8T191	Q54J42
+GO:0046570	"methylthioribulose 1-phosphate dehydratase activity"	Q54NY7
+GO:0046872	"metal ion binding"	Q54U72	Q55H50	Q55E60	Q55FM6	Q55G87	Q54RF5	Q55C91	Q55GK0	Q54ER6	Q54C45	Q55EK2	Q55GQ5
+GO:0046873	"metal ion transmembrane transporter activity"	Q9NA13	Q54DA4	Q54TU8	Q86JM7	P54678	Q55E98	Q55CX3	Q869V1	Q55FL1	Q55DY8	Q55FW3	Q552S0
+GO:0046899	"nucleoside triphosphate adenylate kinase activity"	Q54CT8
+GO:0046906	"tetrapyrrole binding"	Q867X6	Q54P92
+GO:0046912	"transferase activity, transferring acyl groups, acyl groups converted into alkyl on transfer"	Q8MQU6	Q8T2K9	Q54KL0	Q86HL5
+GO:0046914	"transition metal ion binding"	Q55E60	Q55C91	Q55GK0	Q54ER6	Q54C45	Q55EK2	Q55GQ5
+GO:0046915	"transition metal ion transmembrane transporter activity"	Q55DY8	Q55E98	Q869V1
+GO:0046921	"alpha-(1->6)-fucosyltransferase activity"	Q54V75
+GO:0046923	"ER retention sequence binding"	Q86JE5
+GO:0046933	"proton-transporting ATP synthase activity, rotational mechanism"	Q55F42
+GO:0046935	"1-phosphatidylinositol-3-kinase regulator activity"	Q54DK0
+GO:0046936	"deoxyadenosine deaminase activity"	Q553U5
+GO:0046943	"carboxylic acid transmembrane transporter activity"	Q54PY7	Q55GU3	Q54B67	Q54WT7	Q86I81	Q55E85	Q54RB9	Q55GE2
+GO:0046961	"proton-transporting ATPase activity, rotational mechanism"	Q55CS9
+GO:0046964	"3'-phosphoadenosine 5'-phosphosulfate transmembrane transporter activity"	Q55DM5
+GO:0046982	"protein heterodimerization activity"	O15819
+GO:0046983	"protein dimerization activity"	O15819	Q55F37	Q54QF9
+GO:0047012	"sterol-4-alpha-carboxylate 3-dehydrogenase (decarboxylating) activity"	Q54L85
+GO:0047134	"protein-disulfide reductase activity"	B0G106	Q54UU8	Q8T137
+GO:0047184	"1-acylglycerophosphocholine O-acyltransferase activity"	Q54DX7
+GO:0047293	"4-hydroxybenzoate nonaprenyltransferase activity"	Q54U71
+GO:0047316	"glutamine-phenylpyruvate transaminase activity"	Q54KM6
+GO:0047372	"acylglycerol lipase activity"	Q54H38
+GO:0047402	"protein-glucosylgalactosylhydroxylysine glucosidase activity"	Q54KX5
+GO:0047429	"nucleoside-triphosphate diphosphatase activity"	Q55G28	Q54BW5	Q54LQ6
+GO:0047453	"ATP-dependent NAD(P)H-hydrate dehydratase activity"	Q54FJ9
+GO:0047499	"calcium-independent phospholipase A2 activity"	Q54QX5
+GO:0047545	"2-hydroxyglutarate dehydrogenase activity"	Q55GI5
+GO:0047547	"2-methylcitrate dehydratase activity"	Q54IJ0
+GO:0047555	"3',5'-cyclic-GMP phosphodiesterase activity"	B0G0Y8
+GO:0047560	"3-dehydrosphinganine reductase activity"	Q556J2
+GO:0047621	"acylpyruvate hydrolase activity"	Q86I22
+GO:0047623	"adenosine-phosphate deaminase activity"	Q54DD0
+GO:0047635	"alanine-oxo-acid transaminase activity"	Q54MJ7
+GO:0047661	"amino-acid racemase activity"	Q54HH2	O96548
+GO:0047710	"bis(5'-adenosyl)-triphosphatase activity"	Q86KK2
+GO:0047750	"cholestenol delta-isomerase activity"	Q55E32
+GO:0047780	"citrate dehydratase activity"	Q54XS2
+GO:0047800	"cysteamine dioxygenase activity"	Q556I2
+GO:0047804	"cysteine-S-conjugate beta-lyase activity"	Q54KM6
+GO:0047844	"deoxycytidine deaminase activity"	Q54I82
+GO:0047874	"dolichyldiphosphatase activity"	Q86IX2
+GO:0047982	"homocysteine desulfhydrase activity"	Q55DV9
+GO:0047988	"hydroxyacid-oxoacid transhydrogenase activity"	Q54GJ7
+GO:0048018	"receptor agonist activity"	Q968Z6
+GO:0048019	"receptor antagonist activity"	Q559W3
+GO:0048027	"mRNA 5'-UTR binding"	O21035
+GO:0048029	"monosaccharide binding"	B0G0Z0	Q5V9E9
+GO:0048038	"quinone binding"	Q55CC2
+GO:0048039	"ubiquinone binding"	Q55CC2
+GO:0048244	"phytanoyl-CoA dioxygenase activity"	Q54SF6
+GO:0048256	"flap endonuclease activity"	Q54NU0
+GO:0048306	"calcium-dependent protein binding"	P0CT31
+GO:0048487	"beta-tubulin binding"	Q55G93
+GO:0050031	"L-pipecolate oxidase activity"	Q54EW2
+GO:0050048	"L-leucine:2-oxoglutarate aminotransferase activity"	Q54N47
+GO:0050113	"inositol oxygenase activity"	Q54GH4
+GO:0050135	"NAD(P)+ nucleosidase activity"	Q54HT1
+GO:0050136	"NADH dehydrogenase (quinone) activity"	Q55CD9
+GO:0050145	"nucleoside phosphate kinase activity"	P20425	Q54Y03	Q54GN2	Q54XF2
+GO:0050146	"nucleoside phosphotransferase activity"	Q54XC1
+GO:0050152	"omega-amidase activity"	Q54JM9
+GO:0050155	"ornithine(lysine) transaminase activity"	Q54JP5
+GO:0050252	"retinol O-fatty-acyltransferase activity"	Q55BH9
+GO:0050263	"ribosylpyrimidine nucleosidase activity"	Q7KWM9
+GO:0050291	"sphingosine N-acyltransferase activity"	Q54S87
+GO:0050308	"sugar-phosphatase activity"	Q6RYT0
+GO:0050313	"sulfur dioxygenase activity"	Q54EJ5
+GO:0050321	"tau-protein kinase activity"	Q55C57
+GO:0050354	"triokinase activity"	Q55EE0
+GO:0050440	"2-methylcitrate synthase activity"	Q54KL0
+GO:0050480	"imidazolonepropionase activity"	Q55CY3
+GO:0050483	"IMP 5'-nucleotidase activity"	Q54XC1
+GO:0050484	"GMP 5'-nucleotidase activity"	Q54XC1
+GO:0050497	"transferase activity, transferring alkylthio groups"	Q54KV4
+GO:0050567	"glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity"	Q55ER8
+GO:0050577	"GDP-L-fucose synthase activity"	Q55C77
+GO:0050613	"delta14-sterol reductase activity"	Q54PP1
+GO:0050661	"NADP binding"	Q54M18	Q55CT1	Q54LW0
+GO:0050664	"oxidoreductase activity, acting on NAD(P)H, oxygen as acceptor"	Q9GRX6	Q86GL4
+GO:0050797	"thymidylate synthase (FAD) activity"	P15808
+GO:0050815	"phosphoserine binding"	Q54MB8
+GO:0050833	"pyruvate transmembrane transporter activity"	Q55GU3
+GO:0050839	"cell adhesion molecule binding"	P02599
+GO:0050897	"cobalt ion binding"	Q55C91
+GO:0050997	"quaternary ammonium group binding"	Q54VC7	B0G117
+GO:0051010	"microtubule plus-end binding"	Q1ZXQ8
+GO:0051011	"microtubule minus-end binding"	Q95ZG3
+GO:0051015	"actin filament binding"	P13466
+GO:0051018	"protein kinase A binding"	P05987	Q54C74	P34099
+GO:0051019	"mitogen-activated protein kinase binding"	P13466
+GO:0051020	"GTPase binding"	Q55GV3
+GO:0051059	"NF-kappaB binding"	Q86I14
+GO:0051082	"unfolded protein binding"	P54651
+GO:0051087	"chaperone binding"	Q55ED0
+GO:0051117	"ATPase binding"	Q54E04
+GO:0051119	"sugar transmembrane transporter activity"	Q54JW5
+GO:0051139	"metal ion:proton antiporter activity"	Q552S0
+GO:0051213	"dioxygenase activity"	Q556I2	Q55DB4	Q54K96	Q86KR9	Q54N08	Q54SF6	Q54EJ5	Q54QI4	Q54ER6	Q54S02	Q557J8	Q9UAG7
+GO:0051219	"phosphoprotein binding"	Q557E7	Q54MB8
+GO:0051287	"NAD binding"	Q55BI2	Q86A17	Q55DB0
+GO:0051499	"D-aminoacyl-tRNA deacylase activity"	Q54EY1
+GO:0051500	"D-tyrosyl-tRNA(Tyr) deacylase activity"	Q54EY1
+GO:0051536	"iron-sulfur cluster binding"	Q55G81	Q55CC2
+GO:0051538	"3 iron, 4 sulfur cluster binding"	Q55CC2
+GO:0051539	"4 iron, 4 sulfur cluster binding"	Q55G81
+GO:0051540	"metal cluster binding"	Q55G81	Q55CC2
+GO:0051721	"protein phosphatase 2A binding"	Q54TN3
+GO:0051722	"protein C-terminal methylesterase activity"	Q54TN3
+GO:0051723	"protein methylesterase activity"	Q54TN3
+GO:0051724	"NAD transporter activity"	Q54FU9
+GO:0051731	"polynucleotide 5'-hydroxyl-kinase activity"	Q54Z27
+GO:0051733	"polydeoxyribonucleotide kinase activity"	Q54Z27
+GO:0051734	"ATP-dependent polynucleotide kinase activity"	Q54Z27
+GO:0051748	"UTP-monosaccharide-1-phosphate uridylyltransferase activity"	Q54YZ0
+GO:0051750	"delta3,5-delta2,4-dienoyl-CoA isomerase activity"	Q54SS0
+GO:0051751	"alpha-1,4-mannosyltransferase activity"	Q54IA4
+GO:0051864	"histone demethylase activity (H3-K36 specific)"	Q54K96
+GO:0051880	"G-quadruplex DNA binding"	Q54CS9
+GO:0051903	"S-(hydroxymethyl)glutathione dehydrogenase activity"	Q54TC2
+GO:0051920	"peroxiredoxin activity"	Q555L5
+GO:0051959	"dynein light intermediate chain binding"	P34036
+GO:0051996	"squalene synthase activity"	Q54DR1
+GO:0051998	"protein carboxyl O-methyltransferase activity"	Q9GPS6	Q558K8
+GO:0052590	"sn-glycerol-3-phosphate:ubiquinone oxidoreductase activity"	Q54QC1
+GO:0052591	"sn-glycerol-3-phosphate:ubiquinone-8 oxidoreductase activity"	Q54QC1
+GO:0052654	"L-leucine transaminase activity"	Q54N47
+GO:0052655	"L-valine transaminase activity"	Q54N47
+GO:0052656	"L-isoleucine transaminase activity"	Q54N47
+GO:0052657	"guanine phosphoribosyltransferase activity"	Q54NJ8
+GO:0052666	"tRNA (cytosine-2'-O-)-methyltransferase activity"	Q54VA8
+GO:0052689	"carboxylic ester hydrolase activity"	Q55FK4	Q54QX5	Q54TN3	Q55C80	Q54EY1	Q54CJ3	Q54H38	Q54ZD0
+GO:0052692	"raffinose alpha-galactosidase activity"	Q55B10
+GO:0052742	"phosphatidylinositol kinase activity"	P54677	P54675	B0G126
+GO:0052744	"phosphatidylinositol monophosphate phosphatase activity"	Q55AW9
+GO:0052745	"inositol phosphate phosphatase activity"	Q54ND5	Q8I7P3	Q54U72	Q55F34
+GO:0052810	"1-phosphatidylinositol-5-kinase activity"	B0G126
+GO:0052826	"inositol hexakisphosphate 2-phosphatase activity"	Q54ND5
+GO:0052832	"inositol monophosphate 3-phosphatase activity"	Q54U72
+GO:0052833	"inositol monophosphate 4-phosphatase activity"	Q54U72
+GO:0052834	"inositol monophosphate phosphatase activity"	Q54U72
+GO:0052856	"NADHX epimerase activity"	Q55CV0
+GO:0052857	"NADPHX epimerase activity"	Q55CV0
+GO:0052866	"phosphatidylinositol phosphate phosphatase activity"	Q8I7P3	Q54PV1	Q54MG8	Q55AW9
+GO:0052890	"oxidoreductase activity, acting on the CH-CH group of donors, with a flavin as acceptor"	Q54RR5
+GO:0052906	"tRNA (guanine(37)-N(1))-methyltransferase activity"	Q54WD6
+GO:0052907	"23S rRNA (adenine(1618)-N(6))-methyltransferase activity"	Q554C9
+GO:0052909	"18S rRNA (adenine(1779)-N(6)/adenine(1780)-N(6))-dimethyltransferase activity"	Q54QK7
+GO:0052917	"dol-P-Man:Man(7)GlcNAc(2)-PP-Dol alpha-1,6-mannosyltransferase activity"	Q55FZ9
+GO:0052918	"dol-P-Man:Man(8)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase activity"	Q54WW9
+GO:0052925	"dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase activity"	Q55F69
+GO:0052926	"dol-P-Man:Man(6)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase activity"	Q54WW9
+GO:0055106	"ubiquitin-protein transferase regulator activity"	Q54MZ3
+GO:0060089	"molecular transducer activity"	P13773	Q553Y7	Q54N73	Q1ZXQ7	Q54K11	Q869S5	Q55CD6
+GO:0060090	"binding, bridging"	Q86KI1	Q54QW5	P13231	Q558Z2	C7G082	P36408	Q9U9R7	Q54VE0	Q55E26
+GO:0060589	"nucleoside-triphosphatase regulator activity"	Q95UQ1	Q55GH9
+GO:0060590	"ATPase regulator activity"	Q54QF9
+GO:0061133	"endopeptidase activator activity"	Q556N5
+GO:0061134	"peptidase regulator activity"	Q55DZ2	Q5R1U3	Q556N5	Q555M1
+GO:0061135	"endopeptidase regulator activity"	Q55DZ2	Q5R1U3	Q556N5
+GO:0061542	"3-demethylubiquinone-n 3-O-methyltransferase activity"	Q54XD0
+GO:0061578	"Lys63-specific deubiquitinase activity"	Q54Q40
+GO:0061598	"molybdopterin adenylyltransferase activity"	Q54KM0
+GO:0061599	"molybdopterin molybdotransferase activity"	Q54KM0
+GO:0061604	"molybdopterin-synthase sulfurtransferase activity"	Q55FS0
+GO:0061605	"molybdopterin-synthase adenylyltransferase activity"	Q55FS0
+GO:0061608	"nuclear import signal receptor activity"	Q76P29
+GO:0061629	"RNA polymerase II sequence-specific DNA binding transcription factor binding"	Q86I14	P18161	Q54HI0	Q54UJ6
+GO:0061630	"ubiquitin protein ligase activity"	O44007
+GO:0061631	"ubiquitin conjugating enzyme activity"	Q55EY8
+GO:0061650	"ubiquitin-like protein conjugating enzyme activity"	Q1ZXC9	Q54TI6	Q55EY8	Q54KR7
+GO:0061654	"NEDD8 conjugating enzyme activity"	Q54TI6
+GO:0061656	"SUMO conjugating enzyme activity"	Q54KR7
+GO:0061657	"UFM1 conjugating enzyme activity"	Q1ZXC9
+GO:0061659	"ubiquitin-like protein ligase activity"	O44007	Q54QS0
+GO:0061666	"UFM1 ligase activity"	Q54QS0
+GO:0061685	"diphthine methylesterase activity"	Q55C80
+GO:0061708	"tRNA-5-taurinomethyluridine 2-sulfurtransferase"	Q54I63
+GO:0061711	"N(6)-L-threonylcarbamoyladenine synthase"	Q55GU1
+GO:0061731	"ribonucleoside-diphosphate reductase activity"	P42521
+GO:0061733	"peptide-lysine-N-acetyltransferase activity"	Q86J12
+GO:0070003	"threonine-type peptidase activity"	Q55GJ6	Q54WW4
+GO:0070006	"metalloaminopeptidase activity"	Q55E60
+GO:0070008	"serine-type exopeptidase activity"	Q55CT0	Q86I79
+GO:0070012	"oligopeptidase activity"	Q86AS5
+GO:0070034	"telomerase RNA binding"	Q54J26
+GO:0070063	"RNA polymerase binding"	Q54Y76	Q54FD6	Q54MB8
+GO:0070180	"large ribosomal subunit rRNA binding"	Q54J50
+GO:0070224	"sulfide:quinone oxidoreductase activity"	Q54DK1
+GO:0070273	"phosphatidylinositol-4-phosphate binding"	Q54J20
+GO:0070279	"vitamin B6 binding"	Q55FL5
+GO:0070336	"flap-structured DNA binding"	Q55FW8
+GO:0070401	"NADP+ binding"	Q54M18
+GO:0070402	"NADPH binding"	Q54LW0
+GO:0070403	"NAD+ binding"	Q55DB0
+GO:0070404	"NADH binding"	Q86A17
+GO:0070492	"oligosaccharide binding"	P02887
+GO:0070546	"L-phenylalanine aminotransferase activity"	Q86AG8
+GO:0070547	"L-tyrosine aminotransferase activity"	Q54K95
+GO:0070548	"L-glutamine aminotransferase activity"	Q54KM6
+GO:0070566	"adenylyltransferase activity"	Q54KM0	Q54IH4	Q55FS0
+GO:0070567	"cytidylyltransferase activity"	Q55D90	Q55BZ4
+GO:0070568	"guanylyltransferase activity"	Q86HG0
+GO:0070569	"uridylyltransferase activity"	Q54GN5	Q54YZ0
+GO:0070626	"(S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido)succinate AMP-lyase (fumarate-forming) activity"	Q54J34
+GO:0070679	"inositol 1,4,5 trisphosphate binding"	Q9NA13
+GO:0070717	"poly-purine tract binding"	Q55CP6
+GO:0070728	"leucine binding"	Q54WU6
+GO:0070774	"phytoceramidase activity"	Q6TMJ1
+GO:0070818	"protoporphyrinogen oxidase activity"	Q54DT8
+GO:0070840	"dynein complex binding"	Q8I0F4
+GO:0070905	"serine binding"	Q54EW1
+GO:0071074	"eukaryotic initiation factor eIF2 binding"	Q54LA1
+GO:0071077	"adenosine 3',5'-bisphosphate transmembrane transporter activity"	Q54QI8	Q1ZXJ4
+GO:0071208	"histone pre-mRNA DCP binding"	Q54F84
+GO:0071209	"U7 snRNA binding"	Q54HH8
+GO:0071566	"UFM1 activating enzyme activity"	Q54C02
+GO:0071568	"UFM1 transferase activity"	Q54QS0	Q1ZXC9
+GO:0071885	"N-terminal protein N-methyltransferase activity"	Q55DH6
+GO:0071889	"14-3-3 protein binding"	P08799
+GO:0071933	"Arp2/3 complex binding"	Q54S93
+GO:0071987	"WD40-repeat domain binding"	P52285
+GO:0072341	"modified amino acid binding"	Q54FI3	Q54E83	Q559K0
+GO:0072349	"modified amino acid transmembrane transporter activity"	Q54WT7	Q86I81
+GO:0072354	"histone kinase activity (H3-T3 specific)"	Q54LU8
+GO:0072542	"protein phosphatase activator activity"	Q54WH6	Q54I18
+GO:0080084	"5S rDNA binding"	Q54GS8
+GO:0080101	"phosphatidyl-N-dimethylethanolamine N-methyltransferase activity"	Q54SD5
+GO:0080122	"AMP transmembrane transporter activity"	Q76P23
+GO:0080130	"L-phenylalanine:2-oxoglutarate aminotransferase activity"	Q86AG8
+GO:0080146	"L-cysteine desulfhydrase activity"	Q55DV9
+GO:0090079	"translation regulator activity, nucleic acid binding"	Q9BMX0	Q55FE0
+GO:0090482	"vitamin transmembrane transporter activity"	Q559K0	Q86I81	Q54VS7
+GO:0090560	"2-(3-amino-3-carboxypropyl)histidine synthase activity"	Q54PW5
+GO:0090599	"alpha-glucosidase activity"	Q94502
+GO:0097020	"COPII adaptor activity"	Q54ER8
+GO:0097027	"ubiquitin-protein transferase activator activity"	Q54MZ3
+GO:0097157	"pre-mRNA intronic binding"	Q8T295
+GO:0097159	"organic cyclic compound binding"	O77033	Q54LW0	Q5FXM5	Q55GU9	Q1ZXH0	Q9XPJ9	Q557B6	Q55F37	Q54BM2	Q54TY7	Q558W0	Q1ZXP7	Q55FQ0	P19198	Q54FB7	Q559K0	Q54P92	Q54PH5	Q54H53	Q54F84	Q54HH8	Q9BMX0	Q8T295	Q55D17	Q55GG6	Q55EX7	Q54J75	B0G0Y8	Q54XX3	Q54TR7	P32254	Q867X6	Q54M18	Q86AD6	Q3ZE13	Q55CP6	Q9GPM4	Q54Z60	Q54QF9	Q55FL5	Q55GQ6	Q75JD5	Q54J50	Q55FW8	Q54J26	Q55FJ5	Q95NZ8	Q55BI2	Q55GK0	Q55FT1	Q55E68	Q55GR8	Q54G21	Q55GL2	Q54FD6	P54671	Q54MA9	Q55F68	Q554P0	Q54CS9	Q86HF5	Q55BL4	B0G0Z0	Q55CT1	Q54TA0	Q54GS8	Q55FE0	O21035	Q55DB0	Q55FI4	B0G117	Q554U9	Q86A17	Q54X73	Q55EP5
+GO:0097177	"mitochondrial ribosome binding"	B0G189
+GO:0097269	"all-trans-decaprenyl-diphosphate synthase activity"	Q54VJ9
+GO:0097367	"carbohydrate derivative binding"	Q55F68	Q9XPJ9	P32254	Q54Z60	Q55CT1	Q55GQ6	Q54J75	Q5FXM5	B0G0Y8	P19198	Q8T293	Q9GPM4
+GO:0097472	"cyclin-dependent protein kinase activity"	Q95YH0
+GO:0097506	"deaminated base DNA N-glycosylase activity"	Q1ZXM2
+GO:0097602	"cullin family protein binding"	P52285
+GO:0097621	"monoamine oxidase activity"	Q556K3
+GO:0097677	"STAT family protein binding"	P18161
+GO:0098599	"palmitoyl hydrolase activity"	Q55FK4
+GO:0098621	"phosphoseryl-selenocysteinyl-tRNA selenium transferase activity"	Q54VQ6
+GO:0098772	"molecular function regulator"	Q867T7	P05987	P54673	Q55DZ2	Q5R1U3	Q54WH6	Q54XS0	Q86L07	Q555M1	Q54UM1	P36411	Q54QF9	Q55DB6	Q551H4	P32253	Q54C74	Q54HG4	Q55CJ3	Q55FJ2	Q86IL5	Q95YH0	Q968Z6	Q95UQ1	Q55CH0	Q559W3	Q55GH9	Q54MZ3	Q55G87	Q54DK0	Q550R2	Q556N5	Q556K9	Q86IZ4	Q54I18
+GO:0098808	"mRNA cap binding"	Q554U9
+GO:0099604	"ligand-gated calcium channel activity"	Q86JM7	Q9NA13
+GO:0101005	"ubiquitinyl hydrolase activity"	Q54Q40
+GO:0101006	"protein histidine phosphatase activity"	Q76P10
+GO:0102009	"proline dipeptidase activity"	Q55E60
+GO:0102035	"isobutyryl-CoA:FAD oxidoreductase activity"	Q54RR5
+GO:1900750	"oligopeptide binding"	Q54E83
+GO:1901265	"nucleoside phosphate binding"	Q55F68	P32254	Q54M18	Q54LW0	Q5FXM5	Q9GPM4	Q9XPJ9	Q54Z60	Q54QF9	Q55CT1	Q55GQ6	Q75JD5	Q55DB0	Q55BI2	P19198	Q86A17	Q55EP5	B0G0Y8
+GO:1901363	"heterocyclic compound binding"	O77033	Q54LW0	Q5FXM5	Q55GU9	Q1ZXH0	Q9XPJ9	Q557B6	Q55F37	Q54BM2	Q54TY7	Q558W0	Q1ZXP7	Q55FQ0	P19198	Q54FB7	Q559K0	Q54P92	Q54PH5	Q54H53	Q54F84	Q54HH8	Q9BMX0	Q8T295	Q55D17	Q55GG6	Q55EX7	Q54J75	B0G0Y8	Q54XX3	Q54TR7	P32254	Q867X6	Q54M18	Q86AD6	Q3ZE13	Q55CP6	Q9GPM4	Q54Z60	Q54QF9	Q55FL5	Q55GQ6	Q75JD5	Q54J50	Q55FW8	Q54J26	Q55FJ5	Q95NZ8	Q55BI2	Q55GK0	Q55FT1	Q55E68	Q55GR8	Q54G21	Q55GL2	Q54FD6	P54671	Q54MA9	Q55F68	Q554P0	Q54CS9	Q86HF5	B0G0Z0	Q55CT1	Q54TA0	Q54GS8	Q55FE0	O21035	Q55DB0	Q55FI4	B0G117	Q554U9	Q86A17	Q54X73	Q55EP5
+GO:1901474	"azole transmembrane transporter activity"	Q54VS7
+GO:1901505	"carbohydrate derivative transporter activity"	O97470	B0G159	Q869W7	Q54QI8	Q55DM5	Q54I86	Q550W6	Q1ZXJ4	Q76P23
+GO:1901567	"fatty acid derivative binding"	Q5FXM5
+GO:1901618	"organic hydroxy compound transmembrane transporter activity"	Q54I48
+GO:1901681	"sulfur compound binding"	Q55GR8	Q54TR7	Q5FXM5	B0G117	Q54E83
+GO:1901682	"sulfur compound transmembrane transporter activity"	Q54PY7	Q55DM5	Q54WT7	Q54VS7	Q1ZXJ4
+GO:1901981	"phosphatidylinositol phosphate binding"	B0G190	Q54J20	Q54YX3	Q551A3	Q558Z9
+GO:1902936	"phosphatidylinositol bisphosphate binding"	Q54YX3	Q558Z9
+GO:1904680	"peptide transmembrane transporter activity"	Q54EF1
+GO:1990050	"phosphatidic acid transporter activity"	Q54G07
+GO:1990165	"single-strand break-containing DNA binding"	Q558W0
+GO:1990189	"peptide-serine-N-acetyltransferase activity"	P36416
+GO:1990190	"peptide-glutamate-N-acetyltransferase activity"	P36416
+GO:1990269	"RNA polymerase II C-terminal domain phosphoserine binding"	Q54MB8
+GO:1990381	"ubiquitin-specific protease binding"	Q54NN1
+GO:1990404	"protein ADP-ribosylase activity"	Q8I7C6
+GO:1990444	"F-box domain binding"	P52285
+GO:1990518	"single-stranded DNA-dependent ATP-dependent 3'-5' DNA helicase activity"	Q86B14
+GO:1990757	"ubiquitin ligase activator activity"	Q54MZ3
+GO:1990782	"protein tyrosine kinase binding"	Q54BD4
+GO:1990825	"sequence-specific mRNA binding"	Q9BMX0
+GO:1990837	"sequence-specific double-stranded DNA binding"	Q554P0	Q86AD6	Q55F37	Q54FD6	Q95NZ8	Q54TY7	Q54GS8
+GO:1990838	"poly(U)-specific exoribonuclease activity, producing 3' uridine cyclic phosphate ends"	Q54W16
+GO:1990883	"rRNA cytidine N-acetyltransferase activity"	Q55EJ3
