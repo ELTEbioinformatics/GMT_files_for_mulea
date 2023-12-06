@@ -1,0 +1,26 @@
+# Gene set GMT file for mulea Bioconductor R package
+# taxon_name: Saccharomyces cerevisiae
+# taxonomy_ID: 4932
+# ID_type: EnsemblID
+# source_url: http://geneontology.org/ 
+# source_PMID: 30395331
+# source_primary_ID: GeneSymbol 
+# source_version: 
+# source_last_update:2023
+# gmt_download_date: 09-05-2023
+# gmt_version:2
+# gmt_entry_names:gene ontology
+# Gene Ontology Term Description Genes
+
+GO:0003674	"molecular_function"	S000029665	S000004862	S000029535
+GO:0003824	"catalytic activity"	S000004862	S000029665	S000029535
+GO:0004351	"glutamate decarboxylase activity"	S000004862
+GO:0004553	"hydrolase activity, hydrolyzing O-glycosyl compounds"	S000029665	S000029535
+GO:0004557	"alpha-galactosidase activity"	S000029665
+GO:0004564	"beta-fructofuranosidase activity"	S000029535
+GO:0015925	"galactosidase activity"	S000029665
+GO:0016787	"hydrolase activity"	S000029665	S000029535
+GO:0016798	"hydrolase activity, acting on glycosyl bonds"	S000029665	S000029535
+GO:0016829	"lyase activity"	S000004862
+GO:0016830	"carbon-carbon lyase activity"	S000004862
+GO:0016831	"carboxy-lyase activity"	S000004862

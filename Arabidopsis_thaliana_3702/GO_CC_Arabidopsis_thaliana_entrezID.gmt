@@ -1,7 +1,7 @@
 # Gene set GMT file for mulea Bioconductor R package
 # taxon_name: Arabidopsis thaliana
 # taxonomy_ID: 3702
-NA
+# ID_type: EntrezID
 # source_url: http://geneontology.org/ 
 # source_PMID: 30395331
 # source_primary_ID: GeneSymbol 

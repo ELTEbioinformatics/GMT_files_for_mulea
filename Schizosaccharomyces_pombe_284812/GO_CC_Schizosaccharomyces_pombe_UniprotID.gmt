@@ -1,0 +1,51 @@
+# Gene set GMT file for mulea Bioconductor R package
+# taxon_name: Schizosaccharomyces pombe
+# taxonomy_ID: 4896
+# ID_type: UniprotID
+# source_url: http://geneontology.org/ 
+# source_PMID: 30395331
+# source_primary_ID: GeneSymbol 
+# source_version: 
+# source_last_update:2023
+# gmt_download_date: 09-05-2023
+# gmt_version:2
+# gmt_entry_names:gene ontology
+# Gene Ontology Term Description Genes
+
+GO:0000228	"nuclear chromosome"	H2FH12	S6B6U0
+GO:0000785	"chromatin"	H2FH12
+GO:0005575	"cellular_component"	S6BSK3	A0A075WJH4	S6BME7	A0A3G6JDP9	S6B6U0	H2FH12
+GO:0005622	"intracellular"	S6BSK3	S6B6U0	H2FH12
+GO:0005634	"nucleus"	H2FH12	S6B6U0
+GO:0005657	"replication fork"	S6B6U0
+GO:0005694	"chromosome"	H2FH12	S6B6U0
+GO:0005737	"cytoplasm"	S6BSK3
+GO:0005829	"cytosol"	S6BSK3
+GO:0005886	"plasma membrane"	S6BME7
+GO:0005971	"ribonucleoside-diphosphate reductase complex"	S6BSK3
+GO:0016020	"membrane"	S6BME7
+GO:0016021	"integral component of membrane"	S6BME7
+GO:0031224	"intrinsic component of membrane"	S6BME7
+GO:0031298	"replication fork protection complex"	S6B6U0
+GO:0031974	"membrane-enclosed lumen"	H2FH12	S6B6U0
+GO:0031981	"nuclear lumen"	H2FH12	S6B6U0
+GO:0032991	"macromolecular complex"	S6BSK3	A0A075WJH4	S6BME7	S6B6U0	H2FH12
+GO:0033573	"high-affinity iron permease complex"	S6BME7
+GO:0034974	"Swi5-Swi2 complex"	H2FH12
+GO:0043226	"organelle"	S6B6U0	H2FH12
+GO:0043227	"membrane-bounded organelle"	H2FH12	S6B6U0
+GO:0043228	"non-membrane-bounded organelle"	H2FH12	S6B6U0
+GO:0043229	"intracellular organelle"	S6B6U0	H2FH12
+GO:0043231	"intracellular membrane-bounded organelle"	H2FH12	S6B6U0
+GO:0043232	"intracellular non-membrane-bounded organelle"	H2FH12	S6B6U0
+GO:0043233	"organelle lumen"	H2FH12	S6B6U0
+GO:0043596	"nuclear replication fork"	S6B6U0
+GO:0070013	"intracellular organelle lumen"	H2FH12	S6B6U0
+GO:0071944	"cell periphery"	S6BME7
+GO:0072324	"ascus epiplasm"	A0A3G6JDP9
+GO:0098796	"membrane protein complex"	S6BME7
+GO:0098797	"plasma membrane protein complex"	S6BME7
+GO:1902494	"catalytic complex"	S6BME7	S6BSK3
+GO:1902495	"transmembrane transporter complex"	S6BME7
+GO:1990204	"oxidoreductase complex"	S6BME7	S6BSK3
+GO:1990351	"transporter complex"	S6BME7

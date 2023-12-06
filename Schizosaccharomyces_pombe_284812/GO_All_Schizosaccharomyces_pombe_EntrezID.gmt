@@ -1,0 +1,241 @@
+# Gene set GMT file for mulea Bioconductor R package
+# taxon_name: Schizosaccharomyces pombe
+# taxonomy_ID: 4896
+# ID_type: EntrezID
+# source_url: http://geneontology.org/ 
+# source_PMID: 30395331
+# source_primary_ID: GeneSymbol 
+# source_version: 
+# source_last_update:2023
+# gmt_download_date: 09-05-2023
+# gmt_version:2
+# gmt_entry_names:gene ontology
+# Gene Ontology Term Description Genes
+
+GO:0000228	"nuclear chromosome"	3361456	2543240
+GO:0000278	"mitotic cell cycle"	2542468
+GO:0000785	"chromatin"	3361456
+GO:0001932	"regulation of protein phosphorylation"	2543240
+GO:0001934	"positive regulation of protein phosphorylation"	2543240
+GO:0003674	"molecular_function"	2542065	2541887	2542130	2542933	2541695
+GO:0003824	"catalytic activity"	2542065	2541695	2542933	2541887
+GO:0003896	"DNA primase activity"	2542933
+GO:0003899	"DNA-directed RNA polymerase activity"	2542933
+GO:0004430	"1-phosphatidylinositol 4-kinase activity"	2541887
+GO:0004620	"phospholipase activity"	2542065
+GO:0004630	"phospholipase D activity"	2542065
+GO:0004748	"ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor"	2541695
+GO:0005488	"binding"	2542130
+GO:0005575	"cellular_component"	2541695	2542130	2543240	3361456
+GO:0005622	"intracellular"	2541695	2543240	3361456
+GO:0005634	"nucleus"	3361456	2543240
+GO:0005657	"replication fork"	2543240
+GO:0005694	"chromosome"	3361456	2543240
+GO:0005737	"cytoplasm"	2541695
+GO:0005829	"cytosol"	2541695
+GO:0005971	"ribonucleoside-diphosphate reductase complex"	2541695
+GO:0006139	"nucleobase-containing compound metabolic process"	1669532	2541695	2542468	2542933	2541605
+GO:0006163	"purine nucleotide metabolic process"	1669532
+GO:0006164	"purine nucleotide biosynthetic process"	1669532
+GO:0006259	"DNA metabolic process"	2542468	2542933
+GO:0006260	"DNA replication"	2542468	2542933
+GO:0006261	"DNA-dependent DNA replication"	2542468	2542933
+GO:0006269	"DNA replication, synthesis of RNA primer"	2542933
+GO:0006274	"DNA replication termination"	2542468
+GO:0006325	"chromatin organization"	2541605
+GO:0006338	"chromatin remodeling"	2541605
+GO:0006351	"transcription, DNA-templated"	2541605
+GO:0006366	"transcription from RNA polymerase II promoter"	2541605
+GO:0006464	"cellular protein modification process"	2543240
+GO:0006468	"protein phosphorylation"	2543240
+GO:0006725	"cellular aromatic compound metabolic process"	1669532	2541695	2542468	2542933	2541605
+GO:0006753	"nucleoside phosphate metabolic process"	1669532	2541695
+GO:0006754	"ATP biosynthetic process"	1669532
+GO:0006793	"phosphorus metabolic process"	1669532	2541695	2543240
+GO:0006796	"phosphate-containing compound metabolic process"	1669532	2541695	2543240
+GO:0006807	"nitrogen compound metabolic process"	1669532	2541695	2542468	2542933	2541605	2543240
+GO:0006810	"transport"	1669532
+GO:0006811	"ion transport"	1669532
+GO:0006812	"cation transport"	1669532
+GO:0006996	"organelle organization"	2541605
+GO:0007049	"cell cycle"	2542468
+GO:0007154	"cell communication"	2541887
+GO:0007165	"signal transduction"	2541887
+GO:0008081	"phosphoric diester hydrolase activity"	2542065
+GO:0008150	"biological_process"	2541605	2541887	2541612	1669532	2542933	2541695	2542468	2539619	2543240
+GO:0008152	"metabolic process"	1669532	2541695	2542468	2542933	2541605	2543240
+GO:0008233	"peptidase activity"	2542933
+GO:0009058	"biosynthetic process"	1669532	2541695	2542468	2542933	2541605
+GO:0009059	"macromolecule biosynthetic process"	2542933	2542468	2541605
+GO:0009117	"nucleotide metabolic process"	1669532	2541695
+GO:0009141	"nucleoside triphosphate metabolic process"	1669532
+GO:0009142	"nucleoside triphosphate biosynthetic process"	1669532
+GO:0009144	"purine nucleoside triphosphate metabolic process"	1669532
+GO:0009145	"purine nucleoside triphosphate biosynthetic process"	1669532
+GO:0009150	"purine ribonucleotide metabolic process"	1669532
+GO:0009152	"purine ribonucleotide biosynthetic process"	1669532
+GO:0009165	"nucleotide biosynthetic process"	1669532	2541695
+GO:0009199	"ribonucleoside triphosphate metabolic process"	1669532
+GO:0009201	"ribonucleoside triphosphate biosynthetic process"	1669532
+GO:0009205	"purine ribonucleoside triphosphate metabolic process"	1669532
+GO:0009206	"purine ribonucleoside triphosphate biosynthetic process"	1669532
+GO:0009259	"ribonucleotide metabolic process"	1669532
+GO:0009260	"ribonucleotide biosynthetic process"	1669532
+GO:0009262	"deoxyribonucleotide metabolic process"	2541695
+GO:0009263	"deoxyribonucleotide biosynthetic process"	2541695
+GO:0009272	"fungal-type cell wall biogenesis"	2541612
+GO:0009299	"mRNA transcription"	2541605
+GO:0009653	"anatomical structure morphogenesis"	2539619
+GO:0009893	"positive regulation of metabolic process"	2543240
+GO:0009987	"cellular process"	2541605	2541887	2541612	1669532	2542933	2541695	2542468	2543240
+GO:0010467	"gene expression"	2541605
+GO:0010562	"positive regulation of phosphorus metabolic process"	2543240
+GO:0010604	"positive regulation of macromolecule metabolic process"	2543240
+GO:0015985	"energy coupled proton transport, down electrochemical gradient"	1669532
+GO:0015986	"ATP synthesis coupled proton transport"	1669532
+GO:0016043	"cellular component organization"	2541605
+GO:0016070	"RNA metabolic process"	2542933	2541605
+GO:0016071	"mRNA metabolic process"	2541605
+GO:0016298	"lipase activity"	2542065
+GO:0016301	"kinase activity"	2541887
+GO:0016310	"phosphorylation"	2543240
+GO:0016491	"oxidoreductase activity"	2541695
+GO:0016725	"oxidoreductase activity, acting on CH or CH2 groups"	2541695
+GO:0016728	"oxidoreductase activity, acting on CH or CH2 groups, disulfide as acceptor"	2541695
+GO:0016740	"transferase activity"	2542933	2541887
+GO:0016772	"transferase activity, transferring phosphorus-containing groups"	2542933	2541887
+GO:0016773	"phosphotransferase activity, alcohol group as acceptor"	2541887
+GO:0016779	"nucleotidyltransferase activity"	2542933
+GO:0016787	"hydrolase activity"	2542933	2542065
+GO:0016788	"hydrolase activity, acting on ester bonds"	2542065
+GO:0018130	"heterocycle biosynthetic process"	2542933	1669532	2541695	2541605
+GO:0019220	"regulation of phosphate metabolic process"	2543240
+GO:0019222	"regulation of metabolic process"	2543240
+GO:0019438	"aromatic compound biosynthetic process"	2542933	1669532	2541695	2541605
+GO:0019538	"protein metabolic process"	2543240
+GO:0019637	"organophosphate metabolic process"	1669532	2541695
+GO:0019693	"ribose phosphate metabolic process"	1669532
+GO:0022402	"cell cycle process"	2542468
+GO:0023052	"signaling"	2541887
+GO:0031298	"replication fork protection complex"	2543240
+GO:0031323	"regulation of cellular metabolic process"	2543240
+GO:0031325	"positive regulation of cellular metabolic process"	2543240
+GO:0031399	"regulation of protein modification process"	2543240
+GO:0031401	"positive regulation of protein modification process"	2543240
+GO:0031974	"membrane-enclosed lumen"	3361456	2543240
+GO:0031981	"nuclear lumen"	3361456	2543240
+GO:0032147	"activation of protein kinase activity"	2543240
+GO:0032268	"regulation of cellular protein metabolic process"	2543240
+GO:0032270	"positive regulation of cellular protein metabolic process"	2543240
+GO:0032502	"developmental process"	2539619
+GO:0032774	"RNA biosynthetic process"	2542933	2541605
+GO:0032991	"macromolecular complex"	2541695	2542130	2543240	3361456
+GO:0032995	"regulation of fungal-type cell wall biogenesis"	2541612
+GO:0033218	"amide binding"	2542130
+GO:0033260	"nuclear DNA replication"	2542468
+GO:0033674	"positive regulation of kinase activity"	2543240
+GO:0034062	"RNA polymerase activity"	2542933
+GO:0034220	"ion transmembrane transport"	1669532
+GO:0034641	"cellular nitrogen compound metabolic process"	1669532	2541695	2542468	2542933	2541605
+GO:0034645	"cellular macromolecule biosynthetic process"	2542933	2542468	2541605
+GO:0034654	"nucleobase-containing compound biosynthetic process"	2542933	1669532	2541695	2541605
+GO:0034728	"nucleosome organization"	2541605
+GO:0034974	"Swi5-Swi2 complex"	3361456
+GO:0035556	"intracellular signal transduction"	2541887
+GO:0036211	"protein modification process"	2543240
+GO:0042277	"peptide binding"	2542130
+GO:0042325	"regulation of phosphorylation"	2543240
+GO:0042327	"positive regulation of phosphorylation"	2543240
+GO:0042546	"cell wall biogenesis"	2541612
+GO:0042578	"phosphoric ester hydrolase activity"	2542065
+GO:0042789	"mRNA transcription from RNA polymerase II promoter"	2541605
+GO:0043085	"positive regulation of catalytic activity"	2543240
+GO:0043170	"macromolecule metabolic process"	2542468	2542933	2541605	2543240
+GO:0043226	"organelle"	2543240	3361456
+GO:0043227	"membrane-bounded organelle"	3361456	2543240
+GO:0043228	"non-membrane-bounded organelle"	3361456	2543240
+GO:0043229	"intracellular organelle"	2543240	3361456
+GO:0043231	"intracellular membrane-bounded organelle"	3361456	2543240
+GO:0043232	"intracellular non-membrane-bounded organelle"	3361456	2543240
+GO:0043233	"organelle lumen"	3361456	2543240
+GO:0043412	"macromolecule modification"	2543240
+GO:0043549	"regulation of kinase activity"	2543240
+GO:0043596	"nuclear replication fork"	2543240
+GO:0043933	"macromolecular complex subunit organization"	2541605
+GO:0044085	"cellular component biogenesis"	2541612
+GO:0044087	"regulation of cellular component biogenesis"	2541612
+GO:0044093	"positive regulation of molecular function"	2543240
+GO:0044237	"cellular metabolic process"	1669532	2541695	2542468	2542933	2541605	2543240
+GO:0044238	"primary metabolic process"	1669532	2541695	2542468	2542933	2541605	2543240
+GO:0044249	"cellular biosynthetic process"	1669532	2541695	2542468	2542933	2541605
+GO:0044260	"cellular macromolecule metabolic process"	2542468	2542933	2541605	2543240
+GO:0044267	"cellular protein metabolic process"	2543240
+GO:0044271	"cellular nitrogen compound biosynthetic process"	2542933	1669532	2541695	2541605
+GO:0044281	"small molecule metabolic process"	1669532	2541695
+GO:0044786	"cell cycle DNA replication"	2542468
+GO:0045859	"regulation of protein kinase activity"	2543240
+GO:0045860	"positive regulation of protein kinase activity"	2543240
+GO:0045937	"positive regulation of phosphate metabolic process"	2543240
+GO:0046034	"ATP metabolic process"	1669532
+GO:0046390	"ribose phosphate biosynthetic process"	1669532
+GO:0046483	"heterocycle metabolic process"	1669532	2541695	2542468	2542933	2541605
+GO:0048015	"phosphatidylinositol-mediated signaling"	2541887
+GO:0048017	"inositol lipid-mediated signaling"	2541887
+GO:0048518	"positive regulation of biological process"	2543240
+GO:0048522	"positive regulation of cellular process"	2543240
+GO:0048856	"anatomical structure development"	2539619
+GO:0050789	"regulation of biological process"	2541887	2543240	2541612
+GO:0050790	"regulation of catalytic activity"	2543240
+GO:0050794	"regulation of cellular process"	2541887	2543240	2541612
+GO:0050896	"response to stimulus"	2541887
+GO:0051171	"regulation of nitrogen compound metabolic process"	2543240
+GO:0051173	"positive regulation of nitrogen compound metabolic process"	2543240
+GO:0051174	"regulation of phosphorus metabolic process"	2543240
+GO:0051179	"localization"	1669532
+GO:0051234	"establishment of localization"	1669532
+GO:0051246	"regulation of protein metabolic process"	2543240
+GO:0051247	"positive regulation of protein metabolic process"	2543240
+GO:0051276	"chromosome organization"	2541605
+GO:0051338	"regulation of transferase activity"	2543240
+GO:0051347	"positive regulation of transferase activity"	2543240
+GO:0051716	"cellular response to stimulus"	2541887
+GO:0052742	"phosphatidylinositol kinase activity"	2541887
+GO:0055085	"transmembrane transport"	1669532
+GO:0055086	"nucleobase-containing small molecule metabolic process"	1669532	2541695
+GO:0060255	"regulation of macromolecule metabolic process"	2543240
+GO:0061731	"ribonucleoside-diphosphate reductase activity"	2541695
+GO:0065007	"biological regulation"	2541887	2543240	2541612
+GO:0065009	"regulation of molecular function"	2543240
+GO:0070013	"intracellular organelle lumen"	3361456	2543240
+GO:0070290	"N-acylphosphatidylethanolamine-specific phospholipase D activity"	2542065
+GO:0071554	"cell wall organization or biogenesis"	2541612
+GO:0071704	"organic substance metabolic process"	1669532	2541695	2542468	2542933	2541605	2543240
+GO:0071824	"protein-DNA complex subunit organization"	2541605
+GO:0071840	"cellular component organization or biogenesis"	2541605	2541612
+GO:0071852	"fungal-type cell wall organization or biogenesis"	2541612
+GO:0072521	"purine-containing compound metabolic process"	1669532
+GO:0072522	"purine-containing compound biosynthetic process"	1669532
+GO:0080090	"regulation of primary metabolic process"	2543240
+GO:0090304	"nucleic acid metabolic process"	2542933	2542468	2541605
+GO:0090407	"organophosphate biosynthetic process"	1669532	2541695
+GO:0097659	"nucleic acid-templated transcription"	2541605
+GO:0098655	"cation transmembrane transport"	1669532
+GO:0098660	"inorganic ion transmembrane transport"	1669532
+GO:0098662	"inorganic cation transmembrane transport"	1669532
+GO:1901135	"carbohydrate derivative metabolic process"	1669532	2541695
+GO:1901137	"carbohydrate derivative biosynthetic process"	1669532	2541695
+GO:1901293	"nucleoside phosphate biosynthetic process"	1669532	2541695
+GO:1901360	"organic cyclic compound metabolic process"	1669532	2541695	2542468	2542933	2541605
+GO:1901362	"organic cyclic compound biosynthetic process"	2542933	1669532	2541695	2541605
+GO:1901564	"organonitrogen compound metabolic process"	1669532	2543240
+GO:1901566	"organonitrogen compound biosynthetic process"	1669532
+GO:1901576	"organic substance biosynthetic process"	1669532	2541695	2542468	2542933	2541605
+GO:1902294	"cell cycle DNA replication termination"	2542468
+GO:1902317	"nuclear DNA replication termination"	2542468
+GO:1902494	"catalytic complex"	2541695
+GO:1902600	"hydrogen ion transmembrane transport"	1669532
+GO:1902969	"mitotic DNA replication"	2542468
+GO:1902979	"mitotic DNA replication termination"	2542468
+GO:1903047	"mitotic cell cycle process"	2542468
+GO:1903338	"regulation of cell wall organization or biogenesis"	2541612
+GO:1990204	"oxidoreductase complex"	2541695
