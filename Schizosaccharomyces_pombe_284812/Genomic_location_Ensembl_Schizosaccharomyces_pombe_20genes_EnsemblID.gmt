@@ -1,16 +1,18 @@
 # Gene set GMT file for mulea Bioconductor R package
 # taxon_name: Schizosaccharomyces pombe
 # taxonomy_ID: 4896
-# ID_type: LocusID
+# ID_type: EnsemblID
 # source_url: www.ensembl.org 
 # source_PMID: 34791404
 # source_primary_ID: EnsemblID / LocusID 
 # source_version: 109
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 02-12-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: chromosome location
 # chromosome location chromosome location Genes
+
+
 
 chro I 1-12994	chro I 1-12994	SPAC212.11	SPAC212.10	SPAC212.09c	SPNCRNA.70	SPAC212.08c	SPAC212.07c	SPAC212.12	SPAC212.06c	SPAC212.05c	SPAC212.04c	SPAC212.03	SPAC212.02	SPAC212.01c	SPAC977.01	SPAC977.18	SPAC977.02	SPAC977.03	SPAC977.04	SPAC977.05c	SPAC977.06
 chro I 5726-14555	chro I 5726-14555	SPAC212.10	SPAC212.09c	SPNCRNA.70	SPAC212.08c	SPAC212.07c	SPAC212.12	SPAC212.06c	SPAC212.05c	SPAC212.04c	SPAC212.03	SPAC212.02	SPAC212.01c	SPAC977.01	SPAC977.18	SPAC977.02	SPAC977.03	SPAC977.04	SPAC977.05c	SPAC977.06	SPNCRNA.136

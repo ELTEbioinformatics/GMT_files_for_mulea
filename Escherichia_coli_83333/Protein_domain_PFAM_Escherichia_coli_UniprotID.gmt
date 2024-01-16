@@ -6,11 +6,13 @@
 # source_PMID: 33125078
 # source_primary_ID: UniprotID 
 # source_version: 35
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 11-08-2017 
-# gmt_version:1
-# gmt_entry_names:PFAM ID
+# gmt_version: 1
+# gmt_entry_names: PFAM ID
 # PFAM ID Description Genes
+
+
 
 PF04794	YdjC	P37794	A0A4S5B2U7
 PF00873	ACR_tran	P31224	A0A4S5B150	A0A4S4PFJ8	P38054	P76398	A0A6D2WBH6	A0A6D2WY19	A0A6D2WPJ2	P24181	A0A4S5B4Z0	A0A6D2X3Y1	P76399	P37637	P24177

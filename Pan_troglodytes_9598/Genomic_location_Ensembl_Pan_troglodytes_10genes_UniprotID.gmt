@@ -6,11 +6,13 @@
 # source_PMID: 34791404
 # source_primary_ID: EnsemblID / LocusID 
 # source_version: 109
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 02-12-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: chromosome location
 # chromosome location chromosome location Genes
+
+
 
 chro 1 44315-86892	chro 1 44315-86892	A0A2I3RE21	A0A2I3SUZ2	A0A2I3SJM2	A0A2I3SKD9	A0A2I3TT77	A0A2I3TTH1	H2RH79	A0A2I3SJZ3	A0A2I3SX53	A0A2I3RGK5
 chro 1 58168-109147	chro 1 58168-109147	A0A2I3SUZ2	A0A2I3SJM2	A0A2I3SKD9	A0A2I3TT77	A0A2I3TTH1	H2RH79	A0A2I3SJZ3	A0A2I3SX53	A0A2I3RGK5	A0A2I3RDB7

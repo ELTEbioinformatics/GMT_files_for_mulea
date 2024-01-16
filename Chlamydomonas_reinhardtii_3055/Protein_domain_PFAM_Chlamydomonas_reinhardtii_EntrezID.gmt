@@ -6,11 +6,13 @@
 # source_PMID: 33125078
 # source_primary_ID: UniprotID 
 # source_version: 35
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 11-08-2017 
-# gmt_version:1
-# gmt_entry_names:PFAM ID
+# gmt_version: 1
+# gmt_entry_names: PFAM ID
 # PFAM ID Description Genes
+
+
 
 PF02536	mTERF	5728668	5723712	5716170	5715512
 PF09418	DUF2009	5723653

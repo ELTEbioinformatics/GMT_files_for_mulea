@@ -6,11 +6,13 @@
 # source_PMID: 33125078
 # source_primary_ID: UniprotID 
 # source_version: 35
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 11-08-2017 
-# gmt_version:1
-# gmt_entry_names:PFAM ID
+# gmt_version: 1
+# gmt_entry_names: PFAM ID
 # PFAM ID Description Genes
+
+
 
 PF00069	Pkinase	skh1	sid1	ppk15	sid2	gad8	pom1	ppk23	mkh1	cmk2	orb6	sck1	chk1	cdk9	kin1	wee1	SPAP27G11.07c	ppk33	dsk1	hhp2	ppk27	prp4	hal4	ksg1	ppk19	pck1	pck2	psk1	fin1	ppk9	ppk1	mak3	shk1	ppk8	byr2	cdc7	ksp1	cmk1	cdr1	ppk16	sty1	hri2	hsk1	ppk18	mde3	hri1	SPCC70.05c	win1	lkh1	ppk22	cki3	ppk31	cki1	ppk6	ssp2	ppk25	nak1	cki2	spo4	plo1	ppk5	ssp1	ppk35	wis1	bub1	cdr2	csk1	crk1	ppk24	sck2	ppk13	pka1	ppk30	cdc2	spm1	ppk34	mak2	ppk26	spk1	ppk21	mik1	pit1	cka1	ppk32	ppk14	gcn2	cds1	srk1	ppk2	ppk38	byr1	pef1	wis4	oca2	ran1	shk2	ire1	atg1	ppk29	mph1	gsk3	hhp1	mek1	srb10	cek1	ark1	ppk11	lsk1	gsk31
 PF00611	FCH	bzz1	rga8	imp2	syp1	rga7	cdc15

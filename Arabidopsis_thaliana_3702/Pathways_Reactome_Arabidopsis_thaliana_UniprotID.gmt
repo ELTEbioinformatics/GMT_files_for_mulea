@@ -6,11 +6,13 @@
 # source_PMID: 31691815
 # source_primary_ID: UniprotID 
 # source_version: 84
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 13-03-2018 
-# gmt_version:1
-# gmt_entry_names:Reactome Pathway
+# gmt_version: 1
+# gmt_entry_names: Reactome Pathway
 # Reactome Pathway Description Genes
+
+
 
 R-ATH-418360	Platelet calcium homeostasis	A0A178U7Y1	A0A178U7Y2	A0A178UAQ9	A0A1P8BEZ2	F4KHQ2	O22218	O22252	O64806	O81108	P0DH95	P0DH96	P0DH97	P0DH98	P30187	P59220	Q03509	Q37145	Q682T9	Q8W4L0	Q9FYE4	Q9LF79	Q9LIK7	Q9LU41	Q9LVV1	Q9LY77	Q9M2L4	Q9SY55	Q9SZR1	Q9ZQH1
 R-ATH-389887	Beta-oxidation of pristanoyl-CoA	A0A178V1J4	A0A178V357	A0A178W7C0	B3H5Z2	F4HU51	F4JHC9	O65202	O65260	O65261	P0CZ23	Q56XD4	Q5FYU1	Q8GYW7	Q8VYI3	Q9LMI7	Q9LQ87	Q9ZQP2

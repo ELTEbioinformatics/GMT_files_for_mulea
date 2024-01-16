@@ -6,11 +6,13 @@
 # source_PMID: 31525460
 # source_primary_ID: UniprotID 
 # source_version: 2
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 10-07-2022
-# gmt_version:1
-# gmt_entry_names:transcription factor
+# gmt_version: 1
+# gmt_entry_names: transcription factor
 # transcription factor transcription factor RegulatedGenes
+
+
 
 Ahr	Ahr	Cyp1a1	Cyp1a2	Cyp1b1	Fos	Myc	Ugt1a6a	Ugt1a6b	Ugt1a7c	Asap1	Erg	Vgll4
 Ar	Ar	1700025G04Rik	Abce1	Acad10	Acad12	Acpp	Ahsg	Akr1b3	Akt1	Anapc10	Ap2m1	Appbp2	Atf6	Atm	Atp2b4	Babam2	Banf1	Btd	Ccng2	Cd4	Cdc6	Cdh2	Cdkl5	Cdkn1a	Cited2	Coasy	Cpt2	Crisp4	Dbi	Ddc	Ddt	Dhx15	Eef1akmt3	Egfr	Eif3i	Elf3	Erbb3	Esrra	Etl4	Eya2	Fam13a	Fam174b	Fkbp5	Foxa1	Fxyd3	Glrx	Gnl1	Grb10	Gtf2f1	H2-Bl	H2-Q5	Hes1	Hk2	Hnrnpa1	Hsd17b11	Ifi35	Igf1r	Igfbp3	Il1r1	Jun	Kcnh2	Klf5	Klk4	Krt18	Krt8	Lifr	Med1	Mmp13	Mrps27	Mt2	Muc1	Myc	Ncoa2	Ndrg1	Nkx3-1	Nme7	Npat	Npepps	Nup214	Orm1	Orm2	Orm3	Pex6	Pgc	Pigr	Pin1	Pin1rt1	Pmaip1	Pmepa1	Pnrc1	Ppp2r5d	Prkcd	Prps1	Prps1l3	Ptgs2	Ptpn9	Ptprm	Qsox1	Rbmx	Rbmxl1	Rbpms	Rela	Rnase4	Scap	Scnn1a	Sdf2	Serpinb5	Serpini1	Slc25a11	Smarca2	Sms	Snai2	Sord	Sox4	Spdef	Stk39	Stxbp2	Suox	Susd6	Tesk1	Thra	Tmprss2	Tnfrsf1a	Trps1	Ubc	Ube2d3	Vapa	Vegfa	Xpa	Zbtb16	Zcchc9	Zfhx4

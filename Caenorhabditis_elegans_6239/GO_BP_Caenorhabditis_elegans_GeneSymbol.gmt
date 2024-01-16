@@ -6,11 +6,13 @@
 # source_PMID: 30395331
 # source_primary_ID: GeneSymbol 
 # source_version: 
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 09-05-2023
 # gmt_version:2
 # gmt_entry_names:gene ontology
 # Gene Ontology Term Description Genes
+
+
 
 GO:0000002	"mitochondrial genome maintenance"	pif-1
 GO:0000003	"reproduction"	cgh-1	air-2	gck-1	cpg-1	ced-3	cnnm-4	cng-3	daf-12	sma-4	eat-2	ego-1	spe-38	eat-4	mbk-2	rme-2	kin-1	skr-1	evl-14	htp-3	age-1	spo-11	rad-51	cyb-1	fem-1	ife-1	fer-1	lat-1	cul-2	anc-1	him-14	lin-22	meg-3	mei-1	plk-2	cyd-1	brc-2	pam-1	tra-2	CELE_Y39A1A.9	cdk-4	gsp-4	ttll-5	mat-3	aph-2	kgb-1	daf-31	dmd-10	fem-2	bas-1	eff-1	acy-4	san-1	dpy-28	cdc-25.1	dog-1	klc-1	pgl-1	bir-2	cav-1	lim-6	pch-2	syp-1	hus-1	lip-1	iff-2	him-19	zhp-1	lmd-4	egrh-1	apx-1	egl-38	gld-3	sep-1	pzf-1	him-6	ceh-39	cye-1	inpp-1	aph-1	cmd-1	cil-1	atp-2	oma-1	cyn-4	atx-2	par-3	unc-73	csc-1	nhr-6	ceh-30	bub-3	bec-1	ced-12	itr-1

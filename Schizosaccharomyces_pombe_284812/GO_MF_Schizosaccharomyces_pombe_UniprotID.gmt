@@ -6,11 +6,13 @@
 # source_PMID: 30395331
 # source_primary_ID: GeneSymbol 
 # source_version: 
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 09-05-2023
 # gmt_version:2
 # gmt_entry_names:gene ontology
 # Gene Ontology Term Description Genes
+
+
 
 GO:0003674	"molecular_function"	E0WDE3	C5IGP5	A0A075WJH4	O74819	L7SU69	S6BSK3	S6BME7
 GO:0003824	"catalytic activity"	E0WDE3	S6BSK3	L7SU69	C5IGP5

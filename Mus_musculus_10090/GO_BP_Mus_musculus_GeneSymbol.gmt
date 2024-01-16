@@ -6,11 +6,13 @@
 # source_PMID: 30395331
 # source_primary_ID: GeneSymbol 
 # source_version: 
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 09-05-2023
 # gmt_version:2
 # gmt_entry_names:gene ontology
 # Gene Ontology Term Description Genes
+
+
 
 GO:0000002	"mitochondrial genome maintenance"	Endog	Dna2	Mpv17	Top3a	Akt3
 GO:0000003	"reproduction"	Shcbp1l	Fgf9	Sfrp2	Egfr	Izumo1	Kit	Cbx2	Stxbp1	Shh	Mcmdc2	Avp	Id4	Nuf2	Ihh	Fosl1	Majin	Actr2	Arrb1	Igf1	Irf2bpl	Fem1b	Stat5b	Dmrt1	Hey1	Tp63	Bnc1	1700028K03Rik	Gnrh1	Mlh1	Stag3	Hoxb13	Acvr1c	Spata2	Stra6	Dhx37	Lep	Morc1	Oxtr	Smad4	Cenpx	Spint2	Wdr77	Acvr1b	Stra8	Ovol1	Amh	Zglp1	Ncapd3	Dnhd1	Tex11	Epc1	Sycp2l	Wnt4	Havcr2	Cacna1h	Nppc	Armc2	Plaur	Ctnnb1	Fgf10	Ncoa1	Spire1	Spmip6	Hdac2	Meikin	Meioc	P2rx1	Bmp7	Plac1	Mfn2	Npr2	Cast	Prdm9	Abcg2	Spo11	Cckbr	Cd9	Lin9	Rad51ap1	Taf10	Notch1	Zp3	Lhcgr	Mdfi	Ndc80	4930447C04Rik	Ttk	Esx1	Rspo1	Phb2	Dach1	Il1a	Abat	Pgr	Emp2	Cfap58	Nr2f2	Rgn	Tnc	Etv5	Spink13	Syce1l	Abhd2	Aldoa	Cyp51a1	Insr	Ptger4	Ada	Hus1b	Bmp4	Cdkn1b	Tekt3	Rad51c	Tex19.1	Larp7	Kiss1	Foxo3	Pzp	Ncaph	Tyro3	Rab3a	Tubg2	Akap4	Top6bl	Shbg	Grn	Nog	Prkaca	Serpine2	Src	Ar	Ube3a	Chfr	Neurog1	Foxa1	Bmpr2	Nefh	Nr5a1	Ahsg	Gja1	Ahr	Mos	Pmp22	Sycp1	Dmc1	Ppp2r1a	Plcz1	Spem1	Dmrt3	Csmd1	Mmp2	Brca2	Dicer1	Avpr1a	Cdc25c	Rec8	Pcdha4	Lhx9	Zfx	Kash5	Akt1	Fbn2	Fzd5	Drd5	Adcyap1	4930451I11Rik	Plat	Hectd1	Anxa5	Igf1r	Cftr	Foxl2	Pkdrej	Klk14	Flna	Gpr149	Grb14	Cyp11a1	Anxa1	Tdrd12	Psapl1	Espl1	Ccnb1	Gdf9	Pygo1	Rad1	Zfp386	Bmp5	Spata22	Serpinb5	Fbxo5	Dazl	Tcf21	Il18	Vdr	Ube2b	Sox9	Cenpc	Ccnd1	Dcaf13	Uchl1	Ntrk1	Ereg	Chd7	Pithd1	Esr1	Sohlh2	Cul7	Hpgd	Incenp	Wee2	Fancd2	Inhba	Comt	Tbx3	Trpc2	Actl9	Cdkn1c	Ptafr	Cep131	Park7	Itgb4	Fanca	Ptgdr2	Kcnu1	Tex14	Tcp11	Wbp2nl	Tm9sf5	Phlda2	Terb2	Jag1	Spin1	Nipbl	Map3k4	Psmc3ip	Dnd1	Ccr6	M1ap	Ccdc62	Nme5	Cited1	Gpr3	Gcm1	B4galt1	Adamts16	Msh5	Rad51	Wnt5a	Atm	Acr	Edn2	Plk1	Ash1l	AU040320	Tnp1	Tac1	Zfp36l1

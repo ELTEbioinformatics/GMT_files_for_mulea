@@ -6,11 +6,13 @@
 # source_PMID: 34791404
 # source_primary_ID: EnsemblID / LocusID 
 # source_version: 109
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 02-12-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: chromosome location
 # chromosome location chromosome location Genes
+
+
 
 chro 1 3073253-3368549	chro 1 3073253-3368549	Q5GH67
 chro 1 3102016-3377788	chro 1 3102016-3377788	Q5GH67

@@ -6,11 +6,13 @@
 # source_PMID: 31691815
 # source_primary_ID: UniprotID 
 # source_version: 84
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 13-03-2018 
-# gmt_version:1
-# gmt_entry_names:Reactome Pathway
+# gmt_version: 1
+# gmt_entry_names: Reactome Pathway
 # Reactome Pathway Description Genes
+
+
 
 R-SPO-674695	RNA Polymerase II Pre-transcription Events	taf11	taf9	taf7	taf12	tfb1	sua7	ptr8	yaf9	fcp1	rpb10	csk1	rad15	spt6	tfs1	tfg3	rpb5	spt5	rpb2	taf4	srb10	tpr1	tbp1	SPAC2G11.14	taf2	rpb11	tfa1	SPAC664.03	cbc1	rpb7	rpb9	tfg2	cbc2	SPBC13E7.08c	tfb2	rpb8	cdc73	elc1	rpc10	crk1	iws1	spt4	taf10	toa1	rpb1	pof4	tfb4	rec14	pch1	tfb5	rpb4	lsc1	pob3	SPBC651.09c	pmh1	mcs2	spt16	rpb6	eaf1	rpb3	taf13	tfg1	tfa2	ssl1	taf6	toa2	taf5	spt3
 R-SPO-6807505	RNA polymerase II transcribes snRNA genes	taf11	taf9	sua7	rpb10	csk1	rpb5	rpb2	srb10	tbp1	rpb11	tfa1	rpb7	rpb9	tfg2	rpb8	rpc10	crk1	toa1	rpb1	pch1	rpb4	lsc1	rpb6	rpb3	taf13	tfg1	tfa2	taf6	toa2	taf5	spt3

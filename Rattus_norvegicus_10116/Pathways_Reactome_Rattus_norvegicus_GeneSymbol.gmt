@@ -6,11 +6,13 @@
 # source_PMID: 31691815
 # source_primary_ID: UniprotID 
 # source_version: 84
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 13-03-2018 
-# gmt_version:1
-# gmt_entry_names:Reactome Pathway
+# gmt_version: 1
+# gmt_entry_names: Reactome Pathway
 # Reactome Pathway Description Genes
+
+
 
 R-RNO-112310	Neurotransmitter release cycle	Gad1	Naaa	Abat	Maoa	Ppfia4	Ppfia2	Lin7a	Slc1a2	Slc6a11	Snap25	Slc38a2	Syt1	Slc6a1	Arl6ip5	Vamp2	Slc1a6	Tspoap1	Syn2	Unc13b	Slc18a2	Syn1	Slc5a7	Rims1	Slc1a7	Slc6a13	Slc6a12	Slc1a1	Dnajc5	Slc32a1	Stxbp1	Slc1a3	Slc22a1	Slc22a2	Gad2	Rab3a	Slc17a7	Ppfia3	Lin7b	Ppfia1	Aldh5a1	Syn3	Stx1a	Gls2	Gls
 R-RNO-112315	Transmission across Chemical Synapses	Gad1	Grik2	Gabbr1	Gnb2	Grik1	Kcnj6	Gabrr3	Ap2m1	Comt	Adcy5	Naaa	Kcnj12	Gabrb1	Gabra4	Gabra2	Chrna9	Rps6ka6	Abat	Dlg3	Maoa	Cacna1e	Tspan7	Gabrg2	Cacng4	Glra2	Slc6a4	Prkca	Ppfia4	Gabra1	Gabra6	Gabrb2	Chrne	Nsf	Adcy3	Grip1	Calm1	Ppfia2	Lin7a	Cacna1b	Kcnj16	Prkacb	Gnat3	Slc38a1	Kcnj3	Slc1a2	Slc6a11	Snap25	Mdm2	Slc38a2	Syt1	Slc6a1	Htr3a	Rps6ka3	Arl6ip5	Htr3b	Gria4	Vamp2	Gabrr2	Slc1a6	Gabrr1	Kcnj9	Cacnb4	Gria3	Arhgef9	Tspoap1	Syn2	Unc13b	Gabbr2	Slc18a2	Grik3	Prkar2b	Grip2	Camk2g	Glrb	Syn1	Gnal	Gngt1	Slc5a7	Gabra5	Chrna7	Rims1	Gnb4	Chrna4	Camk2d	Slc1a7	Grin1	Myo6	Prkcb	Chrna6	Cacng3	Chrnb3	Slc6a13	Rps6ka2	Creb1	Slc6a12	Glra1	Chrna5	Nefl	Chrna3	Kcnj4	Chrnb4	Adcy7	Slc1a1	Gabrg3	Dnajc5	Slc32a1	Stxbp1	Gnb3	Ap2s1	Slc1a3	Slc22a1	Gnai2	Slc22a2	Gnb1	Gng8	Slc6a3	Chrna2	Actn2	Gad2	Chrna1	Dlg4	Rab3a	Gnai3	Chrnd	Gng3	Prkar2a	Grik5	Adcy4	Camk4	Slc17a7	Ppfia3	Lin7b	Chrnb2	Ppfia1	Grin2d	Camk1	Dlg2	Tomt	Aldh5a1	Ap2a1	Syn3	Stx1a	Grik4	Gls2	Adcy2	Kcnj5	Gng5-ps5	Gng13	Gng5-ps4	Ncald	Gnb5	Glul	Adcy9	Glra3	Prkar1a	Gng12	Gng11	Cacna1a	Gabrq	Cacnb3	Prkcg	Adcy6	Gls	Gabra3	Gnai1	Epb41l1	Cacng8	Adcy1	Gabrb3	Ap2b1

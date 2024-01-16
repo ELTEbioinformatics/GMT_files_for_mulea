@@ -6,11 +6,15 @@ NA
 # source_PMID: 33211851
 # source_primary_ID: EntrezID 
 # source_version: 2021
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 05-09-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: wikipathways
 # Wikipathways pathway Description Genes
+
+NA
+
+NA
 
 Serotonin Receptor 2 and STAT3 Signaling WikiPathways_20171010 WP3115 Bos taurus	http://www.wikipathways.org/instance/WP3115_r80659	P61635	E1BCP6	E1BA29	Q75Z89
 EPO Receptor Signaling WikiPathways_20171010 WP996 Bos taurus	http://www.wikipathways.org/instance/WP996_r80789	A0A3Q1MNN7	Q0IIE2	Q95115	A0A3Q1LZM0	Q9TUM3	Q0VD16	Q3T0F9	Q17QH2	A0A3Q1LYU1	P61635	P48617	F1MEQ7	E1BCP6	A0A3S5ZPJ6	Q2HJ53	A0A8J8XMA0	F1N7C3	P09851	A0A3Q1M2L5

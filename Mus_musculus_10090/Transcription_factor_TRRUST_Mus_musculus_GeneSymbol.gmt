@@ -6,11 +6,13 @@
 # source_PMID: 29087512
 # source_primary_ID: GeneSymbol 
 # source_version: 2
-# source_last_update:2018
+# source_last_update: 2018
 # gmt_download_date: 20-04-2018
-# gmt_version:1
-# gmt_entry_names:transcription factor
+# gmt_version: 1
+# gmt_entry_names: transcription factor
 # transcription factor transcription factor RegulatedGenes
+
+
 
 Aatf	Aatf	Bak1	Bax	Bbc3	Cdkn1a	Tpt1	Trp53
 Abl1	Abl1	Trp53	Trp73

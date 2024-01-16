@@ -6,11 +6,13 @@
 # source_PMID: 30395331
 # source_primary_ID: GeneSymbol 
 # source_version: 
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 09-05-2023
 # gmt_version:2
 # gmt_entry_names:gene ontology
 # Gene Ontology Term Description Genes
+
+
 
 GO:0000002	"mitochondrial genome maintenance"	mgm101
 GO:0000003	"reproduction"	msh5	tubC	hop2	rad51c	cdc25	bub1	H3b	qkgA-1	hus1	culB	sgkA

@@ -6,11 +6,13 @@
 # source_PMID: 29087512
 # source_primary_ID: GeneSymbol 
 # source_version: 2
-# source_last_update:2018
+# source_last_update: 2018
 # gmt_download_date: 20-04-2018
-# gmt_version:1
-# gmt_entry_names:transcription factor
+# gmt_version: 1
+# gmt_entry_names: transcription factor
 # transcription factor transcription factor RegulatedGenes
+
+
 
 AATF	AATF	ENSG00000087088.21	ENSG00000124762.14	ENSG00000164344.16	ENSG00000136997.21	ENSG00000141510.18
 ABL1	ABL1	ENSG00000087088.21	ENSG00000171791.14	ENSG00000113916.18	ENSG00000118971.9	ENSG00000124762.14	ENSG00000184371.14	ENSG00000184371.14	ENSG00000118689.15	ENSG00000177606.8	ENSG00000177606.8	ENSG00000137193.14	ENSG00000141510.18

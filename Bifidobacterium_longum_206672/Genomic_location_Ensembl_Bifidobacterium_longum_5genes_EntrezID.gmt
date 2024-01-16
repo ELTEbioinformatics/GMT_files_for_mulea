@@ -6,11 +6,13 @@
 # source_PMID: 34791404
 # source_primary_ID: EnsemblID / LocusID 
 # source_version: 109
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 02-12-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: chromosome location
 # chromosome location chromosome location Genes
+
+
 
 chro   49-4143	chro   49-4143	69578669	69578668	69578667	69578666	69578665
 chro   526-6165	chro   526-6165	69578668	69578667	69578666	69578665

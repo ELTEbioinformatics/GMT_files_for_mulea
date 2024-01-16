@@ -6,11 +6,13 @@
 # source_PMID: 33211851
 # source_primary_ID: EntrezID 
 # source_version: 2021
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 05-09-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: wikipathways
 # Wikipathways pathway Description Genes
+
+
 
 Exercise-induced Circadian Regulation WikiPathways_20171010 WP562 Danio rerio	http://www.wikipathways.org/instance/WP562_r88051	zgc:92788	wu:fi15a06	tab2	cry3	pura	pigf	qkib	sb:cb1010	idi1	cry1aa	eif4g2b	fi26e03	nckap1	Ugp2	herpud1	c/ebpb	zgc:85723	zfper4	gstm	azin1	zgc:77631	zCLOCK1	gfralpha1b	zfr	cbx3a	dnaja1l	tob1	sumo1	cast	wu:fe05d10	sumo3	fj43b09	ppp1r3cb	zgc:55307	wu:fi48b06	nr1d2b	fc05c02	myf6
 Hypertrophy Model WikiPathways_20171010 WP1327 Danio rerio	http://www.wikipathways.org/instance/WP1327_r88649	ankrd1a	jund	ifrd1	wu:fc04h09	zgc:101581	ccn1	vegfab	kheper	mstnb	adam10a	cb553	nr4a3	zgc:101746	zgc:55526

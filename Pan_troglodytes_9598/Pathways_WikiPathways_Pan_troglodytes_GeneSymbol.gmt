@@ -6,11 +6,13 @@
 # source_PMID: 33211851
 # source_primary_ID: EntrezID 
 # source_version: 2021
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 05-09-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: wikipathways
 # Wikipathways pathway Description Genes
+
+
 
 Id Signaling Pathway WikiPathways_20171010 WP934 Pan troglodytes	http://www.wikipathways.org/instance/WP934_r69296	EGF	CK820_G0031644	CK820_G0003218	CK820_G0017566	CK820_G0033929	CCNE1	CK820_G0041617	CK820_G0039621	CK820_G0025866	NGF	SMAD1	IFI16	CK820_G0005663	MSC	NFKB1	CK820_G0023534	CK820_G0046999	MYF5	CK820_G0008233	CK820_G0048931
 Notch Signaling Pathway WikiPathways_20171010 WP912 Pan troglodytes	http://www.wikipathways.org/instance/WP912_r73738	CK820_G0017604	CK820_G0031307	CK820_G0033516	APH1A	CK820_G0026256	NOTCH4	APH1B	INPP5K	DLL3	CK820_G0023366	CK820_G0052171	CK820_G0036836	CK820_G0008876	CK820_G0049307	CK820_G0002833	CK820_G0012017	CK820_G0023534	KAT2A

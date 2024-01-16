@@ -6,11 +6,13 @@
 # source_PMID: 31691815
 # source_primary_ID: UniprotID 
 # source_version: 84
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 13-03-2018 
-# gmt_version:1
-# gmt_entry_names:Reactome Pathway
+# gmt_version: 1
+# gmt_entry_names: Reactome Pathway
 # Reactome Pathway Description Genes
+
+
 
 R-DDI-109582	Hemostasis	acpA	H3a	lmpA	sodA	lmpC	ChLim	gefW	gemA	gefV	abpA	gpaJ	calB	tspA	nxnA	gefB	gefE	tspB	redB	hcpC	rapC	tspD	H3b	tspC	gefS	gefG	acpB	cyri	rapB	fba	gefR	gefM	pikC	gefN	gefY	gpaB	gpaK	gefL	gpaG	gefH	dgkA	scfd2	patA	rac1A	gefI	mlcD	pikA	aip1	calA	gpaL	DDB_G0280557	DDB_G0280643	DDB_G0280855	pdkA	gefP	gbpD	gefC	pikB	gpaF	gpaA	gpaI	sec1	gefA	regA	gpaH	rab32D	kif4	abcC9	DDB_G0285265	gpaD	gpaE	erkA	gpaC	lmpB	sibA	limD	tubA	sibB	DDB_G0288133	sibC	sibD	kif13	gefQ	gefD	gefO	chid1	talA	gefK	tspE	H3v1	rapA	DDB_G0292252	carmil	iplA	adkB	gefF	DDB_G0293786
 R-DDI-199977	ER to Golgi Anterograde Transport	acpA	cope	cog4	copa	abpA	copd	snpC	DDB_G0269942	sec31	cog8	rabC	acpB	ppp6c	kdelr	sarA	rabF1-1	trapcc10-1	trappc1-1	dlcB	nsfA	trappc3	syn5	cog1	sec24l	rab1B	copb2	dynE	trappc5	arrE	arrJ	arrK	trappc4	dicA	cog2	sec24	cog3	sec23	rabY	DDB_G0282433	rabS	trappc2	rab1A	copb	rab1D	snpA	dynB	cog7	tubA	syn7A	arpH	arrH	empA	scfd1	arpA	arrD	arfA	copG	arrF	copZa	cog5	dynF	rabA	rabU	sec13	rsmM	trappc2l	cog6	dync1li1	copZb	empB

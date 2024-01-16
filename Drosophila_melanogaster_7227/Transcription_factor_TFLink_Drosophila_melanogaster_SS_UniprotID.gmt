@@ -6,11 +6,13 @@
 # source_PMID: 36124642
 # source_primary_ID: UniprotID 
 # source_version: 1
-# source_last_update:2022
+# source_last_update: 2022
 # gmt_download_date: 22-11-2023
-# gmt_version:1
-# gmt_entry_names:transcription factor
+# gmt_version: 1
+# gmt_entry_names: transcription factor
 # transcription factor transcription factor RegulatedGenes
+
+
 
 P02836	en	P32031	P20009	P08841	P07713	P19538	P83949	P02836	Q24475	P02835
 O61735	Clk	P49021

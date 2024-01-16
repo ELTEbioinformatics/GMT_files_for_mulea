@@ -6,11 +6,13 @@
 # source_PMID: 33211851
 # source_primary_ID: EntrezID 
 # source_version: 2021
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 05-09-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: wikipathways
 # Wikipathways pathway Description Genes
+
+
 
 Glycine biosynthesis WikiPathways_20171010 WP261 Saccharomyces cerevisiae	http://www.wikipathways.org/instance/WP261_r92999	AGX1	SHM2	GLY1	SHM1
 Glucose-1-phosphate metabolism WikiPathways_20171010 WP260 Saccharomyces cerevisiae	http://www.wikipathways.org/instance/WP260_r94487	YHL012W	GSY2	PGM2	UGP1	GLC3	GSY1	PGM1

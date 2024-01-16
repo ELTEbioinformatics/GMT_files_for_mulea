@@ -6,11 +6,15 @@ NA
 # source_PMID: 33211851
 # source_primary_ID: EntrezID 
 # source_version: 2021
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 05-09-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: wikipathways
 # Wikipathways pathway Description Genes
+
+NA
+
+NA
 
 Id Signaling Pathway WikiPathways_20171010 WP934 Pan troglodytes	http://www.wikipathways.org/instance/WP934_r69296	H2QQ13	A0A6D2Y5T6	A0A6D2W9A9	A0A6D2XN02	A0A6D2WC88	A0A2I3SSE9	A0A6D2WX55	A0A2J8KDK9	A0A6D2X1U7	Q9N2F1	K6ZWM5	K7AH15	A0A6D2WYM9	K7A6B3	A0A2J8MAX5	A0A6D2YBA9	A0A2J8JJG6	H2Q6J3	A0A2J8NR33	A0A6D2X6Y6
 Notch Signaling Pathway WikiPathways_20171010 WP912 Pan troglodytes	http://www.wikipathways.org/instance/WP912_r73738	A0A6D2WM77	A0A6D2WP66	A0A6D2VZD5	A0A2I3SG11	A0A6D2Y6I9	H2RDK4	A0A2I3RSX5	A0A2J8JKK9	A0A2I3RGF5	A0A6D2VYY0	A0A6D2X7H6	A0A6D2WAJ0	A0A6D2WWD3	A0A6D2XFG8	A0A6D2X6D4	A0A6D2XGF7	A0A6D2YBA9	K7BGL2

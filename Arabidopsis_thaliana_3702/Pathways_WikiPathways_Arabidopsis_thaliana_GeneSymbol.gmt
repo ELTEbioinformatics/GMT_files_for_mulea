@@ -6,11 +6,13 @@
 # source_PMID: 33211851
 # source_primary_ID: EntrezID 
 # source_version: 2021
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 05-09-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: wikipathways
 # Wikipathways pathway Description Genes
+
+
 
 Cadmium and glutathione WikiPathways_20171010 WP2579 Arabidopsis thaliana	http://www.wikipathways.org/instance/WP2579_r82711	MDAR3	DHAR2	GSH1	MDAR2	MDAR4	MSD1	GSH2	APX1	MDAR1	MDAR5	FSD1	ATX1	CSD2	CCH	CSD1	PCS1	At3g24170	DHAR3	CCS	APX2	DHAR1
 Phytochrome Signalling Pathway to Turn On Photomorphogenesis WikiPathways_20171010 WP3662 Arabidopsis thaliana	http://www.wikipathways.org/instance/WP3662_r90097	PIF5	PHYB	SPA1	PIF6	HFR1	PHYA	PHYD	CUL4	DDB1A	COP10	COP1	PIF4	PHYC	HY5	CSN1	PHYE	BHLH72	LAF1	DET1	PTAC12	PIF3	PIF1

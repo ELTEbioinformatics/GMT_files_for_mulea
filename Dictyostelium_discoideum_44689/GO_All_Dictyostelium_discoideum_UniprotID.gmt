@@ -6,11 +6,13 @@
 # source_PMID: 30395331
 # source_primary_ID: GeneSymbol 
 # source_version: 
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 09-05-2023
 # gmt_version:2
 # gmt_entry_names:gene ontology
 # Gene Ontology Term Description Genes
+
+
 
 GO:0000002	"mitochondrial genome maintenance"	Q8MYF0
 GO:0000003	"reproduction"	Q54P75	Q55AR3	Q54UM1	Q54PJ7	Q54QM6	Q54CV5	Q55BN9	Q8SSS9	Q54NC0	Q9XZJ3	Q86KF9

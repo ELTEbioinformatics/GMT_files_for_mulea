@@ -6,11 +6,13 @@
 # source_PMID: 33125078
 # source_primary_ID: UniprotID 
 # source_version: 35
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 11-08-2017 
-# gmt_version:1
-# gmt_entry_names:PFAM ID
+# gmt_version: 1
+# gmt_entry_names: PFAM ID
 # PFAM ID Description Genes
+
+
 
 PF14560	Ubiquitin_2	H2R803	H2RET5	H2QG58	K7AYW8	H2Q4Z3	K7BA65
 PF02536	mTERF	H2QJR2	H2Q6S6	H2QWG6	K7AQF5	H2QUW9

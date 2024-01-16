@@ -6,11 +6,13 @@
 # source_PMID: 21177974
 # source_primary_ID: GeneSymbol 
 # source_version: 2010
-# source_last_update:2014
+# source_last_update: 2014
 # gmt_download_date: 02-08-2020
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: celltypes
 # celltypes celltypes Genes
+
+
 
 mE_mRNA_D32_cells	mE_mRNA_D32_cells	wgn	Dl	Taf12	CG14164	Cont	Cyp12e1	Dpy-30L1	CG12343	sala	Pkg21D	AnxB11	CG11141	Myb	Ada2b	mon2	csw	sad	Gtp-bp	ChAT	LamC	Chd1	Cf2	Cg25C	Cul1	Catsup	?Tub60D	crm	Su(var)205	RpL37a	mRpL55	Tim17b1	CG14443	Ssb-c31a	Ilp4	LanB1	Rtc1	ap	Dr	btl	fz3	sli	Pp1?-96A	H	?-Spec	sav	Nrg	Rrp1	nau	Piezo	foxo	Hr38	Tm1	Tm1	sqh	14-3-3?	Or71a	nrv2	soti	pnr	mxt	Tim17a2	da	Jupiter	Calr	Tig	EcR	Ppn	Rac1	ATPsynD	Bin1	MtnA	otu	CG6966	hep	Sox14	GNBP3	mod(mdg4)	sog	lig	Cyp6d4	CG5902	Reg-5	Tk	Nop17l	His4r	CG13364	Pcmt	Pabp2	mbm	Phlpp	unk	wge	Vps28	Flo2	PGRP-SC1a	Sh3?	MED18	CG1161	neur	Cyp9c1	SdhB	lbm	Mef2	Pxd	se	Abl	l(3)07882	CG11596	egh	CG12163	ph-p	E2f1	Idgf6	RpL37b	CG5382	tub	Ten-a	Flo1	CG17931	unc-5	Hrs	CG3267	CG7886	srp	CG33169	ppan	Atu	aos	CG14683	ena	RpS20	Lam	Obp28a	Moe	CG6171	shf	cora	spi	GstZ2	Z600	unc80	twf	mio	Cyp9f2	CG14286	Odc2	Oaz	mael	Sam-S	fend	Ets21C	pgant5	LanB2	CG5862	RpS5b	how	Gel	Madm	l(1)G0004	term	sqz	ninaA	jdp	wds	rst	Lac	CG13604	CG42540	Sry-?	Syx5	nrv1	tin	CG33090	mars	Dlc90F	GalNAc-T1	Lsd-2	Cyp303a1	Ama	Ect4	Cys	fru	Sap47	fog	CCDC53	MRG15	Or49b	KFase
 mE_mRNA_1182-4H_cells	mE_mRNA_1182-4H_cells	wgn	ntc	CG45057	zip	Vha55	Mer	CG15099	CG30463	lva	RanBPM	MED14	ana	thr	slim	?Tub84B	BoYb	His2B:CG33868	aop	Myb	Myo31DF	Ada2b	csw	sw	flfl	Or2a	LTV1	faf	G?30A	wdp	galla-1	CG3638	loco	Obp19d	Ten-m	gek	Vps26	Tre1	LanB1	Idgf1	Src42A	RpS14b	bdl	CG4364	mei-9	Membrin	Arp6	CDase	dally	S6KL	z	CG11334	Tina-1	H	?-Spec	LanA	Ubc84D	Golgin84	CG4050	CdGAPr	ZC3H3	Dys	Dys	Dys	Dys	l(1)G0196	scra	Rich	egr	nrv2	CG11103	trx	RpL3	Sep2	Itp-r83A	pcx	Snapin	mxt	Tig	Pal1	Cog3	san	CG7280	GalNAc-T2	ex	hep	Pcd	ihog	chb	CG5902	Ptx1	amx	Dif	a6	Vinc	spir	Dronc	Set2	Adam	Ptp69D	rno	CG6693	l(1)G0156	CG5642	hfw	Sh3?	Sra-1	MAPk-Ak2	eIF3-S8	Tsr1	sgl	Blos1	Frq1	wts	brn	dor	Rbf	CG12163	ph-p	Arp8	Frl	CG9125	tub	Mmp2	Ten-a	Doa	Act42A	NPF	Zw	Pof	Cyp6a9	yin	CG17931	RhoGAP68F	mib1	RpL22	sol	Tao	car	Blos2	MED9	VhaAC39-1	hts	aos	jing	CG32809	CG10055	Map205	Gprk2	CG5142	Moe	Wsck	exu	cora	nudE	PyK	ttv	spi	CG11899	RpS8	pcs	Khc	PIG-V	Tango7	Yippee	cpb	h	CG6621	mthl9	Usp47	pgant5	LanB2	LPCAT	kto	Madm	Zasp52	?COP	Gale	AstA	Poc1	Fcp3C	Klc	CG7655	Hem	fax	Vav	gpp	Arf51F	RpS7	arm	Sry-?	GluProRS	eIF-3p66	Ras64B	PEK	nrv1	Xpc	tx	NKAIN	Invadolysin	SmydA-8	SmydA-8	Swip-1	xmas-1	Mob2	Cyp6a17	GalNAc-T1	Ptp10D	Evi5	Rm62	eIF-3p40	CG9705	Syx1A	rux	GlcAT-I	Non1	fog	norpA	Vha68-2	Pdk1	CG6659	shg	tud

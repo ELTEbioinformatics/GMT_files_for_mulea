@@ -1,16 +1,19 @@
 # Gene set GMT file for mulea Bioconductor R package
 # taxon_name: Arabidopsis thaliana
 # taxonomy_ID: 3702
-NA
+# ID_type: EntrezID
 # source_url: https://www.wikipathways.org 
 # source_PMID: 33211851
 # source_primary_ID: EntrezID 
 # source_version: 2021
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 05-09-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: wikipathways
 # Wikipathways pathway Description Genes
+
+
+NA
 
 Cadmium and glutathione WikiPathways_20171010 WP2579 Arabidopsis thaliana	http://www.wikipathways.org/instance/WP2579_r82711	820155	843864	828409	831774	822402	820263	832797	837304	824454	842697	828613	842940	817365	824790	837405	834430	822003	831532	837808	820121	838544
 Phytochrome Signalling Pathway to Turn On Photomorphogenesis WikiPathways_20171010 WP3662 Arabidopsis thaliana	http://www.wikipathways.org/instance/WP3662_r90097	825075	816394	819242	825382	839300	837483	827319	834663	825890	820557	817857	818903	833570	830996	825286	827538	836248	828661	826609	818029	837479	816538

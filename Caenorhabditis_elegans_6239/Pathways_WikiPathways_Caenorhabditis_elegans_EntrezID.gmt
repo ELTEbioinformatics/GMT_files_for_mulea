@@ -1,16 +1,19 @@
 # Gene set GMT file for mulea Bioconductor R package
 # taxon_name: Caenorhabditis elegans
 # taxonomy_ID: 6239
-NA
+# ID_type: EntrezID
 # source_url: https://www.wikipathways.org 
 # source_PMID: 33211851
 # source_primary_ID: EntrezID 
 # source_version: 2021
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 05-09-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: wikipathways
 # Wikipathways pathway Description Genes
+
+
+NA
 
 Cell engulfment WikiPathways_20171010 WP2226 Caenorhabditis elegans	http://www.wikipathways.org/instance/WP2226_r89458	177229	176968	173064	179943	177111	175643	175773	178272	176352	177942	3565776
 Proteasome Degradation WikiPathways_20171010 WP470 Caenorhabditis elegans	http://www.wikipathways.org/instance/WP470_r78051	176196	173858	172208	177212	179339	172977	176588	179641	175840	176978	177456	177455	178006	172139	174715	172009	175925	176161	172942	173384	177855	171975	177753	175187	176661	172238	173334	178988	179493	179941	173807	172679	175972	178943	174786	174571

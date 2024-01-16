@@ -6,11 +6,13 @@
 # source_PMID: 25750178
 # source_primary_ID: GeneSymbol 
 # source_version: 1
-# source_last_update:2015
+# source_last_update: 2015
 # gmt_download_date: 03-04-2018
-# gmt_version:1
-# gmt_entry_names:transcription factor
+# gmt_version: 1
+# gmt_entry_names: transcription factor
 # transcription factor transcription factor RegulatedGenes
+
+
 
 LHY	LHY	Q96524	Q9SQI2	Q9MAQ0	Q9SXZ2	F4IHK9	O04211	Q8L500	Q9SNB4	Q93WK5	Q39057	Q9LKL2
 ETC1	ETC1	P46607

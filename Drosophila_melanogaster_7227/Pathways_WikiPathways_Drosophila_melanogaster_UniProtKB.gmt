@@ -6,11 +6,15 @@ NA
 # source_PMID: 33211851
 # source_primary_ID: EntrezID 
 # source_version: 2021
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 05-09-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: wikipathways
 # Wikipathways pathway Description Genes
+
+NA
+
+NA
 
 Glycolysis and Gluconeogenesis WikiPathways_20171010 WP144 Drosophila melanogaster	http://www.wikipathways.org/instance/WP144_r71540	Q7K5K3	Q9VAN7	Q01604	P07764	Q9GNH8	Q8IPY3	P29613	Q9NFT7	O62619	Q95028	P15007	Q7KVX1	Q9VEB1	Q7JYW9	Q9VKX2	A1ZAA5	M9PCA2	Q9VVL7	A8DYI3	Q9VGB6	Q0E9E2	P52029	A0A0U1RVK6	P52034
 Homologous Recombination WikiPathways_20171010 WP1205 Drosophila melanogaster	http://www.wikipathways.org/instance/WP1205_r79391	Q9XYZ4	Q9W252	Q5EAK6	Q27297	Q9W088	O76460

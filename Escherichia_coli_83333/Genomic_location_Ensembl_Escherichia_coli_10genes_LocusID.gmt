@@ -6,11 +6,13 @@
 # source_PMID: 34791404
 # source_primary_ID: EnsemblID / LocusID 
 # source_version: 109
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 02-12-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: chromosome location
 # chromosome location chromosome location Genes
+
+
 
 chro AM946981 190-5528	chro AM946981 190-5528	B21_00001	B21_00002	B21_00003	B21_00004	B21_00005	B21_00006	B21_00007	B21_00008	B21_00009	B21_00010
 chro AM946981 336-6457	chro AM946981 336-6457	B21_00002	B21_00003	B21_00004	B21_00005	B21_00006	B21_00007	B21_00008	B21_00009	B21_00010	B21_00011

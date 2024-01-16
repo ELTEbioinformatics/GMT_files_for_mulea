@@ -6,11 +6,13 @@
 # source_PMID: 36124642
 # source_primary_ID: UniprotID 
 # source_version: 1
-# source_last_update:2022
+# source_last_update: 2022
 # gmt_download_date: 22-11-2023
-# gmt_version:1
-# gmt_entry_names:transcription factor
+# gmt_version: 1
+# gmt_entry_names: transcription factor
 # transcription factor transcription factor RegulatedGenes
+
+
 
 P02836	en	FBgn0004567	FBgn0000157	FBgn0003888	FBgn0000490	FBgn0004859	FBgn0003944	FBgn0000577	FBgn0011706	FBgn0001077
 O61735	Clk	FBgn0014396

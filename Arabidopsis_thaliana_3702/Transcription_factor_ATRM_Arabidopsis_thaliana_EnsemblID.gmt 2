@@ -1,16 +1,18 @@
 # Gene set GMT file for mulea Bioconductor R package
 # taxon_name: Arabidopsis thaliana
 # taxonomy_ID: 3702
-# ID_type: LocusID
+# ID_type: EnsemblID
 # source_url: http://atrm.gao-lab.org/ 
 # source_PMID: 25750178
 # source_primary_ID: GeneSymbol 
 # source_version: 1
-# source_last_update:2015
+# source_last_update: 2015
 # gmt_download_date: 03-04-2018
-# gmt_version:1
-# gmt_entry_names:transcription factor
+# gmt_version: 1
+# gmt_entry_names: transcription factor
 # transcription factor transcription factor RegulatedGenes
+
+
 
 LHY	LHY	AT1G04400	AT1G22770	AT1G32900	AT1G65480	AT2G21660	AT2G40080	AT2G46790	AT3G46640	AT5G02810	AT5G15840	AT5G61380
 ETC1	ETC1	AT1G79840

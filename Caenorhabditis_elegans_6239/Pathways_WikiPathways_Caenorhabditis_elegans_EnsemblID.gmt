@@ -6,11 +6,13 @@
 # source_PMID: 33211851
 # source_primary_ID: EntrezID 
 # source_version: 2021
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 05-09-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: wikipathways
 # Wikipathways pathway Description Genes
+
+
 
 Cell engulfment WikiPathways_20171010 WP2226 Caenorhabditis elegans	http://www.wikipathways.org/instance/WP2226_r89458	WBGene00004205	WBGene00000416	WBGene00000415	WBGene00001170	WBGene00000424	WBGene00000418	WBGene00000420	WBGene00000417	WBGene00000421	WBGene00000419	WBGene00000423
 Proteasome Degradation WikiPathways_20171010 WP470 Caenorhabditis elegans	http://www.wikipathways.org/instance/WP470_r78051	WBGene00004460	WBGene00003949	WBGene00019693	WBGene00019947	WBGene00001909	WBGene00004466	WBGene00013435	WBGene00004501	WBGene00006727	WBGene00020683	WBGene00004458	WBGene00002344	WBGene00003924	WBGene00004465	WBGene00004464	WBGene00004503	WBGene00003952	WBGene00003926	WBGene00004504	WBGene00006699	WBGene00003950	WBGene00004463	WBGene00018239	WBGene00004506	WBGene00004505	WBGene00003951	WBGene00004502	WBGene00003923	WBGene00003922	WBGene00004461	WBGene00003925	WBGene00004462	WBGene00003927	WBGene00004468	WBGene00003928

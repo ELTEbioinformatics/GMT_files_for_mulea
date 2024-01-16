@@ -6,11 +6,13 @@
 # source_PMID: 34791404
 # source_primary_ID: EnsemblID / LocusID 
 # source_version: 109
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 02-12-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: chromosome location
 # chromosome location chromosome location Genes
+
+
 
 chro 3R 567076-1866008	chro 3R 567076-1866008	26067052
 chro 3R 1031171-3263582	chro 3R 1031171-3263582	26067051

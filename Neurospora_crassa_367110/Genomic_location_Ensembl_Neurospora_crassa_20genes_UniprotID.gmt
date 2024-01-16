@@ -6,11 +6,13 @@
 # source_PMID: 34791404
 # source_primary_ID: EnsemblID / LocusID 
 # source_version: 109
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 02-12-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: chromosome location
 # chromosome location chromosome location Genes
+
+
 
 chro I 1151-19615	chro I 1151-19615	A7UXG2	Q7S0E6	Q7S0E4	A7UXG3	Q7S0E3	Q7S150	Q7S149	Q7S148	Q7S147	Q7S146	Q7S145	Q7S144	Q7S143	Q7S142	A7UX74	V5INN5	Q7SGN3	Q7SGN2	V5IQD8
 chro I 3178-35418	chro I 3178-35418	Q7S0E6	Q7S0E4	A7UXG3	Q7S0E3	Q7S150	Q7S149	Q7S148	Q7S147	Q7S146	Q7S145	Q7S144	Q7S143	Q7S142	A7UX74	V5INN5	Q7SGN3	Q7SGN2	V5IQD8	Q7SGN1

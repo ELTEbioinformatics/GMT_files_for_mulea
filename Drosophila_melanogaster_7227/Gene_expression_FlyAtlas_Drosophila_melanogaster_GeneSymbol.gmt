@@ -1,16 +1,19 @@
 # Gene set GMT file for mulea Bioconductor R package
 # taxon_name: Drosophila melanogaster
 # taxonomy_ID: 7227
-NA
+# ID_type: GeneSymbol
 # source_url: http://flyatlas.org/atlas.cgi 
 # source_PMID: 31647099
 # source_primary_ID: EnsemblID 
 # source_version: 2013
-# source_last_update:2022
+# source_last_update: 2022
 # gmt_download_date: 02-08-2020
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: tissue
 # tissue tissue Genes
+
+
+NA
 
 Adult_InseminatedFemale_Spermatheca	Adult_InseminatedFemale_Spermatheca	CG6073	Marf	Usp7	CG11899	CG11077	CG2691	CG15027	Yp2	slpr	Lsd-2	Miro	moody	Tpi	CG5902	CkIalpha	Ctl2	TH1	mod	DENR	TotB	AnxB10	Rnp4F	Ran	fliI	Tis11	CG32751	TotA	Gip	CG2145	CG5380	Dredd	CG17333	csw	l(1)G0004	Ahcy	Gr93b	CG1354	scu	Gr9a	atl	Diedel	E2f1	Pgd	tsl	Idgf4	Hsp60A	Cals	ric8a	Yp1	Ranbp16	bys	CG17141	Mitofilin	AdipoR	Stim	TotC	tsg	eIF5	Pp1alpha-96A	Or2a	MCTS1	Nsun2	Naxe	Top3beta	por	SPR	eas	psh	Uba5	MED18	crn	Gr93a	U2af50	CG4743	CG8611	eEF1gamma	ND-42	TotX	CG3527	mRpL22	mal	PTPMT1	Dr	CG1785	Ogg1	meigo	v	ras	Pcd	Or1a	hfw	Yp3	nullo	aralar1	FucT6	Paics	Ork1	jar	e(y)2	Obp99a	hh	Hr96	CG32750	amx	mRpL49	Coq5	Rpb10	Ost48	Fadd	Atf3	apolpp	Or13a	Mfe2	Gr98c	MED26
 Adult_Crop	Adult_Crop	rut	tw	Coa7	Crk	Zw	Rala	exd	CG13601	sev	Actn	sd	spz	Mlc2	Tre1	ovo	Naa30A	e(r)	TkR99D	Roc1a	CG17333	Hayan	csw	atl	Pgd	tsl	sog	ro	Vinc	CG7601	ash2	amn	Gr97a	RpL37a	beta-Spec	AdipoR	fkh	Stim	CG9164	Nprl2	Pp1alpha-96A	mora	CG7990	Ets98B	Naxe	Gr10b	CG1523	Jafrac1	Cyp6v1	PSR	Mlc1	U2af50	Or94b	Cad96Ca	pnt	pnt	CG18508	Pdfr	disco	shf	Dr	Tak1	p38a	MAPk-Ak2	bap	Slu7	mthl1	SelG	nullo	Sas10	crb	Or10a	hh	CG5521	CG32795	up	CG12096	if	loco	AdSS	Atf3	Mfe2	to	wgn	CG12056

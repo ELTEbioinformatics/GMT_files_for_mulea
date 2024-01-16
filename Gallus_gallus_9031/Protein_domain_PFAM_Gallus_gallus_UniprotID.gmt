@@ -6,11 +6,13 @@
 # source_PMID: 33125078
 # source_primary_ID: UniprotID 
 # source_version: 35
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 11-08-2017 
-# gmt_version:1
-# gmt_entry_names:PFAM ID
+# gmt_version: 1
+# gmt_entry_names: PFAM ID
 # PFAM ID Description Genes
+
+
 
 PF07716	bZIP_2	F1NTF2	F1NBU3	Q90582	Q98944	Q05826	A0A3Q3ADE0	Q92172	Q02612	F1NAC1	A0A1D5PZE5	Q5ZL88	A0A1D5PXQ8	Q90Z72
 PF01044	Vinculin	F1NMC0	A0A3Q2U3Y6	F1P510	P12003	A0A3Q2U1T7	A0A3Q2TXD3	Q6LDD0	F1N9R1	P30997	E1C7M7	A0A3Q2TUH3	A0A3Q2UEV2

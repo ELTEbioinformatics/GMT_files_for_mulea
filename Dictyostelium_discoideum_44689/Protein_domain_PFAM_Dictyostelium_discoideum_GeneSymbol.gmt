@@ -6,11 +6,13 @@
 # source_PMID: 33125078
 # source_primary_ID: UniprotID 
 # source_version: 35
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 11-08-2017 
-# gmt_version:1
-# gmt_entry_names:PFAM ID
+# gmt_version: 1
+# gmt_entry_names: PFAM ID
 # PFAM ID Description Genes
+
+
 
 PF00307	CH	DDB0205524	DDB0185859	DDB0218148	DDB0189592	eb1	gxcB	abpD	ctxA	gxcZ	gxcDD	DDB0188227	DDB_G0272472	gefP	DDB0184511	DDB0169505	DDB0190886	ChLim	DDB_G0280565	abpC	fimA	DDB0189688	DDB0184203	DDB_G0294557	DDB0202463	DDB_G0287875	ctxB	DDB0204946	DDB0169060	DDB0201990	DDB0204997	abpA
 PF13499	EF-hand_7	cbp12	DDB_G0274781	cnbB	mlcR	DDB_G0279681	calB	DDB_G0272130	DDB0206306	DDB_G0289563	cenA	DDB0188774	DDB_G0285265	cbpA	calA	ncsA	cbpB	mcfC	mlcB	cbpE	fimA	cbp2	DDB0216674	cbpM	cbpG	cbpF	cnbA	noxC	mcfB	cbpH	abpA	cbpC

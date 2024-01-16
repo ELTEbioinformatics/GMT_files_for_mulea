@@ -6,11 +6,13 @@
 # source_PMID: 3463810
 # source_primary_ID: UniprotID 
 # source_version:3.1 
-# source_last_update:2022
+# source_last_update: 2022
 # gmt_download_date: 10-10-2022 
 # gmt_version:2
 # gmt_entry_names:signaling pathway
 # Signaling pathway Description Genes
+
+
 
 NHR	NHR	nr0b1	zgc:92696	nr2f2	pg	smad3a	PPARG	nr1h3	erbeta2	si:ch211-239e6.3	zgc:65770	SF1-A	nr0b2a	wu:fb58h09	ATM	Su(fu)	yot	gli1	cmet	zg05	Stat3	NUR77	bmpr2a	bmpr1b	acvr1b	bmpr2b
 HH	HH	ptc1	Cdx1a	zg1	pdx-1	zgc:165581	gsk3b	srf	Stat3	wu:fj62g06	Hhip	nfkb1	jak2a	stat5b	madh4	bmpr2a	ptpn11	bmpr2b	pdgfrl	im:680590	Su(fu)

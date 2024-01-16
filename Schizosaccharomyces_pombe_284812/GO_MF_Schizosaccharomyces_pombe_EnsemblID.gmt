@@ -6,11 +6,13 @@
 # source_PMID: 30395331
 # source_primary_ID: GeneSymbol 
 # source_version: 
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 09-05-2023
 # gmt_version:2
 # gmt_entry_names:gene ontology
 # Gene Ontology Term Description Genes
+
+
 
 GO:0003674	"molecular_function"	FungiDB:SPAC2F7.16c	FungiDB:SPAC22E12.16c	FungiDB:SPAC13A11.05	FungiDB:SPAC1805.12c	FungiDB:SPAPYUG7.06	FungiDB:SPAC1F7.05	FungiDB:SPAC1F7.07c
 GO:0003824	"catalytic activity"	FungiDB:SPAC2F7.16c	FungiDB:SPAC1F7.05	FungiDB:SPAPYUG7.06	FungiDB:SPAC22E12.16c

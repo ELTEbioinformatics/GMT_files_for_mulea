@@ -1,16 +1,18 @@
 # Gene set GMT file for mulea Bioconductor R package
 # taxon_name: Drosophila simulans
 # taxonomy_ID: 7240
-# ID_type: LocusID
+# ID_type: EnsemblID
 # source_url: www.ensembl.org 
 # source_PMID: 34791404
 # source_primary_ID: EnsemblID / LocusID 
 # source_version: 109
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 02-12-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: chromosome location
 # chromosome location chromosome location Genes
+
+
 
 chro 3R 439-29568	chro 3R 439-29568	FBgn0269468	FBgn0191195	FBgn0191192	FBgn0268435	FBgn0191196	FBgn0191191	FBgn0191189	FBgn0191197	FBgn0191188	FBgn0269002
 chro 3R 13205-35621	chro 3R 13205-35621	FBgn0191195	FBgn0191192	FBgn0268435	FBgn0191196	FBgn0191191	FBgn0191189	FBgn0191197	FBgn0191188	FBgn0269002	FBgn0191187

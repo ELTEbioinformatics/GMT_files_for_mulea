@@ -6,11 +6,13 @@
 # source_PMID: 33211851
 # source_primary_ID: EntrezID 
 # source_version: 2021
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 05-09-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: wikipathways
 # Wikipathways pathway Description Genes
+
+
 
 G1 to S cell cycle control WikiPathways_20171010 WP348 Rattus norvegicus	http://www.wikipathways.org/instance/WP348_r71777	Rpa2	Atf6b	Pole	Mcm7	Ccne1	E2f3	Cdkn1b	Mcm6	Mnat1	Cdkn1a	Orc1	Cdc45	Creb3l4	Ccnh	Tp53	Pole2	Tfdp2	Ccne2	Cdk4	Pola2	E2f1	Ccnd1	Orc6	Pcna	Rb1	Creb3l1	Cdkn2a	Cdk2	Cdkn2b	Rpa1	Wee1	Rbl1	Ccnb1	Orc5	Gadd45a	Cdk1	Orc2	Creb3l3	Mcm3	Cdkn2c	E2f6	Orc4	Rpa3	Cdc25a	Ccnd2	Mcm5	Necab3	Ccnd3	Prim2	Mcm2	Atm	Cdkn1c	Ccng2	Creb3	Creb1	Myt1	Ccna1	Mcm4	Mdm2	Myc	Cdk6	Orc3
 Cardiovascular Signaling WikiPathways_20171010 WP590 Rattus norvegicus	http://www.wikipathways.org/instance/WP590_r89160	Col11a1	Tnc	Col5a2	Racgap1	Wnt2b	Mapk6	Mapk8	Casp2	Cfl1	Vav2	Casp3	Wasf1	Map2k6	Rras2	Col5a1	Pdgfra	Stmn1	Col1a1	Arhgef7	Itga7	Pgf	Egf	Col4a1	Birc3	Akt1	Erbb2	Thbs2	Casp6	Hspb1	Hspa1a	Col5a3	Vwf	Capn6	Wnt2	Vegfd

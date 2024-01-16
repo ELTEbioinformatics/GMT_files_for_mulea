@@ -6,11 +6,13 @@
 # source_PMID: 25750178
 # source_primary_ID: GeneSymbol 
 # source_version: 1
-# source_last_update:2015
+# source_last_update: 2015
 # gmt_download_date: 03-04-2018
-# gmt_version:1
-# gmt_entry_names:transcription factor
+# gmt_version: 1
+# gmt_entry_names: transcription factor
 # transcription factor transcription factor RegulatedGenes
+
+
 
 LHY	LHY	CRY2	GI	GBSS1	FT	ATGRP7	ELF4	APRR9	PCL1	APRR7	CO	TOC1
 ETC1	ETC1	GL2

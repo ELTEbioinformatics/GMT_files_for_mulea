@@ -6,11 +6,13 @@
 # source_PMID: 30395331
 # source_primary_ID: GeneSymbol 
 # source_version: 
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 09-05-2023
 # gmt_version:2
 # gmt_entry_names:gene ontology
 # Gene Ontology Term Description Genes
+
+
 
 GO:0000003	"reproduction"	Egfr	vilya	Dmel\CG42391	Phf7	aurB	Dmel\CG42355	Akt	nsl1	dec	mei-W68	BoYb	Hsp83	14-3-3zeta	CkIIalpha	Dmel\CG14325	Dmel\CG14079	cort	Pxd	aPKC	cup	Acp26Ab	BubR1	aly	vret	CaMKII	NSD	Acp26Aa	HBS1	Axs	Cbl	Hus1-like	lwr	mre11	Fmr1	narya	tra	mael	vls	mle	Dup99B	Cul3	Dcp-1	bel	dpn	ProtA	Mos	Nost	EbpII	Brca2	Cap-H2	Grip71	Rca1	Jhbp10	spir	Doa	Nup62	Raf	Axn	wun	Cerk	Diap1	Sse	to	Hydr2	mei-S332	lost	dsx	spn-A	IR52d	exu	nesd	CG7483	Incenp	Mps1	Nup154	Fancd2	CycJ	TER94	otk	Parp	Iml1	shg	Mettl3	Tbh	Cby	CG6664	sub	Caf1-55	twe	Pp2B-14D	Xpc
 GO:0000012	"single strand break repair"	CG5316

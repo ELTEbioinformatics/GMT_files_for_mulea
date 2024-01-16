@@ -6,11 +6,13 @@
 # source_PMID: 34791404
 # source_primary_ID: EnsemblID / LocusID 
 # source_version: 109
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 02-12-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: chromosome location
 # chromosome location chromosome location Genes
+
+
 
 chro 1 5273-42408	chro 1 5273-42408	LOC112532827	CLC2DL5	DHRS4	CARMIL3
 chro 1 9441-58617	chro 1 9441-58617	CLC2DL5	DHRS4	CARMIL3

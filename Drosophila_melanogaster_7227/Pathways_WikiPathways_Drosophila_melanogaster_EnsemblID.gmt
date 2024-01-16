@@ -6,11 +6,13 @@
 # source_PMID: 33211851
 # source_primary_ID: EntrezID 
 # source_version: 2021
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 05-09-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: wikipathways
 # Wikipathways pathway Description Genes
+
+
 
 Glycolysis and Gluconeogenesis WikiPathways_20171010 WP144 Drosophila melanogaster	http://www.wikipathways.org/instance/WP144_r71540	FBgn0039635	FBgn0014869	FBgn0250906	FBgn0000064	FBgn0001186	FBgn0001125	FBgn0086355	FBgn0042710	FBgn0267385	FBgn0001258	FBgn0000579	FBgn0028325	FBgn0262559	FBgn0001187	FBgn0262782	FBgn0001124	FBgn0283658	FBgn0036762	FBgn0034356	FBgn0011270	FBgn0027580	FBgn0003074	FBgn0032820	FBgn0003071
 Homologous Recombination WikiPathways_20171010 WP1205 Drosophila melanogaster	http://www.wikipathways.org/instance/WP1205_r79391	FBgn0020270	FBgn0034728	FBgn0045035	FBgn0003479	FBgn0027903	FBgn0002989

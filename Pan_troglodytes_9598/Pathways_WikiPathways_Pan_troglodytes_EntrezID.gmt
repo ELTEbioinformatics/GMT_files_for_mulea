@@ -1,16 +1,19 @@
 # Gene set GMT file for mulea Bioconductor R package
 # taxon_name: Pan troglodytes
 # taxonomy_ID: 9598
-NA
+# ID_type: EntrezID
 # source_url: https://www.wikipathways.org 
 # source_PMID: 33211851
 # source_primary_ID: EntrezID 
 # source_version: 2021
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 05-09-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: wikipathways
 # Wikipathways pathway Description Genes
+
+
+NA
 
 Id Signaling Pathway WikiPathways_20171010 WP934 Pan troglodytes	http://www.wikipathways.org/instance/WP934_r69296	461435	452715	461315	458090	466665	455914	745532	451910	461467	469423	450142	457424	451057	472790	461406	460942	100192399	467081	748161	469912
 Notch Signaling Pathway WikiPathways_20171010 WP912 Pan troglodytes	http://www.wikipathways.org/instance/WP912_r73738	748073	467891	469463	738792	453344	457270	455792	462587	467700	454410	736571	460882	100615650	455236	460219	457435	739740	464865	460942	462701	454677

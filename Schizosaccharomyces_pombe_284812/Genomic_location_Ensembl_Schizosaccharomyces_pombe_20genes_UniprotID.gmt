@@ -6,11 +6,13 @@
 # source_PMID: 34791404
 # source_primary_ID: EnsemblID / LocusID 
 # source_version: 109
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 02-12-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: chromosome location
 # chromosome location chromosome location Genes
+
+
 
 chro I 1-12994	chro I 1-12994	P0CT33	Q9HGP7	C6Y4B5	G2TRN7	Q9HGP8	Q9HGP9	Q9HGQ0	P0CT98	P0CU16	G2TRM1	P0CU07	Q9P7U5	G2TRN8	Q9P7U4	Q9P7U3
 chro I 5726-14555	chro I 5726-14555	Q9HGP7	C6Y4B5	G2TRN7	Q9HGP8	Q9HGP9	Q9HGQ0	P0CT98	P0CU16	G2TRM1	P0CU07	Q9P7U5	G2TRN8	Q9P7U4	Q9P7U3

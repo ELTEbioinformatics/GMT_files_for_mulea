@@ -6,11 +6,13 @@
 # source_PMID: 30395331
 # source_primary_ID: GeneSymbol 
 # source_version: 
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 09-05-2023
 # gmt_version:2
 # gmt_entry_names:gene ontology
 # Gene Ontology Term Description Genes
+
+
 
 GO:0000002	"mitochondrial genome maintenance"	primpol	pif1
 GO:0000003	"reproduction"	spaca6	nme5	spata22	zgc:86785	macf1a	rad51c	brdt	mocos	yif1b	Dmc1	vipb	ahr1a	tex11	cyp11c1	tdrd1	zgc:153768	ttk	bmpr2b	lhx1a	cfap206	trip13	lhfpl2a	ptbp1a	ar	oxr1a	cfap157	lhcgr	IGF-3	ccdc79	hormad1	dnaaf11	LOC100536860	zgc:77876	GTHR-I	fc13b04	LOC100334275	fd20a07	msh5	espl1	apela	bmb	cyp19a1a	prmt7	fgf24	prdm9	tcf21	zglp1	OR114-1	si:ch211-232m8.6	pld6	si:dkey-57a22.11	spire2	zgc:55549	si:dkey-162b23.3	incenp	wbp2	pde3a	fb96a03	abhd2a	ythdf2	bncr	zgc:100912	mlh1	agfg1b	zgc:162895	topaz1	wee2	sycp1	dchs1b	E2F4	buc	gper1	lhbeta1	u2af2a	syt6b	cdc25A	dmrt1	wu:fi35a05	P450c17	agfg1a	izumo1	oxtr	m1ap	fbxo5	tdrd9	moto	wwtr1	amh	cd9	hsd17b3	sgol1	lin9	zar1	irag2	tdrd12	LOC100001692	si:ch211-161h7.4	igf2bp3	birc5b	dmrt3a	mettl3	nanos3

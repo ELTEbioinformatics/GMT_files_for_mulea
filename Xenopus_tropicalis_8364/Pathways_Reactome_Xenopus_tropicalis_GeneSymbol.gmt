@@ -6,11 +6,13 @@
 # source_PMID: 31691815
 # source_primary_ID: UniprotID 
 # source_version: 84
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 13-03-2018 
-# gmt_version:1
-# gmt_entry_names:Reactome Pathway
+# gmt_version: 1
+# gmt_entry_names: Reactome Pathway
 # Reactome Pathway Description Genes
+
+
 
 R-XTR-112382	Formation of RNA Pol II elongation complex 	eaf2	nelfb	cdk7	ccnt2	ssrp1	ctdp1	polr2j	eloa	sirt5	nelfa	supt5h	kcnab2	paf1	iws1	polr2e	aff4	cdc73	polr2b	gtf2f1	polr2g	polr2f	gtf2h4	tcea1	filip1	ncbp1	mtmr6	nelfe	ccnk	ccnh	eloc	polr2a	ctr9	polr2c	mllt3	mnat1	supt16h	polr2h	tatdn1	rtf1	ercc2	elob	gtf2h1	supt6h	ncbp2	leo1	haus1	mllt1	dhtkd1	eaf1	coq8a	ell	cdk9	polr2l.1	polr2k	gtf2h2	atg2a	acvrl1	igdcc3	ercc3	nd1	plscr4	LOC100498224	znf503	LOC101733112
 R-XTR-1428517	The citric acid (TCA) cycle and respiratory electron transport	eaf2	znf37a	ltk	tusc3	ndufa6	sucla2	ndufaf7	idh3g	cox5b.1	suclg1	acad9	slc6a3	mical3	atp5f1c	atp5f1a	znf423	suclg2	sdhc	ndufb2	atl3	atp5f1d	ndufv1	kdm1a	ndufs7	ndufv2	cox4i1	ndufa10	LOC100485997	pm20d1	pdha1	bsg	rnf38	aco2	hagh	ndufb5	ndufs5	pdk1	pdhx	pdpr	ndufaf5	cox18	tnks2	slc23a1	cyct	ndufa9	slc6a8l	pdhb	mfsd4b	mdh2	lrpprc	qrich1	cs	rin2	idh3a	ndufs1	dlat	me3	gstz1	atp6v0a4	cox6a1	dld	syne1	atp5pd	rxra	tmem126a	ap3s2	dlst	sdhb	dvl1	pgpep1l	slc7a8	ndufb6	ucp1	idh3b	ppard	etfa	clptm1l	vdac1	slc25a27	ndufa8	mgc107841	nnt	atp5mc1	ndufaf2	ecsit	ldhb	slc16a1	pdp2	ndufaf1	pde6b	ndufa13	sema6d	nlrc4	LOC100496875	ogdh	etfdh	exoc7	otud7a	dmac2l	l2hgdh	ndufs3	pdk4	tapt1	elp6	ndufs8	noc3l	cox5a	ralgapb	pdk3	ndufa11	birc2	etfb	atp5pb	me2	dgkk	me1	ndufaf4	ssbp4	adhfe1	ndufs4	sdha	cox11	ndufa12	fah	atp5mc3	ndufab1	atp5f1b	ndufa3	ndufaf3	cox7c	ndufb7	cox7b	ndufs2	ucp2	flvcr2	cycs	idh2	sdhd	cox16	ndufb9	fh	d2hgdh	arsa.2	fahd1	nd1	nd2	cox1	cox2	atp6	cox3	nd3	nd4	nd5	nd6	coq10a	atp5me	ndufb3	n4bp2l2	wiz	XENTR_v90026077mg

@@ -6,11 +6,13 @@
 # source_PMID: 30395331
 # source_primary_ID: GeneSymbol 
 # source_version: 
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 09-05-2023
 # gmt_version:2
 # gmt_entry_names:gene ontology
 # Gene Ontology Term Description Genes
+
+
 
 GO:0000002	"mitochondrial genome maintenance"	DDB_G0277451
 GO:0000003	"reproduction"	DDB_G0284747	DDB_G0271738	DDB_G0280989	DDB_G0284507	DDB_G0283617	DDB_G0292676	DDB_G0270838	DDB_G0273259	DDB_G0285353	DDB_G0267384	DDB_G0272522

@@ -6,11 +6,13 @@
 # source_PMID: 36124642
 # source_primary_ID: UniprotID 
 # source_version: 1
-# source_last_update:2022
+# source_last_update: 2022
 # gmt_download_date: 22-11-2023
-# gmt_version:1
-# gmt_entry_names:transcription factor
+# gmt_version: 1
+# gmt_entry_names: transcription factor
 # transcription factor transcription factor RegulatedGenes
+
+
 
 Rfx5	Q9JL61	H2-DMb1	H2-Ob	H2-Oa	H2-Ab1	H2-Eb1	H2-DMa	H2-Aa	H2-Ea
 Rela	Q04207	Tnfrsf4	Ccl5	Csf1	Gabre	Xiap	Cd40	Il23a	Sox9	Bcl2	Cflar	Cdkn1b	Mmp9	Tp53	Pgf	Cd86	Il6	Ripk2	Icam1	Cacna1c	Cd80	Serpine2	Psme2	Stim1	Dcst2	Ltc4s	Wt1	Cxcl10	Olfr54	Ebi3	Cxcl15	Pten	Bcl2a1a	Mmp3	Dnmt1	Akt1	Cyp11a1	Slc1a2	Bcl2a1d	Birc3	Chat	Bmp2	Cd38	Nrf1	Atp12a	Tlr2	Col1a1	Faslg	Map3k8	Tnfsf15	Kdm2a	Ptgs2	Ifnb1	Ccl2	Gadd45b	Tp73	Cxadr	Tnfrsf10b	Cldn5	Klrb1c	Reg3b	Gli1	Ptafr	Tnfaip3	Nanos2	Il4	Sod2	Sh2d3c	Pecam1	Cxcl2	Fas	Blk	Yy1	Hgf	Duox2	Selenop	Bcl2l1	Fth1	Cdk9	Vcam1	Nfkbia	Ifng	Tert	F3	Ccnd1	Igkv10-96	Phex	Agt	Trim63	Sltm	Il2	Mgmt	Selp	Myc	Ngb	Upp1	Relb	Apoe	Cxcr4	Tnf	Ppm1d	Dmp1	Fn1	Casp8	Hsd11b2	Slc2a4	Nol3	Pcna	Nfe2l1	Nfkb1	Trgc1	Smad7	Dcst1	Fos	Shh	Igk	Hes1	Ppara	Rorc	Dmtf1	Ep300	Nr4a3	Irf4	Cxcl9	Ccl12	Stk39	Pdk4	Il12b	Epas1	Cxcl11	Il9	Il2ra	Ptpn1	Ccl20	Cdx2	Itch	Met	Tnfsf13b	Mmp14	Tec	Cdkn2a	Tp63	Twist1	Pglyrp1	Nos2	Igf2bp2	Klf5	Il10	Cxcl1	Bik	Afp

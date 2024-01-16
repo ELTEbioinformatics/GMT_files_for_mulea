@@ -6,11 +6,13 @@
 # source_PMID: 31647099
 # source_primary_ID: GeneSymbol 
 # source_version: 2019
-# source_last_update:2021
+# source_last_update: 2021
 # gmt_download_date: 02-08-2020
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: pathways
 # Pathways Description Genes
+
+
 
 PC_1	Glycolysis / Gluconeogenesis	A8K7J7	B4DDQ8	B4DNK4	E9PCR7	P04406	P06744	P07205	P07738	P09467	P09622	P09972	P10515	P11177	P14550	P30838	P35557	P51648	P56597	P60174	Q01813	Q16822	Q53Y25	Q6FHV6	Q6IRT1	Q6ZMR3	Q8IUN7	Q96C23	Q9BRR6	Q9NQR9	Q9NR19
 PC_2	Citrate cycle (TCA cycle)	B4DJB4	E5KS60	E9PCR7	O75390	O75874	P07954	P09622	P10515	P11177	P11498	P31040	P36957	P40925	P53396	Q16822	Q9HBB2

@@ -6,12 +6,14 @@
 # source_PMID: 34850920
 # source_primary_ID: GeneSymbol 
 # source_version: 2020
-# source_last_update:2022
+# source_last_update: 2022
 # gmt_download_date: 02-08-2017
 # gmt_download_date: 02-12-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: miRNA targets
 # miRNA name mirtID RegulatedGenes
+
+
 
 hsa-miR-30e-5p	MIRT003339	Q02085
 mmu-miR-323-5p	MIRT577001	Q8JZV4	Q9QZ49	P21765	O88254	Q9D7G4	Q921J2	A3KGW5	Q9JIW5	A0A0G2JG93	P97303	Q505D1	Q6NSU3	A0A087WP88	Q5SUC9	Q9JL60	Q9JMH7	P50540	A0A140LI69	Q6QLQ4	Q09199	Q921C1	Q920N7	G5E8G3	O35906	Q925G2	A2A5E6	Q80VY9	Q6PEV3	P58501	Q6P073

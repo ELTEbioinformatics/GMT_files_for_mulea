@@ -1,16 +1,19 @@
 # Gene set GMT file for mulea Bioconductor R package
 # taxon_name: Homo sapiens
 # taxonomy_ID: 9606
-NA
+# ID_type: EntrezID
 # source_url: https://www.wikipathways.org 
 # source_PMID: 33211851
 # source_primary_ID: EntrezID 
 # source_version: 2021
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 05-09-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: wikipathways
 # Wikipathways pathway Description Genes
+
+
+NA
 
 B Cell Receptor Signaling Pathway WikiPathways_20171010 WP23 Homo sapiens	http://www.wikipathways.org/instance/WP23_r92558	4208	3725	4209	2002	10892	26469	1386	604	27071	673	930	7409	5170	933	3551	6885	1385	207	8394	1380	8395	7410	25780	4790	4792	4609	4690	1432	4775	5970	23396	5966	695	29760	815	2308	1398	1399	5335	5336	4773	3932	2969	998	4149	5781	1147	5894	5579	6464	84433	640	8462	5777	5580	3635	5601	5880	6452	5605	5604	5608	973	11184	975	974	2889	2885	5596	2113	5879	5788	6654	6195	5594	3662	3265	8517	5599	7006	3608	9846	2932	867	2931	6850	118788	3059	1871	7462	2549	8915	2534	5294	5295	4067	5296
 Trans-sulfuration pathway WikiPathways_20171010 WP2333 Homo sapiens	http://www.wikipathways.org/instance/WP2333_r72015	51380	27430	4548	2730	875	4357	1491	191	1786	2805

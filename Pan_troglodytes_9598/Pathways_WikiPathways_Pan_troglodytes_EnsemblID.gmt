@@ -6,11 +6,13 @@
 # source_PMID: 33211851
 # source_primary_ID: EntrezID 
 # source_version: 2021
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 05-09-2022
-# gmt_version:1
+# gmt_version: 1
 # gmt_entry_names: wikipathways
 # Wikipathways pathway Description Genes
+
+
 
 Id Signaling Pathway WikiPathways_20171010 WP934 Pan troglodytes	http://www.wikipathways.org/instance/WP934_r69296	ENSPTRG00000016367.5	ENSPTRG00000010782.6	ENSPTRG00000001518.7	ENSPTRG00000005261.4
 Notch Signaling Pathway WikiPathways_20171010 WP912 Pan troglodytes	http://www.wikipathways.org/instance/WP912_r73738	ENSPTRG00000001250.7	ENSPTRG00000034379.3	ENSPTRG00000007146.6	ENSPTRG00000008525.5	ENSPTRG00000010975.4	ENSPTRG00000009192.5

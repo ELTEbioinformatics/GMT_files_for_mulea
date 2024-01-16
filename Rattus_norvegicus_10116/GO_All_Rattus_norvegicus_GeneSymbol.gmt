@@ -6,11 +6,13 @@
 # source_PMID: 30395331
 # source_primary_ID: GeneSymbol 
 # source_version: 
-# source_last_update:2023
+# source_last_update: 2023
 # gmt_download_date: 09-05-2023
 # gmt_version:2
 # gmt_entry_names:gene ontology
 # Gene Ontology Term Description Genes
+
+
 
 GO:0000002	"mitochondrial genome maintenance"	Ppargc1a	Endog	Dna2	Mpv17	Polg2	Tymp	Flcn
 GO:0000003	"reproduction"	Shcbp1l	Large1	Catsper3	Map7	Gabrb3	Spint1	Egr1	Six4	Pdilt	Cbx2	Npas3	Zfp568	Stxbp1	Shh	Mcmdc2	Nanog	Grhl2	Rarg	Tdrd5	Hyal3	Dnajb6	Id4	Ihh	Sox30	Ddo	Actr2	Cdc25a	Sgo2	Hormad1	Fem1b	Cdh1	Fbxo43	Pygo2	Ube2q1	Tp53	Bnc1	Cenpc	Fshb	Mcm8	Mlh1	Stag3	Ythdf3	Stra6	Syce3	Hoxd13	Mki67	Smad4	Zan	Cct6a	Psma8	Prss37	Ror2	Wdr77	Stra8	Ovol1	Amh	Ncapd3	Spink2	Tex11	Insl3	Wnt4	Havcr2	Nppc	Septin1	Brip1	Elf5	Ythdf2	Ccnb2	Fgfr2	Kif20a	Plk4	Fgf10	Ncoa1	Rhbdd1	Svs3b	Rara	Alpl	Robo2	Nlrp5	Lgr5	Frs2	Terb1	Plac1	Rac1	Prdm9	Vip	Spo11	Camk2b	Tekt4	Zfpm2	Notch1	Zp3	Sirt1	Lhcgr	Ttk	Rsph6a	Tnc	Insr	Spire2	Chrna7	Ago4	Ada	Syde1	Sfrp1	Bmp4	Prkdc	Dzip1	Exoc1	Rad51c	Fshr	Larp7	Foxo3	Med1	Znf830	Nsun2	Crip1	C3h9orf78	Rxfp1	Nrip1	Tifab	Ing2	Serpine2	Ar	Ube3a	Dazap1	Chfr	Mast2	Foxa1	Mos	Pmp22	Dmc1	Plcz1	Ppp2r1a	Sycp1	Nodal	Spem1	Dmrt3	Ccne2	Brme1	Hexb	Csmd1	Aspm	Astl	Hoxa9	Dicer1	Kash5	Schip1	Lhx9	Bax	Akt1	Ybx2	Zfx	Thrb	Drd5	Hectd1	Plag1	Igf1r	Lrp6	Inhbb	LOC100910107	Topaz1	Sox3	Ift88	Cenpe	Foxl2	Ythdc1	Fmn2	Pkdrej	Klk14	Gpr149	Fbxw8	Spacdr	Spaca3	Gde1	Eqtn	Tdrd12	Rnase10	Espl1	Alms1	Bcap31	Ptpn6	Gdf9	Mmp23	Rad1	Bmp5	Ankrd31	Spata22	Fbxo5	Cntfr	Dnmt3l	Ttc12	Cfap206	Prnd	Ehmt2	Lhb	Nhlh2	Ooep	Sox9	Pithd1	Dcaf13	Tppp3	Klhl10	Rtl1	Tmem184a	Esr1	Sohlh2	Arid4a	Paep	Shb	Hus1	Pax2	Snu13	Wee2	Sptbn4	Psg29	Inhba	Nkx3-1	Safb2	Acvr2a	Thra	Trpc2	Cep131	Brdt	Itgb4	Fancm	Lhfpl2	Ggnbp2	Fanca	Tcp11	Ptgdrl	Pde3a	Phlda2	Cib1	Gk2	Wnt7a	Map3k4	Arhgdib	Sos1	Psmc3ip	Ccr6	Rab5b	Ncaph2	M1ap	Stk4	Smc2	Mapk15	LOC108353098	Tpst2	Msh5	Mastl	Fzr1	Mov10l1	Wnt5a	Fuom	Fndc3a	Igf2	Stat5a	Ash1l	Umodl1	Gli2

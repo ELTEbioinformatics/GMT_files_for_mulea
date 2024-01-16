@@ -6,11 +6,13 @@
 # source_PMID: 36124642
 # source_primary_ID: UniprotID 
 # source_version: 1
-# source_last_update:2022
+# source_last_update: 2022
 # gmt_download_date: 22-11-2023
-# gmt_version:1
-# gmt_entry_names:transcription factor
+# gmt_version: 1
+# gmt_entry_names: transcription factor
 # transcription factor transcription factor RegulatedGenes
+
+
 
 HAP4	P14064	KGD1	THI5	HSP104	IDH1	ATP1	SDH3	QCR8	COX4	HAP4	ATP16	ICL1	GDH3	JEN1	CYT1	CIT1	SDH1	NUC1	PET9	HEM3	KGD2	THI4	COX1	QCR7	MAL12	COX5A	ASN1	PTP1	QCR2	SUC2	COX6	HSP42	CYC1	SDL1	COR1	RAP1	ALD6	ADH1	SOD2	DLD1	CYB2	STH1	GAL2	COX12	HSP26	SOR1	COB	RPO41	TUF1	COX3	SSA1	MTF1	HXT6	ATP20	HEM1	LSC1	COX2	RPM2	RTG1	GDH1	UBI4	TSA2	GUT2	ATP6
 MIG2	P53035	GAL1	SUC2	ENA1	GUT1	APC4	MIG1	HXT2	APC9	CSR2	HXT4	GAL10	PHO89
