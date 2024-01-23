@@ -12,16 +12,6 @@
 # gmt_entry_names: chromosome location
 # chromosome location chromosome location Genes
 
-
-NA
-NA
-
-NA
-NA
-
-NA
-NA
-
 chro pSLT 94-1927	chro pSLT 94-1927	PSLT001	PSLT002	repC	repA3	tap	repA	PSLT007	srgC	rcK	srgB
 chro pSLT 712-2789	chro pSLT 712-2789	PSLT002	repC	repA3	tap	repA	PSLT007	srgC	rcK	srgB	srgA
 chro pSLT 1334-3870	chro pSLT 1334-3870	repC	repA3	tap	repA	PSLT007	srgC	rcK	srgB	srgA	orf7

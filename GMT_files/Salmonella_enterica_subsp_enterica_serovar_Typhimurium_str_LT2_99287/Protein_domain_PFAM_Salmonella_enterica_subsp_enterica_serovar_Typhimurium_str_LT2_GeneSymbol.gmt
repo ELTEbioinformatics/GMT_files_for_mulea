@@ -12,16 +12,6 @@
 # gmt_entry_names: PFAM ID
 # PFAM ID Description Genes
 
-
-NA
-NA
-
-NA
-NA
-
-NA
-NA
-
 PF01339	CheB_methylest	cheB
 PF00072	Response_reg	cheY	qseB	rcsC	ompR	ssrA	arcB	basR	tctD	barA	torS	dpiA	dcuR	copR	baeR	STM2314	kdpE	fimZ	zraR	arcA	rstA	yfhA	creB	ttrR	ssrB	STM0052	phoB	phoP	hnr	uvrY	btsR	torR	cpxR	cheB	pgtA	glnG	uhpA	rcsB	narP	narL
 PF02277	DBI_PRT	cobT
