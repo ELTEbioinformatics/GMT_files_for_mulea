@@ -1,0 +1,1750 @@
+# Gene set GMT file for mulea Bioconductor R package
+# taxon_name: Mus musculus
+# taxonomy_ID: 10090
+# ID_type: GeneSymbol
+# source_url: http://geneontology.org/ 
+# source_PMID: 30395331
+# source_primary_ID: GeneSymbol 
+# source_version: 
+# source_last_update: 2023
+# gmt_download_date: 09-05-2023
+# gmt_version:2
+# gmt_entry_names:gene ontology
+# Gene Ontology Term Description Genes
+
+
+
+
+
+GO:0000015	"phosphopyruvate hydratase complex"	Eno1
+GO:0000109	"nucleotide-excision repair complex"	Ercc3	Cetn2	Ercc1	Xpc
+GO:0000110	"nucleotide-excision repair factor 1 complex"	Ercc1
+GO:0000111	"nucleotide-excision repair factor 2 complex"	Xpc
+GO:0000112	"nucleotide-excision repair factor 3 complex"	Ercc3
+GO:0000118	"histone deacetylase complex"	Brms1l	Dnttip1	Csnk2a1	Anp32e	Cdk2ap1
+GO:0000120	"RNA polymerase I transcription factor complex"	Taf1d	Taf1b
+GO:0000123	"histone acetyltransferase complex"	Kat2a	Atf2	Epc1	Actb	Brd1	Taf12	Kat8	Brpf1	Dr1	Sgf29	Mrgbp	Atxn7l3	Hcfc1
+GO:0000124	"SAGA complex"	Atxn7l3
+GO:0000126	"transcription factor TFIIIB complex"	Brf2
+GO:0000127	"transcription factor TFIIIC complex"	Gtf3c1
+GO:0000137	"Golgi cis cisterna"	Atl1	Slc30a5
+GO:0000138	"Golgi trans cisterna"	B4galt1	St3gal1
+GO:0000139	"Golgi membrane"	Golga3	Abca12	Nucb1
+GO:0000145	"exocyst"	Exoc2
+GO:0000151	"ubiquitin ligase complex"	Rnf20	Appbp2	Cul1	Bcor	Rbck1	Cul7	Ambra1	Ddb2	Bard1	Ankrd9	Arih1	Atg3	Cul2	Fam8a1	Anapc1	Sel1l	Bmi1	Armc8	Babam2	Rad18
+GO:0000152	"nuclear ubiquitin ligase complex"	Bcor	Anapc1	Bard1	Babam2	Bmi1
+GO:0000153	"cytoplasmic ubiquitin ligase complex"	Sel1l	Atg3	Fam8a1	Cul2
+GO:0000159	"protein phosphatase type 2A complex"	Ier5
+GO:0000164	"protein phosphatase type 1 complex"	Nck1
+GO:0000172	"ribonuclease MRP complex"	Bves
+GO:0000176	"nuclear exosome (RNase complex)"	Dis3
+GO:0000177	"cytoplasmic exosome (RNase complex)"	Pnpt1	Dis3l
+GO:0000178	"exosome (RNase complex)"	Pnpt1	Dis3l	Dis3
+GO:0000214	"tRNA-intron endonuclease complex"	Colec12
+GO:0000220	"vacuolar proton-transporting V-type ATPase, V0 domain"	Atp6v0a1
+GO:0000221	"vacuolar proton-transporting V-type ATPase, V1 domain"	Atp6v1a
+GO:0000228	"nuclear chromosome"	Sfr1	Baz1b	Chek1	Slx1b	Tex12	Sycp1	Gins1	Lrif1	Sirt7	LRWD1	Hus1	Clock	Bcas2	Blm	Brms1l	Actl6a	Nat8	Anp32e	Swi5	Pola1	Tipin	Birc5	Pole	Cdc45	Csnk2a1	P3h4	Pold1
+GO:0000235	"astral microtubule"	Mapre1	Fam161a	Ccsap
+GO:0000242	"pericentriolar material"	Bbs4
+GO:0000243	"commitment complex"	Snrpd3
+GO:0000274	"mitochondrial proton-transporting ATP synthase, stator stalk"	Atp5po
+GO:0000275	"mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)"	Atp5f1a
+GO:0000276	"mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)"	Atp5po	Atp5mc1
+GO:0000307	"cyclin-dependent protein kinase holoenzyme complex"	Ccne2	Ccna2	Ccnh	Ccnd2	Ccnd3	Ccnt1	Ccny	Ccnd1	Ccnk	Ccnb1	Ccne1	Cdk12
+GO:0000308	"cytoplasmic cyclin-dependent protein kinase holoenzyme complex"	Ccny
+GO:0000313	"organellar ribosome"	Chchd1	Mpv17l2	Mrpl42
+GO:0000314	"organellar small ribosomal subunit"	Mrpl42
+GO:0000315	"organellar large ribosomal subunit"	Mpv17l2
+GO:0000323	"lytic vacuole"	Abca2	Lrrk2	Arl8b	Akr1b1	Gnptab	Abcb6	Adam8	Prss57	Gaa	Spaar	Vps39	Borcs5	Gzmb	Lamp2	Crhbp	Vamp7	Anxa11	Cubn	Prkcd	Uvrag	Hspa8
+GO:0000333	"telomerase catalytic core complex"	Tert
+GO:0000346	"transcription export complex"	4931428L18Rik	Thoc1
+GO:0000347	"THO complex"	Thoc1
+GO:0000407	"pre-autophagosomal structure"	Atg101	Atg14
+GO:0000408	"EKC/KEOPS complex"	Gon7
+GO:0000417	"HIR complex"	Hira
+GO:0000421	"autophagosome membrane"	Atg16l1	Chmp1a
+GO:0000428	"DNA-directed RNA polymerase complex"	Kat2a	Gtf2e1	Gtf2f1	Pola1	Polrmt	Polr3h	Ccnh	Polr1a	Crcp	Cdc73	Ercc2	Gtf2h2	Gtf2a1	Myzap	Rprd1b
+GO:0000438	"core TFIIH complex portion of holo TFIIH complex"	Gtf2h2
+GO:0000439	"core TFIIH complex"	Ccnh	Gtf2h2
+GO:0000444	"MIS12/MIND type complex"	Dsn1
+GO:0000445	"THO complex part of transcription export complex"	Thoc1
+GO:0000502	"proteasome complex"	Psmc5	Psme1	Psmd14	Psmd8	Psma4	Psme4	Adrm1	Psmd10	Psma1	Ide	Psmd11	Psmb5
+GO:0000506	"glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex"	Piga
+GO:0000775	"chromosome, centromeric region"	Ahctf1	Baz1a	Rcc2	Aurkb	Cenpo	Ndc80	Cenpi	Bod1	Kntc1	Cenpa	Dsn1
+GO:0000776	"kinetochore"	Ahctf1	Cenpo	Ndc80	Cenpi	Bod1	Kntc1	Dsn1
+GO:0000779	"condensed chromosome, centromeric region"	Ahctf1	Aurkb	Cenpo	Ndc80	Cenpi	Bod1	Kntc1	Dsn1
+GO:0000781	"chromosome, telomeric region"	4931428L18Rik	Atrx	Ctc1	Acd
+GO:0000782	"telomere cap complex"	Ctc1	Acd
+GO:0000783	"nuclear telomere cap complex"	Ctc1	Acd
+GO:0000785	"chromatin"	Rnf20	Rrp8	Rsf1	Arid1b	Baz1b	Cbx3	Arid2	Cecr2	Akap8l	A1cf	Baz1a	Sirt7	Suz12	Clock	Brms1l	Mms22l	Actl6a	Smarcb1	Cenpa	Atrx	Anp32e	Tti1	Swi5	Actb	0610010K14Rik	Bcas3	Csnk2a1	Sfr1	Cdk2ap1
+GO:0000786	"nucleosome"	Cenpa	Actb
+GO:0000791	"euchromatin"	Bcas3
+GO:0000792	"heterochromatin"	Rnf20	Rrp8	Cbx3	Atrx	A1cf	Baz1a
+GO:0000793	"condensed chromosome"	Ahctf1	Aurkb	Chek1	Aurkc	Tex12	Eid3	Dsn1	Sycp1	Hus1	Cenpo	Ndc80	Blm	Nat8	Bod1	Kntc1	Smc1a	Rad21	Cenpi	P3h4
+GO:0000794	"condensed nuclear chromosome"	Hus1	Chek1	Tex12	Nat8	Blm	Sycp1	P3h4
+GO:0000795	"synaptonemal complex"	Blm	Sycp1	P3h4	Tex12
+GO:0000796	"condensin complex"	Ncapd2
+GO:0000800	"lateral element"	Blm
+GO:0000801	"central element"	Tex12
+GO:0000802	"transverse filament"	Sycp1
+GO:0000803	"sex chromosome"	Birc2	Lrif1	Hnrnpu
+GO:0000805	"X chromosome"	Lrif1
+GO:0000808	"origin recognition complex"	Orc1	LRWD1
+GO:0000811	"GINS complex"	Gins1
+GO:0000812	"Swr1 complex"	Anp32e
+GO:0000813	"ESCRT I complex"	Mvb12a
+GO:0000814	"ESCRT II complex"	Snf8
+GO:0000815	"ESCRT III complex"	Chmp1b1
+GO:0000835	"ER ubiquitin ligase complex"	Sel1l	Fam8a1
+GO:0000836	"Hrd1p ubiquitin ligase complex"	Sel1l	Fam8a1
+GO:0000839	"Hrd1p ubiquitin ligase ERAD-L complex"	Sel1l
+GO:0000922	"spindle pole"	Arhgef7	Aaas	Cul3	Abraxas2	Kash5
+GO:0000923	"equatorial microtubule organizing center"	Tubgcp2
+GO:0000930	"gamma-tubulin complex"	Cdk5rap2	Bloc1s2
+GO:0000931	"gamma-tubulin large complex"	Cdk5rap2
+GO:0000932	"cytoplasmic mRNA processing body"	Apobec3
+GO:0000938	"GARP complex"	Eipr1
+GO:0000939	"condensed chromosome inner kinetochore"	Cenpi	Cenpo
+GO:0000940	"condensed chromosome outer kinetochore"	Bod1
+GO:0000974	"Prp19 complex"	Bcas2
+GO:0001401	"mitochondrial sorting and assembly machinery complex"	Dnajc11
+GO:0001405	"presequence translocase-associated import motor"	Pam16
+GO:0001518	"voltage-gated sodium channel complex"	Scn10a
+GO:0001520	"outer dense fiber"	Ctsh
+GO:0001527	"microfibril"	Adamts10
+GO:0001533	"cornified envelope"	Anxa1
+GO:0001534	"radial spoke"	Rsph4a	Rsph6a
+GO:0001535	"radial spokehead"	Rsph6a
+GO:0001650	"fibrillar center"	Sp140l1
+GO:0001651	"dense fibrillar component"	Ctcf
+GO:0001652	"granular component"	Cdkn2aip
+GO:0001669	"acrosomal vesicle"	Spaca3	Eqtn	Abcc9	Serpina5	Cd46
+GO:0001673	"male germ cell nucleus"	H1f9
+GO:0001674	"female germ cell nucleus"	Stpg4
+GO:0001725	"stress fiber"	Acta1
+GO:0001726	"ruffle"	Adam17	Abl1
+GO:0001740	"Barr body"	Lrif1
+GO:0001741	"XY body"	Birc2
+GO:0001750	"photoreceptor outer segment"	Gnb1	Guca1a	Atp1a4	Cacna1f	Rho
+GO:0001772	"immunological synapse"	Alcam
+GO:0001891	"phagocytic cup"	Arhgap12
+GO:0001917	"photoreceptor inner segment"	Rho	Ccdc66
+GO:0001931	"uropod"	Bst1	Scimp
+GO:0001939	"female pronucleus"	Stpg4
+GO:0001940	"male pronucleus"	Stpg4
+GO:0002079	"inner acrosomal membrane"	Cd46
+GO:0002080	"acrosomal membrane"	Serpina5	Cd46	Eqtn
+GO:0002081	"outer acrosomal membrane"	Eqtn
+GO:0002102	"podosome"	Actb	Actr2	Arpc2
+GO:0002111	"BRCA2-BRAF35 complex"	Hmg20b
+GO:0002116	"semaphorin receptor complex"	Plxnb1
+GO:0002133	"polycystin complex"	Pkd1
+GO:0002139	"stereocilia coupling link"	Myo7a	Whrn
+GO:0002140	"stereocilia tip link"	Myo7a
+GO:0002141	"stereocilia ankle link"	Whrn
+GO:0002142	"stereocilia ankle link complex"	Whrn
+GO:0002144	"cytosolic tRNA wobble base thiouridylase complex"	Ctu1
+GO:0002169	"3-methylcrotonyl-CoA carboxylase complex, mitochondrial"	Mccc1
+GO:0002177	"manchette"	Actr1a
+GO:0002178	"palmitoyltransferase complex"	Golga7	Sptlc1	Ormdl3
+GO:0002189	"ribose phosphate diphosphokinase complex"	Prps1
+GO:0002193	"MAML1-RBP-Jkappa- ICN1 complex"	Maml1
+GO:0002199	"zona pellucida receptor complex"	Zpbp
+GO:0002944	"cyclin K-CDK12 complex"	Cdk12
+GO:0002945	"cyclin K-CDK13 complex"	Ccnk
+GO:0002947	"tumor necrosis factor receptor superfamily complex"	Tradd
+GO:0005575	"cellular_component"	Ctsd	Rbp3	Tubgcp2	Actr2	Suz12	Slc18a2	Apoa2	Cdh1	Bloc1s1	Azin2	Fxn	Mad2l2	Csf2	Cstf2	Adgra2	Guca1a	Rnf20	Tpx2	Camsap3	Bcl2l14	Cdc37	Adora1	Eif3a	Taf5l	Casp2	Crhbp	Fry	Pdgfa	Dlg2	Ect2	Slc6a4	Pam16	Ambra1	Castor1	Septin7	H2-D1	Nucb1	Ogt	Sptlc1	Brd1	Pin4	Pex13	2810004N23Rik	Adcy8	Top2a	Wrap73	Bloc1s2	Csnk2a1	Htr3a	Ap5b1	Akr1b1	Sf3b1	Nup214	Emc2	Igfbp5	Chga	Incenp	Khdrbs1	Cd74	Col3a1	Atp1a4	Bcl3	Abhd5	Mocs1	Clpp	Bcl2l11	Prkaa1	4931406C07Rik	Antxr1	Psmd8	Gatb	Chrna10	Tead1	Mpv17l2	Actn2	Egfr	Cox7b	Ccsap	Adcyap1r1	Clcf1	Atp5po	Gh1	Chchd1	Kcnab2	Igf1	Mfn1	Cep152	Snrpd3	Adam15	Des	Trim12a	Col11a1	Rapgef3	Plcb2	Hexa	Aif1	Itgal	Nop56	Ell	Spmip6	Alpl	Ctps1	Ap2a1	Sdhc	Papss1	Bsn	Cat	Mrpl42	Il18r1	Coq3	Dgki	Bad	Pld2	Fmr1	Adora2a	Ccz1	C2cd2l	Arid1b	Bace2	Nefh	Lrrk2	Apbb1	Abi2	Slx9	Cnga3	Dbh	Dis3l	Adar	Pdrg1	Polr1a	Cdk2ap1	Plekho1	Prim1	Alox5	Actg1	Sart3	Atg16l1	Trmt6	Srpra	Bcl6	Dkc1	Angpt1	Ago1	Cenpa	Lsm2	Whrn	Gpsm2	Rasal3	Amph	Abhd17a	Hpse	Hps3	Akap1	Nek4	Nutf2	Nrgn	Golga7	Cenpf	Phf5a	Cox4i1	Map1b	Ccl2	Vac14	Ankrd23	Adnp	Klk1b8	Ccn3	Akap9	Donson	Cacna1a	Chaf1a	Cx3cr1	Amelx	B4galnt3	Ssr4	Ciao1	Snx1	Psme4	Akap8l	Dcdc2	1600014C10Rik	Gtf2f1	Rsph4a	Narf	Ppcdc	Pafah1b1	Gp1ba	App	Insr	Dgat2	Kntc1	Prkdc	Akap4	Grik1	Pfkfb1	Cldn4	Atf6b	Sp140l1	Eif2s1	Casc3	Ina	Gja1	Eloa	Atg12	Hmgb1	Itgb3	Bbip1	Itga11	Arpc3	Rad21	Anln	Col12a1	Agrn	Max	Il6st	Atp1a3	Ctc1	Anxa2	Nck1	Prom2	Brms1l	Ehd1	Aar2	Maea	Bola1	Sel1l	Scn2a	Mcub	Dnaaf8	Acd	Ahctf1	Ap3s1	Abcc9	Cyth1	Gtf2h2	F11r	Orc3	Taf1b	Cemip	Odad4	Myh6	Gtf2a1	Cnep1r1	Aph1a	Naa10	Acp3	Ascc2	Ccny	Akap14	Apoo	Snx5	Khdc3	Clu	Bloc1s6	Hnrnpa1	Apc2	Samm50	Calr	Hps4	Col5a1	Mtrex	Nradd	Ak6	Arl8a	Ano1	Isy1	Ccdc88a	Actb	Ighm	Arpc2	Sf3a1	Chrna1	Eea1	Uvrag	Pes1	Casp14	Cul3	Slc30a5	Ripor2	Ocm	Snrnp70	Ilvbl	Ppp3ca	Snapc4	1810055G02Rik	Brpf1	Ccdc103	Disc1	Dnttip1	Anp32e	Edn1	Akap6	Anxa11	Ankrd1	Cyth2	Atp5mc1	Dad1	Myh10	Amigo1	Scn10a	Frg1	Adcy10	Cel	Inhba	Il12a	Dlgap3	Ppp4r4	Bet1	Timm10	Cltb	Emc1	Vps39	Arhgef9	Jup	Aqp4	Psmc3ip	Eif2s1	Hfe	Rfc1	Snca	Il6	Ticam2	Dhx9	Gtf3c1	Aktip	Arl3	Thoc1	Alox8	Ccnk	Supt4h1a	Gria2	Dnm3	Bag5	Myo15a	Agk	Bcan	Mybpc2	Erbb2	Ctnnb1	Ddx4	Smad1	Abcg5	Eif2b1	Vps26a	Micos13	Ltbp1	Ndc1	Celf1	Ankrd45	Sgf29	Abcc1	Gstp1	Rcc2	Mybpc3	Mybphl	Bmf	C2	Myo1c	Fh	Grxcr2	Ca4	Aak1	Pnpt1	Drap1	Cracr2a	Ahr	Lrif1	Dlg1	Dhx15	F2r	Epn2	Nxf1	Dnah1	Atp5f1a	Stx12	Mvb12a	Bin1	Cplx2	Atp6v1d	Abca12	Akt1s1	Kcna1	Ccdc66	Faf1	Actl9	Dcx	Myocd	Ltn1	Atl1	Bmal1	Alkbh4	Cd177	Pdia3	Abcc8	Ccna2	Abcf1	Prpf38a	Chd4	Cdkl5	Col9a1	St3gal1	Sec61g	Anxa3	Adamts1	Clasp2	Bves	Cspg5	Ddx39b	Mcm8	Gnrh1	Atg101	Cep126	Cd14	Ccar2	Bptf	Aldoc	Fzd8	Dbn1	Gria4	Fos	Rsph6a	Tdrd3	Col4a1	Klhl12	Abhd2	Mkks	Cabp1	Borcs5	Rho	Fabp1	Cdkn2aip	Coa8	P3h4	Gsn	Adra2a	Limch1	Cul1	Pik3r4	Dr1	Dlat	Ercc2	Sycp1	Defb1	Brca2	Insig1	Casp3	Ago2	Psmd14	Rgp1	Dna2	Cfap96	Cenpj	Mapk10	Cenpe	Akap5	Klhdc8b	Cdk5r1	Catsperz	Adcy6	Strn	Aim2	Gon7	Dsn1	Ankrd27	Septin3	Eme1	Cul7	Gins1	Hus1	Bcas2	Asph	Anapc5	Mphosph10	Cacng2	Hps1	Rad51b	Psme1	Ctcf	Rab3il1	Mapre1	Atxn1	Znf207	Pgm5	Magoh	Prpf4	Ran	4933427D14Rik	Dnah11	Gaa	Fam8a1	Anxa4	Hbs1l	Znfx1	Clpx	Abcc2	Utp6	Cd34	Csta	Mccc1	Mapt	Ern1	Suclg2	Mat1a	Cryab	Mif4gd	Katna1	Acadm	Pan2	Atp1a1	Bag2	Casq1	Bcl11a	Cd40	Bud13	Apob	Plau	Cadps	Etfa	Abl1	Cct2	Lime1	Bicd1	Pi4k2a	Babam2	Lama5	Acta1	Sec11a	Psma1	Srp14	Ddx28	Taf1d	Ide	Dbi	Asxl1	Cd44	Igf1r	Tcf7l2	A3galt2	Muc2	Hnrnpu	Vegfa	Mospd2	Ak8	Appbp2	Scap	Inip	Mbd5	Ppp1r9b	Aftph	Fnta	Kat8	Cyfip1	Jchain	Ext2	Ccnd2	Eno1	Pik3cg	Cstf1	Polrmt	Pard3	Baiap2	Ppih	Atp10a	Irf9	Hrnr	Gpaa1	Nup153	Adap2	Asgr2	Wdpcp	Cdc42bpa	Atp2b2	Eif1	Abraxas2	Farp1	Tmem250-ps	Nphp3	Hexim1	Orc1	N6amt1	Spaar	Abi1	Clip2	Bod1	Itga7	Derl1	Acan	Dhx29	Sybu	Clns1a	Dbf4	Coa6	Cbr4	Hcn1	Nlrp5	Arhgef7	Golga3	Chmp1b1	Ubb	Cacna1c	Itga4	Eftud2	Blm	Clasp1	Med1	Ankfy1	Ing2	Ctsh	Stpg4	Farsa	Ctu1	Il12b	H2-DMa	Ccne2	Calb1	Atf3	Kpna1	Sgta	Abcb6	Cyb5b	Dlg4	Abcb11	Ramac	Vamp7	Vamp1	Vps8	Rela	Ecpas	Spaca3	Piga	Pole	Lamtor1	Cubn	Kif3a	Nop14	Itga1	Cecr2	Wdr59	Cdk5	Ccnd1	Cask	LRWD1	Hcn3	Ccnd3	Grin1	Lamp5	Bard1	Ceacam1	Arhgef5	Lsm1	Cacna1d	Bak1	Adra1b	Akap8	Cnga1	Ccne1	F3	Eef1d	Glra3	Atp6v1e1	Gabra6	Arfgef1	Slc9a1	Gys2	Rsf1	Haus8	Hmg20b	Itga2	Ezr	Camk2a	Casp8	Cdc73	Naip6	Lsm10	Aaas	Anapc1	Pop5	Chtf18	Epc1	Atp6ap2	Cdc45	Abr	Cdip1	Tsn	Cck	Atp2b3	Elp1	Anks4b	Aldob	Naa30	Atf1	Cep295	Gapdh	Abcg1	Cd2bp2	Ccdc65	Dab2	Abraxas1	Arhgap1	Pdss1	Hba	Dcc	Cbx3	Skic2	4931428L18Rik	Pclo	Nlgn1	Pmpcb	Ap4b1	Myo7a	Cdkn1a	Kat2a	Plat	Arl6ip1	Copb1	Abca1	A1cf	Marveld2	Hm13	Apoa1	Rprd1b	Prss57	Calm1	Nelfa	Ppfia3	Kmt5a	Snx10	Tyrp1	Becn1	Ash2l	Caly	Anpep	Nfkb1	Agtr1a	Gnb1	Cldn5	Baz1b	Igsf9b	Synm	Snap23	Cenpo	Mycb	Mapkap1	Timm17a	Cpsf1	4930595M18Rik	Bbs4	Stk11	Cyba	Cdh2	Lig4	Prkcd	Actn1	C9	Abce1	Gemin7	Gli1	Camlg	Emilin1	Eid3	Abcb4	1700012B09Rik	Cdk8	Grk3	Rab14	Aimp1	Ccdc120	Chm	Neu4	Gemin2	Il12rb1	Chek1	Noc2l	Suclg1	Rragb	Ap2b1	Ccl22	Kash5	Eipr1	Cdk12	Mrnip	Adora3	Hras	Lilra6	Gabra1	Nolc1	Actr3	P4hb	Apobec3	Arfip1	Adrm1	Ankrd34c	Casp1	Rnaseh1	Colec12	Sfr1	Aurkb	Cd63	Atp2a1	Eaf1	Pdhx	Itga5	Lama1	Atxn2	E2f5	Gemin5	Cul2	Slc3a2	Agbl2	Cdk5rap2	Cenps	Dld	Adgrv1	Mmrn1	Paxx	Pik3ca	Shcbp1l	Taf12	Gripap1	Col1a1	Cd46	Bbln	Zp1	Efemp2	Abi3bp	Sec31a	Abca3	C3	Adam22	Alcam	Ddx6	Ormdl3	Jam2	Gzmb	Smc1a	Serpina3k	Capza1	0610010K14Rik	Ccnt1	Fap	Mad1l1	Col2a1	Pick1	Atf2	Abcd3	Bag6	Tas1r2	Cox10	Gpd1l	Hadha	Arih1	Ckmt1	Numa1	Kcnh2	Clca1	Arpc1b	Cyc1	Htr2a	C4a	Sgcg	Akap7	Mrpl1	Slx1b	Las1l	Tbc1d7	Cga	Baz1a	Psmb5	Ube2v1	Serpini1	Ankrd9	Ift122	Tnn	Camsap2	Adrb1	Apc	Dclre1c	Camk1g	Nol6	Csf1r	Cfl1	Sf1	Lamb1	Col10a1	Acadvl	Acta2	Pkm	Gjc2	C1qb	Sae1	Adipoq	Penk	Itga9	Dpm2	Aebp2	Atp6v1b1	Tipin	Cpsf6	Abra	Ank1	1600012H06Rik	Rad17	Traf2	Pcna	Atp7a	Ahnak	Brf2	Scrib	Cldn11	Hcfc1	Myo18b	Nol3	Apoe	Alox15	Bub1b	Psmd11	Exoc2	Dhdds	Arid2	Arl8b	Nup188	Rogdi	Smpx	Idh3a	Atp6v1a	Cyfip1	Sirt2	Atg3	Bub3	Serpina5	Mrgbp	Pkd1	Anks1b	Hgs	Agl	Pms2	Atp1b4	Sun1	Cttn	Anxa7	Ache	Litaf	Pdyn	Tepsin	Arfgef2	Cdc42	Cluap1	Ncapd2	Hsd17b10	Exd1	Tmem258	Bax	Septin11	Ncbp1	Abcb8	Igha	Kcnq1	Swi5	Pigm	Helq	Ddx20	Ccnb1	Rbck1	H1f9	Dctn1	Sfxn5	Tradd	Cav3	Dis3	Actr1a	Maml1	Tnnc1	Ccdc78	Gtf2e1	Ppp4c	Dnajb11	Cbfb	Rad51	Cenpi	Foxh1	Rad18	B2m	Pigv	Adra1d	Haus1	Gclc	Atad5	Bmi1	Amot	Mag	Atxn7l3	Atg2a	Cetn2	Mal	Adam17	Tex12	Swsap1	Mmp13	Slc11a2	Ndc80	Tomm22	Ada	Trappc5	Tinf2	Rad51c	Bbc3	Myo5a	Tmem107	Bcas3	Acvr1	Dab2ip	Dmtn	Nbas	Hira	Abcb1b	Etf1	Dapk1	Atrx	Adam10	Cdh10	Rag1	Bahd1	Aurkc	Sptb	Gnas	Gnptab	Nexn	Sirt7	Gucy1a1	Ddb2	Acaca	mt-Nd3	Tprn	Aadac	Ap1b1	Map2	Cd59a	Ppp1ca	Bckdha	D1Pas1	Prpf18	Scimp	Grm1	Chmp1a	Igfbp3	C1qa	Atp6v0d2	Arhgap12	Slbp	Birc5	Ambp	Ercc3	Bst1	Snx3	Psmc5	Nploc4	Spag17	Ngdn	Reln	IGHE	Mms22l	Ldlr	Chrna7	C6	Lamp2	Telo2	Dnajc11	Chuk	Csde1	Cabin1	Vipas39	Mrps36	Carmil2	Fga	Psma4	Eqtn	Anxa1	Armc8	Antxr1	Ighg	Myzap	Enpp1	Lig3	Abca2	Hmga2	5730455P16Rik	Slc1a2	Trappc14	Ighv1-61	Acvr2a	Atp2a2	Nlrp6	Phka1	Birc2	Fam161a	Ank3	Immp1l	Hsp90aa1	Bcl10	Tert	Itga10	Ftl1	Epm2a	Bcor	Bmt2	Trdn	Dag1	Dmac1	Dnah9	Ergic2	Bcl9	Shc1	Ndufa5	Cnot3	Mlh1	Agap2	Lin52	Hydin	Bicd2	Dnm1l	Sec63	Ifnl2	Lgals1	Pold1	Rrp8	Ascc1	Cebpa	Spata7	Capn2	Pdlim4	Abat	Akt2	Btf3	Agrp	Prps1	Bmp2	Akirin2	Sparcl1	Clock	Mep1a	Nsfl1c	2310057J18Rik	Hsp90ab1	Rrm1	Ier5	Cbll1	Amfr	Ganab	Cnot1	Naa20	Rnaseh2a	Elovl6	Itga3	Ints1	Gcsh	Ranbp2	Tcap	Eif4ebp2	Fbxo7	Nol11	Aamp	Calcr	C9orf72	Calcrl	Atf4	Gabbr1	Marcks	Pfkl	Gnmt	Lcp2	Tti1	Psmd2	Mt-Cyb	Pola1	Ankra2	Lin37	Pih1d1	Golga5	Slc3a1	Afdn	Zpbp	Abcb7	Cd247	Cab39	Grb2	Adgre5	Phb1	Sting1	Aqr	Actl6a	Add1	Cacna1f	Tgfb1	Slc17a9	Snap25	Clta	Plxnb1	Ube2n	Eif4e	Mark2	Hspa8	Cnp	Aff1	Ace	Psmd10	Snf8	Polr3h	Mau2	Ahcyl1	Cxxc1	Chrna2	Atp6v0a1	Syf2	Afg3l1	Vcam1	Apex1	Adamts10	Arvcf	B3galt6	Brca1	Lum	Adprs	Apaf1	Adam8	Acp1	Nat8	Itga6	Emc6	Gmpr	Dgcr8	Dctn2	Prpf31	Akap3	Rp2	Wdr18	Sec22b	Akap13	Ap1ar	Atg14	Cntfr	Crcp	Ermn	Msh2	Inha	Kcnc1	Trappc2b	Smarcb1	Tlr2	Ercc1	Acin1	Rims2	Ccnh	B4galt1	Has3	Itgav	Acr	Itpr1	Mettl1	Xpc
+GO:0005576	"extracellular region"	Il12b	Cga	Defb1	Clcf1	Igfbp5	Apoa1	Prom2	Reln	Igf1	Aamp	Inhba	Inha	Apoa2	Igfbp3	Abcb6	Il12a	Jchain	2310057J18Rik	C1qb	Plat	C1qa	Ppfia3	Apob	Igha	Fga	Muc2	Ighm	Nol3	C2	Has3	Rnaseh1	Ache	1600012H06Rik	Alpl
+GO:0005577	"fibrinogen complex"	Fga
+GO:0005579	"membrane attack complex"	C6
+GO:0005581	"collagen trimer"	Col10a1	Col11a1	Dcx	Col12a1	Col5a1	Col4a1	Adipoq	Lum	Col9a1	Col1a1	Col3a1	Col2a1
+GO:0005583	"fibrillar collagen trimer"	Col11a1	Col5a1	Lum	Col1a1	Col3a1	Col2a1
+GO:0005584	"collagen type I trimer"	Col1a1
+GO:0005585	"collagen type II trimer"	Col2a1
+GO:0005586	"collagen type III trimer"	Col3a1
+GO:0005587	"collagen type IV trimer"	Col4a1
+GO:0005588	"collagen type V trimer"	Col5a1
+GO:0005589	"collagen type VI trimer"	Dcx
+GO:0005592	"collagen type XI trimer"	Col11a1
+GO:0005593	"FACIT collagen trimer"	Col9a1	Col12a1
+GO:0005594	"collagen type IX trimer"	Col9a1
+GO:0005595	"collagen type XII trimer"	Col12a1
+GO:0005598	"short-chain collagen trimer"	Col10a1
+GO:0005599	"collagen type X trimer"	Col10a1
+GO:0005601	"classical-complement-pathway C3/C5 convertase complex"	C2
+GO:0005602	"complement component C1 complex"	C1qb
+GO:0005604	"basement membrane"	Col4a1	Acta2	Lama1	Lamb1	Lama5
+GO:0005606	"laminin-1 complex"	Lama1
+GO:0005607	"laminin-2 complex"	Lamb1
+GO:0005608	"laminin-3 complex"	Lama1
+GO:0005610	"laminin-5 complex"	Lama5
+GO:0005614	"interstitial matrix"	Igf1
+GO:0005615	"extracellular space"	Il12b	Clcf1	Igfbp5	Apoa1	Reln	Igf1	Inhba	Inha	Apoa2	Igfbp3	Abcb6	Il12a	Jchain	2310057J18Rik	C1qb	C1qa	Apob	Igha	Fga	Ighm	C2
+GO:0005622	"intracellular"	Rsf1	Haus8	Ctsd	Dhx9	Hmg20b	Tubgcp2	Aktip	Arl3	Thoc1	Actr2	Suz12	Casp8	Haus1	Slc18a2	Gclc	Bloc1s1	Azin2	Cdc73	Supt4h1a	Atad5	Naip6	Lsm10	Aaas	Anapc1	Bag5	Fxn	Agk	Bmi1	Cstf2	Chtf18	Epc1	Atp6ap2	Cdc45	Amot	Abr	Ctnnb1	Cdip1	Atxn7l3	Ddx4	Rnf20	Cetn2	Tpx2	Tex12	Smad1	Slc11a2	Aldob	Naa30	Bcl2l14	Eif2b1	Cdc37	Ndc80	Eif3a	Taf5l	Atf1	Micos13	Cep295	Ndc1	Cd2bp2	Celf1	Tomm22	Ada	Sgf29	Crhbp	Ccdc65	Trappc5	Rcc2	Mybpc3	Tinf2	Rad51c	Mybphl	Bmf	Dab2	Myo5a	Abraxas1	Fh	Bcas3	Arhgap1	Ca4	Aak1	Hba	Ect2	Pnpt1	Dmtn	Cbx3	Skic2	Drap1	Cracr2a	Ahr	Nbas	4931428L18Rik	Pam16	Lrif1	Dhx15	F2r	Pmpcb	Ap4b1	Myo7a	Septin7	Etf1	H2-D1	Cdkn1a	Nucb1	Epn2	Kat2a	Brd1	Sptlc1	Nxf1	2810004N23Rik	Atrx	Dnah1	Atp5f1a	Adam10	Arl6ip1	Stx12	Mvb12a	Bloc1s2	Csnk2a1	Cplx2	Bin1	Abca12	Copb1	Bahd1	Aurkc	Ap5b1	Akr1b1	Sf3b1	Abca1	Nup214	A1cf	Sptb	Gnas	Emc2	Gnptab	Chga	Sirt7	Gucy1a1	Hm13	Incenp	Cd74	Faf1	Actl9	Abhd5	Rprd1b	Prss57	Myocd	Atl1	Bmal1	Nelfa	Acaca	Cd177	Pdia3	Aadac	Abcc8	4931406C07Rik	Kmt5a	Psmd8	Abcf1	Snx10	Ap1b1	Tyrp1	Prpf38a	Tead1	Becn1	Ash2l	Mpv17l2	Anpep	Nfkb1	Agtr1a	Egfr	Baz1b	Synm	Cox7b	Ccsap	Snap23	Ppp1ca	Bckdha	D1Pas1	Prpf18	Atp5po	St3gal1	Chchd1	Sec61g	Anxa3	Cenpo	Mfn1	Chmp1a	Clasp2	Cep152	Bves	Mycb	Cspg5	Snrpd3	Ddx39b	Gnrh1	Atg101	Timm17a	Cpsf1	4930595M18Rik	Des	Bbs4	Trim12a	Slbp	Lig4	Birc5	Plcb2	Ambp	Ercc3	Prkcd	Ell	Actn1	Snx3	Spmip6	Abce1	Psmc5	Gli1	Nploc4	Aldoc	Camlg	Ap2a1	Spag17	Eid3	Sdhc	Cdk8	Fos	Papss1	Bsn	B2m	Mrpl42	Mms22l	Rsph6a	Klhl12	Mkks	Cabp1	Borcs5	Lamp2	Fabp1	Aimp1	Cdkn2aip	Adora2a	Coa8	Dnajc11	Chm	Neu4	Gemin2	P3h4	Gsn	Ccz1	Limch1	Chuk	Arid1b	Chek1	Bace2	Dr1	Noc2l	Dlat	Lrrk2	Csde1	Ercc2	Cabin1	Sycp1	Suclg1	Abi2	Ap2b1	Ccl22	Insig1	Kash5	Eipr1	Mrps36	Cdk12	Mrnip	Dis3l	Dbh	Psmd14	Rgp1	Dna2	Carmil2	Cfap96	P4hb	Fga	Adar	Cenpj	Mapk10	Apobec3	Arfip1	Cenpe	Akap5	Psma4	Polr1a	Ankrd34c	Eqtn	Casp1	Cdk5r1	Colec12	Antxr1	Myzap	Cdk2ap1	Sfr1	Lig3	Aurkb	Abca2	Cd63	Atp2a1	Eaf1	Prim1	Alox5	Aim2	Pdhx	Dsn1	Ankrd27	Septin3	5730455P16Rik	Actg1	Trappc14	Gins1	Sart3	Hus1	Atg16l1	Bcas2	Atxn2	E2f5	Trmt6	Srpra	Bcl6	Asph	Gemin5	Cul2	Dkc1	Anapc5	Mphosph10	Atp2a2	Agbl2	Cdk5rap2	Cenpa	Phka1	Hps1	Rad51b	Gpsm2	Birc2	Fam161a	Psme1	Cenps	Dld	Amph	Ctcf	Abhd17a	Ank3	Hps3	Immp1l	Paxx	Rab3il1	Akap1	Bcl10	Tert	Shcbp1l	Taf12	Nek4	Mapre1	Atxn1	Gripap1	Bcor	Epm2a	Znf207	Magoh	Nutf2	Prpf4	Cd46	Trdn	Nrgn	Bbln	Phf5a	Cox4i1	Sec31a	Abca3	Dmac1	Dnah9	Bcl9	4933427D14Rik	Ormdl3	Dnah11	Vac14	Mlh1	Ankrd23	Adnp	Gaa	Fam8a1	Akap9	Donson	Gzmb	Lin52	Smc1a	Hydin	Dnm1l	Capza1	Sec63	B4galnt3	0610010K14Rik	Ccnt1	Clpx	Znfx1	Ssr4	Utp6	Ciao1	Mad1l1	Pold1	Pick1	Rrp8	Atf2	Abcd3	Bag6	Mccc1	Akap8l	Mapt	1600014C10Rik	Cebpa	Gtf2f1	Ern1	Suclg2	Rsph4a	Cryab	Narf	Mif4gd	Pdlim4	Katna1	Ppcdc	Pan2	Capn2	Gpd1l	Hadha	Abat	Casq1	Arih1	App	Bcl11a	Insr	Ckmt1	Dgat2	Numa1	Bud13	Kntc1	Akt2	Apob	Prkdc	Cadps	Clca1	Btf3	Cct2	Agrp	Etfa	Cyc1	Bicd1	Babam2	Pfkfb1	Eif2s1	Sp140l1	Casc3	Ina	Akap7	Acta1	Mrpl1	Slx1b	Las1l	Tbc1d7	Sec11a	Psma1	Srp14	Ddx28	Baz1a	Psmb5	Eloa	Atg12	Serpini1	Clock	Taf1d	Ide	Nsfl1c	Asxl1	Hsp90ab1	Rrm1	Cbll1	Tcf7l2	Amfr	Rad21	Camsap2	Ganab	Hnrnpu	Adrb1	Apc	Naa20	Elovl6	Ints1	Camk1g	Nol6	Inip	Max	Gcsh	Mbd5	Cfl1	Ranbp2	Tcap	Ctc1	Sf1	Eif4ebp2	Nck1	Aftph	Acadvl	Fnta	Kat8	Fbxo7	Nol11	Aamp	Brms1l	Cyfip1	Aar2	Ext2	Maea	Eno1	Sae1	Atf4	Bola1	Marcks	Pfkl	Sel1l	Penk	Gnmt	Aebp2	Tti1	Psmd2	Pola1	Cstf1	Tipin	Polrmt	Cpsf6	Baiap2	Abra	Ppih	Lin37	Ank1	Mcub	Irf9	Rad17	Hrnr	Dnaaf8	Pcna	Acd	Ahctf1	Gpaa1	Nup153	Ap3s1	Atp7a	Adap2	Golga5	Asgr2	Abcc9	Wdpcp	Cdc42bpa	Gtf2h2	Scrib	Slc3a1	Abcb7	Orc3	Taf1b	Cemip	Odad4	Eif1	Cldn11	Abraxas2	Tmem250-ps	Myh6	Phb1	Hexim1	Gtf2a1	Hcfc1	Naa10	Orc1	N6amt1	Sting1	Spaar	Aqr	Acp3	Actl6a	Abi1	Clip2	Add1	Bod1	Ascc2	Ccny	Derl1	Akap14	Apoo	Slc17a9	Dhx29	Sybu	Myo18b	Snap25	Nol3	Apoe	Clns1a	Clu	Alox15	Clta	Bub1b	Eif4e	Psmd11	Mark2	Hspa8	Exoc2	Nlrp5	Arhgef7	Hnrnpa1	Golga3	Apc2	Chmp1b1	Ubb	Arid2	Arl8b	Nup188	Aff1	Rogdi	Calr	Hps4	Eftud2	Idh3a	Atp6v1a	Mtrex	Psmd10	Blm	Ak6	Arl8a	Clasp1	Snf8	Atg3	Polr3h	Isy1	Mau2	Serpina5	Mrgbp	Cxxc1	Ccdc88a	Actb	Hgs	Anks1b	Arpc2	Chrna2	Agl	Med1	Atp6v0a1	Pms2	Sf3a1	Atp1b4	Sun1	Cttn	Anxa7	Uvrag	Ache	Ankfy1	Ing2	Syf2	Ctsh	Stpg4	Pes1	Litaf	Afg3l1	Casp14	Farsa	Pdyn	Ctu1	Cul3	Tepsin	Slc30a5	Arfgef2	B3galt6	Ripor2	Cdc42	Ncapd2	Hsd17b10	Calb1	Brca1	Snrnp70	Sgta	Tmem258	Ilvbl	Abcb6	Bax	Septin11	Adprs	1810055G02Rik	Apaf1	Adam8	Brpf1	Nat8	Emc6	Ccdc103	Disc1	Dnttip1	Abcb11	Dgcr8	Ramac	Anp32e	Dctn2	Prpf31	Edn1	Vamp7	Vamp1	Akap6	Vps8	Swi5	Rela	Ecpas	Spaca3	Piga	Pole	Anxa11	Pigm	Ankrd1	Lamtor1	Cubn	Helq	Sec22b	Kif3a	Ddx20	Nop14	Akap13	Atp5mc1	Dad1	Ap1ar	Atg14	Cecr2	H1f9	Dctn1	Sfxn5	Cask	Frg1	LRWD1	Cel	Msh2	Dis3	Actr1a	Lamp5	Bard1	Dlgap3	Trappc2b	Bet1	Timm10	Tnnc1	Cltb	Emc1	Vps39	Smarcb1	Jup	Ccdc78	Ercc1	Akap8	Eif2s1	Hfe	Gtf2e1	Rfc1	Eef1d	Ccnh	B4galt1	Dnajb11	Cbfb	Rad51	Cenpi	Foxh1	Arfgef1	Acr	Snca	Itpr1	Mettl1	Xpc	Gys2
+GO:0005634	"nucleus"	Ahctf1	Rsf1	Taf12	Baz1b	Haus8	Atxn1	Bcor	Magoh	Nutf2	Prpf4	Dhx9	Hmg20b	Gtf2h2	Prpf18	Phf5a	Orc3	Thoc1	Taf1b	Suz12	Bcl9	Abraxas2	Bves	Mycb	Hexim1	Gtf2a1	Snrpd3	Ddx39b	Cdc73	Supt4h1a	Hcfc1	Lsm10	Adnp	Aqr	Aaas	Actl6a	Anapc1	Cpsf1	4930595M18Rik	Ascc2	Lin52	Bmi1	Slbp	Lig4	Epc1	Cstf2	Birc5	Cdc45	Ccnt1	0610010K14Rik	Amot	Znfx1	Utp6	Ctnnb1	Ercc3	Bub1b	Ell	Atxn7l3	Pold1	Psmc5	Cetn2	Rrp8	Atf2	Hnrnpa1	Tex12	Smad1	Arid2	Cebpa	Gtf2f1	Nup188	Aff1	Cdk8	Eftud2	Fos	Narf	Pcna	Mtrex	Blm	Ak6	Mms22l	Taf5l	Atf1	Ndc1	Polr3h	Cd2bp2	Bcl11a	Isy1	Celf1	Insr	Mau2	Bud13	Tert	Sgf29	Mrgbp	Prkdc	Cxxc1	Cdkn2aip	Rad51c	Actb	Med1	Sf3a1	Abraxas1	Pms2	Atp1b4	Sun1	Gemin2	Syf2	Babam2	Ing2	Stpg4	P3h4	Pes1	Sp140l1	Casc3	Arid1b	Chek1	Slx1b	Cbx3	Drap1	Noc2l	Ahr	Dr1	Ercc2	Baz1a	4931428L18Rik	Sycp1	Eloa	Lrif1	Dhx15	Clock	Snrnp70	Taf1d	Cdkn1a	Cdk12	Kat2a	Mrnip	Asxl1	Brd1	Brpf1	Nxf1	Nat8	Tcf7l2	Dnttip1	Dgcr8	Ramac	Adar	Anp32e	Prpf31	Swi5	Rela	Polr1a	Pole	Nup153	Colec12	Antxr1	Csnk2a1	Nop14	Ints1	Myzap	Cdk2ap1	Sfr1	Bin1	Nol6	Lig3	Inip	Bahd1	Max	Eaf1	Cecr2	Alox5	Ranbp2	Sf3b1	H1f9	Nup214	A1cf	Ctc1	Sf1	Cask	Gins1	Sirt7	Sart3	LRWD1	Hus1	Kat8	Nol11	Msh2	Dis3	Bcas2	Brms1l	Bard1	Aar2	Rprd1b	Trappc2b	Sae1	Atf4	Gemin5	Dkc1	Myocd	Mphosph10	Bmal1	Nelfa	Smarcb1	Jup	Rad51b	Ercc1	Akap8	4931406C07Rik	Aebp2	Tti1	Gtf2e1	Pola1	Cstf1	Tipin	Cenps	Ccnh	Cpsf6	Cbfb	Prpf38a	Ctcf	Foxh1	Ppih	Arfgef1	Lin37	Tead1	Paxx	Irf9	Ash2l	Nfkb1	Xpc	Acd
+GO:0005635	"nuclear envelope"	Ahctf1	Cetn2	Ndc1	Aaas	Atp1b4	Nutf2	Alox5	Sun1	Ranbp2	Nup214	Nup188	Trappc2b	Nup153
+GO:0005637	"nuclear inner membrane"	Atp1b4
+GO:0005638	"lamin filament"	Narf
+GO:0005640	"nuclear outer membrane"	Trappc2b
+GO:0005641	"nuclear envelope lumen"	Alox5
+GO:0005642	"annulate lamellae"	Bicd2
+GO:0005643	"nuclear pore"	Ahctf1	Cetn2	Ndc1	Nutf2	Ranbp2	Nup214	Nup188	Nup153
+GO:0005652	"nuclear lamina"	Narf	Cask
+GO:0005654	"nucleoplasm"	Atf2	Taf12	Hnrnpa1	Eaf1	Dr1	Ercc2	Gtf2h2	Gtf2f1	Aff1	Eloa	Gins1	Orc3	Kat8	Atxn7l3	Ak6	Brms1l	Mms22l	Gtf2a1	Rprd1b	Cdc73	Supt4h1a	Kat2a	Hcfc1	Trappc2b	Brd1	Brpf1	Bcl11a	4930595M18Rik	Nelfa	Ell	Dnttip1	Sgf29	Mrgbp	Anp32e	4931406C07Rik	Aebp2	Gtf2e1	Epc1	Cxxc1	Actb	Cstf2	Ccnh	Cpsf6	Ccnt1	Cdc45	0610010K14Rik	Gemin2	Antxr1	Csnk2a1	Ash2l	Myzap	Cdk2ap1
+GO:0005655	"nucleolar ribonuclease P complex"	Bves
+GO:0005656	"nuclear pre-replicative complex"	Orc3
+GO:0005657	"replication fork"	Pola1	Rfc1	Tipin	Baz1b	Bcas2	Bcl6	Donson	Prim1	Pold1
+GO:0005658	"alpha DNA polymerase:primase complex"	Pola1
+GO:0005662	"DNA replication factor A complex"	Bcas2
+GO:0005663	"DNA replication factor C complex"	Rfc1
+GO:0005664	"nuclear origin of replication recognition complex"	LRWD1
+GO:0005665	"DNA-directed RNA polymerase II, core complex"	Myzap
+GO:0005666	"DNA-directed RNA polymerase III complex"	Polr3h
+GO:0005667	"transcription factor complex"	Max	Smad1	Drap1	Apex1	Brf2	Ercc2	Gtf2h2	Cebpa	Gtf2f1	Akirin2	Gtf3c1	Fos	Taf1b	Bcl9	Taf1d	Snapc4	Mycb	Gtf2a1	Atf1	Kat2a	Atf4	Gemin5	Myocd	Adnp	Irf9	Bmal1	Ascc2	Lin52	Gtf2e1	Ccnh	Med1	Cbfb	Foxh1	Ctnnb1	Tead1	Bin1	Ing2	Cdk2ap1
+GO:0005668	"RNA polymerase transcription factor SL1 complex"	Taf1d
+GO:0005669	"transcription factor TFIID complex"	Ercc2
+GO:0005672	"transcription factor TFIIA complex"	Gtf2a1
+GO:0005673	"transcription factor TFIIE complex"	Gtf2e1
+GO:0005674	"transcription factor TFIIF complex"	Gtf2f1
+GO:0005675	"holo TFIIH complex"	Ccnh	Gtf2h2
+GO:0005677	"chromatin silencing complex"	Rrp8	Bahd1	Cbx3
+GO:0005680	"anaphase-promoting complex"	Anapc1
+GO:0005681	"spliceosomal complex"	Casc3	Dhx15	Aqr	Isy1	Sf3a1	Prpf38a	Bud13	Syf2	Prpf18	Adar	Aar2	4931428L18Rik	Snrpd3	Phf5a
+GO:0005682	"U5 snRNP"	Cd2bp2
+GO:0005683	"U7 snRNP"	Lsm10
+GO:0005684	"U2-type spliceosomal complex"	Casc3	Dhx15	Aqr	Sf3a1	Bud13	Prpf18	Snrpd3	Phf5a
+GO:0005685	"U1 snRNP"	Snrnp70
+GO:0005686	"U2 snRNP"	Phf5a
+GO:0005687	"U4 snRNP"	Ddx39b
+GO:0005688	"U6 snRNP"	Ddx39b
+GO:0005689	"U12-type spliceosomal complex"	Dhx15
+GO:0005690	"U4atac snRNP"	Prpf31
+GO:0005691	"U6atac snRNP"	Sart3
+GO:0005694	"chromosome"	Ahctf1	Rsf1	Baz1b	Actr2	Cenpo	Suz12	Atad5	Orc1	Actl6a	Bod1	Donson	Smc1a	Chtf18	Birc5	Cdc45	0610010K14Rik	Pold1	Rnf20	Rrp8	Tex12	Akap8l	Arid2	Eid3	Ndc80	Blm	Mms22l	Kntc1	Rcc2	Actb	Bcas3	P3h4	Arid1b	Chek1	Slx1b	Cbx3	Baz1a	Sycp1	4931428L18Rik	Ncapd2	Lrif1	Clock	Adprs	Nat8	2810004N23Rik	Atrx	Rad21	Anp32e	Swi5	Hnrnpu	Pole	Csnk2a1	Sfr1	Cdk2ap1	Aurkb	Aurkc	Cecr2	Prim1	Ctc1	A1cf	Dsn1	Gins1	Sirt7	LRWD1	Hus1	Bcas2	Brms1l	Bcl6	Smarcb1	Cenpa	Kmt5a	Tti1	Birc2	Pola1	Rfc1	Tipin	Cenpi	Rad17	Acd
+GO:0005697	"telomerase holoenzyme complex"	Dkc1	Tert	Acd
+GO:0005700	"polytene chromosome"	Kmt5a
+GO:0005713	"recombination nodule"	Nat8
+GO:0005715	"late recombination nodule"	Nat8
+GO:0005721	"pericentric heterochromatin"	Baz1a
+GO:0005726	"perichromatin fibrils"	Clock
+GO:0005730	"nucleolus"	Rrp8	Sirt7	Cdkn2aip	Nol6	Dkc1	Taf1b	Baz1b	Polr1a	Mphosph10	Nol11	Utp6	Ctcf	Taf1d	Bves	Pes1	Sp140l1
+GO:0005731	"nucleolus organizer region"	Sirt7
+GO:0005732	"small nucleolar ribonucleoprotein complex"	Mphosph10	Nolc1	Dkc1	Bves
+GO:0005736	"DNA-directed RNA polymerase I complex"	Polr1a
+GO:0005737	"cytoplasm"	Ctsd	Aktip	Casp8	Slc18a2	Gclc	Bloc1s1	Azin2	Naip6	Lsm10	Fxn	Agk	Atp6ap2	Cdip1	Ddx4	Smad1	Slc11a2	Aldob	Naa30	Eif2b1	Cdc37	Eif3a	Micos13	Tomm22	Ada	Crhbp	Ccdc65	Trappc5	Mybpc3	Mybphl	Dab2	Fh	Arhgap1	Ca4	Aak1	Hba	Pnpt1	Skic2	Cracr2a	Nbas	Pam16	Pmpcb	Ap4b1	Etf1	H2-D1	Nucb1	Epn2	Sptlc1	Dnah1	Atp5f1a	Adam10	Arl6ip1	Stx12	Mvb12a	Cplx2	Abca12	Copb1	Ap5b1	Akr1b1	Abca1	Sptb	Emc2	Gnptab	Chga	Gucy1a1	Hm13	Cd74	Faf1	Actl9	Prss57	Atl1	Cd177	Pdia3	Aadac	Abcc8	Snx10	Ap1b1	Tyrp1	Becn1	Mpv17l2	Anpep	Egfr	Cox7b	Ccsap	Snap23	Ppp1ca	Bckdha	D1Pas1	Atp5po	St3gal1	Chchd1	Sec61g	Anxa3	Mfn1	Chmp1a	Clasp2	Cep152	Cspg5	Gnrh1	Atg101	Timm17a	Plcb2	Ambp	Prkcd	Actn1	Snx3	Abce1	Gli1	Nploc4	Aldoc	Camlg	Ap2a1	Spag17	Sdhc	Papss1	Bsn	Mrpl42	Rsph6a	Klhl12	Borcs5	Lamp2	Fabp1	Coa8	Dnajc11	Chm	Ccz1	Gsn	Chuk	Bace2	Lrrk2	Dlat	Csde1	Suclg1	Ap2b1	Ccl22	Insig1	Eipr1	Mrps36	Dbh	Dis3l	Rgp1	Dna2	Cfap96	P4hb	Fga	Cenpj	Mapk10	Apobec3	Arfip1	Akap5	Ankrd34c	Eqtn	Casp1	Cdk5r1	Abca2	Cd63	Atp2a1	Aim2	Pdhx	Ankrd27	5730455P16Rik	Trappc14	Atg16l1	Atxn2	E2f5	Srpra	Asph	Cul2	Atp2a2	Phka1	Hps1	Gpsm2	Fam161a	Dld	Amph	Abhd17a	Ank3	Hps3	Immp1l	Rab3il1	Akap1	Bcl10	Nek4	Mapre1	Gripap1	Epm2a	Cd46	Trdn	Nrgn	Cox4i1	Sec31a	Abca3	Dmac1	Dnah9	Ormdl3	Dnah11	Vac14	Ankrd23	Gaa	Fam8a1	Akap9	Gzmb	Hydin	Dnm1l	Capza1	Sec63	B4galnt3	0610010K14Rik	Clpx	Ssr4	Ciao1	Mad1l1	Pick1	Abcd3	Bag6	Mccc1	1600014C10Rik	Ern1	Suclg2	Rsph4a	Cryab	Mif4gd	Pdlim4	Ppcdc	Capn2	Pan2	Gpd1l	Hadha	Abat	Casq1	App	Ckmt1	Insr	Dgat2	Numa1	Akt2	Apob	Cadps	Clca1	Btf3	Cct2	Agrp	Etfa	Cyc1	Bicd1	Pfkfb1	Eif2s1	Akap7	Acta1	Las1l	Tbc1d7	Sec11a	Srp14	Atg12	Serpini1	Ide	Nsfl1c	Hsp90ab1	Rrm1	Amfr	Ganab	Adrb1	Apc	Naa20	Elovl6	Gcsh	Ranbp2	Tcap	Eif4ebp2	Nck1	Aftph	Acadvl	Fnta	Cyfip1	Ext2	Maea	Eno1	Bola1	Pfkl	Sel1l	Penk	Psmd2	Polrmt	Baiap2	Abra	Ank1	Mcub	Hrnr	Dnaaf8	Gpaa1	Ap3s1	Atp7a	Adap2	Golga5	Asgr2	Abcc9	Wdpcp	Scrib	Slc3a1	Abcb7	Cemip	Odad4	Eif1	Cldn11	Tmem250-ps	Myh6	Phb1	Naa10	Sting1	Spaar	Acp3	Abi1	Ccny	Derl1	Akap14	Apoo	Slc17a9	Dhx29	Sybu	Nol3	Snap25	Apoe	Clns1a	Clu	Clta	Eif4e	Hspa8	Exoc2	Nlrp5	Golga3	Chmp1b1	Ubb	Arl8b	Rogdi	Calr	Hps4	Idh3a	Atp6v1a	Clasp1	Snf8	Atg3	Serpina5	Anks1b	Ccdc88a	Actb	Hgs	Chrna2	Agl	Atp6v0a1	Cttn	Anxa7	Uvrag	Ache	Ankfy1	Litaf	Ctsh	Afg3l1	Farsa	Pdyn	Ctu1	Tepsin	Slc30a5	Arfgef2	B3galt6	Cdc42	Hsd17b10	Calb1	Sgta	Tmem258	Ilvbl	Abcb6	Bax	Septin11	1810055G02Rik	Apaf1	Adam8	Ccdc103	Abcb11	Edn1	Vamp7	Vamp1	Akap6	Vps8	Ecpas	Spaca3	Piga	Anxa11	Pigm	Ankrd1	Lamtor1	Cubn	Sec22b	Ddx20	Akap13	Atp5mc1	Dad1	Ap1ar	Atg14	Sfxn5	Frg1	Cel	Actr1a	Lamp5	Trappc2b	Bet1	Timm10	Tnnc1	Cltb	Emc1	Vps39	Eif2s1	Hfe	Eef1d	Dnajb11	B4galt1	Acr	Snca	Itpr1	B2m	Gys2
+GO:0005739	"mitochondrion"	Atp5mc1	Adap2	Pnpt1	Cox7b	Mccc1	Ubb	Dlat	1600014C10Rik	Bckdha	Sdhc	Atp5po	Suclg1	Cox4i1	Pam16	Abcb7	Chchd1	Idh3a	Dmac1	Hsd17b10	Acadvl	Mfn1	Pmpcb	Hadha	Abat	Abcb6	Bax	Mrpl42	Phb1	Micos13	Mrps36	Timm10	Timm17a	Ckmt1	Dna2	Fxn	Tomm22	Agk	Apoo	Atp5f1a	Polrmt	Clpx	Coa8	Cyc1	Dnajc11	Ambp	Becn1	Immp1l	Mcub	Akap1	Mpv17l2	Afg3l1
+GO:0005740	"mitochondrial envelope"	Atp5mc1	Adap2	Cox7b	Ubb	1600014C10Rik	Sdhc	Atp5po	Cox4i1	Pam16	Abcb7	Dmac1	Mfn1	Phb1	Abcb6	Bax	Micos13	Timm10	Timm17a	Ckmt1	Tomm22	Agk	Apoo	Atp5f1a	Coa8	Cyc1	Dnajc11	Ambp	Becn1	Immp1l	Mcub	Akap1	Afg3l1
+GO:0005741	"mitochondrial outer membrane"	Mfn1	Ubb	Dnajc11	Becn1	Tomm22	Abcb6
+GO:0005742	"mitochondrial outer membrane translocase complex"	Dnajc11	Tomm22
+GO:0005743	"mitochondrial inner membrane"	Atp5mc1	Cox7b	Sdhc	Atp5po	Cox4i1	Pam16	Abcb7	Dmac1	Phb1	Micos13	Timm17a	Agk	Apoo	Atp5f1a	Coa8	Cyc1	Ambp	Immp1l	Mcub	Akap1	Afg3l1
+GO:0005744	"mitochondrial inner membrane presequence translocase complex"	Pam16	Timm17a
+GO:0005745	"m-AAA complex"	Afg3l1
+GO:0005746	"mitochondrial respiratory chain"	Dmac1	Cox7b	Cyc1	Sdhc	Cox4i1
+GO:0005747	"mitochondrial respiratory chain complex I"	Dmac1
+GO:0005749	"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)"	Sdhc
+GO:0005750	"mitochondrial respiratory chain complex III"	Cyc1
+GO:0005751	"mitochondrial respiratory chain complex IV"	Cox4i1
+GO:0005753	"mitochondrial proton-transporting ATP synthase complex"	Atp5f1a	Atp5po	Atp5mc1
+GO:0005754	"mitochondrial proton-transporting ATP synthase, catalytic core"	Atp5f1a
+GO:0005757	"mitochondrial permeability transition pore complex"	Bax
+GO:0005758	"mitochondrial intermembrane space"	Timm10	Agk
+GO:0005759	"mitochondrial matrix"	Pam16	Chchd1	Idh3a	Acadvl	Clpx	Dna2	Pmpcb	Dlat	Hadha	Bckdha	Abat	Mrpl42	Suclg1	Mpv17l2	Mrps36
+GO:0005760	"gamma DNA polymerase complex"	Dna2
+GO:0005761	"mitochondrial ribosome"	Chchd1	Mpv17l2	Mrpl42
+GO:0005762	"mitochondrial large ribosomal subunit"	Mpv17l2
+GO:0005763	"mitochondrial small ribosomal subunit"	Mrpl42
+GO:0005764	"lysosome"	Abca2	Lrrk2	Arl8b	Akr1b1	Gnptab	Abcb6	Adam8	Prss57	Gaa	Spaar	Vps39	Borcs5	Gzmb	Lamp2	Crhbp	Vamp7	Anxa11	Cubn	Prkcd	Hspa8
+GO:0005765	"lysosomal membrane"	Spaar	Abca2	Vps39	Arl8b	Borcs5	Abcb6	Lamp2	Vamp7
+GO:0005766	"primary lysosome"	Anxa11	Prss57	Vamp7
+GO:0005767	"secondary lysosome"	Lrrk2	Crhbp	Adam8	Gaa
+GO:0005768	"endosome"	Egfr	Abca2	Cd63	Gripap1	Ctsd	Chmp1b1	Ankrd27	Trappc14	Abca3	Pdlim4	Abcb6	Snf8	Eipr1	Acp3	Abcb11	Vps8	Akap5	Hgs	Nol3	Apoe	Snx10	Adrb1	Stx12	Mvb12a	Lamtor1	Abhd17a	Arhgap1	Prkcd	Cdip1	Ankfy1	Litaf	Ccz1	Pick1
+GO:0005769	"early endosome"	Pdlim4	Gripap1	Adrb1	Abcb6	Litaf	Pick1
+GO:0005770	"late endosome"	Abca3	Egfr	Apoe	Acp3	Lamtor1	Cdip1	Abcb6	Ccz1
+GO:0005771	"multivesicular body"	Acp3	Egfr	Apoe	Abcb6
+GO:0005773	"vacuole"	Abca2	Atg14	Lrrk2	Arl8b	Akr1b1	Slc3a1	Gnptab	Atp6v1a	Atg16l1	Cd74	Chmp1a	Abcb6	Vac14	Adam8	Prss57	Gaa	Spaar	Vps39	Borcs5	Gzmb	Lamp2	Crhbp	Vamp7	Atp6ap2	Spaca3	Anxa11	Atp6v0a1	Lamtor1	Cubn	Prkcd	Uvrag	Hspa8
+GO:0005774	"vacuolar membrane"	Vac14	Abca2	Atp6ap2	Atp6v1a	Atg16l1	Spaar	Vps39	Atp6v0a1	Chmp1a	Lamtor1	Borcs5	Arl8b	Abcb6	Lamp2	Slc3a1	Vamp7
+GO:0005775	"vacuolar lumen"	Cubn	Prss57	Gaa	Hspa8
+GO:0005776	"autophagosome"	Gaa	Atg16l1	Atg14	Chmp1a	Lrrk2
+GO:0005777	"peroxisome"	Abcd3	Ccl22
+GO:0005778	"peroxisomal membrane"	Ccl22
+GO:0005782	"peroxisomal matrix"	Abcd3
+GO:0005783	"endoplasmic reticulum"	Dad1	Epm2a	Camlg	Sec11a	Asgr2	Nbas	Ern1	Calr	Emc2	Aldob	Sec61g	Hm13	Insig1	Tmem258	Faf1	Srpra	Casq1	Ormdl3	Ext2	Trappc2b	Asph	Sptlc1	Emc1	Fam8a1	Atl1	Atp2a2	Dgat2	Sel1l	Derl1	Apob	P4hb	Aadac	Amfr	Pdia3	Edn1	Akap6	Adam10	Ganab	Sec63	Dnajb11	Piga	Agl	Arl6ip1	Clu	Pigm	Ssr4	Ache	Elovl6	B2m	Gpaa1
+GO:0005784	"Sec61 translocon complex"	Ssr4
+GO:0005785	"signal recognition particle receptor complex"	Srpra
+GO:0005786	"signal recognition particle, endoplasmic reticulum targeting"	Srp14
+GO:0005787	"signal peptidase complex"	Sec11a
+GO:0005788	"endoplasmic reticulum lumen"	Clu	Edn1	Casq1	Ache
+GO:0005789	"endoplasmic reticulum membrane"	Dad1	Epm2a	Sec11a	Ern1	Emc2	Aldob	Sec61g	Hm13	Insig1	Tmem258	Faf1	Srpra	Ormdl3	Ext2	Sptlc1	Emc1	Fam8a1	Atl1	Atp2a2	Sel1l	Derl1	Amfr	Pdia3	Aadac	Akap6	Sec63	Piga	Ssr4	Elovl6	B2m	Gpaa1
+GO:0005790	"smooth endoplasmic reticulum"	Aldob	Calr
+GO:0005791	"rough endoplasmic reticulum"	Aldob	Sec61g	Sec63	Epm2a	Ssr4	Ache	Srpra	Edn1
+GO:0005793	"endoplasmic reticulum-Golgi intermediate compartment"	Trappc5	Lamp5	Anpep
+GO:0005794	"Golgi apparatus"	Golga3	Slc30a5	B3galt6	Cdc42	5730455P16Rik	St3gal1	Trappc14	Aftph	H2-D1	1810055G02Rik	Nucb1	Eipr1	Acp3	Atl1	Rgp1	Akap9	Mapk10	Arfip1	Trappc5	Agrp	B4galt1	B4galnt3	Clta	Abca12	Copb1
+GO:0005795	"Golgi stack"	B4galt1	Acp3	Atl1	B4galnt3	Slc30a5	Akap9	B3galt6	St3gal1
+GO:0005796	"Golgi lumen"	Agrp
+GO:0005797	"Golgi medial cisterna"	St3gal1	B3galt6
+GO:0005798	"Golgi-associated vesicle"	Aftph	Ccdc88a	Atp7a	Golga5	Clta	Actr1a	Cspg5	Ap4b1	Acr	Nrgn	Copb1
+GO:0005801	"cis-Golgi network"	Akap9	H2-D1
+GO:0005802	"trans-Golgi network"	5730455P16Rik	Arfip1
+GO:0005811	"lipid particle"	Abhd5
+GO:0005813	"centrosome"	Cfap96	Abraxas2	Bbs4	Clasp1	4933427D14Rik
+GO:0005814	"centriole"	Actr1a
+GO:0005815	"microtubule organizing center"	Tubgcp2	Abca2	Birc5	Katna1	Agbl2	Mkks	Bloc1s2	Cfap96	Cdk5rap2	Bbs4	Actr1a	Clasp1	Abraxas2	4933427D14Rik
+GO:0005818	"aster"	Mapre1	Fam161a	Ccsap	Tpx2
+GO:0005819	"spindle"	Shcbp1l	Arhgef7	Tpx2	Mapre1	Cul3	Ccsap	Bbln	Arl3	Incenp	Abraxas2	Arl8a	Kash5	Cep295	Anapc5	Aaas	Cenpe	Fam161a	Ciao1	Ect2
+GO:0005826	"actomyosin contractile ring"	Maea
+GO:0005827	"polar microtubule"	Cul3
+GO:0005828	"kinetochore microtubule"	Bbln
+GO:0005829	"cytosol"	Abce1	Chuk	Gli1	Bag6	Ctu1	Las1l	Aldoc	Tbc1d7	Aim2	Csde1	D1Pas1	Gucy1a1	Cyfip1	Ide	Sgta	Casp8	Bloc1s1	Naip6	Eno1	Apaf1	Bola1	Rrm1	Pfkl	Fxn	Hps1	Anks1b	Cct2	0610010K14Rik	Casp1	Hps3	Ciao1	Pfkfb1	Hba
+GO:0005831	"steroid hormone aporeceptor complex"	Cyfip1
+GO:0005832	"chaperonin-containing T-complex"	Cct2
+GO:0005833	"hemoglobin complex"	Hba
+GO:0005834	"heterotrimeric G-protein complex"	Gnas
+GO:0005838	"proteasome regulatory particle"	Psmd8	Psmd10	Psmd14
+GO:0005839	"proteasome core complex"	Psma1	Psmb5	Psma4
+GO:0005840	"ribosome"	Chchd1	Abce1	Mrpl1	Abcf1	D1Pas1	Mrpl42	Dlgap3	Mpv17l2
+GO:0005844	"polysome"	Abcf1	Ago1
+GO:0005845	"mRNA cap binding complex"	Ago2
+GO:0005846	"nuclear cap binding complex"	Ncbp1
+GO:0005847	"mRNA cleavage and polyadenylation specificity factor complex"	Cpsf1
+GO:0005848	"mRNA cleavage stimulating factor complex"	Cstf1
+GO:0005849	"mRNA cleavage factor complex"	Colec12	Cstf1	Cpsf1
+GO:0005850	"eukaryotic translation initiation factor 2 complex"	Eif2s1
+GO:0005851	"eukaryotic translation initiation factor 2B complex"	Eif2b1
+GO:0005852	"eukaryotic translation initiation factor 3 complex"	Eif3a	D1Pas1
+GO:0005853	"eukaryotic translation elongation factor 1 complex"	Eef1d
+GO:0005854	"nascent polypeptide-associated complex"	Btf3
+GO:0005856	"cytoskeleton"	Shcbp1l	Nek4	Synm	Mapre1	Haus8	Znf207	Ccsap	Wdpcp	Cdc42bpa	Bbln	Tubgcp2	Arl3	Actr2	Dnah9	Odad4	Cldn11	Abraxas2	Clasp2	Tmem250-ps	4933427D14Rik	Haus1	Myh6	Dnah11	Aaas	Clip2	Add1	Des	Bbs4	Akap14	Hydin	Myo18b	Birc5	Mark2	Ciao1	Actn1	Spmip6	Arhgef7	Tpx2	Apc2	Mapt	Spag17	Rsph4a	Cryab	Narf	Katna1	Bsn	Arl8a	Clasp1	Cep295	Rsph6a	Mkks	Numa1	Borcs5	Ccdc65	Actb	Myo5a	Bmf	Arpc2	Adora2a	Cttn	Ctsh	Gsn	Ect2	Limch1	Casp14	Ina	Acta1	Cul3	Arfgef2	Abi2	Calb1	Myo7a	Kash5	Septin7	Septin11	Carmil2	Cfap96	Ccdc103	Disc1	Dctn2	Cenpe	Dnah1	Camsap2	Bloc1s2	Kif3a	Abca2	Aurkb	Cfl1	Dctn1	Septin3	Sptb	Actg1	Incenp	Aamp	Actr1a	Actl9	Maea	Tnnc1	Anapc5	Agbl2	Marcks	Cdk5rap2	Acaca	Hfe	Fam161a	Rad51	Ank1
+GO:0005858	"axonemal dynein complex"	Ccdc103	Ccdc65	Dnah1
+GO:0005859	"muscle myosin complex"	Myh6
+GO:0005861	"troponin complex"	Tnnc1
+GO:0005863	"striated muscle myosin thick filament"	Mybpc3
+GO:0005865	"striated muscle thin filament"	Tnnc1	Acta1
+GO:0005868	"cytoplasmic dynein complex"	Dctn1
+GO:0005869	"dynactin complex"	Dctn2
+GO:0005871	"kinesin complex"	Borcs5	Disc1	Kif3a
+GO:0005873	"plus-end kinesin complex"	Borcs5
+GO:0005874	"microtubule"	Camsap2	Fam161a	Arl3	Cep295	Mapre1	Haus8	Cul3	Ccsap	Clip2	Cfap96	Cdk5rap2	Abraxas2	Numa1	Arfgef2	Clasp2	Bbln
+GO:0005875	"microtubule associated complex"	Aurkb	Katna1	Ccdc103	Borcs5	Haus1	Disc1	Kif3a	Dctn1	Dctn2	Ccdc65	Dnah1
+GO:0005876	"spindle microtubule"	Fam161a	Arl3	Cep295	Mapre1	Cul3	Ccsap	Bbln
+GO:0005879	"axonemal microtubule"	Arfgef2
+GO:0005880	"nuclear microtubule"	Haus8
+GO:0005881	"cytoplasmic microtubule"	Fam161a	Mapre1	Ccsap	Numa1	Clasp2	Cfap96	Arfgef2
+GO:0005882	"intermediate filament"	Casp14	Narf	Adora2a	Des	Cldn11
+GO:0005883	"neurofilament"	Cldn11
+GO:0005884	"actin filament"	Abi2	Apc2	Arpc2
+GO:0005885	"Arp2/3 protein complex"	Actr2
+GO:0005886	"plasma membrane"	Gnb1	Ahnak	Ticam2	Abcc9	Cyth1	Dag1	Itga2	Cd247	Scimp	Grb2	Igf1	Adgre5	Grm1	Casp8	Shc1	Farp1	Cdh1	Alcam	Aph1a	Dnm3	Atp6v0d2	Arhgap12	Akap9	Itga7	Cacna1a	Cyba	Csf2	Ifnl2	Erbb2	Alox15	Clta	Abcc2	Itgal	Hcn1	Mal	Adam17	Ap2a1	Emilin1	Abcg5	Cacna1c	Fzd8	Traf2	Itga4	Gria4	IGHE	Adora1	Atp1a1	Nradd	Gp1ba	Il18r1	Abcg1	Cd40	Abhd2	Insr	Dgki	Cabp1	Kcnh2	C6	Ankrd45	Abcc1	Rho	Lime1	Pld2	Chrna1	Eea1	Grik1	Ache	Acvr1	Cldn4	Aak1	Adra2a	Dcc	C2cd2l	Sgcg	Vcam1	Il12rb1	H2-DMa	Lrrk2	Gja1	Bmp2	Ripor2	Ap2b1	Dlg1	Abcb1b	Hmgb1	Casp3	H2-D1	Itgb3	Bbip1	Hsp90ab1	Acp1	Lilra6	Itga6	Itga11	Adcy8	Abcb11	Akap5	Adam10	Klhdc8b	Rp2	Apc	Anxa1	Catsperz	Itga3	Adcy6	Itga1	Cyth2	Plekho1	Cdh10	Htr3a	Il6st	Cntfr	Ppp1r9b	Scn10a	Abca1	Gnas	Itga5	Khdrbs1	Cav3	Grin1	Calcr	Ehd1	Ceacam1	Acvr2a	Kcnc1	Calcrl	Slc3a2	Gabbr1	Cacng2	Aqp4	Abcc8	Itga9	Tlr2	Antxr1	Glra3	Abhd17a	Itgav	Il6	B2m	Itga10
+GO:0005887	"integral component of plasma membrane"	Itga1	Il12rb1	Il6st	Cntfr	Ticam2	Emilin1	Scn10a	Bmp2	Itga4	Itga2	Gria4	Itga5	Grm1	Atp1a1	Grin1	Calcr	Gp1ba	Il18r1	Calcrl	Gabbr1	Cd40	Insr	Itga6	Itga11	Akap9	Cacng2	Itga7	C6	Kcnh2	Cyba	Itga9	Abcc8	Csf2	Glra3	Ifnl2	Chrna1	Itgal	Grik1	Itgav	Acvr1	Itga3	Il6	Hcn1	Itga10
+GO:0005890	"sodium:potassium-exchanging ATPase complex"	Atp1a1
+GO:0005891	"voltage-gated calcium channel complex"	Cacna1c	Cacna1a	Catsperz
+GO:0005892	"acetylcholine-gated channel complex"	Chrna1
+GO:0005896	"interleukin-6 receptor complex"	Il6
+GO:0005899	"insulin receptor complex"	Insr
+GO:0005900	"oncostatin-M receptor complex"	Il6st
+GO:0005901	"caveola"	Lrrk2	Adcy8	Cdh1
+GO:0005902	"microvillus"	Akr1b1	Adcy6	Angpt1
+GO:0005903	"brush border"	Anks4b	Abcc2
+GO:0005905	"coated pit"	Ap2a1	Aak1	Clta
+GO:0005911	"cell-cell junction"	Camsap3	F11r	Dlg1	Actb	Marveld2	Adra1b	Mmp13	B4galt1	Ccn3	Pgm5	Adcyap1r1	Gja1	Akr1b1	Actr3	Cdh2	Afdn	Abi2
+GO:0005912	"adherens junction"	Camsap3	Dlg1	Abi2	Pgm5
+GO:0005914	"spot adherens junction"	Pgm5
+GO:0005915	"zonula adherens"	Camsap3
+GO:0005916	"fascia adherens"	Cdh2
+GO:0005921	"gap junction"	Gja1	Ccn3
+GO:0005922	"connexon complex"	Gja1
+GO:0005923	"bicellular tight junction"	Adcyap1r1
+GO:0005925	"focal adhesion"	Abcb4
+GO:0005927	"muscle tendon junction"	Smpx
+GO:0005929	"cilium"	Gnb1	Nek4	Dcdc2	Wdpcp	Spag17	Arfgef2	Cenpf	Rsph4a	Arl3	Spata7	Ace	Dnah9	Odad4	Atp1a4	Ehd1	Nphp3	Ddx6	Rsph6a	Dnah11	Bbip1	Hsp90aa1	Adam15	Abhd2	Agbl2	Cep126	Mkks	Ccdc103	Cfap96	Cacna1f	Bbs4	Ak8	Akap14	Rho	Hydin	Ccdc65	Ccdc120	Dnah1	Akap3	Guca1a	Akap4	Tmem107	Cdkl5	Ctsh
+GO:0005930	"axoneme"	Dnah11	Dnah9	Odad4	Ccdc103	Rsph6a	Wdpcp	Spag17	Arfgef2	Akap14	Hydin	Ccdc65	Rsph4a	Dnah1
+GO:0005938	"cell cortex"	Akap13	Sptb	Calb1	Actr1a	Clasp2	Bsn	Tmem250-ps	Clasp1	Septin11	Maea	Asph	Gsn	Numa1	Fabp1	Gpsm2	Hfe	Clta	Cttn	Actn1	Exoc2
+GO:0005940	"septin ring"	Tmem250-ps
+GO:0005942	"phosphatidylinositol 3-kinase complex"	Pik3ca	Vac14	Pik3r4	Atg14	Becn1	Pik3cg
+GO:0005943	"phosphatidylinositol 3-kinase complex, class IA"	Pik3ca
+GO:0005944	"phosphatidylinositol 3-kinase complex, class IB"	Pik3cg
+GO:0005945	"6-phosphofructokinase complex"	Pfkl
+GO:0005947	"mitochondrial alpha-ketoglutarate dehydrogenase complex"	Bckdha	Mrps36
+GO:0005948	"acetolactate synthase complex"	Ilvbl
+GO:0005952	"cAMP-dependent protein kinase complex"	Akap14
+GO:0005953	"CAAX-protein geranylgeranyltransferase complex"	Fnta
+GO:0005954	"calcium- and calmodulin-dependent protein kinase complex"	Camk2a
+GO:0005955	"calcineurin complex"	Ppp3ca
+GO:0005956	"protein kinase CK2 complex"	Csnk2a1
+GO:0005958	"DNA-dependent protein kinase-DNA ligase 4 complex"	Lig4
+GO:0005960	"glycine cleavage complex"	Gcsh
+GO:0005962	"mitochondrial isocitrate dehydrogenase complex (NAD+)"	Idh3a
+GO:0005963	"magnesium-dependent protein serine/threonine phosphatase complex"	Ier5	Ppp4c	Ppp3ca
+GO:0005964	"phosphorylase kinase complex"	Phka1
+GO:0005965	"protein farnesyltransferase complex"	Fnta
+GO:0005967	"mitochondrial pyruvate dehydrogenase complex"	Dlat
+GO:0005968	"Rab-protein geranylgeranyltransferase complex"	Chm
+GO:0005971	"ribonucleoside-diphosphate reductase complex"	Rrm1
+GO:0008021	"synaptic vesicle"	Abcc8	Amph	Penk	Adam10
+GO:0008023	"transcription elongation factor complex"	Ccnt1	Eaf1	Nelfa	Cdc73	Mms22l	Aff1	Eloa	Supt4h1a
+GO:0008024	"positive transcription elongation factor complex b"	Ccnt1
+GO:0008043	"intracellular ferritin complex"	Ftl1
+GO:0008074	"guanylate cyclase complex, soluble"	Gucy1a1
+GO:0008076	"voltage-gated potassium channel complex"	Akap9	Kcnh2	Hcn1
+GO:0008091	"spectrin"	Sptb
+GO:0008180	"COP9 signalosome"	Amot
+GO:0008247	"1-alkyl-2-acetylglycerophosphocholine esterase complex"	Pafah1b1
+GO:0008250	"oligosaccharyltransferase complex"	Dad1	Tmem258
+GO:0008278	"cohesin complex"	Smc1a	Rad21
+GO:0008282	"ATP-sensitive potassium channel complex"	Abcc8
+GO:0008287	"protein serine/threonine phosphatase complex"	Nck1	Ppp4r4	Ppp4c	Ier5	Ppp1ca	Ppp3ca	Cnep1r1
+GO:0008290	"F-actin capping protein complex"	Add1
+GO:0008303	"caspase complex"	Casp1	Capn2	Gpaa1
+GO:0008305	"integrin complex"	Itga1	Itga5	Itga6	Itga11	Itgal	Emilin1	Itga7	Itgav	Itga9	Itga3	Itga4	Itga2	Itga10
+GO:0008328	"ionotropic glutamate receptor complex"	Cacng2	Grik1	Gria4	Grin1
+GO:0008352	"katanin complex"	Katna1
+GO:0008385	"IkappaB kinase complex"	Chuk
+GO:0008537	"proteasome activator complex"	Psme1
+GO:0008540	"proteasome regulatory particle, base subcomplex"	Psmd10
+GO:0008541	"proteasome regulatory particle, lid subcomplex"	Psmd14
+GO:0008622	"epsilon DNA polymerase complex"	Pole
+GO:0008623	"CHRAC"	Baz1a
+GO:0009295	"nucleoid"	Acadvl
+GO:0009328	"phenylalanine-tRNA ligase complex"	Farsa
+GO:0009330	"DNA topoisomerase complex (ATP-hydrolyzing)"	Top2a
+GO:0009331	"glycerol-3-phosphate dehydrogenase complex"	Gpd1l
+GO:0009336	"sulfate adenylyltransferase complex (ATP)"	Papss1
+GO:0009353	"mitochondrial oxoglutarate dehydrogenase complex"	Mrps36
+GO:0009360	"DNA polymerase III complex"	Crcp
+GO:0009361	"succinate-CoA ligase complex (ADP-forming)"	Suclg1
+GO:0009368	"endopeptidase Clp complex"	Clpx	Clpp
+GO:0009841	"mitochondrial endopeptidase Clp complex"	Clpx
+GO:0009897	"external side of plasma membrane"	Anxa1	Abcb1b	Abcg1
+GO:0009898	"cytoplasmic side of plasma membrane"	Acp1	Alox15	Ppp1r9b	Cabp1	Gnas	C2cd2l
+GO:0009923	"fatty acid elongase complex"	Elovl6
+GO:0009925	"basal plasma membrane"	Abcc1	Abca1
+GO:0009986	"cell surface"	Abcg1	Arpc2	Abcb1b	Aamp	Anxa1
+GO:0010008	"endosome membrane"	Abca2	Snx10	Gripap1	Stx12	Chmp1b1	Mvb12a	Lamtor1	Abhd17a	Cdip1	Abcb11	Abcb6	Litaf	Snf8
+GO:0010009	"cytoplasmic side of endosome membrane"	Litaf	Cdip1
+GO:0010369	"chromocenter"	Tinf2	Mbd5
+GO:0010370	"perinucleolar chromocenter"	Tinf2
+GO:0010494	"cytoplasmic stress granule"	Atxn2
+GO:0012505	"endomembrane system"	Ahctf1	Egfr	Atp7a	Gripap1	Ctsd	Epm2a	Nutf2	Asgr2	Abcc9	Cd46	Nrgn	St3gal1	Abca3	Sec61g	Slc18a2	Cnep1r1	Ormdl3	Aaas	Fam8a1	Acp3	Akap9	Derl1	Trim12a	Slc17a9	Bicd2	Nol3	Apoe	Sec63	Clu	B4galnt3	Clta	Ssr4	Prkcd	Cdip1	Snx1	Pick1	Cetn2	Nlrp5	Golga3	Camlg	Chmp1b1	Ap2a1	Nup188	Ern1	Calr	Hps4	Aldob	Vps26a	Pdlim4	Adora1	Snf8	Casq1	Ndc1	Klhl12	App	Dgat2	Chrna7	Serpina5	Akt2	Rab14	Apob	Cadps	Clca1	Trappc5	Ccdc88a	Hgs	Agrp	Agl	Fmr1	Atp1b4	Sun1	Arhgap1	Ca4	Ache	Anxa7	Ankfy1	Litaf	Ccz1	Aak1	Ctsh	Pdyn	Akap7	Bace2	Slc30a5	Cracr2a	Sec11a	B3galt6	Cdc42	Nbas	Ap4b1	Insig1	Tmem258	Abcb6	H2-D1	1810055G02Rik	Nucb1	Eipr1	Dbh	Adam8	Sptlc1	Rgp1	Emc6	Abcb11	P4hb	Fga	Amfr	Edn1	Mapk10	Arfip1	Vamp7	Vamp1	Akap6	Vps8	Adam10	Akap5	Ganab	Spaca3	Arl6ip1	Piga	Adrb1	Anxa11	Stx12	Pigm	Mvb12a	Eqtn	Lamtor1	Nup153	Sec22b	Elovl6	Abca12	Copb1	Abca2	Dad1	Cd63	Ap1ar	Atg14	Alox5	Ranbp2	Nup214	Ankrd27	5730455P16Rik	Emc2	Chga	Aftph	Trappc14	Hm13	Cel	Faf1	Srpra	Trappc2b	Ext2	Asph	Prss57	Emc1	Atl1	Atp2a2	Sel1l	Penk	Cd177	Pdia3	Aadac	Abcc8	Snx10	Dnajb11	B4galt1	Amph	Abhd17a	Rab3il1	Snca	Itpr1	B2m	Gpaa1
+GO:0012506	"vesicle membrane"	Abca2	Golga5	Gripap1	Chmp1b1	Ap2a1	Tepsin	Cd46	Nrgn	Sec31a	Aftph	Abca3	Anxa3	Ap4b1	Slc18a2	Abcb6	Cspg5	Snf8	Epn2	Adam8	Sting1	Cltb	Klhl12	Cd177	Serpina5	Abcb11	Abcc8	Anxa4	Cadps	Vamp7	Vamp1	Clca1	Dab2	Snx10	Amph	Tyrp1	Stx12	Clta	Mvb12a	Eqtn	Cubn	Lamtor1	Abhd17a	Cdip1	Sec22b	Ca4	Anxa7	Litaf	Snca	Itpr1	Abca12	Copb1
+GO:0012507	"ER to Golgi transport vesicle membrane"	Sec22b	Klhl12
+GO:0012510	"trans-Golgi network transport vesicle membrane"	Nrgn	Aftph	Clta	Ap4b1
+GO:0014069	"postsynaptic density"	Abr	Abhd17a	Akap9	Camk2a
+GO:0014701	"junctional sarcoplasmic reticulum membrane"	Akap6
+GO:0014704	"intercalated disc"	Cdh2	Adra1b
+GO:0014731	"spectrin-associated cytoskeleton"	Ank1
+GO:0014801	"longitudinal sarcoplasmic reticulum"	Atp2a2
+GO:0014802	"terminal cisterna"	Casq1
+GO:0014804	"terminal cisterna lumen"	Casq1
+GO:0015030	"Cajal body"	Ak6
+GO:0015629	"actin cytoskeleton"	Limch1	Acta1	Apc2	Cfl1	Cdc42bpa	Sptb	Abi2	Actg1	Cryab	Actr2	Calb1	Myo7a	Myh6	Maea	Tnnc1	Gsn	Add1	Acaca	Dctn2	Hfe	Actb	Myo18b	Myo5a	Bmf	Arpc2	Actn1
+GO:0015630	"microtubule cytoskeleton"	Shcbp1l	Arhgef7	Tpx2	Abca2	Aurkb	Mapre1	Haus8	Cul3	Ccsap	Arfgef2	Dctn1	Bbln	Tubgcp2	Arl3	Incenp	Katna1	Aamp	Actr1a	Clasp2	Abraxas2	Arl8a	Haus1	Clasp1	4933427D14Rik	Kash5	Cep295	Anapc5	Aaas	Agbl2	Clip2	Mkks	Cfap96	Cdk5rap2	Bbs4	Borcs5	Disc1	Ccdc103	Numa1	Dctn2	Ccdc65	Cenpe	Dnah1	Camsap2	Fam161a	Birc5	Bloc1s2	Kif3a	Ciao1	Ect2
+GO:0015934	"large ribosomal subunit"	Mpv17l2	Mrpl1
+GO:0015935	"small ribosomal subunit"	Dlgap3	D1Pas1	Mrpl42
+GO:0016010	"dystrophin-associated glycoprotein complex"	Cav3	Sgcg	Dag1
+GO:0016011	"dystroglycan complex"	Sgcg	Dag1
+GO:0016012	"sarcoglycan complex"	Sgcg
+GO:0016020	"membrane"	Ticam2	Itga2	Aktip	Alox8	Casp8	Slc18a2	Cdh1	Dnm3	Aaas	Agk	Csf2	Atp6ap2	Erbb2	Cdip1	Mal	Adam17	Abcg5	Aldob	Vps26a	Adora1	Micos13	Abcg1	Tomm22	Ankrd45	Abcc1	Dab2	Ca4	Acvr1	Aak1	Dcc	Dmtn	Pam16	Dlg1	Abcb1b	Ap4b1	H2-D1	Nucb1	Epn2	Sptlc1	Adcy8	Atp5f1a	Adam10	Stx12	Mvb12a	Cplx2	Atp6v1d	Abca12	Copb1	Cdh10	Kcna1	Htr3a	Ap5b1	Abca1	Gnas	Emc2	Hm13	Khdrbs1	Faf1	Atl1	Cd177	mt-Nd3	Pdia3	Aadac	Abcc8	Antxr1	Snx10	Ap1b1	Tyrp1	Becn1	Agtr1a	Gnb1	Cox7b	Snap23	Atp5po	St3gal1	Sec61g	Anxa3	Scimp	Igf1	Mfn1	Grm1	Chmp1a	Cspg5	Timm17a	Atp6v0d2	Arhgap12	Cyba	Ambp	Itgal	Cd14	Ap2a1	Emilin1	Fzd8	Sdhc	Gria4	IGHE	Il18r1	Klhl12	Abhd2	Dgki	Cabp1	Borcs5	Chrna7	C6	Rab14	Rho	Lamp2	Pld2	Coa8	Dnajc11	Neu4	Adra2a	C2cd2l	Il12rb1	Pik3r4	Lrrk2	Ap2b1	Ccl22	Insig1	Casp3	Cnga3	Lilra6	Arfip1	Akap5	Klhdc8b	Eqtn	Anxa1	Catsperz	Adcy6	Plekho1	Abca2	Slc1a2	Itga5	Atg16l1	Acvr2a	Srpra	Slc3a2	Atp2a2	Cacng2	Rasal3	Amph	Abhd17a	Immp1l	Akap1	Itga10	Pik3ca	Gripap1	Epm2a	Cd46	Nrgn	Dag1	Cox4i1	Sec31a	Abca3	Dmac1	Shc1	Alcam	Ndufa5	Ormdl3	Vac14	Fam8a1	Akap9	Cacna1a	Anxa4	Bicd2	Sec63	Ifnl2	B4galnt3	Abcc2	Ssr4	Cd34	Snx1	1600014C10Rik	Ern1	Atp1a1	Gp1ba	Cd40	Insr	Ckmt1	Dgat2	Kcnh2	Cadps	Clca1	Lime1	Cyc1	Grik1	Cldn4	Sgcg	Sec11a	Gja1	Bmp2	Hmgb1	Mep1a	Itgb3	Bbip1	Hsp90ab1	Itga11	Amfr	Apc	Elovl6	Itga3	Scap	Il6st	Ppp1r9b	Aftph	Calcr	Ehd1	Ext2	Calcrl	Gabbr1	Sel1l	Pik3cg	Itga9	Scn2a	Mt-Cyb	Atp6v1b1	Mcub	Traf2	Gpaa1	Ap3s1	Ahnak	Golga5	Abcc9	Cyth1	Slc3a1	Abcb7	Cd247	Grb2	Adgre5	Farp1	Phb1	Cnep1r1	Aph1a	Sting1	Spaar	Itga7	Derl1	Apoo	Snap25	Alox15	Clta	Coa6	Hcn1	Golga3	Chmp1b1	Ubb	Samm50	Arl8b	Cacna1c	Itga4	Atp6v1a	Nradd	Snf8	Ano1	Serpina5	Atp6v0a1	Chrna1	Atp1b4	Eea1	Sun1	Anxa7	Ache	Ankfy1	Litaf	Afg3l1	Vcam1	Tepsin	H2-DMa	Slc30a5	Ripor2	Tmem258	Abcb6	Bax	Adam8	Acp1	Itga6	Emc6	Abcb8	Abcb11	Kcnq1	Vamp7	Vamp1	Akap6	Rp2	Piga	Lamtor1	Cubn	Sec22b	Itga1	Cyth2	Atp5mc1	Dad1	Cntfr	Atg14	Scn10a	Cav3	Grin1	Lamp5	Ceacam1	Kcnc1	Trappc2b	Bet1	Cltb	Emc1	Vps39	Aqp4	Tlr2	Cnga1	Glra3	Atp6v1e1	Itgav	Slc9a1	Snca	Itpr1	Il6	B2m
+GO:0016021	"integral component of membrane"	Ticam2	Itga2	Dmac1	Grm1	Ndufa5	Akap9	Itga7	Cacna1a	Apoo	Cyba	Csf2	Ifnl2	Gpaa1	Itgal	Cd14	Cd34	Hcn1	Emilin1	Abcg5	Cacna1c	Itga4	Gria4	Atp1a1	Gp1ba	Il18r1	Ano1	Cd40	Insr	Kcnh2	C6	Cyc1	Chrna1	Grik1	Acvr1	Afg3l1	Il12rb1	Bmp2	Insig1	Mep1a	Bax	Cnga3	Itga6	Itga11	Abcb8	Kcnq1	Akap6	Adam10	Catsperz	Itga3	Itga1	Kcna1	Atp5mc1	Htr3a	Il6st	Cntfr	Scn10a	Itga5	Grin1	Calcr	Calcrl	Gabbr1	Emc1	Atp2a2	Cacng2	Itga9	Abcc8	Pdia3	Cnga1	Scn2a	Mt-Cyb	Glra3	Itgav	Mcub	Slc9a1	Il6	B2m	Itga10
+GO:0016035	"zeta DNA polymerase complex"	Mad2l2
+GO:0016222	"procollagen-proline 4-dioxygenase complex"	P4hb
+GO:0016234	"inclusion body"	Arih1	Atf4	Fbxo7	Atxn1	Clu	Bag5	Cabin1
+GO:0016235	"aggresome"	Cabin1
+GO:0016272	"prefoldin complex"	Pdrg1
+GO:0016281	"eukaryotic translation initiation factor 4F complex"	Eif4e
+GO:0016282	"eukaryotic 43S preinitiation complex"	Dhx29
+GO:0016323	"basolateral plasma membrane"	Abca1
+GO:0016324	"apical plasma membrane"	Abcb1b	Mal	Abcb11	C2cd2l
+GO:0016327	"apicolateral plasma membrane"	Cldn4
+GO:0016328	"lateral plasma membrane"	Abcc1
+GO:0016342	"catenin complex"	Apc
+GO:0016363	"nuclear matrix"	Akap8
+GO:0016442	"RISC complex"	Ago1
+GO:0016459	"myosin complex"	Limch1	Myo18b	Myo5a	Bmf	Myo7a	Myh6
+GO:0016460	"myosin II complex"	Limch1	Myh6
+GO:0016461	"unconventional myosin complex"	Myo7a	Myo18b
+GO:0016469	"proton-transporting two-sector ATPase complex"	Atp5f1a	Atp6v1b1	Spaar	Atp5mc1	Atp6v1a	Atp6ap2	Atp6v1e1	Atp6v0a1	Atp6v0d2	Atp6v1d	Atp5po
+GO:0016471	"vacuolar proton-transporting V-type ATPase complex"	Atp6ap2	Atp6v0a1	Spaar	Atp6v1a
+GO:0016507	"mitochondrial fatty acid beta-oxidation multienzyme complex"	Hadha
+GO:0016513	"core-binding factor complex"	Cbfb
+GO:0016514	"SWI/SNF complex"	Actl6a
+GO:0016528	"sarcoplasm"	Akap6	Agl	Atp2a2	E2f5	Trdn	Casq1
+GO:0016529	"sarcoplasmic reticulum"	Akap6	Agl	Casq1	Atp2a2
+GO:0016533	"cyclin-dependent protein kinase 5 holoenzyme complex"	Cdk5
+GO:0016580	"Sin3 complex"	Csnk2a1
+GO:0016581	"NuRD complex"	Cdk2ap1
+GO:0016586	"RSC complex"	Suz12
+GO:0016589	"NURF complex"	0610010K14Rik
+GO:0016590	"ACF complex"	Baz1a
+GO:0016591	"DNA-directed RNA polymerase II, holoenzyme"	Kat2a	Gtf2e1	Gtf2f1	Ccnh	Ercc2	Gtf2h2	Gtf2a1	Myzap	Cdc73	Rprd1b
+GO:0016592	"mediator complex"	Cdk8
+GO:0016593	"Cdc73/Paf1 complex"	Cdc73
+GO:0016600	"flotillin complex"	Cdh1
+GO:0016602	"CCAAT-binding factor complex"	Ing2
+GO:0016604	"nuclear body"	Cstf2	Bcl11a	Cpsf6	4930595M18Rik	Ak6	Gemin2	Antxr1	Ell	4931406C07Rik
+GO:0016605	"PML body"	Antxr1
+GO:0016607	"nuclear speck"	4930595M18Rik
+GO:0016914	"follicle-stimulating hormone complex"	Cga
+GO:0016935	"glycine-gated chloride channel complex"	Glra3
+GO:0016939	"kinesin II complex"	Kif3a
+GO:0016942	"insulin-like growth factor binding protein complex"	Igf1	Igfbp3	Igfbp5
+GO:0017053	"transcriptional repressor complex"	Max	Drap1	Lin52	Bin1	Akirin2
+GO:0017054	"negative cofactor 2 complex"	Drap1
+GO:0017059	"serine C-palmitoyltransferase complex"	Sptlc1	Ormdl3
+GO:0017071	"intracellular cyclic nucleotide activated cation channel complex"	Cnga1
+GO:0017087	"mitochondrial processing peptidase complex"	Pmpcb
+GO:0017090	"meprin A complex"	Mep1a
+GO:0017101	"aminoacyl-tRNA synthetase multienzyme complex"	Aimp1
+GO:0017109	"glutamate-cysteine ligase complex"	Gclc
+GO:0017117	"single-stranded DNA-dependent ATP-dependent DNA helicase complex"	Helq
+GO:0017119	"Golgi transport complex"	Cdc42
+GO:0017122	"protein N-acetylglucosaminyltransferase complex"	Ogt
+GO:0017146	"NMDA selective glutamate receptor complex"	Grin1
+GO:0017177	"glucosidase II complex"	Ganab
+GO:0018444	"translation release factor complex"	Etf1
+GO:0019005	"SCF ubiquitin ligase complex"	Arih1
+GO:0019008	"molybdopterin synthase complex"	Mocs1
+GO:0019185	"snRNA-activating protein complex"	Snapc4
+GO:0019773	"proteasome core complex, alpha-subunit complex"	Psma4
+GO:0019774	"proteasome core complex, beta-subunit complex"	Psmb5
+GO:0019814	"immunoglobulin complex"	Ighm	Lime1	IGHE	Ighv1-61	Igha	Ighg	Jchain
+GO:0019815	"B cell receptor complex"	Lime1	IGHE
+GO:0019866	"organelle inner membrane"	Atp5mc1	Cox7b	Sdhc	Atp5po	Cox4i1	Pam16	Abcb7	Dmac1	Phb1	Micos13	Timm17a	Agk	Apoo	Atp5f1a	Coa8	Cyc1	Atp1b4	Ambp	Neu4	Immp1l	Mcub	Akap1	Afg3l1
+GO:0019867	"outer membrane"	Mfn1	Ubb	Dnajc11	Becn1	Samm50	Tomm22	Abcb6	Trappc2b	Agtr1a
+GO:0019897	"extrinsic component of plasma membrane"	Cyth2	Apc	Alox15	Dgki	Anxa1	Cabp1	Farp1	Cyth1	Akap9	Eea1	Gnas	Ap2b1
+GO:0019898	"extrinsic component of membrane"	Pik3ca	Cyth2	Pik3r4	Golga3	Atg14	Gripap1	Tepsin	Ubb	Cyth1	Gnas	Emc2	Ap2b1	Alox8	Farp1	Vac14	Dgki	Cabp1	Akap9	Pik3cg	Cadps	Snx10	Apc	Alox15	Amph	Eea1	Anxa1	Ambp	Becn1
+GO:0019907	"cyclin-dependent protein kinase activating kinase holoenzyme complex"	Ccnh
+GO:0019908	"nuclear cyclin-dependent protein kinase holoenzyme complex"	Ccnh	Ccnt1	Cdk12
+GO:0020016	"ciliary pocket"	Ehd1
+GO:0020018	"ciliary pocket membrane"	Ehd1
+GO:0022624	"proteasome accessory complex"	Psme1	Psmd14	Psmd8	Psmd10	Psmd11
+GO:0022626	"cytosolic ribosome"	Abce1	D1Pas1
+GO:0022627	"cytosolic small ribosomal subunit"	D1Pas1
+GO:0030008	"TRAPP complex"	Trappc5	Trappc2b	Trappc14
+GO:0030014	"CCR4-NOT complex"	Cnot1	Cnot3
+GO:0030015	"CCR4-NOT core complex"	Cnot3
+GO:0030016	"myofibril"	Tnnc1	Mybpc3	Mybphl	Acta1	Ankrd23	Atp2a1	Abra	Ankrd1	Tcap	Ank1	Ank3	Cryab
+GO:0030017	"sarcomere"	Tnnc1	Mybpc3	Acta1	Atp2a1	Ankrd1	Abra	Tcap	Ank1
+GO:0030018	"Z disc"	Tcap
+GO:0030027	"lamellipodium"	Antxr1	Apbb1	Abi1	Actr3
+GO:0030054	"cell junction"	Igsf9b	Gripap1	Ctsd	Pgm5	Adcyap1r1	Cyth1	Atp2b2	Afdn	F11r	Abi3bp	Adra1d	Actr2	Camk2a	Farp1	Gria2	Dnm3	Ccn3	Akap9	Cdh2	Nol3	Rapgef3	Clta	Abr	Pick1	Aldoc	Ngdn	Abcb4	Mmp13	Smpx	Camsap3	Adora1	Bsn	Dgki	Chrna7	Anks1b	Actb	Fmr1	Ache	Aak1	Adra2a	Ina	Gja1	Arfgef2	Slc6a4	Abi2	Ap2b1	Dlg1	Septin7	Adora3	Actr3	Mapk10	Adam10	Akap5	Stx12	Caly	Cdh10	Cyth2	Atp1a3	Ppp1r9b	Akr1b1	Septin3	Actg1	Nexn	Marveld2	Hcn3	Adra1b	Marcks	Penk	Arhgef9	Abcc8	Rims2	B4galt1	Amph	Rad51	Baiap2	Chrna10	Gabra6	Abhd17a	Chd4	Akap1
+GO:0030055	"cell-substrate junction"	Nexn	Abcb4	Smpx	Actr3
+GO:0030056	"hemidesmosome"	Actr3
+GO:0030057	"desmosome"	B4galt1
+GO:0030061	"mitochondrial crista"	Akap1
+GO:0030062	"mitochondrial tricarboxylic acid cycle enzyme complex"	Idh3a	Suclg1	Bckdha	Mrps36
+GO:0030117	"membrane coat"	Sec31a	Aftph	Cltb	Ap3s1	Klhl12	Epn2	Ap5b1	Ap1b1	Clta	Ap4b1	Ap2a1	Aak1	Copb1	Ap2b1
+GO:0030118	"clathrin coat"	Aftph	Cltb	Ap1b1	Clta	Ap2a1	Ap2b1	Aak1	Epn2
+GO:0030119	"AP-type membrane coat adaptor complex"	Aftph	Ap3s1	Ap1b1	Ap5b1	Ap4b1	Ap2a1
+GO:0030120	"vesicle coat"	Aftph	Sec31a	Cltb	Klhl12	Clta	Ap2a1	Copb1	Epn2
+GO:0030121	"AP-1 adaptor complex"	Aftph
+GO:0030122	"AP-2 adaptor complex"	Ap2a1
+GO:0030123	"AP-3 adaptor complex"	Ap3s1
+GO:0030124	"AP-4 adaptor complex"	Ap4b1
+GO:0030125	"clathrin vesicle coat"	Aftph	Cltb	Clta	Ap2a1	Epn2
+GO:0030126	"COPI vesicle coat"	Copb1
+GO:0030127	"COPII vesicle coat"	Klhl12
+GO:0030128	"clathrin coat of endocytic vesicle"	Ap2a1	Epn2
+GO:0030130	"clathrin coat of trans-Golgi network vesicle"	Aftph	Clta
+GO:0030131	"clathrin adaptor complex"	Ap2a1	Aftph	Ap1b1
+GO:0030132	"clathrin coat of coated pit"	Ap2a1	Clta
+GO:0030133	"transport vesicle"	Aftph	Ccdc88a	Adam10	Akap7	Klhl12	Atp7a	App	Amph	Abcc8	Ap1ar	Clta	Ap4b1	Penk	Sec22b	Ca4	Rab3il1	Nrgn
+GO:0030134	"ER to Golgi transport vesicle"	Ecpas	Sec22b	Klhl12
+GO:0030135	"coated vesicle"	Atp7a	Golga5	Tepsin	Ap2a1	Cracr2a	Nrgn	Aftph	Sec31a	Cemip	Actr1a	Ap4b1	Epn2	Cltb	Klhl12	Ccdc88a	Ecpas	Dab2	Tyrp1	Clta	Cubn	Sec22b	Copb1
+GO:0030136	"clathrin-coated vesicle"	Aftph	Cltb	Atp7a	Dab2	Tyrp1	Cemip	Clta	Ap4b1	Ap2a1	Cracr2a	Nrgn	Epn2
+GO:0030137	"COPI-coated vesicle"	Ccdc88a	Golga5	Copb1	Actr1a
+GO:0030139	"endocytic vesicle"	Adam8	Anxa3	Tyrp1	Cemip	Ap2a1	Cubn	Abca1	Snx3	Epn2
+GO:0030140	"trans-Golgi network transport vesicle"	Aftph	Atp7a	Clta	Ap4b1	Nrgn
+GO:0030141	"secretory granule"	Nlrp5	Pdyn	Bace2	Cracr2a	Abcc9	Cd46	Hps4	Chga	Abca3	Cel	Slc18a2	Dbh	Adam8	Prss57	App	Acp3	Cd177	Serpina5	Akt2	Slc17a9	Fga	Cadps	Vamp1	Vamp7	Clca1	Ctsh	Spaca3	Anxa11	Eqtn	Ca4	Anxa7	Snca	Itpr1	Abca12
+GO:0030142	"Golgi to ER transport vesicle"	Ccdc88a
+GO:0030175	"filopodium"	Akap5	Abi1	Apbb1	Dbn1	Actn2
+GO:0030176	"integral component of endoplasmic reticulum membrane"	Emc1	Insig1	Pdia3	B2m	Gpaa1
+GO:0030286	"dynein complex"	Dctn1	Ccdc103	Ccdc65	Dnah1
+GO:0030289	"protein phosphatase 4 complex"	Ppp4c
+GO:0030312	"external encapsulating structure"	Col1a1	Adamts10	Emilin1	Rbp3	Zp1	Lamb1	Col2a1	Efemp2	Col10a1	Col5a1	Lum	Acta2	Lama1	Igf1	Adamts1	Sparcl1	Col3a1	Col4a1	Tgfb1	Bcan	Acan	Tnn	Col11a1	Amelx	Mmrn1	Lama5	Col12a1
+GO:0030314	"junctional membrane complex"	Trdn
+GO:0030315	"T-tubule"	Abcc9	Cacna1c
+GO:0030424	"axon"	Cldn5	Atp5mc1	Amigo1	Atp2b3	Apbb1	Dbn1	Ermn	Map1b	Kcnab2	Hcn3	Ccl2	Adam22	Adora1	Cyfip1	Acadm	Bsn	Aak1	Arpc3	Whrn	Abl1	Arpc2	Rapgef3	Dlg2	Ank3	Bin1	Cdkl5	Cck	Adra2a	Dcc	Agrn
+GO:0030425	"dendrite"	Nefh	Atp1a3	Ppp1r9b	Dbn1	Abi3bp	Grk3	Enpp1	Cacna1d	Dlg4	Clip2	Akap9	Chrna7	Ada	Akap5	Abl1	Arpc2	Fmr1	Baiap2	Map2	Cdkl5
+GO:0030426	"growth cone"	Abl1	Arpc2	Cyfip1	Arpc3	Cdkl5	Apbb1	Dcc	Agrn
+GO:0030427	"site of polarized growth"	Abl1	Arpc2	Cyfip1	Arpc3	Pi4k2a	Fry	Cdkl5	Apbb1	Dcc	Agrn
+GO:0030478	"actin cap"	Gsn
+GO:0030496	"midbody"	Abraxas2	Agap2
+GO:0030526	"granulocyte macrophage colony-stimulating factor receptor complex"	Csf2
+GO:0030532	"small nuclear ribonucleoprotein complex"	Lsm10	Sart3	Prpf31	Cd2bp2	Snrnp70	Ppih	Prpf4	Arfgef1	Sf3b1	Hexim1	Phf5a	Ddx39b	Eftud2
+GO:0030658	"transport vesicle membrane"	Aftph	Klhl12	Amph	Abcc8	Clta	Ap4b1	Sec22b	Ca4	Nrgn
+GO:0030659	"cytoplasmic vesicle membrane"	Abca2	Golga5	Gripap1	Chmp1b1	Ap2a1	Tepsin	Cd46	Nrgn	Sec31a	Aftph	Abca3	Anxa3	Ap4b1	Slc18a2	Abcb6	Cspg5	Snf8	Epn2	Adam8	Sting1	Cltb	Klhl12	Cd177	Serpina5	Abcb11	Abcc8	Cadps	Vamp7	Vamp1	Clca1	Dab2	Snx10	Amph	Tyrp1	Stx12	Clta	Mvb12a	Eqtn	Cubn	Lamtor1	Abhd17a	Cdip1	Sec22b	Ca4	Anxa7	Litaf	Snca	Itpr1	Abca12	Copb1
+GO:0030660	"Golgi-associated vesicle membrane"	Aftph	Golga5	Clta	Ap4b1	Cspg5	Nrgn	Copb1
+GO:0030662	"coated vesicle membrane"	Aftph	Sec31a	Cltb	Klhl12	Dab2	Golga5	Tyrp1	Clta	Ap4b1	Ap2a1	Tepsin	Sec22b	Nrgn	Copb1	Epn2
+GO:0030663	"COPI-coated vesicle membrane"	Golga5	Copb1
+GO:0030665	"clathrin-coated vesicle membrane"	Aftph	Cltb	Dab2	Tyrp1	Clta	Ap4b1	Ap2a1	Nrgn	Epn2
+GO:0030666	"endocytic vesicle membrane"	Anxa3	Tyrp1	Ap2a1	Cubn	Epn2
+GO:0030667	"secretory granule membrane"	Clca1	Adam8	Abca3	Eqtn	Cd177	Serpina5	Cd46	Anxa7	Vamp1	Slc18a2	Ca4	Snca	Itpr1	Abca12	Cadps	Vamp7
+GO:0030669	"clathrin-coated endocytic vesicle membrane"	Ap2a1	Tyrp1	Epn2
+GO:0030670	"phagocytic vesicle membrane"	Anxa3
+GO:0030672	"synaptic vesicle membrane"	Abcc8	Amph
+GO:0030673	"axolemma"	Adora1
+GO:0030677	"ribonuclease P complex"	Hsd17b10	Pop5	Bves
+GO:0030678	"mitochondrial ribonuclease P complex"	Hsd17b10
+GO:0030681	"multimeric ribonuclease P complex"	Bves
+GO:0030684	"preribosome"	Nol6	Pin4	Mphosph10	Utp6	Noc2l	2810004N23Rik	Slx9	Nop14	Pes1
+GO:0030686	"90S preribosome"	Nol6	Mphosph10	Utp6	Noc2l	Slx9	Nop14	Pes1
+GO:0030687	"preribosome, large subunit precursor"	Noc2l	Pes1
+GO:0030688	"preribosome, small subunit precursor"	Nop14	Slx9
+GO:0030689	"Noc complex"	Noc2l	Nop14
+GO:0030690	"Noc1p-Noc2p complex"	Noc2l
+GO:0030691	"Noc2p-Noc3p complex"	Noc2l
+GO:0030692	"Noc4p-Nop14p complex"	Nop14
+GO:0030863	"cortical cytoskeleton"	Hfe	Gsn	Calb1	Numa1	Bsn	Clasp2	Cttn	Clasp1	Sptb	Actn1	Maea
+GO:0030864	"cortical actin cytoskeleton"	Hfe	Actn1	Calb1	Sptb	Gsn	Maea
+GO:0030867	"rough endoplasmic reticulum membrane"	Aldob	Sec61g	Sec63	Epm2a	Ssr4	Srpra
+GO:0030868	"smooth endoplasmic reticulum membrane"	Aldob
+GO:0030870	"Mre11 complex"	Mrnip
+GO:0030874	"nucleolar chromatin"	Sirt7
+GO:0030877	"beta-catenin destruction complex"	Apc
+GO:0030880	"RNA polymerase complex"	Kat2a	Gtf2e1	Gtf2f1	Pola1	Polrmt	Polr3h	Ccnh	Polr1a	Znfx1	Crcp	Cdc73	Ercc2	Gtf2h2	Gtf2a1	Myzap	Rprd1b	Tert
+GO:0030891	"VCB complex"	Cul2
+GO:0030893	"meiotic cohesin complex"	Smc1a
+GO:0030894	"replisome"	Pola1	Bcas2	Donson	Prim1	Pold1
+GO:0030895	"apolipoprotein B mRNA editing enzyme complex"	A1cf
+GO:0030896	"checkpoint clamp complex"	Hus1
+GO:0030897	"HOPS complex"	Aktip	Vps39
+GO:0030904	"retromer complex"	Ankfy1	Vps26a	Snx1
+GO:0030905	"retromer, tubulation complex"	Snx1
+GO:0030906	"retromer, cargo-selective complex"	Vps26a
+GO:0030915	"Smc5-Smc6 complex"	Eid3
+GO:0030934	"anchoring collagen complex"	Col12a1
+GO:0030935	"sheet-forming collagen trimer"	Col10a1
+GO:0030956	"glutamyl-tRNA(Gln) amidotransferase complex"	Gatb
+GO:0030964	"NADH dehydrogenase complex"	Dmac1	mt-Nd3	Ndufa5
+GO:0030981	"cortical microtubule cytoskeleton"	Numa1	Clasp2	Clasp1
+GO:0030990	"intraciliary transport particle"	Cluap1	Ift122
+GO:0030991	"intraciliary transport particle A"	Ift122
+GO:0030992	"intraciliary transport particle B"	Cluap1
+GO:0031002	"actin rod"	Cfl1
+GO:0031010	"ISWI-type complex"	Rsf1	Baz1b	0610010K14Rik	Cecr2	Baz1a
+GO:0031011	"Ino80 complex"	Actl6a
+GO:0031012	"extracellular matrix"	Col1a1	Adamts10	Emilin1	Rbp3	Zp1	Lamb1	Col2a1	Efemp2	Col10a1	Col5a1	Lum	Acta2	Lama1	Igf1	Adamts1	Sparcl1	Col3a1	Col4a1	Tgfb1	Bcan	Acan	Tnn	Col11a1	Amelx	Mmrn1	Lama5	Col12a1
+GO:0031021	"interphase microtubule organizing center"	Birc5
+GO:0031045	"dense core granule"	Adam8	Pdyn	App	Bace2	Slc18a2	Cadps
+GO:0031074	"nucleocytoplasmic shuttling complex"	Ran	Kpna1
+GO:0031080	"nuclear pore outer ring"	Ahctf1
+GO:0031082	"BLOC complex"	Hps1	Bloc1s1	Hps3
+GO:0031083	"BLOC-1 complex"	Bloc1s1
+GO:0031084	"BLOC-2 complex"	Hps3
+GO:0031085	"BLOC-3 complex"	Hps1
+GO:0031088	"platelet dense granule membrane"	Itpr1
+GO:0031090	"organelle membrane"	Gnb1	Akap1	Cox7b	Golga5	Gripap1	Epm2a	Cd46	Nrgn	Slc3a1	Atp5po	St3gal1	Cox4i1	Abcb7	Sec31a	Abca3	Sec61g	Dmac1	Anxa3	Mfn1	Chmp1a	Slc18a2	Phb1	Cspg5	Ormdl3	Vac14	Sting1	Spaar	Aaas	Fam8a1	Timm17a	Derl1	Agk	Apoo	Anxa4	Atp6ap2	Sec63	B4galnt3	Gpaa1	Clta	Ssr4	Ambp	Cdip1	Golga3	Chmp1b1	Ap2a1	Ubb	1600014C10Rik	Arl8b	Ern1	Sdhc	Aldob	Atp6v1a	Atp1a1	Snf8	Micos13	Klhl12	Ckmt1	Dgat2	Borcs5	Chrna7	Serpina5	Tomm22	Lamp2	Rho	Cadps	Clca1	Dab2	Atp6v0a1	Coa8	Cyc1	Atp1b4	Dnajc11	Neu4	Ca4	Anxa7	Litaf	Afg3l1	Dmtn	Tepsin	Slc30a5	Sec11a	Pam16	Ccl22	Ap4b1	Insig1	Tmem258	Abcb6	H2-D1	Nucb1	Epn2	Adam8	Bbip1	Sptlc1	Emc6	Abcb11	Amfr	Arfip1	Vamp7	Vamp1	Akap6	Atp5f1a	Piga	Stx12	Mvb12a	Eqtn	Cubn	Lamtor1	Sec22b	Elovl6	Abca12	Copb1	Abca2	Atp5mc1	Dad1	Atg14	Emc2	Aftph	Hm13	Atg16l1	Ehd1	Lamp5	Faf1	Srpra	Trappc2b	Ext2	Cltb	Emc1	Atl1	Vps39	Atp2a2	Sel1l	Cd177	Pdia3	Aadac	Abcc8	Snx10	Amph	Tyrp1	Abhd17a	Becn1	Immp1l	Mcub	Snca	Itpr1	B2m	Agtr1a
+GO:0031091	"platelet alpha granule"	Fga	Snca
+GO:0031092	"platelet alpha granule membrane"	Snca
+GO:0031094	"platelet dense tubular network"	Dmtn	F2r
+GO:0031095	"platelet dense tubular network membrane"	Dmtn
+GO:0031105	"septin complex"	Septin11
+GO:0031143	"pseudopodium"	Capn2
+GO:0031201	"SNARE complex"	Bet1	Cplx2	Snap23	Snap25
+GO:0031205	"endoplasmic reticulum Sec complex"	Sec63
+GO:0031207	"Sec62/Sec63 complex"	Sec63
+GO:0031209	"SCAR complex"	Abi1
+GO:0031211	"endoplasmic reticulum palmitoyltransferase complex"	Sptlc1	Ormdl3
+GO:0031213	"RSF complex"	Rsf1
+GO:0031224	"intrinsic component of membrane"	Ticam2	Itga2	Dmac1	Grm1	Ndufa5	Akap9	Itga7	Cacna1a	Apoo	Cyba	Csf2	Ifnl2	Gpaa1	Itgal	Cd14	Cd34	Hcn1	Emilin1	Abcg5	Cacna1c	Itga4	Gria4	Atp1a1	Gp1ba	Il18r1	Ano1	Cd40	Insr	Kcnh2	C6	Cyc1	Chrna1	Grik1	Sun1	Acvr1	Afg3l1	Il12rb1	Bmp2	Insig1	Mep1a	Bax	Cnga3	Itga6	Itga11	Abcb8	Kcnq1	Akap6	Adam10	Catsperz	Itga3	Itga1	Kcna1	Atp5mc1	Htr3a	Il6st	Cntfr	Scn10a	Itga5	Grin1	Calcr	Calcrl	Gabbr1	Emc1	Atp2a2	Cacng2	Itga9	Abcc8	Pdia3	Cnga1	Scn2a	Mt-Cyb	Glra3	Itgav	Mcub	Slc9a1	Il6	B2m	Itga10
+GO:0031226	"intrinsic component of plasma membrane"	Itga1	Il12rb1	Il6st	Cntfr	Ticam2	Emilin1	Scn10a	Bmp2	Itga4	Itga2	Gria4	Itga5	Grm1	Atp1a1	Grin1	Calcr	Gp1ba	Il18r1	Calcrl	Gabbr1	Cd40	Insr	Itga6	Itga11	Akap9	Cacng2	Itga7	C6	Kcnh2	Cyba	Itga9	Abcc8	Csf2	Glra3	Ifnl2	Chrna1	Itgal	Grik1	Itgav	Acvr1	Itga3	Il6	Hcn1	Itga10
+GO:0031227	"intrinsic component of endoplasmic reticulum membrane"	Emc1	Insig1	Pdia3	B2m	Gpaa1
+GO:0031232	"extrinsic component of external side of plasma membrane"	Anxa1
+GO:0031234	"extrinsic component of cytoplasmic side of plasma membrane"	Cabp1	Gnas	Alox15
+GO:0031248	"protein acetyltransferase complex"	Kat2a	Naa10	Naa30	Epc1	Actb	Brd1	Taf12	Kat8	Brpf1	Atf2	Naa20	Dr1	Sgf29	Mrgbp	Atxn7l3	Hcfc1
+GO:0031251	"PAN complex"	Pan2
+GO:0031252	"cell leading edge"	Antxr1	Akap5	Abl1	Adgre5	Abi1	Adora1	Adam17	Ppp1r9b	Arpc3	Ripor2	Actr3	Kcnc1	Apbb1	Aak1
+GO:0031253	"cell projection membrane"	Gnb1	Antxr1	Akap5	Plekho1	Bbip1	Scimp	Adam17	Adora1	Abcc2	Ppp1r9b	Ehd1	Ripor2	Aqp4	Kcnc1	Adcy6
+GO:0031254	"cell trailing edge"	Bst1	Scimp
+GO:0031256	"leading edge membrane"	Antxr1	Akap5	Adam17	Adgre5	Adora1	Ppp1r9b	Ripor2	Kcnc1
+GO:0031257	"cell trailing edge membrane"	Scimp
+GO:0031258	"lamellipodium membrane"	Antxr1
+GO:0031259	"uropod membrane"	Scimp
+GO:0031261	"DNA replication preinitiation complex"	Gins1	Cdc45	Orc3
+GO:0031262	"Ndc80 complex"	Ndc80
+GO:0031264	"death-inducing signaling complex"	Casp8	Casp3
+GO:0031265	"CD95 death-inducing signaling complex"	Casp8
+GO:0031298	"replication fork protection complex"	Tipin
+GO:0031300	"intrinsic component of organelle membrane"	Emc1	Insig1	Afg3l1	Apoo	Pdia3	B2m	Gpaa1
+GO:0031301	"integral component of organelle membrane"	Emc1	Insig1	Afg3l1	Apoo	Pdia3	B2m	Gpaa1
+GO:0031304	"intrinsic component of mitochondrial inner membrane"	Apoo	Afg3l1
+GO:0031305	"integral component of mitochondrial inner membrane"	Apoo	Afg3l1
+GO:0031312	"extrinsic component of organelle membrane"	Snx10	Golga3	Atg14	Amph	Gripap1	Tepsin	Ubb	Ambp	Cadps	Emc2
+GO:0031313	"extrinsic component of endosome membrane"	Gripap1	Snx10
+GO:0031314	"extrinsic component of mitochondrial inner membrane"	Ambp
+GO:0031315	"extrinsic component of mitochondrial outer membrane"	Ubb
+GO:0031332	"RNAi effector complex"	Ago1
+GO:0031371	"ubiquitin conjugating enzyme complex"	Rnf20	Ube2v1	Ube2n
+GO:0031372	"UBC13-MMS2 complex"	Ube2n
+GO:0031379	"RNA-directed RNA polymerase complex"	Znfx1	Tert
+GO:0031380	"nuclear RNA-directed RNA polymerase complex"	Znfx1
+GO:0031389	"Rad17 RFC-like complex"	Rad17
+GO:0031390	"Ctf18 RFC-like complex"	Chtf18
+GO:0031391	"Elg1 RFC-like complex"	Atad5
+GO:0031410	"cytoplasmic vesicle"	Egfr	Atp7a	Golga5	Gripap1	Ctsd	Abcc9	Cd46	Nrgn	Sec31a	Abca3	Anxa3	Cemip	Slc18a2	Cspg5	Azin2	Gnrh1	Sting1	Acp3	Slc17a9	Dnm1l	Nol3	Apoe	Clta	Prkcd	Cdip1	Snx3	Pick1	Nlrp5	Chmp1b1	Ap2a1	Hps4	Pdlim4	Bsn	Snf8	Klhl12	App	Serpina5	Akt2	Cadps	Clca1	Ccdc88a	Hgs	Dab2	Arhgap1	Bicd1	Ca4	Anxa7	Ankfy1	Litaf	Ccz1	Ctsh	Pdyn	Akap7	Bace2	Tepsin	Cracr2a	Serpini1	Ap4b1	Abcb6	Eipr1	Epn2	Dbh	Adam8	Abcb11	Fga	Vamp7	Vamp1	Vps8	Adam10	Akap5	Ecpas	Spaca3	Anxa11	Adrb1	Stx12	Mvb12a	Eqtn	Cubn	Lamtor1	Sec22b	Abca12	Copb1	Abca2	Cd63	Ap1ar	Abca1	Ankrd27	5730455P16Rik	Chga	Aftph	Trappc14	Cel	Actr1a	Prss57	Cltb	Penk	Cd177	Abcc8	Snx10	Amph	Tyrp1	Abhd17a	Acr	Rab3il1	Snca	Itpr1
+GO:0031414	"N-terminal protein acetyltransferase complex"	Naa10	Naa30	Naa20
+GO:0031415	"NatA complex"	Naa10
+GO:0031416	"NatB complex"	Naa20
+GO:0031417	"NatC complex"	Naa30
+GO:0031422	"RecQ helicase-Topo III complex"	Blm
+GO:0031428	"box C/D snoRNP complex"	Nolc1
+GO:0031429	"box H/ACA snoRNP complex"	Dkc1
+GO:0031430	"M band"	Ank1
+GO:0031431	"Dbf4-dependent protein kinase complex"	Dbf4
+GO:0031436	"BRCA1-BARD1 complex"	Bard1
+GO:0031461	"cullin-RING ubiquitin ligase complex"	Cul7	Arih1	Appbp2	Ambra1	Cul2	Ddb2	Anapc1	Ankrd9
+GO:0031462	"Cul2-RING ubiquitin ligase complex"	Appbp2
+GO:0031463	"Cul3-RING ubiquitin ligase complex"	Arih1
+GO:0031464	"Cul4A-RING E3 ubiquitin ligase complex"	Arih1
+GO:0031465	"Cul4B-RING E3 ubiquitin ligase complex"	Ddb2
+GO:0031466	"Cul5-RING ubiquitin ligase complex"	Ankrd9
+GO:0031467	"Cul7-RING ubiquitin ligase complex"	Cul7
+GO:0031477	"myosin VII complex"	Myo7a
+GO:0031499	"TRAMP complex"	Mtrex
+GO:0031501	"mannosyltransferase complex"	Dpm2	Pigv
+GO:0031510	"SUMO activating enzyme complex"	Sae1
+GO:0031511	"Mis6-Sim4 complex"	Cenpo
+GO:0031514	"motile cilium"	Akap3	Hsp90aa1	Ace	Adam15	Abhd2	Akap4	Ak8	Akap14	Ddx6	Ctsh
+GO:0031515	"tRNA (m1A) methyltransferase complex"	Trmt6
+GO:0031519	"PcG protein complex"	Asxl1	Bmi1	Aebp2
+GO:0031523	"Myb complex"	Lin37
+GO:0031526	"brush border membrane"	Abcc2
+GO:0031527	"filopodium membrane"	Akap5
+GO:0031528	"microvillus membrane"	Adcy6
+GO:0031533	"mRNA cap methyltransferase complex"	Ramac
+GO:0031588	"nucleotide-activated protein kinase complex"	Prkaa1
+GO:0031592	"centrosomal corona"	Clasp1
+GO:0031594	"neuromuscular junction"	Ache
+GO:0031595	"nuclear proteasome complex"	Psmc5
+GO:0031597	"cytosolic proteasome complex"	Ide
+GO:0031616	"spindle pole centrosome"	Abraxas2
+GO:0031617	"NMS complex"	Ndc80
+GO:0031672	"A band"	Atp2a1	Ank1
+GO:0031673	"H zone"	Atp2a1
+GO:0031674	"I band"	Tcap	Ankrd1
+GO:0031680	"G-protein beta/gamma-subunit complex"	Plcb2
+GO:0031838	"haptoglobin-hemoglobin complex"	Hba
+GO:0031901	"early endosome membrane"	Litaf	Gripap1	Abcb6
+GO:0031902	"late endosome membrane"	Lamtor1	Cdip1	Abcb6
+GO:0031903	"microbody membrane"	Ccl22
+GO:0031904	"endosome lumen"	Pdlim4	Cd63
+GO:0031905	"early endosome lumen"	Pdlim4
+GO:0031907	"microbody lumen"	Abcd3
+GO:0031931	"TORC1 complex"	Akt1s1
+GO:0031932	"TORC2 complex"	Mapkap1
+GO:0031941	"filamentous actin"	Apc2
+GO:0031965	"nuclear membrane"	Atp1b4	Aaas	Trappc2b
+GO:0031966	"mitochondrial membrane"	Atp5mc1	Cox7b	Ubb	1600014C10Rik	Sdhc	Atp5po	Cox4i1	Pam16	Abcb7	Dmac1	Mfn1	Phb1	Abcb6	Micos13	Timm17a	Ckmt1	Tomm22	Agk	Apoo	Atp5f1a	Coa8	Cyc1	Dnajc11	Ambp	Becn1	Immp1l	Mcub	Akap1	Afg3l1
+GO:0031967	"organelle envelope"	Ahctf1	Cetn2	Atp5mc1	Adap2	Cox7b	Agtr1a	Ubb	Nutf2	Alox5	1600014C10Rik	Ranbp2	Nup214	Nup188	Sdhc	Atp5po	Cox4i1	Pam16	Abcb7	Dmac1	Mfn1	Phb1	Abcb6	Bax	Micos13	Trappc2b	Timm10	Ndc1	Aaas	Timm17a	Ckmt1	Tomm22	Agk	Apoo	Atp5f1a	Nup153	Coa8	Cyc1	Atp1b4	Dnajc11	Ambp	Neu4	Becn1	Sun1	Immp1l	Mcub	Akap1	Afg3l1
+GO:0031968	"organelle outer membrane"	Mfn1	Ubb	Dnajc11	Becn1	Tomm22	Abcb6	Trappc2b	Agtr1a
+GO:0031970	"organelle envelope lumen"	Timm10	Alox5	Agk
+GO:0031974	"membrane-enclosed lumen"	Taf12	Egfr	Baz1b	Bckdha	Gtf2h2	Chchd1	Orc3	Taf1b	Bves	Gtf2a1	Cdc73	Supt4h1a	Hcfc1	Gaa	Actl6a	4930595M18Rik	Agk	Cstf2	Epc1	Birc5	Clu	Cdc45	Ccnt1	0610010K14Rik	Clpx	Utp6	Ell	Atxn7l3	Pold1	Hspa8	Psmc5	Rrp8	Atf2	Hnrnpa1	Abcd3	Tex12	Gtf2f1	Aff1	Idh3a	Narf	Pdlim4	Blm	Ak6	Hadha	Abat	Mrpl42	Mms22l	Casq1	Bcl11a	Celf1	Insr	Apob	Sgf29	Mrgbp	Cxxc1	Cdkn2aip	Actb	Agrp	Gemin2	Ache	P3h4	Pes1	Sp140l1	Pdyn	Chek1	Slx1b	Dr1	Dlat	Ercc2	Sycp1	Suclg1	Eloa	Pam16	Lrif1	Serpini1	Clock	Pmpcb	Taf1d	Mrps36	Kat2a	Dbh	Brd1	Brpf1	Nat8	Dna2	Dnttip1	Anp32e	Edn1	Swi5	Polr1a	Pole	Cubn	Antxr1	Csnk2a1	Myzap	Cdk2ap1	Sfr1	Nol6	Cd63	Eaf1	Alox5	Cask	Gins1	Sirt7	Acadvl	LRWD1	Hus1	Kat8	Nol11	Dis3	Bcas2	Brms1l	Rprd1b	Trappc2b	Timm10	Atf4	Prss57	Dkc1	Mphosph10	Nelfa	Penk	Akap8	4931406C07Rik	Aebp2	Gtf2e1	Pola1	Tipin	Ccnh	Cpsf6	Ctcf	Ash2l	Mpv17l2
+GO:0031975	"envelope"	Ahctf1	Cetn2	Atp5mc1	Adap2	Cox7b	Agtr1a	Ubb	Nutf2	Alox5	1600014C10Rik	Ranbp2	Nup214	Nup188	Sdhc	Atp5po	Cox4i1	Pam16	Abcb7	Dmac1	Mfn1	Phb1	Abcb6	Bax	Micos13	Trappc2b	Timm10	Ndc1	Aaas	Timm17a	Ckmt1	Tomm22	Agk	Apoo	Atp5f1a	Nup153	Coa8	Cyc1	Atp1b4	Dnajc11	Ambp	Neu4	Becn1	Sun1	Immp1l	Mcub	Akap1	Afg3l1
+GO:0031981	"nuclear lumen"	Taf12	Baz1b	Gtf2h2	Orc3	Taf1b	Bves	Gtf2a1	Cdc73	Supt4h1a	Hcfc1	Actl6a	4930595M18Rik	Cstf2	Epc1	Birc5	Cdc45	Ccnt1	0610010K14Rik	Utp6	Ell	Atxn7l3	Pold1	Psmc5	Rrp8	Atf2	Hnrnpa1	Tex12	Gtf2f1	Aff1	Narf	Blm	Ak6	Mms22l	Bcl11a	Celf1	Insr	Sgf29	Mrgbp	Cxxc1	Actb	Cdkn2aip	Gemin2	P3h4	Pes1	Sp140l1	Chek1	Slx1b	Dr1	Ercc2	Sycp1	Eloa	Lrif1	Clock	Taf1d	Kat2a	Brd1	Brpf1	Nat8	Dnttip1	Anp32e	Swi5	Polr1a	Pole	Antxr1	Csnk2a1	Sfr1	Cdk2ap1	Myzap	Nol6	Eaf1	Cask	Gins1	Sirt7	LRWD1	Hus1	Kat8	Nol11	Dis3	Bcas2	Brms1l	Rprd1b	Trappc2b	Atf4	Dkc1	Mphosph10	Nelfa	Akap8	4931406C07Rik	Aebp2	Gtf2e1	Pola1	Tipin	Ccnh	Cpsf6	Ctcf	Ash2l
+GO:0031982	"vesicle"	Egfr	Atp7a	Golga5	Gripap1	Ctsd	Abcc9	Cd46	Nrgn	Sec31a	Abca3	Anxa3	Cemip	Slc18a2	Cspg5	Azin2	Gnrh1	Sting1	Acp3	Slc17a9	Anxa4	Dnm1l	Nol3	Apoe	Clta	Prkcd	Cdip1	Snx3	Pick1	Nlrp5	Chmp1b1	Ap2a1	Hps4	Pdlim4	Bsn	Snf8	Klhl12	App	Serpina5	Akt2	Apob	Cadps	Clca1	Ccdc88a	Hgs	Dab2	Arhgap1	Bicd1	Ca4	Anxa7	Ankfy1	Litaf	Ccz1	Ctsh	Pdyn	Akap7	Bace2	Tepsin	Cracr2a	Defb1	Serpini1	Ap4b1	Abcb6	Eipr1	Epn2	Dbh	Adam8	Abcb11	Fga	A3galt2	Vamp7	Vamp1	Vps8	Adam10	Akap5	Ecpas	Spaca3	Anxa11	Adrb1	Stx12	Mvb12a	Eqtn	Cubn	Lamtor1	Sec22b	Abca12	Copb1	Abca2	Cd63	Ap1ar	Abca1	Ankrd27	5730455P16Rik	Chga	Aftph	Trappc14	Cel	Prom2	Actr1a	Prss57	Cltb	Penk	Cd177	Ppfia3	Abcc8	Snx10	Amph	Tyrp1	Abhd17a	Acr	Rab3il1	Snca	Itpr1
+GO:0031983	"vesicle lumen"	Dbh	Prss57	Egfr	Pdyn	Serpini1	Penk	Apob
+GO:0031984	"organelle subcompartment"	Dad1	Epm2a	Slc30a5	Sec11a	B3galt6	Ern1	5730455P16Rik	St3gal1	Emc2	Aldob	Sec61g	Hm13	Insig1	Tmem258	Faf1	Srpra	Casq1	Ormdl3	Ext2	Asph	Sptlc1	Emc1	Acp3	Atl1	Fam8a1	Atp2a2	Sel1l	Akap9	Derl1	Amfr	Aadac	Pdia3	Arfip1	Akap6	Sec63	B4galt1	Piga	B4galnt3	Arl6ip1	Ssr4	Elovl6	B2m	Gpaa1
+GO:0031985	"Golgi cisterna"	B4galt1	B4galnt3	Atl1	Acp3	Slc30a5	B3galt6	St3gal1
+GO:0032002	"interleukin-28 receptor complex"	Ifnl2
+GO:0032009	"early phagosome"	Snx3
+GO:0032010	"phagolysosome"	Adam8
+GO:0032021	"NELF complex"	Nelfa
+GO:0032039	"integrator complex"	Ints1
+GO:0032040	"small-subunit processome"	2810004N23Rik
+GO:0032044	"DSIF complex"	Supt4h1a
+GO:0032045	"guanyl-nucleotide exchange factor complex"	Lamtor1	C9orf72	Rgp1
+GO:0032047	"mitosome"	Sfxn5
+GO:0032059	"bleb"	Anln
+GO:0032116	"SMC loading complex"	Mau2
+GO:0032127	"dense core granule membrane"	Adam8	Slc18a2	Cadps
+GO:0032133	"chromosome passenger complex"	Aurkb
+GO:0032144	"4-aminobutyrate transaminase complex"	Abat
+GO:0032153	"cell division site"	Tubgcp2	Septin7	Ankrd45	Maea
+GO:0032154	"cleavage furrow"	Ankrd45
+GO:0032156	"septin cytoskeleton"	Septin11	Tmem250-ps	Septin7
+GO:0032279	"asymmetric synapse"	Adora1	Camk2a	Abr	Abhd17a	Akap9	Chd4	Gria2
+GO:0032280	"symmetric synapse"	Arfgef2	Igsf9b
+GO:0032281	"AMPA glutamate receptor complex"	Cacng2
+GO:0032299	"ribonuclease H2 complex"	Rnaseh2a
+GO:0032300	"mismatch repair complex"	Mlh1	Pms2	Msh2
+GO:0032301	"MutSalpha complex"	Msh2
+GO:0032302	"MutSbeta complex"	Msh2
+GO:0032311	"angiogenin-PRI complex"	Rnaseh1
+GO:0032389	"MutLalpha complex"	Pms2
+GO:0032391	"photoreceptor connecting cilium"	Arl3	Spata7
+GO:0032398	"MHC class Ib protein complex"	H2-D1
+GO:0032420	"stereocilium"	Adgrv1	Grxcr2	Ripor2	Tprn	Whrn
+GO:0032421	"stereocilium bundle"	Adgrv1	Mkks	Dcdc2	Grxcr2	Myo7a	Myo1c	Ripor2	Tprn	Whrn
+GO:0032426	"stereocilium tip"	Whrn
+GO:0032432	"actin filament bundle"	Cfl1	Acta1	Cryab
+GO:0032433	"filopodium tip"	Abi1
+GO:0032437	"cuticular plate"	Calb1
+GO:0032444	"activin responsive factor complex"	Foxh1
+GO:0032449	"CBM complex"	Bcl10
+GO:0032473	"cytoplasmic side of mitochondrial outer membrane"	Becn1
+GO:0032541	"cortical endoplasmic reticulum"	Asph
+GO:0032545	"CURI complex"	Nol6
+GO:0032580	"Golgi cisterna membrane"	B4galnt3	St3gal1	Slc30a5
+GO:0032584	"growth cone membrane"	Dcc
+GO:0032585	"multivesicular body membrane"	Abcb6
+GO:0032587	"ruffle membrane"	Adam17
+GO:0032588	"trans-Golgi network membrane"	Arfip1
+GO:0032589	"neuron projection membrane"	Akap5	Adora1	Ppp1r9b	Ripor2	Kcnc1
+GO:0032590	"dendrite membrane"	Ppp1r9b	Akap5
+GO:0032591	"dendritic spine membrane"	Ppp1r9b	Akap5
+GO:0032592	"integral component of mitochondrial membrane"	Apoo	Afg3l1
+GO:0032593	"insulin-responsive compartment"	Akt2
+GO:0032777	"Piccolo NuA4 histone acetyltransferase complex"	Epc1
+GO:0032783	"ELL-EAF complex"	Eaf1
+GO:0032797	"SMN complex"	Ddx20
+GO:0032798	"Swi5-Sfr1 complex"	Sfr1
+GO:0032806	"carboxy-terminal domain protein kinase complex"	Ccnh	Ccnt1	Gtf2h2
+GO:0032807	"DNA ligase IV complex"	Lig4
+GO:0032809	"neuronal cell body membrane"	Adcy8
+GO:0032838	"cell projection cytoplasm"	Nek4	Wdpcp	Spag17	Arfgef2	Akr1b1	Eif4ebp2	Rsph4a	Dnah9	Odad4	Bsn	Rsph6a	Dnah11	Ccdc103	Ada	Akap14	Hydin	Ccdc65	Dnah1	Chrna2	Baiap2
+GO:0032839	"dendrite cytoplasm"	Ada	Baiap2
+GO:0032936	"SREBP-SCAP complex"	Scap
+GO:0032937	"SREBP-SCAP-Insig complex"	Insig1
+GO:0032982	"myosin filament"	Mybpc3	Mybpc2	Myh10
+GO:0032983	"kainate selective glutamate receptor complex"	Gria4
+GO:0032991	"macromolecular complex"	Rsf1	Ticam2	Pigv	Hmg20b	Itga2	Gtf3c1	Aktip	Actr2	Thoc1	Suz12	Camk2a	Casp8	Haus1	Apoa2	Cdh1	Ccnk	Gclc	Bloc1s1	Cdc73	Supt4h1a	Atad5	Naip6	Lsm10	Dnm3	Anapc1	Fxn	Pop5	Agk	Mad2l2	Bmi1	Csf2	Chtf18	Epc1	Atp6ap2	Adgra2	Cdc45	Erbb2	Amot	Ctnnb1	Tsn	Atxn7l3	Rnf20	Cetn2	Elp1	Smad1	Swsap1	Abcg5	Slc11a2	Naa30	Eif2b1	Cdc37	Vps26a	Ndc80	Eif3a	Taf5l	Atf1	Gapdh	Ltbp1	Ndc1	Cd2bp2	Tomm22	Sgf29	Casp2	Ccdc65	Gstp1	Trappc5	Bbc3	Rad51c	Myo5a	Bmf	C2	Abraxas1	Tmem107	Fh	Pdgfa	Acvr1	Pdss1	Aak1	Hba	Ect2	Dab2ip	Pnpt1	Skic2	Cbx3	Drap1	Ahr	Nbas	4931428L18Rik	Hira	Pam16	Ambra1	Dlg1	Dhx15	Castor1	Nlgn1	Pmpcb	Ap4b1	Myo7a	Etf1	H2-D1	Cdkn1a	Dapk1	Epn2	Kat2a	Ogt	Sptlc1	Brd1	Pin4	Nxf1	Pex13	2810004N23Rik	Top2a	Dnah1	Wrap73	Atp5f1a	Adam10	Mvb12a	Bloc1s2	Csnk2a1	Bin1	Cplx2	Atp6v1d	Copb1	Akt1s1	Rag1	Kcna1	Htr3a	Bahd1	Ap5b1	Sf3b1	Nup214	A1cf	Sptb	Gnas	Igfbp5	Gnptab	Gucy1a1	Apoa1	Ddb2	Khdrbs1	Col3a1	Faf1	Bcl3	Rprd1b	Mocs1	Dcx	Myocd	Clpp	Ltn1	Bmal1	Calm1	Nelfa	Bcl2l11	Prkaa1	mt-Nd3	Pdia3	Abcc8	Ccna2	Psmd8	Abcf1	Ap1b1	Gatb	Prpf38a	Tead1	Becn1	Ash2l	Mpv17l2	Nfkb1	Baz1b	Col9a1	Snap23	Ppp1ca	Bckdha	D1Pas1	Prpf18	Clcf1	Atp5po	Gh1	Sec61g	Cenpo	Igf1	Mfn1	Grm1	Bves	Igfbp3	Mycb	Snrpd3	Ddx39b	Mapkap1	Mcm8	Atg101	C1qa	Timm17a	Cpsf1	Atp6v0d2	Stk11	Cyba	Slbp	Col11a1	Lig4	Birc5	Plcb2	Hexa	Itgal	Nop56	Ercc3	Cd14	Ccar2	Psmc5	Gemin7	Gli1	Bptf	Nploc4	Camlg	Ap2a1	Emilin1	Fzd8	Eid3	Sdhc	Cdk8	Gria4	Fos	Reln	Papss1	IGHE	Cat	B2m	Mrpl42	Mms22l	Il18r1	Rsph6a	Tdrd3	Ldlr	Coq3	Col4a1	Klhl12	Borcs5	Bad	C6	Lamp2	Aimp1	Ccdc120	Telo2	Dnajc11	Chm	Ccz1	Limch1	Cul1	Chuk	Arid1b	Il12rb1	Pik3r4	Dr1	Noc2l	Dlat	Csde1	Ercc2	Suclg1	Rragb	Ap2b1	Brca2	Vipas39	Insig1	Slx9	Casp3	Eipr1	Cdk12	Mrps36	Mrnip	Dis3l	Cnga3	Ago2	Psmd14	Hras	Rgp1	Lilra6	Dna2	Gabra1	Nolc1	Actr3	P4hb	Fga	Pdrg1	Adar	Cenpj	Psma4	Polr1a	Adrm1	Casp1	Armc8	Rnaseh1	Colec12	Catsperz	Antxr1	Ighg	Myzap	Cdk2ap1	Sfr1	Lig3	Strn	Aurkb	Eaf1	Hmga2	Prim1	Aim2	Pdhx	Gon7	Dsn1	Eme1	Slc1a2	Cul7	Gins1	Trappc14	Itga5	Sart3	Hus1	Lama1	Bcas2	Ighv1-61	Trmt6	Acvr2a	Srpra	Gemin5	Cul2	Dkc1	Slc3a2	Mphosph10	Ago1	Atp2a2	Cdk5rap2	Cacng2	Cenpa	Phka1	Hps1	Lsm2	Rad51b	Whrn	Psme1	Cenps	Dld	Mmrn1	Hpse	Paxx	Hps3	Immp1l	Bcl10	Tert	Itga10	Pik3ca	Taf12	Ftl1	Bcor	Col1a1	Magoh	Nutf2	Prpf4	Bmt2	Trdn	Cenpf	Golga7	Ran	Phf5a	Dag1	Cox4i1	Sec31a	Dmac1	C3	Ergic2	Bcl9	Shc1	Alcam	Ndufa5	Ormdl3	Vac14	Cnot3	Mlh1	Jam2	Adnp	Klk1b8	Fam8a1	Akap9	Donson	Cacna1a	Lin52	Smc1a	Serpina3k	Chaf1a	Capza1	Sec63	Ifnl2	Ccnt1	0610010K14Rik	Clpx	Znfx1	Ssr4	Utp6	Hbs1l	Fap	Ciao1	Mad1l1	Cd34	Snx1	Lgals1	Pold1	Col2a1	Csta	Rrp8	Atf2	Ascc1	Bag6	Psme4	Mccc1	Mapt	Cebpa	Gtf2f1	Ern1	Suclg2	Mat1a	Rsph4a	Tas1r2	Cox10	Mif4gd	Capn2	Katna1	Pafah1b1	Pan2	Ppcdc	Atp1a1	Bag2	Gpd1l	Hadha	Gp1ba	Abat	Arih1	App	Cd40	Insr	Bud13	Kntc1	Kcnh2	Apob	Prkdc	Plau	Btf3	Cct2	Arpc1b	Etfa	Abl1	Lime1	Cyc1	Htr2a	Grik1	Babam2	Pfkfb1	Lama5	Atf6b	Eif2s1	Casc3	Sgcg	Mrpl1	Prps1	Slx1b	Las1l	Tbc1d7	Sec11a	Psma1	Srp14	Gja1	Cga	Bmp2	Baz1a	Psmb5	Akirin2	Eloa	Ube2v1	Atg12	Hmgb1	Taf1d	Ide	Mep1a	Ankrd9	Nsfl1c	Itgb3	Dbi	Bbip1	Hsp90ab1	Asxl1	Cd44	Rrm1	Igf1r	Ier5	Cbll1	Ift122	Itga11	Tcf7l2	Amfr	Rad21	Tnn	Ganab	Cnot1	Apc	Vegfa	Naa20	Rnaseh2a	Elovl6	Dclre1c	Itga3	Ints1	Col12a1	Appbp2	Nol6	Scap	Inip	Max	Il6st	Csf1r	Gcsh	Ranbp2	Tcap	Ctc1	Sf1	Anxa2	Lamb1	Gmpr	Nck1	Col10a1	Aftph	Fnta	Kat8	Pkm	Nol11	Brms1l	Cyfip1	Calcr	C9orf72	Aar2	Jchain	C1qb	Ext2	Eno1	Sae1	Ccnd2	Calcrl	Atf4	Bola1	Adipoq	Gabbr1	Pfkl	Sel1l	Gnmt	Pik3cg	Itga9	Dpm2	Lcp2	Scn2a	Aebp2	Tti1	Mt-Cyb	Pola1	Cstf1	Tipin	Atp6v1b1	Polrmt	Pard3	Ankra2	Ppih	Lin37	Pih1d1	Mcub	Atp10a	Irf9	Rad17	Traf2	Pcna	Acd	Ahctf1	Gpaa1	Nup153	Ap3s1	Ahnak	Brf2	Gtf2h2	Scrib	Zpbp	Cd247	Orc3	Cab39	Taf1b	Grb2	Odad4	Eif1	Abraxas2	Myh6	Phb1	Hexim1	Gtf2a1	Cnep1r1	Aph1a	Hcfc1	Naa10	Orc1	N6amt1	Sting1	Spaar	Aqr	Acp3	Actl6a	Abi1	Add1	Bod1	Ascc2	Ccny	Itga7	Akap14	Derl1	Apoo	Tgfb1	Khdc3	Dhx29	Myo18b	Snap25	Apoe	Clns1a	Clta	Plxnb1	Ube2n	Eif4e	Psmd11	Dbf4	Bub1b	Coa6	Cbr4	Hcn1	Exoc2	Dhdds	Apc2	Chmp1b1	Arid2	Cacna1c	Nup188	Aff1	Rogdi	Itga4	Eftud2	Idh3a	Col5a1	Atp6v1a	Mtrex	Psmd10	Blm	Snf8	Atg3	Ano1	Bub3	Polr3h	Isy1	Mau2	Serpina5	Mrgbp	Pkd1	Cxxc1	Ighm	Actb	Hgs	Med1	Sf3a1	Atp6v0a1	Pms2	Mettl1	Chrna1	Sun1	Syf2	Ankfy1	Ing2	Pes1	Afg3l1	Farsa	Vcam1	Ctu1	Il12b	Apex1	H2-DMa	Arvcf	Cdc42	Cluap1	Ncapd2	Hsd17b10	Ccne2	Atf3	Exd1	Lum	Kpna1	Snrnp70	Sgta	Tmem258	Ilvbl	Ppp3ca	Bax	Snapc4	Septin11	Cyb5b	Apaf1	Ncbp1	Brpf1	Itga6	Ccdc103	Disc1	Dnttip1	Abcb8	Dgcr8	Ramac	Igha	Anp32e	Dctn2	Prpf31	Kcnq1	Vps8	Akap6	Swi5	Rela	Piga	Pole	Pigm	Wdr18	Lamtor1	Helq	Kif3a	Ddx20	Nop14	Ccnb1	Itga1	Atp5mc1	Dad1	Cntfr	Atg14	Rbck1	Cecr2	Crcp	Wdr59	Scn10a	Cdk5	Ccnd1	Dctn1	Tradd	LRWD1	Ccnd3	Cav3	Grin1	Dis3	Msh2	Inhba	Inha	Bard1	Ceacam1	Il12a	Dlgap3	Trappc2b	Lsm1	Maml1	Ppp4r4	Tnnc1	Bet1	Cltb	Timm10	Bak1	Emc1	Vps39	Smarcb1	Jup	Psmc3ip	Tlr2	Ercc1	Cnga1	Eif2s1	Acin1	Ccne1	Gtf2e1	F3	Ppp4c	Rfc1	Eef1d	Glra3	Ccnh	Dnajb11	Atp6v1e1	Cbfb	Cenpi	Foxh1	Arfgef1	Itgav	Slc9a1	Rad18	Il6	Xpc
+GO:0032993	"protein-DNA complex"	Gins1	Orc3	Actb	Pola1	Rag1	Cdc45	Bcas2	Donson	Prim1	Cenpa	Ctc1	Atf6b	Gtf2a1	Pold1	Acd
+GO:0032994	"protein-lipid complex"	Dbi	Apoe	Apoa1	Apoa2	Apob	Bin1
+GO:0032996	"Bcl3-Bcl10 complex"	Bcl3
+GO:0032997	"Fc receptor complex"	Cd247	Lilra6
+GO:0032998	"Fc-epsilon receptor I complex"	Lilra6
+GO:0033001	"Fc-gamma receptor III complex"	Cd247
+GO:0033010	"paranodal junction"	Akr1b1
+GO:0033011	"perinuclear theca"	Actl9
+GO:0033017	"sarcoplasmic reticulum membrane"	Akap6	Atp2a2
+GO:0033018	"sarcoplasmic reticulum lumen"	Casq1
+GO:0033061	"DNA recombinase mediator complex"	Rad51b	Sfr1	Rad51c
+GO:0033063	"Rad51B-Rad51C-Rad51D-XRCC2 complex"	Rad51b
+GO:0033065	"Rad51C-XRCC3 complex"	Rad51c
+GO:0033093	"Weibel-Palade body"	Cracr2a
+GO:0033106	"cis-Golgi network membrane"	H2-D1
+GO:0033116	"endoplasmic reticulum-Golgi intermediate compartment membrane"	Lamp5
+GO:0033162	"melanosome membrane"	Abcb6
+GO:0033165	"interphotoreceptor matrix"	Rbp3
+GO:0033176	"proton-transporting V-type ATPase complex"	Atp6v1b1	Spaar	Atp6ap2	Atp6v1a	Atp6v0a1	Atp6v0d2	Atp6v1d
+GO:0033177	"proton-transporting two-sector ATPase complex, proton-transporting domain"	Atp6v0a1	Atp5po	Atp5mc1
+GO:0033178	"proton-transporting two-sector ATPase complex, catalytic domain"	Atp5f1a	Atp6v1e1	Atp6v1b1	Atp6v1a
+GO:0033179	"proton-transporting V-type ATPase, V0 domain"	Atp6v0a1
+GO:0033180	"proton-transporting V-type ATPase, V1 domain"	Atp6v1b1	Atp6v1a
+GO:0033181	"plasma membrane proton-transporting V-type ATPase complex"	Atp6v0d2
+GO:0033185	"dolichol-phosphate-mannose synthase complex"	Dpm2
+GO:0033186	"CAF-1 complex"	Chaf1a
+GO:0033202	"DNA helicase complex"	Helq
+GO:0033256	"I-kappaB/NF-kappaB complex"	Bcl3
+GO:0033257	"Bcl3/NF-kappaB2 complex"	Bcl3
+GO:0033263	"CORVET complex"	Vps8
+GO:0033268	"node of Ranvier"	Ank3
+GO:0033269	"internode region of axon"	Ermn
+GO:0033270	"paranode region of axon"	Cldn5
+GO:0033276	"transcription factor TFTC complex"	Kat2a
+GO:0033290	"eukaryotic 48S preinitiation complex"	Eif1
+GO:0033391	"chromatoid body"	Ddx4
+GO:0033503	"HULC complex"	Rnf20
+GO:0033553	"rDNA heterochromatin"	Rrp8
+GO:0033557	"Slx1-Slx4 complex"	Slx1b
+GO:0033565	"ESCRT-0 complex"	Hgs
+GO:0033588	"Elongator holoenzyme complex"	Elp1
+GO:0033593	"BRCA2-MAGE-D1 complex"	Brca2
+GO:0033596	"TSC1-TSC2 complex"	Tbc1d7
+GO:0033597	"mitotic checkpoint complex"	Bub1b
+GO:0034045	"pre-autophagosomal structure membrane"	Atg14
+GO:0034066	"RIC1-RGP1 guanyl-nucleotide exchange factor complex"	Rgp1
+GO:0034098	"VCP-NPL4-UFD1 AAA ATPase complex"	Faf1
+GO:0034245	"mitochondrial DNA-directed RNA polymerase complex"	Polrmt
+GO:0034271	"phosphatidylinositol 3-kinase complex, class III, type I"	Pik3r4
+GO:0034272	"phosphatidylinositol 3-kinase complex, class III, type II"	Becn1
+GO:0034274	"Atg12-Atg5-Atg16 complex"	Atg12
+GO:0034358	"plasma lipoprotein particle"	Apoa1	Apob	Apoa2
+GO:0034359	"mature chylomicron"	Apob
+GO:0034361	"very-low-density lipoprotein particle"	Apoa1
+GO:0034362	"low-density lipoprotein particle"	Apoa1
+GO:0034363	"intermediate-density lipoprotein particle"	Apoa1
+GO:0034364	"high-density lipoprotein particle"	Apoa1
+GO:0034365	"discoidal high-density lipoprotein particle"	Apoa1
+GO:0034366	"spherical high-density lipoprotein particle"	Apoa1
+GO:0034385	"triglyceride-rich lipoprotein particle"	Apoa1
+GO:0034388	"Pwp2p-containing subcomplex of 90S preribosome"	Utp6
+GO:0034399	"nuclear periphery"	Atf4	Akap8	Narf	Cask
+GO:0034451	"centriolar satellite"	4933427D14Rik
+GO:0034455	"t-UTP complex"	Nol11
+GO:0034456	"UTP-C complex"	Nol6
+GO:0034457	"Mpp10 complex"	Mphosph10
+GO:0034464	"BBSome"	Bbip1
+GO:0034506	"chromosome, centromeric core domain"	Rcc2	Cenpa
+GO:0034515	"proteasome storage granule"	Psmd2
+GO:0034518	"RNA cap binding complex"	Ncbp1	Ago2
+GO:0034592	"synaptic vesicle lumen"	Penk
+GO:0034657	"GID complex"	Armc8
+GO:0034663	"endoplasmic reticulum chaperone complex"	Dnajb11
+GO:0034665	"integrin alpha1-beta1 complex"	Itga1
+GO:0034666	"integrin alpha2-beta1 complex"	Itga2
+GO:0034667	"integrin alpha3-beta1 complex"	Itga3
+GO:0034668	"integrin alpha4-beta1 complex"	Emilin1
+GO:0034669	"integrin alpha4-beta7 complex"	Itga4
+GO:0034673	"inhibin-betaglycan-ActRII complex"	Acvr2a
+GO:0034674	"integrin alpha5-beta1 complex"	Itga5
+GO:0034676	"integrin alpha6-beta4 complex"	Itga6
+GO:0034677	"integrin alpha7-beta1 complex"	Itga7
+GO:0034679	"integrin alpha9-beta1 complex"	Itga9
+GO:0034680	"integrin alpha10-beta1 complex"	Itga10
+GO:0034681	"integrin alpha11-beta1 complex"	Itga11
+GO:0034683	"integrin alphav-beta3 complex"	Itgav
+GO:0034684	"integrin alphav-beta5 complex"	Itgav
+GO:0034685	"integrin alphav-beta6 complex"	Itgav
+GO:0034686	"integrin alphav-beta8 complex"	Itgav
+GO:0034687	"integrin alphaL-beta2 complex"	Itgal
+GO:0034693	"U11/U12 snRNP"	Sf3b1
+GO:0034702	"ion channel complex"	Kcna1	Atp5mc1	Htr3a	Scn10a	Cacna1c	Gria4	Grin1	Ano1	Akap9	Cacng2	Kcnh2	Cacna1a	Abcb8	Abcc8	Kcnq1	Cnga1	Scn2a	Akap6	Glra3	Chrna1	Grik1	Catsperz	Mcub	Hcn1
+GO:0034703	"cation channel complex"	Kcna1	Atp5mc1	Htr3a	Scn10a	Cacna1c	Gria4	Grin1	Akap9	Cacng2	Kcnh2	Cacna1a	Abcb8	Abcc8	Cnga1	Scn2a	Akap6	Catsperz	Mcub	Hcn1
+GO:0034704	"calcium channel complex"	Akap6	Mcub	Cacna1a	Cacna1c	Catsperz
+GO:0034705	"potassium channel complex"	Gria4	Kcna1	Akap9	Kcnh2	Abcb8	Abcc8	Hcn1
+GO:0034706	"sodium channel complex"	Gria4	Scn10a	Scn2a
+GO:0034707	"chloride channel complex"	Ano1	Glra3
+GO:0034708	"methyltransferase complex"	Cxxc1	Hsd17b10	N6amt1	Clns1a	Cbll1	0610010K14Rik	Gnmt	Trmt6	Ramac	Ash2l	Mettl1	Aebp2
+GO:0034709	"methylosome"	Clns1a
+GO:0034715	"pICln-Sm protein complex"	Clns1a
+GO:0034718	"SMN-Gemin2 complex"	Gemin5
+GO:0034719	"SMN-Sm protein complex"	Ddx20
+GO:0034750	"Scrib-APC-beta-catenin complex"	Scrib
+GO:0034751	"aryl hydrocarbon receptor complex"	Hsp90ab1	Ahr
+GO:0034753	"nuclear aryl hydrocarbon receptor complex"	Ahr
+GO:0034774	"secretory granule lumen"	Dbh	Prss57	Pdyn
+GO:0034777	"recycling endosome lumen"	Pdlim4
+GO:0034974	"Swi5-Swi2 complex"	Swi5
+GO:0034992	"microtubule organizing center attachment site"	Sun1
+GO:0034993	"LINC complex"	Sun1
+GO:0034998	"oligosaccharyltransferase I complex"	Tmem258
+GO:0035032	"phosphatidylinositol 3-kinase complex, class III"	Vac14	Pik3r4	Becn1	Atg14
+GO:0035060	"brahma complex"	Smarcb1
+GO:0035061	"interchromatin granule"	Cpsf6
+GO:0035097	"histone methyltransferase complex"	Cxxc1	Ash2l	0610010K14Rik	Aebp2
+GO:0035098	"ESC/E(Z) complex"	Aebp2
+GO:0035101	"FACT complex"	Mms22l
+GO:0035102	"PRC1 complex"	Bmi1
+GO:0035145	"exon-exon junction complex"	4931428L18Rik	Magoh
+GO:0035189	"Rb-E2F complex"	Cebpa
+GO:0035253	"ciliary rootlet"	Nek4
+GO:0035267	"NuA4 histone acetyltransferase complex"	Epc1	Actb
+GO:0035339	"SPOTS complex"	Ormdl3
+GO:0035354	"Toll-like receptor 1-Toll-like receptor 2 protein complex"	Tlr2
+GO:0035355	"Toll-like receptor 2-Toll-like receptor 6 protein complex"	Tlr2
+GO:0035363	"histone locus body"	Ell
+GO:0035370	"UBC13-UEV1A complex"	Ube2n
+GO:0035371	"microtubule plus-end"	Clasp2	Cdk5rap2
+GO:0035517	"PR-DUB complex"	Asxl1
+GO:0035525	"NF-kappaB p50/p65 complex"	Rela
+GO:0035577	"azurophil granule membrane"	Vamp7
+GO:0035578	"azurophil granule lumen"	Prss57
+GO:0035579	"specific granule membrane"	Vamp1
+GO:0035631	"CD40 receptor complex"	Cd40
+GO:0035632	"mitochondrial prohibitin complex"	Phb1
+GO:0035657	"eRF1 methyltransferase complex"	N6amt1
+GO:0035658	"Mon1-Ccz1 complex"	Ccz1
+GO:0035686	"sperm fibrous sheath"	Akap14
+GO:0035692	"macrophage migration inhibitory factor receptor complex"	Cd44
+GO:0035748	"myelin sheath abaxonal region"	Cnp
+GO:0035749	"myelin sheath adaxonal region"	Cnp
+GO:0035770	"ribonucleoprotein granule"	Ddx4	Actb	Ankrd34c	Atxn2	Dhx9	Ddx28	Eif4ebp2	Apobec3
+GO:0035805	"egg coat"	Zp1
+GO:0035838	"growing cell tip"	Pi4k2a
+GO:0035859	"Seh1-associated complex"	Castor1	Wdr59	Bmt2
+GO:0035861	"site of double-strand break"	Actr2
+GO:0035866	"alphav-beta3 integrin-PKCalpha complex"	Itgb3
+GO:0035867	"alphav-beta3 integrin-IGF-1-IGF1R complex"	Igf1
+GO:0035868	"alphav-beta3 integrin-HMGB1 complex"	Hmgb1
+GO:0035869	"ciliary transition zone"	Bbs4	Arl3	Spata7	Tmem107
+GO:0035976	"AP1 complex"	Fos
+GO:0035985	"senescence-associated heterochromatin focus"	Cbx3
+GO:0036019	"endolysosome"	Prkcd	Abcb6
+GO:0036020	"endolysosome membrane"	Abcb6
+GO:0036024	"protein C inhibitor-TMPRSS7 complex"	Serpina5
+GO:0036025	"protein C inhibitor-TMPRSS11E complex"	Serpina5
+GO:0036026	"protein C inhibitor-PLAT complex"	Serpina5
+GO:0036027	"protein C inhibitor-PLAU complex"	Serpina5
+GO:0036028	"protein C inhibitor-thrombin complex"	Serpina5
+GO:0036029	"protein C inhibitor-KLK3 complex"	Serpina5
+GO:0036030	"protein C inhibitor-plasma kallikrein complex"	Serpina5
+GO:0036038	"TCTN-B9D complex"	Tmem107
+GO:0036053	"glomerular endothelium fenestra"	Cd34
+GO:0036056	"filtration diaphragm"	F11r
+GO:0036057	"slit diaphragm"	F11r
+GO:0036064	"ciliary basal body"	Agbl2	Mkks
+GO:0036117	"hyaluranon cable"	Has3
+GO:0036125	"fatty acid beta-oxidation multienzyme complex"	Hadha
+GO:0036126	"sperm flagellum"	Akap3	Hsp90aa1	Ace	Abhd2	Akap4	Akap14	Ddx6	Ctsh
+GO:0036128	"CatSper complex"	Catsperz
+GO:0036156	"inner dynein arm"	Dnah1
+GO:0036157	"outer dynein arm"	Ccdc103
+GO:0036194	"muscle cell projection"	Plekho1
+GO:0036195	"muscle cell projection membrane"	Plekho1
+GO:0036284	"tubulobulbar complex"	Arpc1b	Dnm3	Actr3
+GO:0036379	"myofilament"	Mybphl	Tnnc1	Mybpc3	Acta1
+GO:0036387	"pre-replicative complex"	Orc3
+GO:0036396	"MIS complex"	Cbll1
+GO:0036398	"TCR signalosome"	Lcp2
+GO:0036409	"histone H3-K14 acetyltransferase complex"	Brd1
+GO:0036449	"microtubule minus-end"	Abraxas2
+GO:0036452	"ESCRT complex"	Chmp1b1	Snf8	Hgs	Mvb12a
+GO:0036454	"growth factor complex"	Igf1	Vegfa	Pdgfa	Igfbp3	Igfbp5
+GO:0036457	"keratohyalin granule"	Hrnr
+GO:0036464	"cytoplasmic ribonucleoprotein granule"	Ddx4	Actb	Ankrd34c	Atxn2	Eif4ebp2	Apobec3
+GO:0036477	"somatodendritic compartment"	Nefh	Atp1a3	Ppp1r9b	Dbn1	Afdn	Abi3bp	Grk3	Enpp1	Cacna1d	Dlg4	Clip2	Akap9	Chrna7	Ada	Adcy8	Cx3cr1	Akap5	Abl1	Arpc2	Fmr1	Baiap2	Aif1	Map2	Cdkl5	Cck
+GO:0036488	"CHOP-C/EBP complex"	Cebpa
+GO:0036501	"UFD1-NPL4 complex"	Nploc4
+GO:0036502	"Derlin-1-VIMP complex"	Derl1
+GO:0036513	"Derlin-1 retrotranslocation complex"	Amfr
+GO:0038037	"G-protein coupled receptor dimeric complex"	Calcrl	Grm1	Gabbr1
+GO:0038038	"G-protein coupled receptor homodimeric complex"	Grm1
+GO:0038039	"G-protein coupled receptor heterodimeric complex"	Gabbr1
+GO:0038045	"large latent transforming growth factor-beta complex"	Ltbp1
+GO:0038143	"ERBB3:ERBB2 complex"	Erbb2
+GO:0038201	"TOR complex"	Akt1s1	Mapkap1
+GO:0042022	"interleukin-12 receptor complex"	Il12rb1
+GO:0042101	"T cell receptor complex"	Cd247	Alcam
+GO:0042105	"alpha-beta T cell receptor complex"	Cd247
+GO:0042175	"nuclear outer membrane-endoplasmic reticulum membrane network"	Dad1	Epm2a	Sec11a	Ern1	Emc2	Aldob	Sec61g	Hm13	Insig1	Tmem258	Faf1	Srpra	Cnep1r1	Trappc2b	Ormdl3	Ext2	Sptlc1	Emc1	Fam8a1	Atl1	Atp2a2	Dgat2	Sel1l	Derl1	Rab14	Amfr	Aadac	Pdia3	Bicd2	Akap6	Sec63	Piga	Ssr4	Elovl6	B2m	Gpaa1
+GO:0042272	"nuclear RNA export factor complex"	Nxf1
+GO:0042382	"paraspeckles"	Bcl11a
+GO:0042383	"sarcolemma"	Abcc8	Abcc9	Cacna1c
+GO:0042405	"nuclear inclusion body"	Atxn1
+GO:0042406	"extrinsic component of endoplasmic reticulum membrane"	Emc2
+GO:0042470	"melanosome"	Apoe	Abcb6
+GO:0042555	"MCM complex"	Mcm8	Serpina3k
+GO:0042564	"NLS-dependent protein nuclear import complex"	Kpna1
+GO:0042565	"RNA nuclear export complex"	Ran
+GO:0042567	"insulin-like growth factor ternary complex"	Igf1
+GO:0042568	"insulin-like growth factor binary complex"	Igfbp3
+GO:0042571	"immunoglobulin complex, circulating"	Igha	Ighm	Jchain
+GO:0042575	"DNA polymerase complex"	Pola1	Pole	Dna2	Crcp	Mad2l2	Pold1
+GO:0042579	"microbody"	Abcd3	Ccl22
+GO:0042581	"specific granule"	Adam8	Vamp1
+GO:0042582	"azurophil granule"	Anxa11	Prss57	Vamp7
+GO:0042583	"chromaffin granule"	Chga	Anxa7
+GO:0042584	"chromaffin granule membrane"	Anxa7
+GO:0042585	"germinal vesicle"	Stpg4
+GO:0042587	"glycogen granule"	Ppp1ca
+GO:0042588	"zymogen granule"	Clca1	Cel
+GO:0042589	"zymogen granule membrane"	Clca1
+GO:0042599	"lamellar body"	Abca3	Ctsh	Abca12
+GO:0042611	"MHC protein complex"	H2-DMa	H2-D1	B2m
+GO:0042612	"MHC class I protein complex"	B2m
+GO:0042613	"MHC class II protein complex"	H2-DMa
+GO:0042622	"photoreceptor outer segment membrane"	Gnb1
+GO:0042627	"chylomicron"	Apoa2	Apob
+GO:0042629	"mast cell granule"	Akr1b1
+GO:0042641	"actomyosin"	Cdc42bpa	Myo5a	Acta1
+GO:0042642	"actomyosin, myosin complex part"	Myo5a
+GO:0042645	"mitochondrial nucleoid"	Acadvl
+GO:0042709	"succinate-CoA ligase complex"	Suclg1	Suclg2
+GO:0042719	"mitochondrial intermembrane space protein transporter complex"	Timm10
+GO:0042720	"mitochondrial inner membrane peptidase complex"	Immp1l
+GO:0042721	"mitochondrial inner membrane protein insertion complex"	Agk
+GO:0042734	"presynaptic membrane"	Clta	Dgki	Cyth1	Ache	Adra2a	Ap2b1
+GO:0042765	"GPI-anchor transamidase complex"	Gpaa1
+GO:0042788	"polysomal ribosome"	Abcf1
+GO:0042824	"MHC class I peptide loading complex"	Pdia3	B2m
+GO:0042825	"TAP complex"	Pdia3
+GO:0042827	"platelet dense granule"	Itpr1	Hps4
+GO:0042995	"cell projection"	Gnb1	Cldn5	Nek4	Wdpcp	Cenpf	Abi3bp	Ezr	Arl3	Map1b	Scimp	Kcnab2	Ccl2	Adam22	Dnah9	Odad4	Nphp3	Ddx6	Dnah11	Adam15	Abi1	Clip2	Cep126	Akap9	Cacna1f	Bbs4	Myo15a	Akap14	Snx5	Hydin	Cx3cr1	Guca1a	Rapgef3	Abcc2	Bst1	Cck	Adam17	Atp2b3	Dcdc2	Spag17	1700012B09Rik	Dbn1	Rsph4a	Spata7	Ace	Capn2	Acadm	Adora1	Grk3	Cyfip1	Bsn	Abat	Sirt2	Rsph6a	App	Abhd2	Mkks	Chrna7	Ada	Rho	Ccdc65	Ccdc120	Abl1	Arpc2	Chrna2	Fmr1	Akap4	Tmem107	Grxcr2	Ctsh	Dlg2	Adra2a	Aak1	Dcc	Eif2s1	Nefh	Arfgef2	Ripor2	Apbb1	Pclo	Myo7a	Cnga3	Bbip1	Dlg4	Ccdc103	Cfap96	Arpc3	Actr3	Dnah1	Akap3	Akap5	Apc	Bin1	Anln	Enpp1	Ak8	Adcy6	Agrn	Plekho1	Atp5mc1	Amigo1	Atp1a3	Ppp1r9b	Akr1b1	Eif4ebp2	Cask	Ermn	Hcn3	Fbxo7	Atp1a4	Gjc2	Ehd1	Kcnc1	Cacna1d	Angpt1	Agbl2	Atp2a2	Aqp4	Tprn	Whrn	Antxr1	Adgrv1	Baiap2	Map2	Ank3	Cdkl5	Hsp90aa1	Actn2
+GO:0043005	"neuron projection"	Gnb1	Cldn5	Atp5mc1	Amigo1	Atp2b3	Nefh	Atp1a3	Dcdc2	Ppp1r9b	Ripor2	Apbb1	Dbn1	Eif4ebp2	Abi3bp	Ermn	Arl3	Map1b	Spata7	Hcn3	Pclo	Ccl2	Acadm	Adora1	Adam22	Grk3	Cyfip1	Fbxo7	Atp1a4	Bsn	Gjc2	Abat	Kcnc1	Enpp1	Cacna1d	Dlg4	Kcnab2	Clip2	Mkks	Akap9	Cacna1f	Arpc3	Ada	Chrna7	Tprn	Rho	Whrn	Cx3cr1	Akap5	Abl1	Arpc2	Chrna2	Guca1a	Apc	Adgrv1	Baiap2	Fmr1	Rapgef3	Cck	Grxcr2	Map2	Dlg2	Ank3	Bin1	Cdkl5	Aak1	Adra2a	Dcc	Agrn
+GO:0043020	"NADPH oxidase complex"	Cyba
+GO:0043025	"neuronal cell body"	Aif1	Cck	Abl1	Adcy8
+GO:0043034	"costamere"	Ank3
+GO:0043073	"germ cell nucleus"	Stpg4	H1f9
+GO:0043083	"synaptic cleft"	Ache
+GO:0043159	"acrosomal matrix"	Spaca3
+GO:0043186	"P granule"	Ddx4	Ankrd34c
+GO:0043189	"H4/H2A histone acetyltransferase complex"	Mrgbp	Epc1	Actb
+GO:0043190	"ATP-binding cassette (ABC) transporter complex"	Abcg5
+GO:0043194	"axon initial segment"	Adam22
+GO:0043195	"terminal bouton"	Rapgef3	Aak1
+GO:0043196	"varicosity"	Bin1
+GO:0043197	"dendritic spine"	Abi3bp	Akap5	Fmr1	Baiap2	Atp1a3	Chrna7	Ppp1r9b
+GO:0043198	"dendritic shaft"	Abi3bp
+GO:0043202	"lysosomal lumen"	Cubn	Hspa8
+GO:0043203	"axon hillock"	Cck
+GO:0043204	"perikaryon"	Aif1
+GO:0043209	"myelin sheath"	Cnp	Cd59a	Erbb2	Atp1a3	Akr1b1
+GO:0043218	"compact myelin"	Akr1b1	Cd59a
+GO:0043219	"lateral loop"	Erbb2
+GO:0043220	"Schmidt-Lanterman incisure"	Akr1b1
+GO:0043226	"organelle"	Rsf1	Haus8	Ctsd	Dhx9	Hmg20b	Tubgcp2	Arl3	Thoc1	Actr2	Suz12	Camk2a	Haus1	Slc18a2	Azin2	Cdc73	Supt4h1a	Atad5	Lsm10	Aaas	Anapc1	Fxn	Agk	Bmi1	Cstf2	Chtf18	Epc1	Atp6ap2	Cdc45	Guca1a	Amot	Abr	Ctnnb1	Cdip1	Atxn7l3	Atg2a	Ddx4	Rnf20	Cetn2	Tpx2	Tex12	Smad1	Aldob	Bcl2l14	Ndc80	Taf5l	Atf1	Micos13	Cep295	Ndc1	Cd2bp2	Celf1	Tomm22	Sgf29	Crhbp	Ccdc65	Trappc5	Rcc2	Mybpc3	Tinf2	Rad51c	Mybphl	Bmf	Dab2	Myo5a	Abraxas1	Tmem107	Grxcr2	Bcas3	Arhgap1	Ca4	Ect2	Pnpt1	Dmtn	Cbx3	Drap1	Cracr2a	Ahr	Nbas	4931428L18Rik	Pam16	Lrif1	Dhx15	F2r	Pmpcb	Ap4b1	Myo7a	Septin7	H2-D1	Cdkn1a	Nucb1	Epn2	Kat2a	Brd1	Sptlc1	Nxf1	2810004N23Rik	Atrx	Dnah1	Atp5f1a	Adam10	Arl6ip1	Stx12	Mvb12a	Bloc1s2	Csnk2a1	Bin1	Abca12	Copb1	Cdh10	Bahd1	Aurkc	Akr1b1	Sf3b1	Abca1	Nup214	A1cf	Sptb	Emc2	Gnptab	Chga	Sirt7	Hm13	Incenp	Cd74	Atp1a4	Faf1	Actl9	Abhd5	Rprd1b	Prss57	Myocd	Atl1	Bmal1	Nelfa	Acaca	Cd177	Ppfia3	Pdia3	Aadac	Abcc8	Tprn	4931406C07Rik	Kmt5a	Snx10	Abcf1	Tyrp1	Prpf38a	Tead1	Becn1	Ash2l	Cdkl5	Mpv17l2	Anpep	Nfkb1	Agtr1a	Gnb1	Egfr	Baz1b	Igsf9b	Synm	Cox7b	Ccsap	Bckdha	D1Pas1	Prpf18	Atp5po	St3gal1	Chchd1	Sec61g	Anxa3	Cenpo	Mfn1	Chmp1a	Clasp2	Bves	Mycb	Cspg5	Snrpd3	Ddx39b	Gnrh1	Adam15	Timm17a	Cpsf1	4930595M18Rik	Des	Cep126	Bbs4	Trim12a	Slbp	Lig4	Birc5	Ambp	Ercc3	Prkcd	Ell	Actn1	Snx3	Spmip6	Abce1	Psmc5	Alpl	Camlg	Ap2a1	Spag17	Eid3	Sdhc	Cdk8	Fos	Bsn	B2m	Mrpl42	Mms22l	Rsph6a	Klhl12	Abhd2	Mkks	Borcs5	Chrna7	Lamp2	Rho	Ccdc120	Cdkn2aip	Fmr1	Adora2a	Coa8	Dnajc11	Neu4	Gemin2	P3h4	Gsn	Ccz1	C2cd2l	Limch1	Arid1b	Chek1	Bace2	Pik3r4	Dr1	Noc2l	Dlat	Lrrk2	Ercc2	Sycp1	Suclg1	Defb1	Abi2	Ccl22	Insig1	Kash5	Eipr1	Mrps36	Cdk12	Mrnip	Dbh	Rgp1	Dna2	Carmil2	Cfap96	P4hb	Fga	Adar	Mapk10	Apobec3	Arfip1	Cenpe	Akap5	Polr1a	Ankrd34c	Eqtn	Cdk5r1	Colec12	Antxr1	Myzap	Cdk2ap1	Sfr1	Lig3	Aurkb	Abca2	Cd63	Atp2a1	Eaf1	Prim1	Alox5	Dsn1	Ankrd27	Septin3	5730455P16Rik	Actg1	Trappc14	Gins1	Sart3	Hus1	Atg16l1	Bcas2	Atxn2	Srpra	Bcl6	Asph	Gemin5	Dkc1	Anapc5	Mphosph10	Atp2a2	Agbl2	Nlrp6	Cdk5rap2	Cenpa	Rad51b	Whrn	Birc2	Fam161a	Cenps	Amph	Adgrv1	Ctcf	Abhd17a	Ank3	Immp1l	Paxx	Rab3il1	Akap1	Hsp90aa1	Tert	Shcbp1l	Taf12	Nek4	Mapre1	Atxn1	Gripap1	Bcor	Epm2a	Znf207	Magoh	Nutf2	Prpf4	Cd46	Nrgn	Bbln	Cenpf	Phf5a	Cox4i1	Sec31a	Abca3	Dmac1	Dnah9	Bcl9	4933427D14Rik	Ddx6	Ormdl3	Dnah11	Vac14	Ankrd23	Adnp	Gaa	Fam8a1	Akap9	Donson	Gzmb	Lin52	Smc1a	Hydin	Anxa4	Dnm1l	Sec63	B4galnt3	Ccnt1	0610010K14Rik	Clpx	Znfx1	Ssr4	Utp6	Ciao1	Pold1	Pick1	Rrp8	Atf2	Abcd3	Mccc1	Akap8l	Mapt	1600014C10Rik	Dcdc2	Cebpa	Gtf2f1	Ern1	Rsph4a	Cryab	Narf	Spata7	Pdlim4	Katna1	Atp1a1	Hadha	Abat	Casq1	App	Bcl11a	Insr	Ckmt1	Dgat2	Numa1	Bud13	Kntc1	Akt2	Apob	Prkdc	Cadps	Clca1	Agrp	Akap4	Cyc1	Bicd1	Babam2	Sp140l1	Casc3	Ina	Akap7	Acta1	Mrpl1	Slx1b	Sec11a	Ddx28	Baz1a	Eloa	Serpini1	Clock	Taf1d	Bbip1	Asxl1	Tcf7l2	Amfr	Rad21	A3galt2	Camsap2	Ganab	Hnrnpu	Adrb1	Mospd2	Elovl6	Ints1	Ak8	Nol6	Inip	Max	Mbd5	Cfl1	Ranbp2	Tcap	Ctc1	Sf1	Eif4ebp2	Aftph	Acadvl	Prom2	Kat8	Nol11	Aamp	Brms1l	Ehd1	Aar2	Ext2	Maea	Sae1	Atf4	Marcks	Sel1l	Penk	Aebp2	Tti1	Psmd2	Pola1	Cstf1	Tipin	Polrmt	Cpsf6	Abra	Ppih	Lin37	Ank1	Mcub	Irf9	Rad17	Dnaaf8	Pcna	Acd	Ahctf1	Gpaa1	Nup153	Atp7a	Adap2	Golga5	Asgr2	Abcc9	Wdpcp	Cdc42bpa	Gtf2h2	Slc3a1	Abcb7	Orc3	Taf1b	Cemip	Odad4	Cldn11	Abraxas2	Tmem250-ps	Nphp3	Myh6	Phb1	Hexim1	Gtf2a1	Hcfc1	Orc1	Sting1	Spaar	Aqr	Acp3	Actl6a	Clip2	Add1	Bod1	Ascc2	Cacna1f	Derl1	Akap14	Apoo	Slc17a9	Myo18b	Nol3	Apoe	Clu	Clta	Bub1b	Mark2	Hspa8	Nlrp5	Bloc1s6	Arhgef7	Hnrnpa1	Golga3	Apc2	Chmp1b1	Ubb	Arid2	Arl8b	Nup188	Aff1	Calr	Hps4	Eftud2	Idh3a	Atp6v1a	Ace	Mtrex	Blm	Ak6	Arl8a	Clasp1	Snf8	Polr3h	Isy1	Mau2	Serpina5	Ahcyl1	Mrgbp	Cxxc1	Ccdc88a	Actb	Hgs	Arpc2	Agl	Med1	Atp6v0a1	Pms2	Sf3a1	Atp1b4	Sun1	Cttn	Anxa7	Uvrag	Ache	Ankfy1	Ing2	Syf2	Ctsh	Stpg4	Pes1	Litaf	Afg3l1	Casp14	Pdyn	Cul3	Tepsin	Slc30a5	Arfgef2	B3galt6	Ripor2	Cdc42	Ncapd2	Hsd17b10	Calb1	Brca1	Snrnp70	Tmem258	Abcb6	Bax	Septin11	Adprs	1810055G02Rik	Adam8	Brpf1	Nat8	Emc6	Ccdc103	Disc1	Dnttip1	Abcb11	Dgcr8	Ramac	Anp32e	Dctn2	Prpf31	Edn1	Vamp7	Vamp1	Akap6	Vps8	Swi5	Rela	Ecpas	Akap3	Spaca3	Piga	Pole	Anxa11	Pigm	Ankrd1	Lamtor1	Cubn	Sec22b	Kif3a	Nop14	Cyth2	Atp5mc1	Dad1	Ap1ar	Atg14	Cecr2	H1f9	Dctn1	Sfxn5	Cask	Frg1	LRWD1	Cel	Msh2	Dis3	Actr1a	Lamp5	Bard1	Dlgap3	Trappc2b	Timm10	Tnnc1	Cltb	Emc1	Vps39	Smarcb1	Arhgef9	Jup	Ccdc78	Ercc1	Akap8	Hfe	Gtf2e1	Rfc1	Ccnh	B4galt1	Dnajb11	Cbfb	Rad51	Cenpi	Foxh1	Arfgef1	Acr	Snca	Itpr1	Xpc
+GO:0043227	"membrane-bounded organelle"	Rsf1	Haus8	Ctsd	Dhx9	Hmg20b	Arl3	Thoc1	Suz12	Slc18a2	Azin2	Cdc73	Supt4h1a	Lsm10	Aaas	Anapc1	Fxn	Agk	Bmi1	Cstf2	Epc1	Atp6ap2	Cdc45	Guca1a	Amot	Ctnnb1	Cdip1	Atxn7l3	Cetn2	Tex12	Smad1	Aldob	Taf5l	Atf1	Micos13	Ndc1	Cd2bp2	Celf1	Tomm22	Sgf29	Crhbp	Ccdc65	Trappc5	Rad51c	Dab2	Abraxas1	Tmem107	Arhgap1	Ca4	Pnpt1	Dmtn	Cbx3	Ahr	Drap1	Cracr2a	Nbas	4931428L18Rik	Pam16	Lrif1	Dhx15	F2r	Pmpcb	Ap4b1	H2-D1	Cdkn1a	Nucb1	Epn2	Kat2a	Brd1	Sptlc1	Nxf1	Dnah1	Atp5f1a	Adam10	Arl6ip1	Stx12	Mvb12a	Csnk2a1	Bin1	Abca12	Copb1	Bahd1	Akr1b1	Sf3b1	Abca1	Nup214	A1cf	Emc2	Gnptab	Chga	Sirt7	Hm13	Cd74	Atp1a4	Faf1	Rprd1b	Prss57	Myocd	Atl1	Bmal1	Nelfa	Cd177	Ppfia3	Pdia3	Aadac	Abcc8	4931406C07Rik	Snx10	Tyrp1	Prpf38a	Tead1	Becn1	Ash2l	Cdkl5	Mpv17l2	Anpep	Nfkb1	Agtr1a	Gnb1	Egfr	Baz1b	Cox7b	Bckdha	Prpf18	Atp5po	St3gal1	Chchd1	Sec61g	Anxa3	Mfn1	Chmp1a	Bves	Mycb	Cspg5	Snrpd3	Ddx39b	Gnrh1	Adam15	Timm17a	Cpsf1	4930595M18Rik	Cep126	Bbs4	Trim12a	Slbp	Lig4	Birc5	Ambp	Ercc3	Prkcd	Ell	Snx3	Alpl	Psmc5	Camlg	Ap2a1	Spag17	Sdhc	Cdk8	Fos	Bsn	B2m	Mrpl42	Mms22l	Rsph6a	Klhl12	Abhd2	Mkks	Borcs5	Chrna7	Lamp2	Rho	Ccdc120	Cdkn2aip	Fmr1	Coa8	Dnajc11	Neu4	Gemin2	P3h4	Ccz1	Arid1b	Chek1	Bace2	Dr1	Noc2l	Dlat	Lrrk2	Ercc2	Sycp1	Suclg1	Defb1	Ccl22	Insig1	Eipr1	Mrps36	Cdk12	Mrnip	Dbh	Rgp1	Dna2	Cfap96	P4hb	Fga	Adar	Mapk10	Arfip1	Akap5	Polr1a	Eqtn	Colec12	Antxr1	Myzap	Cdk2ap1	Sfr1	Lig3	Abca2	Cd63	Eaf1	Alox5	Ankrd27	5730455P16Rik	Trappc14	Gins1	Sart3	Hus1	Atg16l1	Bcas2	Srpra	Asph	Gemin5	Dkc1	Mphosph10	Atp2a2	Agbl2	Rad51b	Cenps	Amph	Ctcf	Abhd17a	Paxx	Immp1l	Rab3il1	Akap1	Hsp90aa1	Tert	Taf12	Nek4	Atxn1	Gripap1	Bcor	Epm2a	Magoh	Nutf2	Prpf4	Cd46	Nrgn	Cenpf	Phf5a	Cox4i1	Sec31a	Abca3	Dmac1	Dnah9	Bcl9	Ddx6	Ormdl3	Dnah11	Vac14	Gaa	Adnp	Fam8a1	Akap9	Gzmb	Lin52	Hydin	Anxa4	Dnm1l	Sec63	B4galnt3	Ccnt1	0610010K14Rik	Clpx	Znfx1	Ssr4	Utp6	Pold1	Pick1	Rrp8	Atf2	Abcd3	Mccc1	Dcdc2	1600014C10Rik	Cebpa	Gtf2f1	Ern1	Rsph4a	Narf	Spata7	Pdlim4	Atp1a1	Hadha	Abat	Casq1	App	Bcl11a	Insr	Ckmt1	Dgat2	Bud13	Akt2	Apob	Prkdc	Cadps	Clca1	Agrp	Akap4	Cyc1	Bicd1	Babam2	Sp140l1	Casc3	Akap7	Slx1b	Sec11a	Baz1a	Eloa	Serpini1	Clock	Taf1d	Bbip1	Asxl1	Tcf7l2	Amfr	A3galt2	Ganab	Adrb1	Elovl6	Ints1	Ak8	Nol6	Inip	Max	Ranbp2	Ctc1	Sf1	Aftph	Acadvl	Prom2	Kat8	Nol11	Brms1l	Ehd1	Aar2	Ext2	Sae1	Atf4	Sel1l	Penk	Aebp2	Tti1	Pola1	Cstf1	Tipin	Polrmt	Cpsf6	Ppih	Lin37	Mcub	Irf9	Pcna	Acd	Ahctf1	Gpaa1	Nup153	Atp7a	Adap2	Golga5	Asgr2	Abcc9	Wdpcp	Gtf2h2	Slc3a1	Abcb7	Orc3	Taf1b	Cemip	Odad4	Abraxas2	Nphp3	Phb1	Hexim1	Gtf2a1	Hcfc1	Sting1	Spaar	Aqr	Acp3	Actl6a	Ascc2	Cacna1f	Derl1	Akap14	Apoo	Slc17a9	Nol3	Apoe	Clu	Clta	Bub1b	Hspa8	Nlrp5	Bloc1s6	Hnrnpa1	Golga3	Chmp1b1	Ubb	Arid2	Arl8b	Nup188	Aff1	Calr	Hps4	Eftud2	Idh3a	Atp6v1a	Ace	Mtrex	Blm	Ak6	Snf8	Polr3h	Isy1	Mau2	Serpina5	Mrgbp	Cxxc1	Ccdc88a	Actb	Hgs	Agl	Med1	Atp6v0a1	Pms2	Sf3a1	Atp1b4	Sun1	Anxa7	Uvrag	Ache	Ankfy1	Ing2	Syf2	Ctsh	Stpg4	Pes1	Litaf	Afg3l1	Pdyn	Tepsin	Slc30a5	Arfgef2	B3galt6	Cdc42	Hsd17b10	Snrnp70	Tmem258	Abcb6	Bax	1810055G02Rik	Adam8	Brpf1	Nat8	Emc6	Ccdc103	Dnttip1	Abcb11	Dgcr8	Ramac	Anp32e	Edn1	Prpf31	Vamp7	Vamp1	Akap6	Vps8	Swi5	Rela	Ecpas	Akap3	Spaca3	Piga	Pole	Anxa11	Pigm	Lamtor1	Cubn	Sec22b	Nop14	Atp5mc1	Dad1	Ap1ar	Atg14	Cecr2	H1f9	Sfxn5	Cask	LRWD1	Cel	Msh2	Dis3	Actr1a	Lamp5	Bard1	Trappc2b	Timm10	Cltb	Emc1	Vps39	Smarcb1	Jup	Ercc1	Akap8	Gtf2e1	Ccnh	B4galt1	Dnajb11	Cbfb	Foxh1	Arfgef1	Acr	Snca	Itpr1	Xpc
+GO:0043228	"non-membrane-bounded organelle"	Ahctf1	Shcbp1l	Akap1	Rsf1	Baz1b	Nek4	Synm	Mapre1	Haus8	Znf207	Ccsap	Dhx9	Wdpcp	Cdc42bpa	D1Pas1	Bbln	Chchd1	Tubgcp2	Arl3	Actr2	Cenpo	Taf1b	Dnah9	Suz12	Odad4	Cldn11	Abraxas2	Clasp2	Tmem250-ps	4933427D14Rik	Haus1	Bves	Myh6	Atad5	Dnah11	Orc1	Ankrd23	Aaas	Actl6a	Clip2	Add1	Bod1	Donson	Bbs4	Des	Akap14	Smc1a	Hydin	Chtf18	Myo18b	Birc5	Cdc45	0610010K14Rik	Utp6	Abr	Mark2	Ciao1	Actn1	Pold1	Spmip6	Abce1	Ddx4	Rnf20	Rrp8	Arhgef7	Tpx2	Tex12	Apc2	Akap8l	Mapt	Arid2	Spag17	Eid3	Rsph4a	Cryab	Narf	Katna1	Ndc80	Blm	Bsn	Arl8a	Clasp1	Mrpl42	Mms22l	Cep295	Rsph6a	Mkks	Numa1	Borcs5	Kntc1	Ccdc65	Rcc2	Mybpc3	Actb	Cdkn2aip	Tinf2	Bmf	Mybphl	Myo5a	Arpc2	Adora2a	Bcas3	Cttn	Ctsh	P3h4	Gsn	Sp140l1	Pes1	Limch1	Ect2	Casp14	Ina	Arid1b	Acta1	Chek1	Mrpl1	Slx1b	Cul3	Cbx3	Ddx28	Arfgef2	Baz1a	Sycp1	4931428L18Rik	Dnaaf8	Abi2	Ncapd2	Lrif1	Calb1	Brca1	Clock	Taf1d	Myo7a	Kash5	Septin7	Septin11	Adprs	Nat8	Carmil2	Cfap96	Ccdc103	2810004N23Rik	Disc1	Atrx	Rad21	Anp32e	Dctn2	Cenpe	Apobec3	Dnah1	Camsap2	Swi5	Hnrnpu	Polr1a	Pole	Ankrd34c	Ankrd1	Bloc1s2	Cdk5r1	Kif3a	Csnk2a1	Sfr1	Cdk2ap1	Nol6	Aurkb	Abca2	Aurkc	Atp2a1	Mbd5	Cecr2	Cfl1	Prim1	Tcap	Ctc1	A1cf	Dsn1	Dctn1	Septin3	Sptb	Eif4ebp2	Actg1	Frg1	Gins1	Sirt7	Acadvl	LRWD1	Hus1	Incenp	Nol11	Aamp	Actr1a	Bcas2	Atxn2	Brms1l	Dlgap3	Actl9	Bcl6	Abhd5	Maea	Tnnc1	Dkc1	Anapc5	Mphosph10	Agbl2	Marcks	Nlrp6	Cdk5rap2	Acaca	Smarcb1	Cenpa	Ccdc78	Kmt5a	Tti1	Birc2	Psmd2	Hfe	Fam161a	Pola1	Rfc1	Abcf1	Tipin	Rad51	Abra	Cenpi	Ctcf	Ank1	Ank3	Rad17	Mpv17l2	Acd
+GO:0043229	"intracellular organelle"	Rsf1	Haus8	Ctsd	Dhx9	Hmg20b	Tubgcp2	Arl3	Thoc1	Actr2	Suz12	Haus1	Slc18a2	Azin2	Cdc73	Supt4h1a	Atad5	Lsm10	Aaas	Anapc1	Fxn	Agk	Bmi1	Cstf2	Chtf18	Epc1	Atp6ap2	Cdc45	Amot	Abr	Ctnnb1	Cdip1	Atxn7l3	Ddx4	Rnf20	Cetn2	Tpx2	Tex12	Smad1	Aldob	Bcl2l14	Ndc80	Taf5l	Atf1	Micos13	Cep295	Ndc1	Cd2bp2	Celf1	Tomm22	Sgf29	Crhbp	Ccdc65	Trappc5	Rcc2	Mybpc3	Tinf2	Rad51c	Mybphl	Bmf	Dab2	Myo5a	Abraxas1	Bcas3	Arhgap1	Ca4	Ect2	Pnpt1	Dmtn	Cbx3	Drap1	Cracr2a	Ahr	Nbas	4931428L18Rik	Pam16	Lrif1	Dhx15	F2r	Pmpcb	Ap4b1	Myo7a	Septin7	H2-D1	Cdkn1a	Nucb1	Epn2	Kat2a	Brd1	Sptlc1	Nxf1	2810004N23Rik	Atrx	Dnah1	Atp5f1a	Adam10	Arl6ip1	Stx12	Mvb12a	Bloc1s2	Csnk2a1	Bin1	Abca12	Copb1	Bahd1	Aurkc	Akr1b1	Sf3b1	Abca1	Nup214	A1cf	Sptb	Emc2	Gnptab	Chga	Sirt7	Hm13	Incenp	Cd74	Faf1	Actl9	Abhd5	Rprd1b	Prss57	Myocd	Atl1	Bmal1	Nelfa	Acaca	Cd177	Pdia3	Aadac	Abcc8	4931406C07Rik	Kmt5a	Snx10	Abcf1	Tyrp1	Prpf38a	Tead1	Becn1	Ash2l	Mpv17l2	Anpep	Nfkb1	Agtr1a	Egfr	Baz1b	Synm	Cox7b	Ccsap	Bckdha	D1Pas1	Prpf18	Atp5po	St3gal1	Chchd1	Sec61g	Anxa3	Cenpo	Mfn1	Chmp1a	Clasp2	Bves	Mycb	Cspg5	Snrpd3	Ddx39b	Gnrh1	Timm17a	Cpsf1	4930595M18Rik	Des	Bbs4	Trim12a	Slbp	Lig4	Birc5	Ambp	Ercc3	Prkcd	Ell	Actn1	Snx3	Spmip6	Abce1	Psmc5	Camlg	Ap2a1	Spag17	Eid3	Sdhc	Cdk8	Fos	Bsn	B2m	Mrpl42	Mms22l	Rsph6a	Klhl12	Mkks	Borcs5	Lamp2	Cdkn2aip	Adora2a	Coa8	Dnajc11	Neu4	Gemin2	P3h4	Gsn	Ccz1	Limch1	Arid1b	Chek1	Bace2	Dr1	Noc2l	Dlat	Lrrk2	Ercc2	Sycp1	Suclg1	Abi2	Ccl22	Insig1	Kash5	Eipr1	Mrps36	Cdk12	Mrnip	Dbh	Rgp1	Dna2	Carmil2	Cfap96	P4hb	Fga	Adar	Mapk10	Apobec3	Arfip1	Cenpe	Akap5	Polr1a	Ankrd34c	Eqtn	Cdk5r1	Colec12	Antxr1	Myzap	Cdk2ap1	Sfr1	Lig3	Aurkb	Abca2	Cd63	Atp2a1	Eaf1	Prim1	Alox5	Dsn1	Ankrd27	Septin3	5730455P16Rik	Actg1	Trappc14	Gins1	Sart3	Hus1	Atg16l1	Bcas2	Atxn2	Srpra	Bcl6	Asph	Gemin5	Dkc1	Anapc5	Mphosph10	Atp2a2	Agbl2	Cdk5rap2	Cenpa	Rad51b	Birc2	Fam161a	Cenps	Amph	Ctcf	Abhd17a	Ank3	Immp1l	Paxx	Rab3il1	Akap1	Tert	Shcbp1l	Taf12	Nek4	Mapre1	Atxn1	Gripap1	Bcor	Epm2a	Znf207	Magoh	Nutf2	Prpf4	Cd46	Nrgn	Bbln	Phf5a	Cox4i1	Sec31a	Abca3	Dmac1	Dnah9	Bcl9	4933427D14Rik	Ormdl3	Dnah11	Vac14	Ankrd23	Adnp	Gaa	Fam8a1	Akap9	Donson	Gzmb	Lin52	Smc1a	Hydin	Dnm1l	Sec63	B4galnt3	Ccnt1	0610010K14Rik	Clpx	Znfx1	Ssr4	Utp6	Ciao1	Pold1	Pick1	Rrp8	Atf2	Abcd3	Mccc1	Akap8l	Mapt	1600014C10Rik	Cebpa	Gtf2f1	Ern1	Rsph4a	Cryab	Narf	Pdlim4	Katna1	Hadha	Abat	Casq1	App	Bcl11a	Insr	Ckmt1	Dgat2	Numa1	Bud13	Kntc1	Akt2	Apob	Prkdc	Cadps	Clca1	Agrp	Cyc1	Bicd1	Babam2	Sp140l1	Casc3	Ina	Akap7	Acta1	Mrpl1	Slx1b	Sec11a	Ddx28	Baz1a	Eloa	Serpini1	Clock	Taf1d	Asxl1	Tcf7l2	Amfr	Rad21	Camsap2	Ganab	Hnrnpu	Adrb1	Elovl6	Ints1	Nol6	Inip	Max	Mbd5	Cfl1	Ranbp2	Tcap	Ctc1	Sf1	Eif4ebp2	Aftph	Acadvl	Kat8	Nol11	Aamp	Brms1l	Aar2	Ext2	Maea	Sae1	Atf4	Marcks	Sel1l	Penk	Aebp2	Tti1	Psmd2	Pola1	Cstf1	Tipin	Polrmt	Cpsf6	Abra	Ppih	Lin37	Ank1	Mcub	Irf9	Rad17	Dnaaf8	Pcna	Acd	Ahctf1	Gpaa1	Nup153	Atp7a	Adap2	Golga5	Asgr2	Abcc9	Wdpcp	Cdc42bpa	Gtf2h2	Slc3a1	Abcb7	Orc3	Taf1b	Cemip	Odad4	Cldn11	Abraxas2	Tmem250-ps	Myh6	Phb1	Hexim1	Gtf2a1	Hcfc1	Orc1	Sting1	Spaar	Aqr	Acp3	Actl6a	Clip2	Add1	Bod1	Ascc2	Derl1	Akap14	Apoo	Slc17a9	Myo18b	Nol3	Apoe	Clu	Clta	Bub1b	Mark2	Hspa8	Nlrp5	Arhgef7	Hnrnpa1	Golga3	Apc2	Chmp1b1	Ubb	Arid2	Arl8b	Nup188	Aff1	Calr	Hps4	Eftud2	Idh3a	Atp6v1a	Mtrex	Blm	Ak6	Arl8a	Clasp1	Snf8	Polr3h	Isy1	Mau2	Serpina5	Mrgbp	Cxxc1	Ccdc88a	Actb	Hgs	Arpc2	Agl	Med1	Atp6v0a1	Pms2	Sf3a1	Atp1b4	Sun1	Cttn	Anxa7	Uvrag	Ache	Ankfy1	Ing2	Syf2	Ctsh	Stpg4	Pes1	Litaf	Afg3l1	Casp14	Pdyn	Cul3	Tepsin	Slc30a5	Arfgef2	B3galt6	Cdc42	Ncapd2	Hsd17b10	Calb1	Brca1	Snrnp70	Tmem258	Abcb6	Bax	Septin11	Adprs	1810055G02Rik	Adam8	Brpf1	Nat8	Emc6	Ccdc103	Disc1	Dnttip1	Abcb11	Dgcr8	Ramac	Anp32e	Dctn2	Prpf31	Edn1	Vamp7	Vamp1	Akap6	Vps8	Swi5	Rela	Ecpas	Spaca3	Piga	Pole	Anxa11	Pigm	Ankrd1	Lamtor1	Cubn	Sec22b	Kif3a	Nop14	Atp5mc1	Dad1	Ap1ar	Atg14	Cecr2	H1f9	Dctn1	Sfxn5	Cask	Frg1	LRWD1	Cel	Msh2	Dis3	Actr1a	Lamp5	Bard1	Dlgap3	Trappc2b	Timm10	Tnnc1	Cltb	Emc1	Vps39	Smarcb1	Jup	Ccdc78	Ercc1	Akap8	Hfe	Gtf2e1	Rfc1	Ccnh	B4galt1	Dnajb11	Cbfb	Rad51	Cenpi	Foxh1	Arfgef1	Acr	Snca	Itpr1	Xpc
+GO:0043230	"extracellular organelle"	Nol3	Prom2	Ppfia3	Abcb6	Defb1	Alpl
+GO:0043231	"intracellular membrane-bounded organelle"	Rsf1	Haus8	Ctsd	Dhx9	Hmg20b	Thoc1	Suz12	Slc18a2	Azin2	Cdc73	Supt4h1a	Lsm10	Aaas	Anapc1	Fxn	Agk	Bmi1	Cstf2	Epc1	Atp6ap2	Cdc45	Amot	Ctnnb1	Cdip1	Atxn7l3	Cetn2	Tex12	Smad1	Aldob	Taf5l	Atf1	Micos13	Ndc1	Cd2bp2	Celf1	Tomm22	Sgf29	Crhbp	Trappc5	Rad51c	Dab2	Abraxas1	Arhgap1	Ca4	Pnpt1	Dmtn	Cbx3	Ahr	Drap1	Cracr2a	Nbas	4931428L18Rik	Pam16	Lrif1	Dhx15	F2r	Pmpcb	Ap4b1	H2-D1	Cdkn1a	Nucb1	Epn2	Kat2a	Brd1	Sptlc1	Nxf1	Atp5f1a	Adam10	Arl6ip1	Stx12	Mvb12a	Csnk2a1	Bin1	Abca12	Copb1	Bahd1	Akr1b1	Sf3b1	Abca1	Nup214	A1cf	Emc2	Gnptab	Chga	Sirt7	Hm13	Cd74	Faf1	Rprd1b	Prss57	Myocd	Atl1	Bmal1	Nelfa	Cd177	Pdia3	Aadac	Abcc8	4931406C07Rik	Snx10	Tyrp1	Prpf38a	Tead1	Becn1	Ash2l	Mpv17l2	Anpep	Nfkb1	Egfr	Baz1b	Cox7b	Bckdha	Prpf18	Atp5po	St3gal1	Chchd1	Sec61g	Anxa3	Mfn1	Chmp1a	Bves	Mycb	Cspg5	Snrpd3	Ddx39b	Gnrh1	Timm17a	Cpsf1	4930595M18Rik	Trim12a	Slbp	Lig4	Birc5	Ambp	Ercc3	Prkcd	Ell	Snx3	Psmc5	Camlg	Ap2a1	Sdhc	Cdk8	Fos	Bsn	B2m	Mrpl42	Mms22l	Klhl12	Borcs5	Lamp2	Cdkn2aip	Coa8	Dnajc11	Gemin2	P3h4	Ccz1	Arid1b	Chek1	Bace2	Dr1	Noc2l	Dlat	Lrrk2	Ercc2	Sycp1	Suclg1	Ccl22	Insig1	Eipr1	Mrps36	Cdk12	Mrnip	Dbh	Rgp1	Dna2	P4hb	Fga	Adar	Mapk10	Arfip1	Akap5	Polr1a	Eqtn	Colec12	Antxr1	Myzap	Cdk2ap1	Sfr1	Lig3	Abca2	Cd63	Eaf1	Alox5	Ankrd27	5730455P16Rik	Trappc14	Gins1	Sart3	Hus1	Atg16l1	Bcas2	Srpra	Asph	Gemin5	Dkc1	Mphosph10	Atp2a2	Rad51b	Cenps	Amph	Ctcf	Abhd17a	Paxx	Immp1l	Rab3il1	Akap1	Tert	Taf12	Atxn1	Gripap1	Bcor	Epm2a	Magoh	Nutf2	Prpf4	Cd46	Nrgn	Phf5a	Cox4i1	Sec31a	Abca3	Dmac1	Bcl9	Ormdl3	Vac14	Gaa	Adnp	Fam8a1	Akap9	Gzmb	Lin52	Dnm1l	Sec63	B4galnt3	Ccnt1	0610010K14Rik	Clpx	Znfx1	Ssr4	Utp6	Pold1	Pick1	Rrp8	Atf2	Abcd3	Mccc1	1600014C10Rik	Cebpa	Gtf2f1	Ern1	Narf	Pdlim4	Hadha	Abat	Casq1	App	Bcl11a	Insr	Ckmt1	Dgat2	Bud13	Akt2	Apob	Prkdc	Cadps	Clca1	Agrp	Cyc1	Bicd1	Babam2	Sp140l1	Casc3	Akap7	Slx1b	Sec11a	Baz1a	Eloa	Serpini1	Clock	Taf1d	Asxl1	Tcf7l2	Amfr	Ganab	Adrb1	Elovl6	Ints1	Nol6	Inip	Max	Ranbp2	Ctc1	Sf1	Aftph	Acadvl	Kat8	Nol11	Brms1l	Aar2	Ext2	Sae1	Atf4	Sel1l	Penk	Aebp2	Tti1	Pola1	Cstf1	Tipin	Polrmt	Cpsf6	Ppih	Lin37	Mcub	Irf9	Pcna	Acd	Ahctf1	Gpaa1	Nup153	Atp7a	Adap2	Golga5	Asgr2	Abcc9	Gtf2h2	Slc3a1	Abcb7	Orc3	Taf1b	Cemip	Abraxas2	Phb1	Hexim1	Gtf2a1	Hcfc1	Sting1	Spaar	Aqr	Acp3	Actl6a	Ascc2	Derl1	Apoo	Slc17a9	Nol3	Apoe	Clu	Clta	Bub1b	Hspa8	Nlrp5	Hnrnpa1	Golga3	Chmp1b1	Ubb	Arid2	Arl8b	Nup188	Aff1	Calr	Hps4	Eftud2	Idh3a	Atp6v1a	Mtrex	Blm	Ak6	Snf8	Polr3h	Isy1	Mau2	Serpina5	Mrgbp	Cxxc1	Ccdc88a	Actb	Hgs	Agl	Med1	Atp6v0a1	Pms2	Sf3a1	Atp1b4	Sun1	Anxa7	Uvrag	Ache	Ankfy1	Ing2	Syf2	Stpg4	Ctsh	Pes1	Litaf	Afg3l1	Pdyn	Tepsin	Slc30a5	B3galt6	Cdc42	Hsd17b10	Snrnp70	Tmem258	Abcb6	Bax	1810055G02Rik	Adam8	Brpf1	Nat8	Emc6	Dnttip1	Abcb11	Dgcr8	Ramac	Anp32e	Edn1	Prpf31	Vamp7	Vamp1	Akap6	Vps8	Swi5	Rela	Ecpas	Spaca3	Piga	Pole	Anxa11	Pigm	Lamtor1	Cubn	Sec22b	Nop14	Atp5mc1	Dad1	Ap1ar	Atg14	Cecr2	H1f9	Sfxn5	Cask	LRWD1	Cel	Msh2	Dis3	Actr1a	Lamp5	Bard1	Trappc2b	Timm10	Cltb	Emc1	Vps39	Smarcb1	Jup	Ercc1	Akap8	Gtf2e1	Ccnh	B4galt1	Dnajb11	Cbfb	Foxh1	Arfgef1	Acr	Snca	Itpr1	Xpc
+GO:0043232	"intracellular non-membrane-bounded organelle"	Ahctf1	Shcbp1l	Akap1	Rsf1	Baz1b	Nek4	Synm	Mapre1	Haus8	Znf207	Ccsap	Dhx9	Wdpcp	Cdc42bpa	D1Pas1	Bbln	Chchd1	Tubgcp2	Arl3	Actr2	Cenpo	Taf1b	Dnah9	Suz12	Odad4	Cldn11	Abraxas2	Clasp2	Tmem250-ps	4933427D14Rik	Haus1	Bves	Myh6	Atad5	Dnah11	Orc1	Ankrd23	Aaas	Actl6a	Clip2	Add1	Bod1	Donson	Bbs4	Des	Akap14	Smc1a	Hydin	Chtf18	Myo18b	Birc5	Cdc45	0610010K14Rik	Utp6	Abr	Mark2	Ciao1	Actn1	Pold1	Spmip6	Abce1	Ddx4	Rnf20	Rrp8	Arhgef7	Tpx2	Tex12	Apc2	Akap8l	Mapt	Arid2	Spag17	Eid3	Rsph4a	Cryab	Narf	Katna1	Ndc80	Blm	Bsn	Arl8a	Clasp1	Mrpl42	Mms22l	Cep295	Rsph6a	Mkks	Numa1	Borcs5	Kntc1	Ccdc65	Rcc2	Mybpc3	Actb	Cdkn2aip	Tinf2	Bmf	Mybphl	Myo5a	Arpc2	Adora2a	Bcas3	Cttn	Ctsh	P3h4	Gsn	Sp140l1	Pes1	Limch1	Ect2	Casp14	Ina	Arid1b	Acta1	Chek1	Mrpl1	Slx1b	Cul3	Cbx3	Ddx28	Arfgef2	Baz1a	Sycp1	4931428L18Rik	Dnaaf8	Abi2	Ncapd2	Lrif1	Calb1	Brca1	Clock	Taf1d	Myo7a	Kash5	Septin7	Septin11	Adprs	Nat8	Carmil2	Cfap96	Ccdc103	2810004N23Rik	Disc1	Atrx	Rad21	Anp32e	Dctn2	Cenpe	Apobec3	Dnah1	Camsap2	Swi5	Hnrnpu	Polr1a	Pole	Ankrd34c	Ankrd1	Bloc1s2	Cdk5r1	Kif3a	Csnk2a1	Sfr1	Cdk2ap1	Nol6	Aurkb	Abca2	Aurkc	Atp2a1	Mbd5	Cecr2	Cfl1	Prim1	Tcap	Ctc1	A1cf	Dsn1	Dctn1	Septin3	Sptb	Eif4ebp2	Actg1	Frg1	Gins1	Sirt7	Acadvl	LRWD1	Hus1	Incenp	Nol11	Aamp	Actr1a	Bcas2	Atxn2	Brms1l	Dlgap3	Actl9	Bcl6	Abhd5	Maea	Tnnc1	Dkc1	Anapc5	Mphosph10	Agbl2	Marcks	Cdk5rap2	Acaca	Smarcb1	Cenpa	Ccdc78	Kmt5a	Tti1	Birc2	Psmd2	Hfe	Fam161a	Pola1	Rfc1	Abcf1	Tipin	Rad51	Abra	Cenpi	Ctcf	Ank1	Ank3	Rad17	Mpv17l2	Acd
+GO:0043233	"organelle lumen"	Taf12	Egfr	Baz1b	Bckdha	Gtf2h2	Chchd1	Orc3	Taf1b	Bves	Gtf2a1	Cdc73	Supt4h1a	Hcfc1	Gaa	Actl6a	4930595M18Rik	Agk	Cstf2	Epc1	Birc5	Clu	Cdc45	Ccnt1	0610010K14Rik	Clpx	Utp6	Ell	Atxn7l3	Pold1	Hspa8	Psmc5	Rrp8	Atf2	Hnrnpa1	Abcd3	Tex12	Gtf2f1	Aff1	Idh3a	Narf	Pdlim4	Blm	Ak6	Hadha	Abat	Mrpl42	Mms22l	Casq1	Bcl11a	Celf1	Insr	Apob	Sgf29	Mrgbp	Cxxc1	Cdkn2aip	Actb	Agrp	Gemin2	Ache	P3h4	Pes1	Sp140l1	Pdyn	Chek1	Slx1b	Dr1	Dlat	Ercc2	Sycp1	Suclg1	Eloa	Pam16	Lrif1	Serpini1	Clock	Pmpcb	Taf1d	Mrps36	Kat2a	Dbh	Brd1	Brpf1	Nat8	Dna2	Dnttip1	Anp32e	Edn1	Swi5	Polr1a	Pole	Cubn	Antxr1	Csnk2a1	Myzap	Cdk2ap1	Sfr1	Nol6	Cd63	Eaf1	Alox5	Cask	Gins1	Sirt7	Acadvl	LRWD1	Hus1	Kat8	Nol11	Dis3	Bcas2	Brms1l	Rprd1b	Trappc2b	Timm10	Atf4	Prss57	Dkc1	Mphosph10	Nelfa	Penk	Akap8	4931406C07Rik	Aebp2	Gtf2e1	Pola1	Tipin	Ccnh	Cpsf6	Ctcf	Ash2l	Mpv17l2
+GO:0043235	"receptor complex"	Itga1	Il12rb1	Htr3a	Il6st	Cntfr	Ticam2	Ahr	Emilin1	Bmp2	Abcg5	Gh1	Itga4	Itga2	Traf2	Cd247	Tradd	Gria4	Itga5	Tas1r2	IGHE	Grm1	Grin1	Calcr	Gp1ba	Ceacam1	Alcam	Il18r1	Cd44	Hsp90ab1	Calcrl	Gabbr1	Cd40	Insr	Itga6	Itga11	Cacng2	Gabra1	Itga7	Itga9	Tlr2	Csf2	Lime1	Ifnl2	Erbb2	Chrna1	Itgal	Grik1	Itgav	Plxnb1	Cd14	Htr2a	Acvr1	Itga3	Il6	B2m	Itga10
+GO:0043240	"Fanconi anaemia nuclear complex"	Cenps
+GO:0043256	"laminin complex"	Lama1	Lamb1	Lama5
+GO:0043257	"laminin-8 complex"	Lamb1
+GO:0043259	"laminin-10 complex"	Lama5
+GO:0043265	"ectoplasm"	Gys2
+GO:0043291	"RAVE complex"	Rogdi
+GO:0043292	"contractile fiber"	Frg1	Tnnc1	Mybpc3	Ankrd23	Acta1	Mybphl	Atp2a1	Abra	Ankrd1	Tcap	Ank1	Ank3	Myh6	Cdk5r1	Cryab
+GO:0043293	"apoptosome"	Apaf1
+GO:0043296	"apical junction complex"	Camsap3	Actb	Adcyap1r1
+GO:0043505	"CENP-A containing nucleosome"	Cenpa
+GO:0043509	"activin A complex"	Inhba
+GO:0043511	"inhibin complex"	Inha
+GO:0043512	"inhibin A complex"	Inha
+GO:0043513	"inhibin B complex"	Inha
+GO:0043514	"interleukin-12 complex"	Il12a
+GO:0043527	"tRNA methyltransferase complex"	Hsd17b10	Mettl1	Trmt6
+GO:0043529	"GET complex"	Camlg
+GO:0043540	"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase complex"	Pfkfb1
+GO:0043541	"UDP-N-acetylglucosamine transferase complex"	Ext2
+GO:0043564	"Ku70:Ku80 complex"	Paxx
+GO:0043596	"nuclear replication fork"	Pola1	Baz1b	Tipin	Bcas2	Pold1
+GO:0043601	"nuclear replisome"	Pola1	Pold1	Bcas2
+GO:0043614	"multi-eIF complex"	Eif1
+GO:0043625	"delta DNA polymerase complex"	Pold1
+GO:0043626	"PCNA complex"	Pcna
+GO:0043679	"axon terminus"	Hcn3	Rapgef3	Aak1	Adra2a
+GO:0044194	"cytolytic granule"	Arl8b	Gzmb
+GO:0044207	"translation initiation ternary complex"	Eif2s1
+GO:0044217	"other organism part"	C4a	C9
+GO:0044218	"other organism cell membrane"	C9
+GO:0044224	"juxtaparanode region of axon"	Dlg2
+GO:0044232	"organelle membrane contact site"	Pik3r4	Atg16l1	Ckmt1	Ahcyl1	Mospd2	Micos13	Atg2a	C2cd2l
+GO:0044233	"ER-mitochondrion membrane contact site"	Ahcyl1
+GO:0044280	"subplasmalemmal coating"	Cabp1
+GO:0044284	"mitochondrial crista junction"	Micos13
+GO:0044289	"contact site"	Ckmt1
+GO:0044291	"cell-cell contact zone"	Cdh2	Afdn	Adra1b
+GO:0044292	"dendrite terminus"	Cdkl5	Grk3
+GO:0044294	"dendritic growth cone"	Cdkl5
+GO:0044295	"axonal growth cone"	Agrn
+GO:0044297	"cell body"	Abl1	Adora1	Nradd	Aif1	Adcy8	Cck
+GO:0044298	"cell body membrane"	Adcy8	Nradd
+GO:0044299	"C-fiber"	Ccl2
+GO:0044300	"cerebellar mossy fiber"	Bin1
+GO:0044302	"dentate gyrus mossy fiber"	Map1b
+GO:0044303	"axon collateral"	Whrn
+GO:0044304	"main axon"	Ermn	Cldn5	Adam22	Adora1	Ank3	Bin1	Apbb1	Dlg2
+GO:0044305	"calyx of Held"	Aak1
+GO:0044306	"neuron projection terminus"	Hcn3	Apc	Rapgef3	Aak1	Adra2a
+GO:0044307	"dendritic branch"	Akap9
+GO:0044308	"axonal spine"	Dbn1
+GO:0044309	"neuron spine"	Abi3bp	Akap5	Fmr1	Baiap2	Atp1a3	Chrna7	Ppp1r9b	Dbn1
+GO:0044316	"cone cell pedicle"	Hcn3
+GO:0044317	"rod spherule"	Pclo
+GO:0044322	"endoplasmic reticulum quality control compartment"	Asgr2
+GO:0044326	"dendritic spine neck"	Atp1a3
+GO:0044327	"dendritic spine head"	Atp1a3
+GO:0044352	"pinosome"	Ankfy1
+GO:0044354	"macropinosome"	Ankfy1
+GO:0044391	"ribosomal subunit"	Mrpl1	D1Pas1	Mrpl42	Dlgap3	Mpv17l2
+GO:0044393	"microspike"	Ezr
+GO:0044530	"supraspliceosomal complex"	Adar
+GO:0044545	"NSL complex"	Hcfc1
+GO:0044609	"DBIRD complex"	Ccar2
+GO:0044611	"nuclear pore inner ring"	Nup188
+GO:0044613	"nuclear pore central transport channel"	Nutf2
+GO:0044614	"nuclear pore cytoplasmic filaments"	Ranbp2
+GO:0044615	"nuclear pore nuclear basket"	Cetn2
+GO:0044665	"MLL1/2 complex"	Ash2l	0610010K14Rik
+GO:0044666	"MLL3/4 complex"	Ash2l
+GO:0044753	"amphisome"	Lrrk2	Chmp1a
+GO:0044754	"autolysosome"	Lrrk2	Gaa
+GO:0044796	"DNA polymerase processivity factor complex"	Pcna
+GO:0044815	"DNA packaging complex"	Actb	Cenpa	Ncapd2
+GO:0044853	"plasma membrane raft"	Cdh1	Lrrk2	Adcy8
+GO:0045009	"chitosome"	Abcb6
+GO:0045025	"mitochondrial degradosome"	Pnpt1
+GO:0045092	"interleukin-18 receptor complex"	Il18r1
+GO:0045095	"keratin filament"	Casp14
+GO:0045098	"type III intermediate filament"	Des
+GO:0045111	"intermediate filament cytoskeleton"	Casp14	Ina	Narf	Synm	Rad51	Adora2a	Des	Cldn11	Carmil2
+GO:0045120	"pronucleus"	Stpg4
+GO:0045121	"membrane raft"	Lrrk2	Lamtor1	Abca1	Cdh1	Adcy8
+GO:0045171	"intercellular bridge"	Aamp
+GO:0045177	"apical part of cell"	Mal	Acp3	Abcb1b	Abcb11	Fabp1	C2cd2l
+GO:0045178	"basal part of cell"	Adcy10	Rapgef3	Clasp1	Abca1	Abcc1
+GO:0045179	"apical cortex"	Fabp1
+GO:0045180	"basal cortex"	Clasp1
+GO:0045202	"synapse"	Cdh10	Cyth2	Akap1	Ina	Igsf9b	Gripap1	Ctsd	Aldoc	Atp1a3	Ppp1r9b	Cyth1	Arfgef2	Atp2b2	Ngdn	Slc6a4	Septin3	Actg1	Ap2b1	Abi3bp	Adra1d	Actr2	Hcn3	Adora1	Camk2a	Bsn	Farp1	Septin7	Gria2	Dnm3	Adora3	Marcks	Dgki	Penk	Chrna7	Arhgef9	Akap9	Actr3	Abcc8	Mapk10	Anks1b	Rims2	Adam10	Akap5	Nol3	Actb	Amph	Fmr1	Baiap2	Clta	Stx12	Chrna10	Abhd17a	Abr	Rad51	Gabra6	Rapgef3	Ache	Chd4	Caly	Aak1	Adra2a	Pick1
+GO:0045211	"postsynaptic membrane"	Cdh10	Cyth2	Dnm3	Akap9	Abhd17a	Farp1
+GO:0045239	"tricarboxylic acid cycle enzyme complex"	Idh3a	Dld	Suclg2	Fh	Bckdha	Pdhx	Suclg1	Mrps36
+GO:0045240	"dihydrolipoyl dehydrogenase complex"	Dld	Pdhx	Bckdha	Mrps36
+GO:0045242	"isocitrate dehydrogenase complex (NAD+)"	Idh3a
+GO:0045244	"succinate-CoA ligase complex (GDP-forming)"	Suclg1
+GO:0045251	"electron transfer flavoprotein complex"	Etfa
+GO:0045252	"oxoglutarate dehydrogenase complex"	Dld	Mrps36
+GO:0045254	"pyruvate dehydrogenase complex"	Dlat
+GO:0045257	"succinate dehydrogenase complex (ubiquinone)"	Sdhc
+GO:0045259	"proton-transporting ATP synthase complex"	Atp5f1a	Atp5po	Atp5mc1
+GO:0045261	"proton-transporting ATP synthase complex, catalytic core F(1)"	Atp5f1a
+GO:0045263	"proton-transporting ATP synthase complex, coupling factor F(o)"	Atp5po	Atp5mc1
+GO:0045265	"proton-transporting ATP synthase, stator stalk"	Atp5po
+GO:0045267	"proton-transporting ATP synthase, catalytic core"	Atp5f1a
+GO:0045271	"respiratory chain complex I"	Dmac1	Ndufa5
+GO:0045273	"respiratory chain complex II"	Sdhc
+GO:0045275	"respiratory chain complex III"	Mt-Cyb	Cyc1
+GO:0045277	"respiratory chain complex IV"	Coa6	Cox4i1
+GO:0045281	"succinate dehydrogenase complex"	Sdhc
+GO:0045283	"fumarate reductase complex"	Sdhc
+GO:0045293	"mRNA editing complex"	Cbll1	A1cf
+GO:0045298	"tubulin complex"	Mapt
+GO:0045323	"interleukin-1 receptor complex"	Ticam2
+GO:0045334	"clathrin-coated endocytic vesicle"	Ap2a1	Tyrp1	Cemip	Epn2
+GO:0045335	"phagocytic vesicle"	Adam8	Abca1	Anxa3	Snx3
+GO:0045495	"pole plasm"	Ddx4	Ankrd34c
+GO:0046540	"U4/U6 x U5 tri-snRNP complex"	Eftud2
+GO:0046581	"intercellular canaliculus"	Mmp13
+GO:0046611	"lysosomal proton-transporting V-type ATPase complex"	Spaar
+GO:0046691	"intracellular canaliculus"	Abcb11
+GO:0046695	"SLIK (SAGA-like) complex"	Taf12
+GO:0046696	"lipopolysaccharide receptor complex"	Cd14
+GO:0046930	"pore complex"	Bax	Cd34	Adam10	C6
+GO:0048179	"activin receptor complex"	Acvr1
+GO:0048180	"activin complex"	Inhba
+GO:0048188	"Set1C/COMPASS complex"	Ash2l
+GO:0048237	"rough endoplasmic reticulum lumen"	Edn1
+GO:0048269	"methionine adenosyltransferase complex"	Mat1a
+GO:0048471	"perinuclear region of cytoplasm"	Adam10	Clu	Dgat2	Ranbp2	Actl9	Trappc2b
+GO:0048475	"coated membrane"	Sec31a	Aftph	Cltb	Ap3s1	Klhl12	Epn2	Ap5b1	Ap1b1	Clta	Ap4b1	Ap2a1	Aak1	Copb1	Ap2b1
+GO:0048476	"Holliday junction resolvase complex"	Rad51c
+GO:0048500	"signal recognition particle"	Srp14
+GO:0048770	"pigment granule"	Apoe	Abcb6
+GO:0048786	"presynaptic active zone"	Bsn	Adora1	Adra2a	Dgki
+GO:0048787	"presynaptic active zone membrane"	Adra2a	Dgki
+GO:0048788	"cytoskeleton of presynaptic active zone"	Bsn
+GO:0051233	"spindle midzone"	Arl8a	Cenpe	Incenp
+GO:0051286	"cell tip"	Ezr	Pi4k2a
+GO:0055028	"cortical microtubule"	Clasp2	Numa1
+GO:0055029	"nuclear DNA-directed RNA polymerase complex"	Kat2a	Gtf2e1	Gtf2f1	Pola1	Polr3h	Ccnh	Polr1a	Cdc73	Ercc2	Gtf2h2	Gtf2a1	Myzap	Rprd1b
+GO:0055037	"recycling endosome"	Akap5	Pdlim4	Abhd17a	Abcb11	Eipr1
+GO:0055038	"recycling endosome membrane"	Abcb11
+GO:0055087	"Ski complex"	Skic2
+GO:0055120	"striated muscle dense body"	Frg1
+GO:0060053	"neurofilament cytoskeleton"	Synm
+GO:0060076	"excitatory synapse"	Atp2b2	Chd4	Actr3
+GO:0060077	"inhibitory synapse"	Bsn
+GO:0060091	"kinocilium"	Dcdc2	Mkks
+GO:0060170	"ciliary membrane"	Gnb1	Bbip1	Ehd1
+GO:0060171	"stereocilium membrane"	Ripor2
+GO:0060187	"cell pole"	Ezr	Pi4k2a
+GO:0060205	"cytoplasmic membrane-bounded vesicle lumen"	Dbh	Prss57	Pdyn	Serpini1	Penk
+GO:0060293	"germ plasm"	Ddx4	Ankrd34c
+GO:0060342	"photoreceptor inner segment membrane"	Rho
+GO:0060417	"yolk"	Insr
+GO:0060473	"cortical granule"	Nlrp5
+GO:0060987	"lipid tube"	Bin1
+GO:0061574	"ASAP complex"	Acin1
+GO:0061617	"MICOS complex"	Apoo
+GO:0061638	"CENP-A containing chromatin"	Cenpa
+GO:0061673	"mitotic spindle astral microtubule"	Mapre1	Ccsap
+GO:0061689	"tricellular tight junction"	Marveld2
+GO:0061695	"transferase complex, transferring phosphorus-containing groups"	Pik3ca	Chuk	Prps1	Pik3r4	Atg14	Las1l	Crcp	Ccnb1	Ercc2	Gtf2h2	Cdk5	Ccnd1	Gtf2f1	Gnptab	Acvr1	Cab39	Ccne2	Ccnd3	Papss1	Pkm	Ceacam1	Ccnk	Gtf2a1	Rprd1b	Cdc73	Cdk12	Kat2a	Vac14	Ccnd2	Dapk1	Polr3h	Igf1r	Atg101	Insr	Dna2	Pfkl	Prkaa1	Ccny	Phka1	Pik3cg	Mad2l2	Prkdc	Ccne1	Gtf2e1	Pola1	Ccna2	Polrmt	Pard3	Ccnh	Polr1a	Ccnt1	Pole	Znfx1	Becn1	Pfkfb1	Myzap	Pold1	Tert
+GO:0061696	"pituitary gonadotropin complex"	Cga
+GO:0061700	"GATOR2 complex"	Castor1
+GO:0061702	"inflammasome complex"	Casp1	Aim2	Naip6
+GO:0061742	"chaperone-mediated autophagy translocation complex"	Lamp2
+GO:0065010	"extracellular membrane-bounded organelle"	Nol3	Prom2	Ppfia3	Abcb6	Defb1	Alpl
+GO:0070013	"intracellular organelle lumen"	Taf12	Egfr	Baz1b	Bckdha	Gtf2h2	Chchd1	Orc3	Taf1b	Bves	Gtf2a1	Cdc73	Supt4h1a	Hcfc1	Gaa	Actl6a	4930595M18Rik	Agk	Cstf2	Epc1	Birc5	Clu	Cdc45	Ccnt1	0610010K14Rik	Clpx	Utp6	Ell	Atxn7l3	Pold1	Hspa8	Psmc5	Rrp8	Atf2	Hnrnpa1	Abcd3	Tex12	Gtf2f1	Aff1	Idh3a	Narf	Pdlim4	Blm	Ak6	Hadha	Abat	Mrpl42	Mms22l	Casq1	Bcl11a	Celf1	Insr	Sgf29	Mrgbp	Cxxc1	Cdkn2aip	Actb	Agrp	Gemin2	Ache	P3h4	Pes1	Sp140l1	Pdyn	Chek1	Slx1b	Dr1	Dlat	Ercc2	Sycp1	Suclg1	Eloa	Pam16	Lrif1	Serpini1	Clock	Pmpcb	Taf1d	Mrps36	Kat2a	Dbh	Brd1	Brpf1	Nat8	Dna2	Dnttip1	Anp32e	Edn1	Swi5	Polr1a	Pole	Cubn	Antxr1	Csnk2a1	Myzap	Cdk2ap1	Sfr1	Nol6	Cd63	Eaf1	Alox5	Cask	Gins1	Sirt7	Acadvl	LRWD1	Hus1	Kat8	Nol11	Dis3	Bcas2	Brms1l	Rprd1b	Trappc2b	Timm10	Atf4	Prss57	Dkc1	Mphosph10	Nelfa	Penk	Akap8	4931406C07Rik	Aebp2	Gtf2e1	Pola1	Tipin	Ccnh	Cpsf6	Ctcf	Ash2l	Mpv17l2
+GO:0070021	"transforming growth factor beta1-type II receptor-type I receptor complex"	Ceacam1
+GO:0070032	"synaptobrevin 2-SNAP-25-syntaxin-1a-complexin I complex"	Snap23
+GO:0070033	"synaptobrevin 2-SNAP-25-syntaxin-1a-complexin II complex"	Cplx2
+GO:0070044	"synaptobrevin 2-SNAP-25-syntaxin-1a complex"	Snap25
+GO:0070062	"extracellular exosome"	Abcb6
+GO:0070069	"cytochrome complex"	Mt-Cyb	Cox10	Cyc1	Coa6	Cox4i1
+GO:0070110	"ciliary neurotrophic factor receptor complex"	Cntfr
+GO:0070160	"occluding junction"	Marveld2	Adcyap1r1	Actb
+GO:0070161	"anchoring junction"	Pgm5	Adcyap1r1	Gja1	Akr1b1	Mmp13	Abcb4	Afdn	Abi2	Smpx	Camsap3	Nexn	F11r	Marveld2	Dlg1	Adra1b	Ccn3	Actr3	Cdh2	Actb	B4galt1
+GO:0070176	"DRM complex"	Lin52
+GO:0070187	"telosome"	Acd
+GO:0070195	"growth hormone receptor complex"	Gh1
+GO:0070209	"ASTRA complex"	Tti1
+GO:0070274	"RES complex"	Bud13
+GO:0070288	"ferritin complex"	Ftl1
+GO:0070310	"ATR-ATRIP complex"	Antxr1
+GO:0070319	"Golgi to plasma membrane transport vesicle"	Rab3il1
+GO:0070369	"beta-catenin-TCF7L2 complex"	Ctnnb1
+GO:0070381	"endosome to plasma membrane transport vesicle"	App
+GO:0070382	"exocytic vesicle"	Adam10	Akap7	App	Amph	Penk	Rab3il1	Abcc8
+GO:0070390	"transcription export complex 2"	Cetn2
+GO:0070418	"DNA-dependent protein kinase complex"	Prkdc
+GO:0070419	"nonhomologous end joining complex"	Lig4	Dclre1c
+GO:0070421	"DNA ligase III-XRCC1 complex"	Lig3
+GO:0070435	"Shc-EGFR complex"	Shc1
+GO:0070436	"Grb2-EGFR complex"	Grb2
+GO:0070443	"Mad-Max complex"	Max
+GO:0070449	"elongin complex"	Eloa
+GO:0070461	"SAGA-type complex"	Kat2a	Taf12	Dr1	Sgf29	Atxn7l3
+GO:0070469	"respiratory chain"	Mt-Cyb	Dmac1	Cox7b	Cyc1	Ndufa5	Coa6	Sdhc	Cox4i1
+GO:0070514	"SRF-myogenin-E12 complex"	Myocd
+GO:0070516	"CAK-ERCC2 complex"	Ccnh
+GO:0070522	"ERCC4-ERCC1 complex"	Ercc1
+GO:0070531	"BRCA1-A complex"	Abraxas1
+GO:0070532	"BRCA1-B complex"	Bard1
+GO:0070533	"BRCA1-C complex"	Bard1
+GO:0070545	"PeBoW complex"	Pes1
+GO:0070552	"BRISC complex"	Abraxas2
+GO:0070557	"PCNA-p21 complex"	Cdkn1a
+GO:0070578	"RISC-loading complex"	Ago1
+GO:0070603	"SWI/SNF superfamily-type complex"	Rsf1	Arid1b	Baz1b	Suz12	Actl6a	0610010K14Rik	Arid2	Cecr2	Smarcb1	Baz1a	Anp32e	Cdk2ap1
+GO:0070618	"Grb2-Sos complex"	Khdrbs1
+GO:0070622	"UDP-N-acetylglucosamine-lysosomal-enzyme N-acetylglucosaminephosphotransferase complex"	Gnptab
+GO:0070652	"HAUS complex"	Haus1
+GO:0070685	"macropinocytic cup"	Snx5
+GO:0070691	"dimeric positive transcription elongation factor complex b"	Ccnt1
+GO:0070695	"FHF complex"	Aktip
+GO:0070701	"mucus layer"	Muc2
+GO:0070721	"ISGF3 complex"	Irf9
+GO:0070724	"BMP receptor complex"	Bmp2
+GO:0070743	"interleukin-23 complex"	Il12b
+GO:0070761	"pre-snoRNP complex"	Nop56
+GO:0070762	"nuclear pore transmembrane ring"	Ndc1
+GO:0070765	"gamma-secretase complex"	Aph1a
+GO:0070772	"PAS complex"	Vac14
+GO:0070775	"H3 histone acetyltransferase complex"	Brd1
+GO:0070776	"MOZ/MORF histone acetyltransferase complex"	Brd1
+GO:0070820	"tertiary granule"	Cd177	Adam8
+GO:0070821	"tertiary granule membrane"	Cd177
+GO:0070822	"Sin3-type complex"	Csnk2a1	Brms1l
+GO:0070826	"paraferritin complex"	Slc11a2
+GO:0070847	"core mediator complex"	Med1
+GO:0070852	"cell body fiber"	Apc
+GO:0070860	"RNA polymerase I core factor complex"	Taf1b
+GO:0070876	"SOSS complex"	Inip
+GO:0070877	"microprocessor complex"	Dgcr8
+GO:0070937	"CRD-mediated mRNA stability complex"	Csde1
+GO:0070938	"contractile ring"	Alkbh4	Maea
+GO:0070939	"Dsl1p complex"	Nbas
+GO:0070971	"endoplasmic reticulum exit site"	Apob
+GO:0070985	"TFIIK complex"	Ccnh
+GO:0070993	"translation preinitiation complex"	Dhx29	Eif1
+GO:0071001	"U4/U6 snRNP"	Ppih
+GO:0071004	"U2-type prespliceosome"	Sf3a1
+GO:0071005	"U2-type precatalytic spliceosome"	Bud13
+GO:0071006	"U2-type catalytic step 1 spliceosome"	Casc3
+GO:0071007	"U2-type catalytic step 2 spliceosome"	Aqr
+GO:0071008	"U2-type post-mRNA release spliceosomal complex"	Dhx15
+GO:0071010	"prespliceosome"	Sf3a1
+GO:0071011	"precatalytic spliceosome"	Bud13	Prpf38a
+GO:0071012	"catalytic step 1 spliceosome"	Casc3
+GO:0071013	"catalytic step 2 spliceosome"	4931428L18Rik	Aqr
+GO:0071014	"post-mRNA release spliceosomal complex"	Dhx15	Syf2
+GO:0071020	"post-spliceosomal complex"	Isy1	Prpf18
+GO:0071021	"U2-type post-spliceosomal complex"	Prpf18
+GO:0071065	"alpha9-beta1 integrin-vascular cell adhesion molecule-1 complex"	Vcam1
+GO:0071141	"SMAD protein complex"	Hmga2	Smad1
+GO:0071142	"SMAD2 protein complex"	Smad1
+GO:0071144	"SMAD2-SMAD3 protein complex"	Smad1
+GO:0071159	"NF-kappaB complex"	Rela	Nfkb1
+GO:0071162	"CMG complex"	Cdc45
+GO:0071203	"WASH complex"	Capza1
+GO:0071204	"histone pre-mRNA 3'end processing complex"	Slbp
+GO:0071254	"cytoplasmic U snRNP body"	Lsm10
+GO:0071256	"translocon complex"	Sec61g	Ssr4
+GO:0071261	"Ssh1 translocon complex"	Sec61g
+GO:0071339	"MLL1 complex"	0610010K14Rik
+GO:0071439	"clathrin complex"	Aak1
+GO:0071513	"phosphopantothenoylcysteine decarboxylase complex"	Ppcdc
+GO:0071540	"eukaryotic translation initiation factor 3 complex, eIF3e"	Eif3a
+GO:0071541	"eukaryotic translation initiation factor 3 complex, eIF3m"	Eif3a
+GO:0071546	"pi-body"	Ankrd34c
+GO:0071561	"nucleus-vacuole junction"	Pik3r4
+GO:0071564	"npBAF complex"	Actl6a
+GO:0071565	"nBAF complex"	Arid1b
+GO:0071595	"Nem1-Spo7 phosphatase complex"	Cnep1r1
+GO:0071598	"neuronal ribonucleoprotein granule"	Eif4ebp2
+GO:0071664	"catenin-TCF7L2 complex"	Ctnnb1	Tcf7l2	Jup
+GO:0071665	"gamma-catenin-TCF7L2 complex"	Jup
+GO:0071735	"IgG immunoglobulin complex"	Ighg
+GO:0071742	"IgE immunoglobulin complex"	IGHE
+GO:0071744	"IgE B cell receptor complex"	IGHE
+GO:0071745	"IgA immunoglobulin complex"	Igha	Jchain
+GO:0071746	"IgA immunoglobulin complex, circulating"	Igha	Jchain
+GO:0071748	"monomeric IgA immunoglobulin complex"	Igha
+GO:0071749	"polymeric IgA immunoglobulin complex"	Igha	Jchain
+GO:0071750	"dimeric IgA immunoglobulin complex"	Igha	Jchain
+GO:0071751	"secretory IgA immunoglobulin complex"	Igha
+GO:0071752	"secretory dimeric IgA immunoglobulin complex"	Igha
+GO:0071753	"IgM immunoglobulin complex"	Ighm
+GO:0071754	"IgM immunoglobulin complex, circulating"	Ighm
+GO:0071756	"pentameric IgM immunoglobulin complex"	Ighm
+GO:0071757	"hexameric IgM immunoglobulin complex"	Ighm
+GO:0071782	"endoplasmic reticulum tubular network"	Arl6ip1	Asph	Atl1
+GO:0071797	"LUBAC complex"	Rbck1
+GO:0071817	"MMXD complex"	Ciao1
+GO:0071818	"BAT3 complex"	Bag6
+GO:0071819	"DUBm complex"	Atxn7l3
+GO:0071821	"FANCM-MHF complex"	Cenps
+GO:0071914	"prominosome"	Prom2
+GO:0071920	"cleavage body"	Cstf2
+GO:0071942	"XPC complex"	Cetn2
+GO:0071943	"Myc-Max complex"	Mycb
+GO:0071944	"cell periphery"	Gnb1	Ahnak	Ticam2	Col1a1	Abcc9	Cyth1	Rbp3	Zp1	Dag1	Itga2	Efemp2	Cd247	Scimp	Grb2	Igf1	Adgre5	Adamts1	Grm1	Casp8	Shc1	Farp1	Tmem250-ps	Clasp2	Cdh1	Alcam	Aph1a	Dnm3	Atp6v0d2	Arhgap12	Akap9	Itga7	Cacna1a	Bcan	Cyba	Acan	Tgfb1	Csf2	Col11a1	Amelx	Ifnl2	Erbb2	Alox15	Clta	Abcc2	Itgal	Actn1	Hcn1	Col2a1	Exoc2	Mal	Adam17	Ap2a1	Emilin1	Abcg5	Cacna1c	Fzd8	Traf2	Itga4	Gria4	Col5a1	IGHE	Adora1	Atp1a1	Nradd	Bsn	Gp1ba	Clasp1	Il18r1	Abcg1	Col4a1	Cd40	Abhd2	Insr	Dgki	Cabp1	Numa1	Kcnh2	C6	Ankrd45	Abcc1	Fabp1	Rho	Lime1	Pld2	Chrna1	Eea1	Grik1	Cttn	Ache	Acvr1	Cldn4	Aak1	Gsn	Lama5	Dcc	Adra2a	C2cd2l	Sgcg	Vcam1	Il12rb1	Adamts10	H2-DMa	Gja1	Lrrk2	Bmp2	Ripor2	Ap2b1	Dlg1	Calb1	Lum	Sparcl1	Abcb1b	Hmgb1	Casp3	Septin11	H2-D1	Itgb3	Bbip1	Hsp90ab1	Acp1	Lilra6	Itga6	Itga11	Adcy8	Abcb11	Tnn	Akap5	Adam10	Klhdc8b	Rp2	Apc	Anxa1	Catsperz	Itga3	Adcy6	Col12a1	Itga1	Akap13	Plekho1	Cyth2	Cdh10	Htr3a	Il6st	Cntfr	Ppp1r9b	Scn10a	Abca1	Lamb1	Gnas	Sptb	Col10a1	Itga5	Acta2	Khdrbs1	Lama1	Cav3	Grin1	Actr1a	Col3a1	Calcr	Ehd1	Ceacam1	Acvr2a	Arhgef5	Kcnc1	Maea	Calcrl	Asph	Slc3a2	Gabbr1	Cacng2	Aqp4	Abcc8	Itga9	Tlr2	Gpsm2	Hfe	Antxr1	Glra3	Abhd17a	Mmrn1	Itgav	Il6	B2m	Itga10
+GO:0071953	"elastic fiber"	Efemp2
+GO:0071986	"Ragulator complex"	Lamtor1
+GO:0072357	"PTW/PP1 phosphatase complex"	Ppp1ca
+GO:0072379	"ER membrane insertion complex"	Bag6	Sgta
+GO:0072380	"TRC complex"	Sgta
+GO:0072487	"MSL complex"	Kat8
+GO:0072534	"perineuronal net"	Acan
+GO:0072536	"interleukin-23 receptor complex"	Il12rb1
+GO:0072546	"ER membrane protein complex"	Emc1
+GO:0072557	"IPAF inflammasome complex"	Naip6
+GO:0072558	"NLRP1 inflammasome complex"	Casp1
+GO:0072559	"NLRP3 inflammasome complex"	Casp1
+GO:0072562	"blood microparticle"	Fga
+GO:0072588	"box H/ACA RNP complex"	Dkc1
+GO:0072686	"mitotic spindle"	Arhgef7	Mapre1	Aaas	Ccsap	Cep295	Cenpe	Ect2
+GO:0072687	"meiotic spindle"	Shcbp1l	Kash5	Incenp
+GO:0080008	"Cul4-RING E3 ubiquitin ligase complex"	Arih1	Ambra1	Ddb2
+GO:0089701	"U2AF"	Sf1
+GO:0090443	"FAR/SIN/STRIPAK complex"	Strn
+GO:0090498	"extrinsic component of Golgi membrane"	Golga3
+GO:0090533	"cation-transporting ATPase complex"	Slc9a1	Atp2a2	Atp1a1
+GO:0090534	"calcium ion-transporting ATPase complex"	Atp2a2
+GO:0090535	"WICH complex"	Baz1b
+GO:0090537	"CERF complex"	Cecr2
+GO:0090543	"Flemming body"	Agap2
+GO:0090545	"CHD-type complex"	Cdk2ap1
+GO:0090571	"RNA polymerase II transcription repressor complex"	Bin1	Max	Lin52	Drap1
+GO:0090575	"RNA polymerase II transcription factor complex"	Smad1	Ercc2	Gtf2h2	Cebpa	Gtf2f1	Fos	Bcl9	Mycb	Gtf2a1	Atf1	Kat2a	Atf4	Gemin5	Myocd	Adnp	Bmal1	Ascc2	Ing2	Gtf2e1	Ccnh	Med1	Cbfb	Foxh1	Ctnnb1	Tead1	Irf9
+GO:0090576	"RNA polymerase III transcription factor complex"	Gtf3c1	Brf2
+GO:0090619	"meiotic spindle pole"	Kash5
+GO:0090658	"cone matrix sheath"	Rbp3
+GO:0090661	"box H/ACA telomerase RNP complex"	Dkc1
+GO:0090665	"glycoprotein complex"	Gp1ba	Cav3	Dag1	Sgcg
+GO:0097014	"ciliary plasm"	Dnah11	Dnah1	Nek4	Dnah9	Odad4	Ccdc103	Wdpcp	Spag17	Arfgef2	Akap14	Hydin	Ccdc65	Rsph4a	Rsph6a
+GO:0097025	"MPP7-DLG1-LIN7 complex"	Dlg1
+GO:0097038	"perinuclear endoplasmic reticulum"	Clu	Adam10	Dgat2
+GO:0097057	"TRAF2-GSTP1 complex"	Gstp1
+GO:0097058	"CRLF-CLCF1 complex"	Clcf1
+GO:0097059	"CNTFR-CLCF1 complex"	Clcf1
+GO:0097060	"synaptic membrane"	Cdh10	Cyth2	Akap5	Adam10	Dnm3	Clta	Dgki	Ppp1r9b	Abhd17a	Farp1	Cyth1	Akap9	Ache	Adra2a	Ap2b1
+GO:0097124	"cyclin A2-CDK2 complex"	Ccna2
+GO:0097125	"cyclin B1-CDK1 complex"	Ccnb1
+GO:0097128	"cyclin D1-CDK4 complex"	Ccnd1
+GO:0097129	"cyclin D2-CDK4 complex"	Ccnd2
+GO:0097130	"cyclin D3-CDK4 complex"	Ccnd3
+GO:0097134	"cyclin E1-CDK2 complex"	Ccne1
+GO:0097135	"cyclin E2-CDK2 complex"	Ccne2
+GO:0097136	"Bcl-2 family protein complex"	Bbc3	Bak1	Bcl2l11	Bad	Bax
+GO:0097138	"BAD-BCL-2 complex"	Bad
+GO:0097140	"BIM-BCL-xl complex"	Bcl2l11
+GO:0097141	"BIM-BCL-2 complex"	Bcl2l11
+GO:0097143	"PUMA-BCL-xl complex"	Bbc3
+GO:0097144	"BAX complex"	Bax
+GO:0097145	"BAK complex"	Bak1
+GO:0097149	"centralspindlin complex"	Ect2
+GO:0097165	"nuclear stress granule"	Dhx9
+GO:0097169	"AIM2 inflammasome complex"	Aim2
+GO:0097179	"protease inhibitor complex"	Casp1	Klk1b8	Serpina5
+GO:0097180	"serine protease inhibitor complex"	Klk1b8	Serpina5
+GO:0097181	"protein C inhibitor-coagulation factor V complex"	Serpina5
+GO:0097182	"protein C inhibitor-coagulation factor Xa complex"	Serpina5
+GO:0097183	"protein C inhibitor-coagulation factor XI complex"	Serpina5
+GO:0097196	"Shu complex"	Swsap1
+GO:0097197	"tetraspanin-enriched microdomain"	Adam10
+GO:0097208	"alveolar lamellar body"	Abca3	Ctsh
+GO:0097209	"epidermal lamellar body"	Abca12
+GO:0097224	"sperm connecting piece"	Akap4
+GO:0097225	"sperm midpiece"	Ace
+GO:0097226	"sperm mitochondrial sheath"	Hsp90aa1
+GO:0097227	"sperm annulus"	Ddx6
+GO:0097228	"sperm principal piece"	Akap3
+GO:0097229	"sperm end piece"	Akap4
+GO:0097232	"lamellar body membrane"	Abca3	Abca12
+GO:0097233	"alveolar lamellar body membrane"	Abca3
+GO:0097234	"epidermal lamellar body membrane"	Abca12
+GO:0097255	"R2TP complex"	Pih1d1
+GO:0097268	"cytoophidium"	Ctps1
+GO:0097342	"ripoptosome"	Casp8
+GO:0097344	"Rix1 complex"	Wdr18
+GO:0097346	"INO80-type complex"	Anp32e	Actl6a
+GO:0097356	"perinucleolar compartment"	Celf1
+GO:0097361	"CIA complex"	Ciao1
+GO:0097362	"MCM8-MCM9 complex"	Mcm8
+GO:0097381	"photoreceptor disc membrane"	Rho
+GO:0097386	"glial cell projection"	Cnga3	App	Sirt2	Akr1b1	Aqp4	Eif2s1
+GO:0097409	"glial cytoplasmic inclusion"	Fbxo7
+GO:0097413	"Lewy body"	Fbxo7	Atf4	Arih1
+GO:0097414	"classical Lewy body"	Fbxo7
+GO:0097418	"neurofibrillary tangle"	Clu
+GO:0097422	"tubular endosome"	Ankrd27
+GO:0097427	"microtubule bundle"	Numa1	Mark2
+GO:0097431	"mitotic spindle pole"	Arhgef7
+GO:0097433	"dense body"	Sybu
+GO:0097440	"apical dendrite"	Map2	Arpc2
+GO:0097441	"basilar dendrite"	Enpp1	Nefh
+GO:0097443	"sorting endosome"	Arhgap1
+GO:0097444	"spine apparatus"	Chrna7	Fmr1
+GO:0097447	"dendritic tree"	Nefh	Atp1a3	Ppp1r9b	Dbn1	Abi3bp	Grk3	Enpp1	Cacna1d	Dlg4	Clip2	Akap9	Chrna7	Ada	Cx3cr1	Akap5	Abl1	Arpc2	Fmr1	Baiap2	Map2	Cdkl5
+GO:0097449	"astrocyte projection"	Aqp4	Eif2s1	App
+GO:0097450	"astrocyte end-foot"	Aqp4	Eif2s1
+GO:0097451	"glial limiting end-foot"	Eif2s1
+GO:0097452	"GAIT complex"	Gapdh
+GO:0097453	"mesaxon"	Mag
+GO:0097454	"Schwann cell microvillus"	Akr1b1
+GO:0097456	"terminal loop"	Sirt2
+GO:0097457	"hippocampal mossy fiber"	Map1b
+GO:0097462	"Lewy neurite"	Fbxo7
+GO:0097470	"ribbon synapse"	Bsn	Rims2
+GO:0097487	"multivesicular body, internal vesicle"	Egfr	Apoe
+GO:0097489	"multivesicular body, internal vesicle lumen"	Egfr
+GO:0097504	"Gemini of coiled bodies"	Gemin2
+GO:0097505	"Rad6-Rad18 complex"	Rad18
+GO:0097512	"cardiac myofibril"	Cryab
+GO:0097513	"myosin II filament"	Myh10
+GO:0097517	"contractile actin filament bundle"	Acta1
+GO:0097519	"DNA recombinase complex"	Rag1
+GO:0097524	"sperm plasma membrane"	Abhd2	Hsp90ab1
+GO:0097525	"spliceosomal snRNP complex"	Sart3	Prpf31	Cd2bp2	Snrnp70	Ppih	Prpf4	Sf3b1	Phf5a	Ddx39b	Eftud2
+GO:0097526	"spliceosomal tri-snRNP complex"	Prpf31	Eftud2
+GO:0097539	"ciliary transition fiber"	Cenpf
+GO:0097541	"axonemal basal plate"	Wdpcp
+GO:0097542	"ciliary tip"	Cdkl5
+GO:0097543	"ciliary inversin compartment"	Nphp3
+GO:0097546	"ciliary base"	Cep126
+GO:0097550	"transcriptional preinitiation complex"	Gtf2a1
+GO:0097574	"lateral part of cell"	Rapgef3	Gpsm2
+GO:0097575	"lateral cell cortex"	Gpsm2
+GO:0097629	"extrinsic component of omegasome membrane"	Atg14
+GO:0097632	"extrinsic component of pre-autophagosomal structure membrane"	Atg14
+GO:0097648	"G-protein coupled receptor complex"	Calcrl	Calcr	Grm1	Gabbr1
+GO:0097651	"phosphatidylinositol 3-kinase complex, class I"	Pik3ca	Pik3cg
+GO:0097708	"intracellular vesicle"	Egfr	Atp7a	Golga5	Gripap1	Ctsd	Abcc9	Cd46	Nrgn	Sec31a	Abca3	Anxa3	Cemip	Slc18a2	Cspg5	Azin2	Gnrh1	Sting1	Acp3	Slc17a9	Dnm1l	Nol3	Apoe	Clta	Prkcd	Cdip1	Snx3	Pick1	Nlrp5	Chmp1b1	Ap2a1	Hps4	Pdlim4	Bsn	Snf8	Klhl12	App	Serpina5	Akt2	Cadps	Clca1	Ccdc88a	Hgs	Dab2	Arhgap1	Bicd1	Ca4	Anxa7	Ankfy1	Litaf	Ccz1	Ctsh	Pdyn	Akap7	Bace2	Tepsin	Cracr2a	Serpini1	Ap4b1	Abcb6	Eipr1	Epn2	Dbh	Adam8	Abcb11	Fga	Vamp7	Vamp1	Vps8	Adam10	Akap5	Ecpas	Spaca3	Anxa11	Adrb1	Stx12	Mvb12a	Eqtn	Cubn	Lamtor1	Sec22b	Abca12	Copb1	Abca2	Cd63	Ap1ar	Abca1	Ankrd27	5730455P16Rik	Chga	Aftph	Trappc14	Cel	Actr1a	Prss57	Cltb	Penk	Cd177	Abcc8	Snx10	Amph	Tyrp1	Abhd17a	Acr	Rab3il1	Snca	Itpr1
+GO:0098533	"ATPase dependent transmembrane transport complex"	Atp2a2	Slc9a1	Abcg5	Atp1a1
+GO:0098536	"deuterosome"	Ccdc78
+GO:0098539	"cytoplasmic side of transport vesicle membrane"	Ap4b1
+GO:0098541	"cytoplasmic side of trans-Golgi network transport vesicle membrane"	Ap4b1
+GO:0098547	"lumenal side of Golgi membrane"	Nucb1
+GO:0098552	"side of membrane"	Epm2a	Ppp1r9b	Gnas	Hm13	Abcb1b	Ap4b1	Nucb1	Abcg1	Acp1	Cabp1	Borcs5	Rasal3	Alox15	Coa8	Anxa1	Becn1	Cdip1	Litaf	C2cd2l
+GO:0098553	"lumenal side of endoplasmic reticulum membrane"	Hm13
+GO:0098554	"cytoplasmic side of endoplasmic reticulum membrane"	Hm13	Epm2a
+GO:0098556	"cytoplasmic side of rough endoplasmic reticulum membrane"	Epm2a
+GO:0098559	"cytoplasmic side of early endosome membrane"	Litaf
+GO:0098560	"cytoplasmic side of late endosome membrane"	Cdip1
+GO:0098562	"cytoplasmic side of membrane"	Rasal3	Hm13	Acp1	Alox15	Epm2a	Ap4b1	Cabp1	Borcs5	Becn1	Ppp1r9b	Cdip1	Litaf	Gnas	C2cd2l
+GO:0098573	"intrinsic component of mitochondrial membrane"	Apoo	Afg3l1
+GO:0098574	"cytoplasmic side of lysosomal membrane"	Borcs5
+GO:0098576	"lumenal side of membrane"	Hm13	Nucb1	Coa8
+GO:0098577	"inactive sex chromosome"	Hnrnpu
+GO:0098588	"bounding membrane of organelle"	Gnb1	Golga5	Gripap1	Epm2a	Cd46	Nrgn	Slc3a1	Sec31a	Sec61g	Abca3	Anxa3	Mfn1	Chmp1a	Slc18a2	Cspg5	Vac14	Spaar	Atp6ap2	Sec63	Clta	Ssr4	Cdip1	Golga3	Chmp1b1	Ap2a1	Ubb	Arl8b	Aldob	Atp6v1a	Snf8	Klhl12	Borcs5	Chrna7	Serpina5	Tomm22	Lamp2	Cadps	Clca1	Dab2	Atp6v0a1	Dnajc11	Ca4	Anxa7	Litaf	Dmtn	Tepsin	Ccl22	Ap4b1	Abcb6	H2-D1	Nucb1	Epn2	Adam8	Bbip1	Emc6	Abcb11	Vamp7	Vamp1	Akap6	Stx12	Mvb12a	Eqtn	Cubn	Lamtor1	Sec22b	Abca12	Copb1	Abca2	Atg14	Aftph	Atg16l1	Ehd1	Lamp5	Srpra	Trappc2b	Cltb	Vps39	Atp2a2	Cd177	Abcc8	Snx10	Amph	Tyrp1	Abhd17a	Becn1	Snca	Itpr1	Agtr1a
+GO:0098590	"plasma membrane region"	Gnb1	Cyth2	Plekho1	Cdh10	Mal	Adam17	Ap2a1	Lrrk2	Ppp1r9b	Cyth1	Abca1	Ripor2	Ap2b1	Scimp	Adora1	Abcb1b	Farp1	Ehd1	Cdh1	Kcnc1	Bbip1	Hsp90ab1	Dnm3	Adra2a	Dgki	Akap9	Abcb11	Adcy8	Aqp4	Abcc1	Ankrd45	Rho	Antxr1	Akap5	Adam10	Klhdc8b	Rp2	Pld2	Clta	Abcc2	Abhd17a	Ache	Cldn4	Aak1	Adcy6	C2cd2l
+GO:0098591	"external side of apical plasma membrane"	Abcb1b
+GO:0098592	"cytoplasmic side of apical plasma membrane"	C2cd2l
+GO:0098594	"mucin granule"	Slc17a9
+GO:0098635	"protein complex involved in cell-cell adhesion"	Nlgn1	Lgals1
+GO:0098636	"protein complex involved in cell adhesion"	Itga1	Emilin1	Itga4	Itga2	Itga5	Nlgn1	Jam2	Itga6	Itga11	Itga7	Itga9	Plau	Tnn	Itgal	Mmrn1	Itgav	Itga3	Lgals1	Itga10
+GO:0098637	"protein complex involved in cell-matrix adhesion"	Mmrn1	Emilin1	Plau	Tnn
+GO:0098642	"network-forming collagen trimer"	Col10a1	Col4a1
+GO:0098643	"banded collagen fibril"	Col11a1	Col5a1	Lum	Col1a1	Col3a1	Col2a1
+GO:0098644	"complex of collagen trimers"	Col10a1	Col11a1	Col5a1	Col4a1	Lum	Col1a1	Col3a1	Col2a1
+GO:0098645	"collagen network"	Col10a1	Col4a1
+GO:0098646	"collagen sheet"	Col10a1
+GO:0098647	"collagen beaded filament"	Dcx
+GO:0098651	"basement membrane collagen trimer"	Col4a1
+GO:0098687	"chromosomal region"	Ahctf1	Baz1a	Rcc2	Aurkb	Cenpo	Ndc80	Cenpi	Bod1	Kntc1	Cenpa	Atrx	Ctc1	Dsn1	4931428L18Rik	Acd
+GO:0098791	"Golgi subcompartment"	B4galt1	Acp3	Atl1	B4galnt3	Slc30a5	Akap9	B3galt6	5730455P16Rik	St3gal1	Arfip1
+GO:0098793	"presynapse"	Ctsd	Cyth1	Septin3	Actg1	Ap2b1	Hcn3	Adora1	Bsn	Dgki	Penk	Abcc8	Anks1b	Adam10	Amph	Rad51	Rapgef3	Clta	Ache	Aak1	Adra2a
+GO:0098794	"postsynapse"	Cdh10	Cyth2	Ina	Igsf9b	Gripap1	Aldoc	Atp1a3	Ppp1r9b	Abi3bp	Actr2	Camk2a	Farp1	Septin7	Dnm3	Marcks	Chrna7	Akap9	Arhgef9	Mapk10	Akap5	Nol3	Actb	Fmr1	Baiap2	Stx12	Clta	Abr	Abhd17a	Caly	Akap1	Pick1
+GO:0098796	"membrane protein complex"	Pik3ca	Ap3s1	Ahnak	Ticam2	Snap23	Atp5po	Dag1	Cox4i1	Itga2	Cd247	Sec31a	Sec61g	Aktip	Dmac1	Grb2	Igf1	Mfn1	Grm1	Casp8	Shc1	Cdh1	Phb1	Alcam	Ndufa5	Cnep1r1	Aph1a	Ormdl3	Vac14	Sting1	Spaar	Fam8a1	Timm17a	Atp6v0d2	Akap9	Itga7	Derl1	Cacna1a	Agk	Cyba	Apoo	Csf2	Snap25	Atp6ap2	Sec63	Ifnl2	Erbb2	Gpaa1	Clta	Ssr4	Itgal	Cd14	Cd34	Snx1	Coa6	Hcn1	Chmp1b1	Ap2a1	Emilin1	Abcg5	Cacna1c	Fzd8	Ern1	Sdhc	Traf2	Itga4	Gria4	Atp6v1a	Vps26a	IGHE	Atp1a1	Gp1ba	Snf8	Il18r1	Ano1	Klhl12	Cd40	Insr	Kcnh2	C6	Tomm22	Lamp2	Lime1	Atp6v0a1	Cyc1	Chrna1	Dnajc11	Grik1	Sun1	Ankfy1	Acvr1	Aak1	Afg3l1	Sgcg	Vcam1	Il12rb1	Pik3r4	H2-DMa	Sec11a	Gja1	Bmp2	Ap2b1	Pam16	Dlg1	Hmgb1	Ap4b1	Insig1	Tmem258	Mep1a	Bax	Casp3	H2-D1	Epn2	Itgb3	Cnga3	Sptlc1	Lilra6	Itga6	Itga11	Abcb8	Amfr	Kcnq1	Akap6	Atp5f1a	Adam10	Piga	Apc	Mvb12a	Lamtor1	Elovl6	Catsperz	Itga3	Cplx2	Atp6v1d	Copb1	Itga1	Kcna1	Scap	Atp5mc1	Dad1	Htr3a	Il6st	Cntfr	Ap5b1	Atg14	Scn10a	Gnas	Slc1a2	Aftph	Itga5	Khdrbs1	Cav3	Grin1	Calcr	Ceacam1	Faf1	Acvr2a	Srpra	Ext2	Bet1	Calcrl	Cltb	Slc3a2	Gabbr1	Emc1	Vps39	Atp2a2	Sel1l	Cacng2	mt-Nd3	Pik3cg	Itga9	Abcc8	Pdia3	Tlr2	Cnga1	Scn2a	Mt-Cyb	Glra3	Atp6v1b1	Atp6v1e1	Ap1b1	Becn1	Itgav	Immp1l	Mcub	Slc9a1	Il6	B2m	Itga10
+GO:0098797	"plasma membrane protein complex"	Ahnak	Ticam2	Dag1	Itga2	Cd247	Grb2	Igf1	Grm1	Casp8	Shc1	Cdh1	Alcam	Aph1a	Atp6v0d2	Akap9	Itga7	Cacna1a	Cyba	Csf2	Ifnl2	Erbb2	Clta	Itgal	Hcn1	Ap2a1	Emilin1	Abcg5	Cacna1c	Fzd8	Itga4	Gria4	IGHE	Atp1a1	Gp1ba	Il18r1	Cd40	Insr	Kcnh2	C6	Lime1	Chrna1	Grik1	Acvr1	Sgcg	Vcam1	Il12rb1	H2-DMa	Gja1	Bmp2	Dlg1	Il6	Hmgb1	Casp3	H2-D1	Itgb3	Lilra6	Itga6	Itga11	Apc	Catsperz	Itga3	Itga1	Htr3a	Il6st	Cntfr	Scn10a	Gnas	Itga5	Khdrbs1	Cav3	Grin1	Calcr	Ceacam1	Acvr2a	Calcrl	Slc3a2	Gabbr1	Cacng2	Itga9	Abcc8	Tlr2	Glra3	Itgav	Traf2	B2m	Itga10
+GO:0098798	"mitochondrial protein complex"	Atp5mc1	Pnpt1	Mccc1	Dlat	Bckdha	Sdhc	Atp5po	Suclg1	Cox4i1	Pam16	Idh3a	Hsd17b10	Dmac1	Mfn1	Pmpcb	Hadha	Phb1	Mrpl42	Bax	Mrps36	Timm10	Timm17a	Dna2	Fxn	Tomm22	Agk	Apoo	Atp5f1a	Polrmt	Clpx	Cyc1	Dnajc11	Immp1l	Mcub	Mpv17l2	Afg3l1
+GO:0098799	"outer mitochondrial membrane protein complex"	Dnajc11	Mfn1	Tomm22
+GO:0098800	"inner mitochondrial membrane protein complex"	Pam16	Atp5f1a	Mcub	Dmac1	Atp5mc1	Timm17a	Cyc1	Agk	Phb1	Immp1l	Apoo	Sdhc	Atp5po	Cox4i1	Afg3l1
+GO:0098802	"plasma membrane receptor complex"	Itga1	Il12rb1	Htr3a	Il6st	Cntfr	Ticam2	Emilin1	Bmp2	Traf2	Itga4	Itga2	Cd247	Gria4	Itga5	IGHE	Grm1	Grin1	Calcr	Gp1ba	Ceacam1	Alcam	Il18r1	Calcrl	Gabbr1	Cd40	Insr	Itga6	Itga11	Cacng2	Itga7	Itga9	Tlr2	Csf2	Lime1	Ifnl2	Erbb2	Chrna1	Itgal	Grik1	Itgav	Acvr1	Itga3	Il6	B2m	Itga10
+GO:0098803	"respiratory chain complex"	Mt-Cyb	Dmac1	Cyc1	Ndufa5	Coa6	Sdhc	Cox4i1
+GO:0098826	"endoplasmic reticulum tubular network membrane"	Atl1
+GO:0098827	"endoplasmic reticulum subcompartment"	Dad1	Epm2a	Sec11a	Ern1	Emc2	Aldob	Sec61g	Hm13	Insig1	Tmem258	Faf1	Srpra	Casq1	Ormdl3	Ext2	Asph	Sptlc1	Emc1	Fam8a1	Atl1	Atp2a2	Sel1l	Derl1	Amfr	Aadac	Pdia3	Akap6	Sec63	Arl6ip1	Piga	Ssr4	Elovl6	B2m	Gpaa1
+GO:0098830	"presynaptic endosome"	Ctsd
+GO:0098831	"presynaptic active zone cytoplasmic component"	Bsn
+GO:0098833	"presynaptic endocytic zone"	Clta	Ap2b1
+GO:0098835	"presynaptic endocytic zone membrane"	Clta	Ap2b1
+GO:0098837	"postsynaptic recycling endosome"	Abhd17a	Akap5
+GO:0098839	"postsynaptic density membrane"	Akap9	Abhd17a
+GO:0098842	"postsynaptic early endosome"	Gripap1	Pick1
+GO:0098843	"postsynaptic endocytic zone"	Clta	Dnm3	Caly
+GO:0098844	"postsynaptic endocytic zone membrane"	Dnm3
+GO:0098845	"postsynaptic endosome"	Akap5	Nol3	Gripap1	Stx12	Abhd17a	Pick1
+GO:0098846	"podocyte foot"	Cask
+GO:0098850	"extrinsic component of synaptic vesicle membrane"	Amph
+GO:0098852	"lytic vacuole membrane"	Spaar	Abca2	Vps39	Arl8b	Borcs5	Abcb6	Lamp2	Vamp7
+GO:0098855	"HCN channel complex"	Hcn1
+GO:0098857	"membrane microdomain"	Lrrk2	Lamtor1	Abca1	Cdh1	Adcy8
+GO:0098858	"actin-based cell projection"	Dbn1	Akap5	Angpt1	Abi1	Adgrv1	Grxcr2	Akr1b1	Myo15a	Ripor2	Tprn	Apbb1	Whrn	Adcy6	Actn2
+GO:0098862	"cluster of actin-based cell projections"	Anks4b	Adgrv1	Abcc2	Mkks	Myo1c	Dcdc2	Grxcr2	Myo7a	Ripor2	Tprn	Whrn
+GO:0099400	"caveola neck"	Lrrk2
+GO:0099501	"exocytic vesicle membrane"	Abcc8	Amph
+GO:0099503	"secretory vesicle"	Nlrp5	Pdyn	Akap7	Bace2	Cracr2a	Abcc9	Cd46	Hps4	Chga	Abca3	Cel	Slc18a2	Dbh	Adam8	Prss57	App	Acp3	Penk	Cd177	Serpina5	Akt2	Slc17a9	Fga	Abcc8	Cadps	Vamp7	Vamp1	Clca1	Ctsh	Adam10	Spaca3	Anxa11	Amph	Eqtn	Bicd1	Ca4	Anxa7	Rab3il1	Snca	Itpr1	Abca12
+GO:0099512	"supramolecular fiber"	Casp14	Acta1	Myh10	Mapre1	Haus8	Cul3	Atp2a1	Apc2	Col1a1	Ccsap	Adamts10	Tcap	Arfgef2	Bbln	Abi2	Efemp2	Frg1	Cryab	Col5a1	Narf	Arl3	Lum	Ocm	Col3a1	Abraxas2	Cldn11	Clasp2	Myh6	Cep295	Dcx	Tnnc1	Ankrd23	Clip2	Des	Cfap96	Cdk5rap2	Numa1	Mybpc2	Col11a1	Mybpc3	Camsap2	Fam161a	Mybphl	Arpc2	Adora2a	Abra	Ankrd1	Ank1	Ank3	Cdk5r1	Ctsh	Col2a1
+GO:0099513	"polymeric cytoskeletal fiber"	Casp14	Mapre1	Haus8	Cul3	Ccsap	Apc2	Arfgef2	Bbln	Abi2	Narf	Arl3	Cldn11	Abraxas2	Clasp2	Cep295	Clip2	Des	Cfap96	Cdk5rap2	Numa1	Camsap2	Fam161a	Arpc2	Adora2a	Ctsh
+GO:0099522	"region of cytosol"	Anks1b	Aldoc
+GO:0099523	"presynaptic cytosol"	Anks1b
+GO:0099524	"postsynaptic cytosol"	Aldoc
+GO:0099535	"synapse associated extracellular matrix"	Acan	Sparcl1	Bcan
+GO:0099544	"perisynaptic space"	Plat
+GO:0099568	"cytoplasmic region"	Nek4	Akr1b1	Wdpcp	Arfgef2	Spag17	Eif4ebp2	Rsph4a	Dnah9	Odad4	Actr1a	Bsn	Clasp1	Rsph6a	Dnah11	Ccdc103	Ada	Akap14	Fabp1	Hydin	Gpsm2	Ccdc65	Dnah1	Chrna2	Baiap2	Clta
+GO:0099569	"presynaptic cytoskeleton"	Bsn	Septin3	Rad51	Actg1
+GO:0099571	"postsynaptic cytoskeleton"	Ina	Actb	Septin7	Marcks
+GO:0099572	"postsynaptic specialization"	Cdh10	Cyth2	Igsf9b	Camk2a	Abr	Abhd17a	Akap9	Arhgef9	Akap1
+GO:0099573	"glutamatergic postsynaptic density"	Camk2a
+GO:0099617	"matrix side of mitochondrial inner membrane"	Coa8
+GO:0099629	"postsynaptic specialization of inhibitory synapse"	Igsf9b
+GO:0099631	"postsynaptic endocytic zone, cytoplasmic component"	Clta
+GO:0099634	"postsynaptic specialization membrane"	Akap9	Abhd17a	Cyth2	Cdh10
+GO:0099738	"cell cortex region"	Clta	Actr1a	Bsn	Clasp1	Fabp1	Gpsm2
+GO:0101004	"cytolytic granule membrane"	Arl8b
+GO:1901588	"dendritic microtubule"	Clip2
+GO:1902493	"acetyltransferase complex"	Kat2a	Naa10	Naa30	Epc1	Actb	Brd1	Taf12	Kat8	Brpf1	Atf2	Dld	Naa20	Dr1	Sgf29	Mrgbp	Atxn7l3	Hcfc1
+GO:1902494	"catalytic complex"	Pik3ca	Rsf1	Taf12	Baz1b	Bcor	Pigv	Ppp1ca	Bckdha	Gtf2h2	Golga7	Cab39	Dmac1	C3	Suz12	Casp8	Bves	Ccnk	Gclc	Gtf2a1	Ndufa5	Cnep1r1	Cdc73	Ormdl3	Atad5	Hcfc1	Naa10	Vac14	N6amt1	Aqr	Atg101	Acp3	Fam8a1	Anapc1	Actl6a	Ccny	Pop5	Cyba	Mad2l2	Bmi1	Epc1	Clns1a	Ccnt1	0610010K14Rik	Znfx1	Hexa	Fap	Ube2n	Psmd11	Cbr4	Tsn	Atxn7l3	Pold1	Rnf20	Psmc5	Atf2	Dhdds	Bptf	Psme4	Mccc1	Arid2	Eid3	Gtf2f1	Sdhc	Suclg2	Mat1a	Idh3a	Naa30	Rad18	Papss1	Ppcdc	Pafah1b1	Capn2	Psmd10	Gpd1l	Cat	Abat	Arih1	Atg3	Polr3h	Insr	Sgf29	Mrgbp	Casp2	Ccdc65	Prkdc	Cxxc1	Actb	Etfa	Rad51c	Cyc1	Chm	Babam2	Pfkfb1	Acvr1	Pdss1	Afg3l1	Cul1	Chuk	Casc3	Farsa	Arid1b	Prps1	Pik3r4	Pnpt1	Las1l	Dr1	Sec11a	Psma1	Dlat	Ercc2	Baz1a	4931428L18Rik	Suclg1	Psmb5	Ambra1	Hsd17b10	Ccne2	Ube2v1	Atg12	Ide	Tmem258	Ilvbl	Ppp3ca	Ankrd9	Cyb5b	Mrps36	Cdk12	Kat2a	Dapk1	Dis3l	Ogt	Sptlc1	Brd1	Rrm1	Brpf1	Psmd14	Ier5	Cbll1	Igf1r	Hras	Dna2	Ccdc103	Gmpr	Dnttip1	Dgcr8	P4hb	Ramac	Anp32e	Dnah1	Psma4	Piga	Adrm1	Polr1a	Pole	Naa20	Pigm	Casp1	Armc8	Helq	Colec12	Elovl6	Csnk2a1	Ccnb1	Myzap	Cdk2ap1	Appbp2	Dad1	Atg14	Rbck1	Gcsh	Cecr2	Crcp	Ranbp2	Cdk5	Pdhx	Ccnd1	Dctn1	Eme1	Gnas	Gnptab	Nck1	Cul7	Fnta	Ddb2	Kat8	Ccnd3	Pkm	Dis3	Brms1l	Bard1	Trmt6	Ceacam1	Rprd1b	Ccnd2	Eno1	Ppp4r4	Sae1	Cul2	Dkc1	Ago1	Calm1	Pfkl	Sel1l	Prkaa1	Gnmt	Smarcb1	Phka1	Pik3cg	mt-Nd3	Dpm2	Ccne1	Aebp2	F3	Gtf2e1	Mt-Cyb	Pola1	Ccna2	Psme1	Psmd8	Ccnh	Ppp4c	Polrmt	Dld	Pard3	Becn1	Hpse	Ash2l	Mettl1	Tert	Gpaa1
+GO:1902495	"transmembrane transporter complex"	Kcna1	Atp5mc1	Htr3a	Scn10a	Abcg5	Cacna1c	Gria4	Dmac1	Atp1a1	Grin1	Ndufa5	Cnga3	Ano1	Atp2a2	Akap9	Cacng2	Kcnh2	Cacna1a	Abcb8	Abcc8	Kcnq1	Cnga1	Scn2a	Akap6	Mt-Cyb	Glra3	Cyc1	Chrna1	Grik1	Catsperz	Mcub	Slc9a1	Hcn1
+GO:1902500	"vacuolar HOPS complex"	Vps39
+GO:1902501	"lysosomal HOPS complex"	Vps39
+GO:1902503	"adenylyltransferase complex"	Papss1
+GO:1902554	"serine/threonine protein kinase complex"	Chuk	Ccnb1	Cdk5	Gtf2h2	Ccnd1	Cab39	Ccne2	Ccnd3	Ceacam1	Ccnk	Dapk1	Ccnd2	Cdk12	Atg101	Ccny	Phka1	Ccne1	Prkdc	Pard3	Ccna2	Ccnh	Ccnt1	Acvr1
+GO:1902555	"endoribonuclease complex"	Hsd17b10	Ago1	Las1l	Pop5	Bves	Colec12	Dgcr8	Tsn
+GO:1902560	"GMP reductase complex"	Gmpr
+GO:1902562	"H4 histone acetyltransferase complex"	Atf2	Epc1	Actb	Kat8	Mrgbp	Hcfc1
+GO:1902636	"kinociliary basal body"	Mkks
+GO:1902710	"GABA receptor complex"	Gabra1	Gabbr1
+GO:1902711	"GABA-A receptor complex"	Gabra1
+GO:1902712	"G-protein coupled GABA receptor complex"	Gabbr1
+GO:1902737	"dendritic filopodium"	Dbn1
+GO:1902773	"GTPase activator complex"	Lamtor1	C9orf72	Rgp1
+GO:1902911	"protein kinase complex"	Chuk	Las1l	Ccnb1	Cdk5	Gtf2h2	Ccnd1	Cab39	Ccne2	Ccnd3	Ceacam1	Ccnk	Dapk1	Ccnd2	Cdk12	Atg101	Igf1r	Insr	Prkaa1	Ccny	Phka1	Prkdc	Ccne1	Pard3	Ccna2	Ccnh	Ccnt1	Acvr1
+GO:1902912	"pyruvate kinase complex"	Pkm
+GO:1902937	"inward rectifier potassium channel complex"	Kcnh2
+GO:1903095	"ribonuclease III complex"	Dgcr8
+GO:1903143	"adrenomedullin receptor complex"	Calcrl
+GO:1903293	"phosphatase complex"	Nck1	Ppp4r4	Ppp4c	Ier5	Acp3	Ppp1ca	Ppp3ca	Cnep1r1
+GO:1903349	"omegasome membrane"	Atg14	Emc6
+GO:1903439	"calcitonin family receptor complex"	Calcrl	Calcr
+GO:1903440	"amylin receptor complex"	Calcr
+GO:1903503	"ATPase inhibitor complex"	Magoh
+GO:1903561	"extracellular vesicle"	Nol3	Prom2	Ppfia3	Abcb6	Defb1
+GO:1903754	"cortical microtubule plus-end"	Clasp2
+GO:1903767	"sweet taste receptor complex"	Tas1r2
+GO:1903768	"taste receptor complex"	Tas1r2
+GO:1903958	"nitric-oxide synthase complex"	Cyb5b
+GO:1904090	"peptidase inhibitor complex"	Casp1	Klk1b8	Serpina5	Csta
+GO:1904097	"acid phosphatase complex"	Acp3
+GO:1904115	"axon cytoplasm"	Bsn
+GO:1904423	"dehydrodolichyl diphosphate synthase complex"	Dhdds
+GO:1904511	"cytoplasmic microtubule plus-end"	Clasp2
+GO:1904602	"serotonin-activated cation-selective channel complex"	Htr3a
+GO:1904930	"amphisome membrane"	Chmp1a
+GO:1904949	"ATPase complex"	Rsf1	Arid1b	Baz1b	Bptf	Suz12	Actl6a	0610010K14Rik	Arid2	Cecr2	Smarcb1	Baz1a	Anp32e	Cdk2ap1
+GO:1904974	"heparanase complex"	Hpse
+GO:1990005	"granular vesicle"	Gnrh1	Azin2
+GO:1990008	"neurosecretory vesicle"	Gnrh1
+GO:1990015	"ensheathing process"	Mag
+GO:1990023	"mitotic spindle midzone"	Cenpe
+GO:1990030	"pericellular basket"	Amigo1
+GO:1990031	"pinceau fiber"	Kcnab2
+GO:1990032	"parallel fiber"	Atp2b3
+GO:1990037	"Lewy body core"	Atf4
+GO:1990038	"Lewy body corona"	Fbxo7
+GO:1990047	"spindle matrix"	Znf207
+GO:1990070	"TRAPPI protein complex"	Trappc5
+GO:1990071	"TRAPPII protein complex"	Trappc14
+GO:1990072	"TRAPPIII protein complex"	Trappc5
+GO:1990075	"periciliary membrane compartment"	Rp2
+GO:1990077	"primosome complex"	Prim1
+GO:1990111	"spermatoproteasome complex"	Psme4
+GO:1990112	"RQC complex"	Ltn1
+GO:1990124	"messenger ribonucleoprotein complex"	Arvcf
+GO:1990130	"Iml1 complex"	Bmt2
+GO:1990131	"Gtr1-Gtr2 GTPase complex"	Rragb
+GO:1990150	"VEGF-A complex"	Vegfa
+GO:1990184	"amino acid transport complex"	Slc3a2
+GO:1990204	"oxidoreductase complex"	Gcsh	Dlat	Bckdha	Pdhx	Sdhc	Idh3a	Dmac1	Gpd1l	Cat	Ndufa5	Cyb5b	Mrps36	Rrm1	Gmpr	mt-Nd3	Cyba	P4hb	Mt-Cyb	Etfa	Dld	Cyc1	Cbr4
+GO:1990221	"L-cysteine desulfurase complex"	Fxn
+GO:1990229	"iron-sulfur cluster assembly complex"	Bola1
+GO:1990231	"STING complex"	Sting1
+GO:1990234	"transferase complex"	Pik3ca	Taf12	Bcor	Pigv	Gtf2h2	Golga7	Cab39	Ccnk	Gtf2a1	Cdc73	Ormdl3	Hcfc1	Naa10	Vac14	N6amt1	Atg101	Fam8a1	Anapc1	Ccny	Mad2l2	Bmi1	Epc1	Clns1a	Ccnt1	Znfx1	0610010K14Rik	Ube2n	Atxn7l3	Pold1	Rnf20	Atf2	Dhdds	Eid3	Gtf2f1	Mat1a	Naa30	Rad18	Papss1	Abat	Arih1	Atg3	Polr3h	Insr	Sgf29	Mrgbp	Prkdc	Cxxc1	Actb	Chm	Babam2	Pfkfb1	Acvr1	Pdss1	Cul1	Chuk	Prps1	Pik3r4	Las1l	Dr1	Ercc2	Ambra1	Hsd17b10	Ccne2	Ube2v1	Atg12	Tmem258	Ilvbl	Ankrd9	Mrps36	Cdk12	Kat2a	Dapk1	Ogt	Sptlc1	Brd1	Brpf1	Igf1r	Cbll1	Dna2	Ramac	Piga	Polr1a	Pole	Naa20	Pigm	Armc8	Elovl6	Ccnb1	Myzap	Appbp2	Dad1	Atg14	Rbck1	Crcp	Ranbp2	Cdk5	Ccnd1	Gnptab	Cul7	Fnta	Ddb2	Kat8	Ccnd3	Pkm	Bard1	Trmt6	Ceacam1	Rprd1b	Ccnd2	Cul2	Pfkl	Sel1l	Prkaa1	Gnmt	Phka1	Pik3cg	Dpm2	Ccne1	Aebp2	Gtf2e1	Pola1	Ccna2	Polrmt	Pard3	Ccnh	Dld	Becn1	Ash2l	Mettl1	Tert
+GO:1990246	"uniplex complex"	Mcub
+GO:1990257	"piccolo-bassoon transport vesicle"	Bsn
+GO:1990265	"platelet-derived growth factor complex"	Pdgfa
+GO:1990298	"bub1-bub3 complex"	Bub3
+GO:1990316	"ATG1/ULK1 kinase complex"	Atg101
+GO:1990351	"transporter complex"	Kcna1	Atp5mc1	Htr3a	Scn10a	Abcg5	Cacna1c	Gria4	Dmac1	Ergic2	Atp1a1	Grin1	Ndufa5	Timm10	Cnga3	Ano1	Atp2a2	Pex13	Akap9	Cacng2	Kcnh2	Cacna1a	Abcb8	Abcc8	Kcnq1	Cnga1	Scn2a	Akap6	Mt-Cyb	Glra3	Cyc1	Chrna1	Grik1	Catsperz	Mcub	Atp10a	Slc9a1	Hcn1
+GO:1990357	"terminal web"	Hfe
+GO:1990385	"meiotic spindle midzone"	Incenp
+GO:1990391	"DNA repair complex"	Lig4	Cetn2	Mlh1	Ascc1	Pms2	Msh2	Swsap1	Ercc3	Dclre1c	Ercc1	Xpc
+GO:1990393	"3M complex"	Ankra2
+GO:1990406	"CGRP receptor complex"	Calcrl
+GO:1990415	"Pex17p-Pex14p docking complex"	Pex13
+GO:1990423	"RZZ complex"	Kntc1
+GO:1990427	"stereocilia tip-link density"	Myo7a
+GO:1990429	"peroxisomal importomer complex"	Pex13
+GO:1990435	"upper tip-link density"	Myo7a
+GO:1990452	"Parkin-FBXW7-Cul1 ubiquitin ligase complex"	Cul1
+GO:1990454	"L-type voltage-gated calcium channel complex"	Cacna1c
+GO:1990462	"omegasome"	Trim12a	Atg14	Emc6
+GO:1990498	"mitotic spindle microtubule"	Cep295
+GO:1990501	"exon-exon junction subcomplex mago-y14"	Magoh
+GO:1990513	"CLOCK-BMAL transcription complex"	Bmal1
+GO:1990529	"glycosylphosphatidylinositol-mannosyltransferase I complex"	Pigm
+GO:1990531	"Lem3p-Dnf1p complex"	Atp10a
+GO:1990533	"Dom34-Hbs1 complex"	Hbs1l
+GO:1990565	"HSP90-CDC37 chaperone complex"	Cdc37
+GO:1990572	"TERT-RMRP complex"	Tert
+GO:1990578	"perinuclear endoplasmic reticulum membrane"	Dgat2
+GO:1990584	"cardiac Troponin complex"	Tnnc1
+GO:1990589	"ATF4-CREB1 transcription factor complex"	Atf4
+GO:1990590	"ATF1-ATF4 transcription factor complex"	Atf1
+GO:1990597	"AIP1-IRE1 complex"	Dab2ip
+GO:1990604	"IRE1-TRAF2-ASK1 complex"	Ern1
+GO:1990617	"CHOP-ATF4 complex"	Atf4
+GO:1990622	"CHOP-ATF3 complex"	Atf3
+GO:1990630	"IRE1-RACK1-PP2A complex"	Ern1
+GO:1990635	"proximal dendrite"	Dlg4	Nefh
+GO:1990647	"C/EBP complex"	Cebpa
+GO:1990665	"AnxA2-p11 complex"	Anxa2
+GO:1990666	"PCSK9-LDLR complex"	Ldlr
+GO:1990667	"PCSK9-AnxA2 complex"	Anxa2
+GO:1990674	"Golgi cis cisterna membrane"	Slc30a5
+GO:1990675	"Golgi medial cisterna membrane"	St3gal1
+GO:1990676	"Golgi trans cisterna membrane"	St3gal1
+GO:1990682	"CSF1-CSF1R complex"	Csf1r
+GO:1990706	"MAD1 complex"	Mad1l1
+GO:1990712	"HFE-transferrin receptor complex"	B2m
+GO:1990713	"survivin complex"	Birc5
+GO:1990716	"axonemal central apparatus"	Hydin	Spag17
+GO:1990718	"axonemal central pair projection"	Hydin
+GO:1990722	"DAPK1-calmodulin complex"	Dapk1
+GO:1990723	"cytoplasmic periphery of the nuclear pore complex"	Ranbp2
+GO:1990724	"galectin complex"	Lgals1
+GO:1990726	"Lsm1-7-Pat1 complex"	Lsm1
+GO:1990728	"mitotic spindle assembly checkpoint MAD1-MAD2 complex"	Mad1l1
+GO:1990730	"VCP-NSFL1C complex"	Nsfl1c
+GO:1990733	"titin-telethonin complex"	Tcap
+GO:1990742	"microvesicle"	Ppfia3	Defb1
+GO:1990745	"EARP complex"	Eipr1
+GO:1990752	"microtubule end"	Camsap2	Mapre1	Clasp2	Cdk5rap2	Abraxas2
+GO:1990761	"growth cone lamellipodium"	Apbb1
+GO:1990769	"proximal neuron projection"	Gjc2
+GO:1990777	"lipoprotein particle"	Apoe	Apoa1	Apob	Apoa2
+GO:1990779	"glycoprotein Ib-IX-V complex"	Gp1ba
+GO:1990780	"cytoplasmic side of dendritic spine plasma membrane"	Ppp1r9b
+GO:1990788	"GLI-SUFU complex"	Gli1
+GO:1990794	"basolateral part of cell"	Rapgef3
+GO:1990795	"rod bipolar cell terminal bouton"	Rapgef3
+GO:1990796	"photoreceptor cell terminal bouton"	Rapgef3
+GO:1990811	"Msd1-Wdr8-Pkl1 complex"	Wrap73
+GO:1990812	"growth cone filopodium"	Apbb1
+GO:1990826	"nucleoplasmic periphery of the nuclear pore complex"	Hnrnpa1
+GO:1990836	"lysosomal matrix"	Hspa8
+GO:1990851	"Wnt-Frizzled-LRP5/6 complex"	Fzd8
+GO:1990875	"nucleoplasmic side of nuclear pore"	Nup153
+GO:1990876	"cytoplasmic side of nuclear pore"	Nup214
+GO:1990879	"CST complex"	Ctc1
+GO:1990904	"ribonucleoprotein complex"	Nol6	Casc3	Mrpl1	Noc2l	Prpf4	Arvcf	Srp14	Sf3b1	D1Pas1	Prpf18	Eif2s1	4931428L18Rik	Phf5a	Eftud2	Hsd17b10	Sart3	Dhx15	Eif1	Snrnp70	Slx9	Aar2	Mrpl42	Bves	Dlgap3	Hexim1	Snrpd3	Ddx39b	Lsm10	Dkc1	Aqr	Cd2bp2	Pin4	Isy1	Mphosph10	Ago1	Bud13	2810004N23Rik	Nolc1	Pop5	Adar	Prpf31	Dhx29	Slbp	Actb	Abcf1	Sf3a1	Utp6	Prpf38a	Ppih	Arfgef1	Nop56	Syf2	Nop14	Mpv17l2	Pes1	Tert	Acd
+GO:1990907	"beta-catenin-TCF complex"	Ctnnb1	Bcl9
+GO:1990909	"Wnt signalosome"	Adgra2
+GO:1990913	"sperm head plasma membrane"	Hsp90ab1
+GO:1990917	"ooplasm"	Hsp90ab1
+GO:1990923	"PET complex"	Exd1

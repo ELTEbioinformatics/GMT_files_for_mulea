@@ -1,0 +1,55 @@
+# Gene set GMT file for mulea Bioconductor R package
+# taxon_name: Schizosaccharomyces pombe
+# taxonomy_ID: 4896
+# ID_type: EnsemblID
+# source_url: http://geneontology.org/ 
+# source_PMID: 30395331
+# source_primary_ID: GeneSymbol 
+# source_version: 
+# source_last_update: 2023
+# gmt_download_date: 09-05-2023
+# gmt_version:2
+# gmt_entry_names:gene ontology
+# Gene Ontology Term Description Genes
+
+
+
+
+
+GO:0000228	"nuclear chromosome"	FungiDB:SPAC1142.03c	FungiDB:SPAC694.06c
+GO:0000785	"chromatin"	FungiDB:SPAC1142.03c
+GO:0005575	"cellular_component"	FungiDB:SPAC1F7.05	FungiDB:SPAC13A11.05	FungiDB:SPAC1F7.07c	FungiDB:SPCC285.07c	FungiDB:SPAC694.06c	FungiDB:SPAC1142.03c
+GO:0005622	"intracellular"	FungiDB:SPAC1F7.05	FungiDB:SPAC694.06c	FungiDB:SPAC1142.03c
+GO:0005634	"nucleus"	FungiDB:SPAC1142.03c	FungiDB:SPAC694.06c
+GO:0005657	"replication fork"	FungiDB:SPAC694.06c
+GO:0005694	"chromosome"	FungiDB:SPAC1142.03c	FungiDB:SPAC694.06c
+GO:0005737	"cytoplasm"	FungiDB:SPAC1F7.05
+GO:0005829	"cytosol"	FungiDB:SPAC1F7.05
+GO:0005886	"plasma membrane"	FungiDB:SPAC1F7.07c
+GO:0005971	"ribonucleoside-diphosphate reductase complex"	FungiDB:SPAC1F7.05
+GO:0016020	"membrane"	FungiDB:SPAC1F7.07c
+GO:0016021	"integral component of membrane"	FungiDB:SPAC1F7.07c
+GO:0031224	"intrinsic component of membrane"	FungiDB:SPAC1F7.07c
+GO:0031298	"replication fork protection complex"	FungiDB:SPAC694.06c
+GO:0031974	"membrane-enclosed lumen"	FungiDB:SPAC1142.03c	FungiDB:SPAC694.06c
+GO:0031981	"nuclear lumen"	FungiDB:SPAC1142.03c	FungiDB:SPAC694.06c
+GO:0032991	"macromolecular complex"	FungiDB:SPAC1F7.05	FungiDB:SPAC13A11.05	FungiDB:SPAC1F7.07c	FungiDB:SPAC694.06c	FungiDB:SPAC1142.03c
+GO:0033573	"high-affinity iron permease complex"	FungiDB:SPAC1F7.07c
+GO:0034974	"Swi5-Swi2 complex"	FungiDB:SPAC1142.03c
+GO:0043226	"organelle"	FungiDB:SPAC694.06c	FungiDB:SPAC1142.03c
+GO:0043227	"membrane-bounded organelle"	FungiDB:SPAC1142.03c	FungiDB:SPAC694.06c
+GO:0043228	"non-membrane-bounded organelle"	FungiDB:SPAC1142.03c	FungiDB:SPAC694.06c
+GO:0043229	"intracellular organelle"	FungiDB:SPAC694.06c	FungiDB:SPAC1142.03c
+GO:0043231	"intracellular membrane-bounded organelle"	FungiDB:SPAC1142.03c	FungiDB:SPAC694.06c
+GO:0043232	"intracellular non-membrane-bounded organelle"	FungiDB:SPAC1142.03c	FungiDB:SPAC694.06c
+GO:0043233	"organelle lumen"	FungiDB:SPAC1142.03c	FungiDB:SPAC694.06c
+GO:0043596	"nuclear replication fork"	FungiDB:SPAC694.06c
+GO:0070013	"intracellular organelle lumen"	FungiDB:SPAC1142.03c	FungiDB:SPAC694.06c
+GO:0071944	"cell periphery"	FungiDB:SPAC1F7.07c
+GO:0072324	"ascus epiplasm"	FungiDB:SPCC285.07c
+GO:0098796	"membrane protein complex"	FungiDB:SPAC1F7.07c
+GO:0098797	"plasma membrane protein complex"	FungiDB:SPAC1F7.07c
+GO:1902494	"catalytic complex"	FungiDB:SPAC1F7.07c	FungiDB:SPAC1F7.05
+GO:1902495	"transmembrane transporter complex"	FungiDB:SPAC1F7.07c
+GO:1990204	"oxidoreductase complex"	FungiDB:SPAC1F7.07c	FungiDB:SPAC1F7.05
+GO:1990351	"transporter complex"	FungiDB:SPAC1F7.07c

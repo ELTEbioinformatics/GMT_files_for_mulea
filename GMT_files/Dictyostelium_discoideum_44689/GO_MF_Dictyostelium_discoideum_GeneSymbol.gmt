@@ -1,0 +1,1715 @@
+# Gene set GMT file for mulea Bioconductor R package
+# taxon_name: Dictyostelium discoideum
+# taxonomy_ID: 44689
+# ID_type: GeneSymbol
+# source_url: http://geneontology.org/ 
+# source_PMID: 30395331
+# source_primary_ID: GeneSymbol 
+# source_version: 
+# source_last_update: 2023
+# gmt_download_date: 09-05-2023
+# gmt_version:2
+# gmt_entry_names:gene ontology
+# Gene Ontology Term Description Genes
+
+
+
+
+
+GO:0000009	"alpha-1,6-mannosyltransferase activity"	alg12
+GO:0000010	"trans-hexaprenyltranstransferase activity"	coq1
+GO:0000014	"single-stranded DNA endodeoxyribonuclease activity"	ercc1
+GO:0000026	"alpha-1,2-mannosyltransferase activity"	alg11	alg9
+GO:0000030	"mannosyltransferase activity"	pigm	alg12	alg9	alg3	alg2	alg1	dpm1	alg11
+GO:0000033	"alpha-1,3-mannosyltransferase activity"	alg3
+GO:0000034	"adenine deaminase activity"	ada
+GO:0000035	"acyl binding"	ndufab1
+GO:0000049	"tRNA binding"	ctu2
+GO:0000062	"fatty-acyl-CoA binding"	acbA
+GO:0000064	"L-ornithine transmembrane transporter activity"	mcfD
+GO:0000099	"sulfur amino acid transmembrane transporter activity"	ctns
+GO:0000104	"succinate dehydrogenase activity"	sdhB	sdhC
+GO:0000146	"microfilament motor activity"	myoI
+GO:0000155	"phosphorelay sensor kinase activity"	dhkE
+GO:0000156	"phosphorelay response regulator activity"	dokA
+GO:0000166	"nucleotide binding"	acrA	rasS	argC	padA	acbA	pgkA	atp1	acsA	grpE	redB	uprt	pckA	sir2E	idhA	capA-1	qdpr	gpaJ	pde3
+GO:0000175	"3'-5'-exoribonuclease activity"	DDB_G0279967	pan2	exosc10
+GO:0000179	"rRNA (adenine-N6,N6-)-dimethyltransferase activity"	dimt1
+GO:0000182	"rDNA binding"	gtf3c5
+GO:0000225	"N-acetylglucosaminylphosphatidylinositol deacetylase activity"	pigl
+GO:0000247	"C-8 sterol isomerase activity"	ebp
+GO:0000250	"lanosterol synthase activity"	cas1
+GO:0000252	"C-3 sterol dehydrogenase (C-4 sterol decarboxylase) activity"	nsdhl
+GO:0000254	"C-4 methylsterol oxidase activity"	DDB_G0269788
+GO:0000268	"peroxisome targeting sequence binding"	pex7	pex19	pex5
+GO:0000285	"1-phosphatidylinositol-3-phosphate 5-kinase activity"	pip5k3
+GO:0000287	"magnesium ion binding"	enoph1
+GO:0000295	"adenine nucleotide transmembrane transporter activity"	mcfC	mcfR	slc35b2	DDB_G0278059	mcfQ	ancA
+GO:0000309	"nicotinamide-nucleotide adenylyltransferase activity"	DDB_G0288757
+GO:0000334	"3-hydroxyanthranilate 3,4-dioxygenase activity"	haao
+GO:0000339	"RNA cap binding"	ncbp1	eif3d
+GO:0000384	"first spliceosomal transesterification activity"	isy1
+GO:0000700	"mismatch base pair DNA N-glycosylase activity"	MYH
+GO:0000701	"purine-specific mismatch base pair DNA N-glycosylase activity"	MYH
+GO:0000702	"oxidized base lesion DNA N-glycosylase activity"	MYH	NTH1
+GO:0000703	"oxidized pyrimidine nucleobase lesion DNA N-glycosylase activity"	NTH1
+GO:0000773	"phosphatidyl-N-methylethanolamine N-methyltransferase activity"	pemtA
+GO:0000774	"adenyl-nucleotide exchange factor activity"	grpE
+GO:0000822	"inositol hexakisphosphate binding"	xpr1
+GO:0000976	"transcription regulatory region sequence-specific DNA binding"	bzpJ	mef2A	gtf2b	rpmA	srfA	gtf3c5
+GO:0000977	"RNA polymerase II regulatory region sequence-specific DNA binding"	gtf2b	bzpJ	mef2A
+GO:0000978	"RNA polymerase II core promoter proximal region sequence-specific DNA binding"	bzpJ
+GO:0000979	"RNA polymerase II core promoter sequence-specific DNA binding"	gtf2b
+GO:0000981	"RNA polymerase II transcription factor activity, sequence-specific DNA binding"	nfyB
+GO:0000987	"core promoter proximal region sequence-specific DNA binding"	bzpJ	srfA	gtf3c5
+GO:0000992	"polymerase III regulatory region sequence-specific DNA binding"	gtf3c5
+GO:0000993	"RNA polymerase II core binding"	gtf2b	leo1
+GO:0000994	"RNA polymerase III core binding"	maf1
+GO:0001002	"RNA polymerase III type 1 promoter sequence-specific DNA binding"	gtf3c5
+GO:0001003	"RNA polymerase III type 2 promoter sequence-specific DNA binding"	gtf3c5
+GO:0001016	"RNA polymerase III regulatory region DNA binding"	gtf3c5
+GO:0001018	"mitochondrial RNA polymerase regulatory region DNA binding"	rpmA
+GO:0001046	"core promoter sequence-specific DNA binding"	gtf2b
+GO:0001054	"RNA polymerase I activity"	polr1c
+GO:0001055	"RNA polymerase II activity"	polr2j
+GO:0001056	"RNA polymerase III activity"	polr1c
+GO:0001067	"regulatory region nucleic acid binding"	bzpJ	mef2A	gtf2b	rpmA	srfA	gtf3c5
+GO:0001091	"RNA polymerase II basal transcription factor binding"	gtf2f1	med11	taf1
+GO:0001096	"TFIIF-class transcription factor binding"	gtf2f1
+GO:0001097	"TFIIH-class transcription factor binding"	med11
+GO:0001098	"basal transcription machinery binding"	gtf2f1	med11	gtf2b	taf1	leo1
+GO:0001099	"basal RNA polymerase II transcription machinery binding"	gtf2f1	med11	gtf2b	taf1	leo1
+GO:0001139	"transcription factor activity, core RNA polymerase II recruiting"	gtf2b
+GO:0001216	"bacterial-type RNA polymerase transcriptional activator activity, sequence-specific DNA binding"	nfyB
+GO:0001228	"transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding"	nfyB
+GO:0001614	"purinergic nucleotide receptor activity"	carA-1
+GO:0001646	"cAMP receptor activity"	carA-1
+GO:0001653	"peptide receptor activity"	gca
+GO:0001664	"G-protein coupled receptor binding"	gpaB
+GO:0001671	"ATPase activator activity"	ahsa
+GO:0001716	"L-amino-acid oxidase activity"	DDB_G0291301
+GO:0001727	"lipid kinase activity"	sgkA	sgkC
+GO:0001760	"aminocarboxymuconate-semialdehyde decarboxylase activity"	acmsd
+GO:0001784	"phosphotyrosine binding"	cblA-1
+GO:0001882	"nucleoside binding"	polr2b
+GO:0001965	"G-protein alpha-subunit binding"	gflB
+GO:0002020	"protease binding"	gpr89	derl2
+GO:0002054	"nucleobase binding"	pyd1
+GO:0002058	"uracil binding"	pyd1
+GO:0002061	"pyrimidine nucleobase binding"	pyd1
+GO:0002083	"4-hydroxybenzoate decaprenyltransferase activity"	coq2
+GO:0002094	"polyprenyltransferase activity"	coq2
+GO:0002161	"aminoacyl-tRNA editing activity"	dtd
+GO:0003674	"molecular_function"	eif3C	DDB_G0291374	gcvT	noxB	7tmk1	vwkA	ach1	ucpC	osgep	pck2	snfA	nt5c2	fntB	ctns	gloA	nat5	prpf8	dcd3A	ctu2	rasS	cybA	DDB_G0288757	pikD	Dd5P2	DDB_G0284369	vps29	purB	hddc2	metE	trrA	glkA	DDB_G0267546	crtp3	srp9	gna1	DDB_G0286465	nap1	DG2033	trmt61a	gflB	captA	allB2	rnrB-1	tbcd	lkhA	adprt2	tmco1	trmt5	mdhC	DDB_G0269404	psaB	ado-1	rab11A	hacl1	slc44a2	brk1	cnbA	npcA	agtA	ctxB	hemD	upf1	pkaR	phyA	tgds	mtr	abcG20	hexa2	glnS	tyrS	ddx52	ndkC-1	mlcD	DDB_G0275203	acadsb	DDB_G0272420	qpct	hemA	DDB_G0273177	DDB_G0268064	bkdB	mocs2l	patB	pgkA	glud2	gnpda1	eif5	alg2	dimt1	ctbs2	nmt	pkaC	nit2	dcd3B	gpt	gnt1	hmgL	ku70	acrA	argD	DDB_G0274269	rasC	malA	dhps	ddiA	DDB_G0269864	DDB_G0271550	ilvB	glnA1	atg7	mcm6	fadB	ncfA	dgat1	iplA	rtpR	manC	auh	DDB_G0283293	top3	DDB_G0275849	DDB_G0268742	uba1	DDB_G0270312	ipi	capA-1	dolpp1	gadA	pitB	cap	DDB0186972	dcd2B	gmd	DDB_G0272014	fray2	ppp2r4A	pemtA	mcfC	nagk	mcysS	snpC	kdelr	derl2	trxE	dhcA	scsC	enoB	aatA	pigw	mfeA	nat10	DDB_G0282903	plip	exosc10	nop10	coq1	polr3c	amd1	rdiA	impdh	acpA	splA	slc50a1	glcS	DDB_G0272318	DDB_G0284557	pyrK	slc35c1	mserS	cdsA	mcfK	alg1	odhB	ifkA	pcmA	nol9	DDB_G0267588	DDB_G0283667	mhisS	DDB_G0283567	wdr85	iptA	pikC	DDB_G0269788	DDB_G0279593	valS1	tpiA	glgB	mocs3	hemE	kynu	oatA	calA	fhbA	mcfV	alg12	sfxn	tmem184B	fsjC	purH	mcfD	rpl5	mocos	DDB_G0271544	pckA	asnS2	act23	mlh1	rpmA	tipD	DDB_G0279967	fahd1	bzpJ	mhkD	polB	redB	washc2	gloB2	fol1	metK	polr1a	eif3d	tpp1	culB	srp14-1	adrm1-1	magA	smt1	pex5	melA	ppkA	DDB_G0268478	gpgA	omt2	DDB_G0267216	DDB_G0273237	alg10	DDB_G0293188	StlB	snrnp70	vatM	srr	thfA	dph1	splA	mcfT	hgd	zntA	sugt1	polr2b	DDB_G0268652	helD	polA	prep	acsA	sqor	ugpB	adh5	mtmr15	pex14	DDB_G0269722	lig1	psiA	alg6	canA	ctaA	DDB_G0273477	pyr56	cyb5r1	DDB_G0272418	pgtA	alg11	rtca	pdeE	acp1	gmfA	gtf3c5	cda	DDB_G0282239	ucr	adprt4	mcfF	alg3	lysS	modA	kmo	pepd	padA	DDB_G0274699	prdx4	DDB_G0269890	DDB_G0291301	proB	MYH	tom40	mipp1	fut8	hmgA	mcfQ	adkB	hop2	odc	xpr1	oxct1	pyk	pdhC	ino1	hibch	DDB_G0267852	DDB_G0282495	pldG	NTH1	DDB_G0294595	DDB_G0278493	fxn	purL	fah	bkdC	myoD	tdo	prmt2	drpp30	sptA	tkt-1	uba5	gnt14	shmt1	zakA	pycr2	dut	metS	dhkE	ldhA	ppp4r2	pctA	pccA	ireA	mvk	DDB_G0280259	gcvP	DDB_G0283309	adat1	DDB_G0295739	mcfR	DDB_G0281039	cpiC	mpi	DDB_G0287281	pex7	purD	DDB_G0272484	ksrA-1	polr2j	hemH	aoxA	sgkA	dgk	cdk1	splB	aprt	echs1	pitE	gnt4	fttB	omt1	DDB_G0276867	hgsB	DG1039	slmo	mecr	nfyB	pnpo	rpl12	coxA	abpE-1	gtaE	fba	gsta1	aspA	dstC	guk1	adi1	rrpC	4cl3	DDB_G0268776	scsB	aco	sac1	amdA	gpr89	fhit	gcdh	mpheS	DDB_G0287165	ppiA	amyA	gpbB	DDB_G0287153	gnt8	xpo4	cf45-1	DDB_G0269658	apeA	gphn	DDB_G0272544	DDB_G0286581	lpd	ppa1	oplah	dtymk	mhcA	lis1	cchl	DDB_G0283553	gnt12	gxcB	plbG	msrA	ptsA	alrC	tbcb	amtC	elp4	DDB_G0282801	mcfM	exoc7	ada	atox1	DDB_G0269284	odhA	nadsyn1	dcsA	rpe	pyd1	impact	srpra	mvd	kif4	dafE	pyrK	osbD	mccb	gcsA	catB	gluA	ancA	wdr91	gghA	cox10	DDB_G0276821	isy1	DDB_G0278059	gpdA	nhe1	hdaA	nfs1	vasp	mcfN	qprt	etnkA	amdhd1	DDB_G0269330	gpaB	hspD	uox	malaS	ech1	nola2	DDB_G0291406	clcB	sdhB	masA	galE	kif2	glpV	hdaC	hatC	argC	udkC	orcD	dnmA	DDB_G0278993	pncA	uglB	mcfW	asnB	cdk8	nramp1	pggt1b	H1	hagh	pkgB	pssA	mus81	DDB_G0282299	coq7	fsjA	dio3	maspS	abpC	taf1	acbA	dnapkcs	grlK	pikA	atg4-1	impa1	bcaA	fbp	elmoA	sds	sglA	gabT	timm22	DDB_G0285967	dscC-1	xdh	selD	repD	slc35b4	ileS	erkB	itpa	ap4e1	corA	DDB_G0276689	ate1	abhd	uprt	ahsa	DDB_G0269332	gpbA	aqpA	DDB_G0295715	prsB	serC	fpaA	cyp51	DDB_G0278481	pyr1-3	slc35b1	abcG15	shmt2	uroc1	pmmB	hatA	DDB_G0270104	spc97	mcfO	pip5k3	alkB	tirA	mekA	alfA	alg5	cdc20	DDB_G0268928	guf1	ugt52	gshB	DDB_G0272708	pgghg	tpsB	pscA	rbsk	sahA	kif10	DDB_G0267924	pyd3	dpiA	pah	DDB_G0278171	stt3	cnrI	cwc2	atg10	leuS	dokA	DDB_G0282067	accA	ap2a1-1	psmC1	fdxr	febA	udkA	dtd	DDB_G0290689	sodA	atp5f1d	ccbl	idhA	clcC	ndufab1	fkbp5	pyd2	hprT	DDB_G0268358	argJ	folC	thyB	coq6	argE	spc98	gsr	elp3	pakC	natA	smc3	nit1-1	nubp2	jcdg	gpaJ	DDB_G0292440	prodh	DDB_G0291554	trfA	sppA	ppp2r4B	nosA	fcsA	dpp3-1	msh3	slc35b2	sprA	ivdA	DDB_G0272839	gchA	trm13	acy1	roco11	chcA	adkA	cdk5rap1	sgkC	ggtA	dpm1	sae1	pdx1	DDB_G0295483	aslB	ppox	myoI	DDB_G0284059	pth2	dr1	grpE	pgs1	uap1	DDB_G0278031	wrn	ebp	agxt	rad50	dgkA	DDB_G0275507	purA	slu7	eif4e	rmp	set1	wdr12	mgluS	erg24	ddo-1	nramp2	haao	mmsdh	DDB_G0283951	msh6	thrS2	atp1	srfA	MIP1	leo1	ube2w	cshA	prpD	gluD	udpA	etfdh	DDB_G0290799	DDB_G0291015	gmppA	erf1	ufc1	hpdl-1	ger	gnd	hibA	maoB-1	treh	pde3	dpm2-1	pgl	idhC	ifdA	mfeB	l2hgdh	top2	rac1B	apnA	guaA	thyA	DDB_G0284915	pyr4	gefW	tal	DDB_G0292252	cope	tmem144A	smkA	abcD1	sdh	DDB_G0270778	alad	naprt	alg7	alg8	mrps14	aco1	DDB_G0276237	purN	rpiA	comG	icmt-1	mef2A	pabpc1A	4cl1	dohh-1	grlR	DDB_G0271752	cysB	uba3	pdkB	DDB_G0276503	dotA	dicA	allC	patA	DDB_G0277367	pgmB	cbpJ	ncbp1	cahA	mtaA	DDB_G0283417	sun1	tat	mcfI	DDB_G0269462	mkkA	p2xA	hemC	adhfe1	eapA	mproS	tnpo	ppcdc	rrp8	purF	hipA	alg9	taz	cas1	cysA	mcfZ	enoph1	DDB_G0274887	pigm	pan2	panC	kil1	ctnnA	fsjB	pdhB	trmu	sepsecs	DDB_G0271884	ADA2	serA	miox	iunH	H3a	fumH	repG	senp8	acgA	carA-1	tkrA	veg111	gpsn2	g6pd-1	pigl	mcee	ppme1	porA	stlA	rdeA	pkbA	cplA	polr1c	gtf2f1	eef1a1	clc	cupA	sgmD	ercc1	cblA-1	coq3	ccs	guaD	urm1	nudt21	Dd5P4	mocs1	gtf2b	sec61a	DDB_G0270454	pex19	DDB_G0281259	DDB_G0292412	spsA	atp5f1b	sir2E	adcC	crsA	qdpr	ube2m	fdfT	aco2	cysK	rab7A	coq5	fslB	spoT	dak	haox	gpi	med7	acmsd	rfc5	rabggta	DDB_G0274481	mai	mgst	mmgt	rsad1	DDB_G0273081	galK	glyS	ftcd	DDB_G0279357	gpmA	orfR1062	cpnD	dhak	DDB_G0289453	nola4	drnB	cyp524A1	DDB_G0288371	plc	dst2	nsdhl	coq2	sdhC	ddx1	fhkA	rimA	aif	trpS	DDB_G0279427	argS1	dph5	taf6	agnC	DDB_G0304683	arsB	psmD4	mlcE	adprh	DDB_G0279831	maf1	psmB6	nop58	DDB_G0268360	commd7	gca	med11	adk	med26
+GO:0003676	"nucleic acid binding"	bzpJ	rad50	agnC	trfA	orcD	drpp30	ddx1	msh6	cwc2	nola2	msh3	DDB_G0273237	DDB_G0291015	mef2A	pabpc1A	DDB_G0289453	srfA	erf1	gtf3c5	eif4e	prpf8	slu7	mrps14	nop10	DDB_G0272839	MYH	polr3c	ncbp1	snrnp70	rpmA	nop58	gtaE	eif3d	ercc1	ctu2	nudt21	mtmr15	aco1	srp9	gtf2b	rpl12	H1	ku70	rpl5
+GO:0003677	"DNA binding"	bzpJ	rad50	trfA	orcD	msh6	msh3	mef2A	srfA	gtf3c5	mtmr15	DDB_G0272839	MYH	polr3c	rpmA	gtaE	ercc1	gtf2b	H1	ku70
+GO:0003678	"DNA helicase activity"	upf1	repD	mcm6	wrn
+GO:0003682	"chromatin binding"	trfA	H1	DDB_G0269284
+GO:0003684	"damaged DNA binding"	MYH	ercc1	DDB_G0272839
+GO:0003688	"DNA replication origin binding"	orcD
+GO:0003689	"DNA clamp loader activity"	rfc5
+GO:0003690	"double-stranded DNA binding"	msh3	bzpJ	rad50	MYH	orcD	mef2A	gtf2b	rpmA	srfA	gtf3c5	msh6
+GO:0003691	"double-stranded telomeric DNA binding"	rad50
+GO:0003697	"single-stranded DNA binding"	polr3c
+GO:0003700	"transcription factor activity, sequence-specific DNA binding"	dst2	nfyB
+GO:0003712	"transcription cofactor activity"	med7
+GO:0003720	"telomerase activity"	nola4
+GO:0003723	"RNA binding"	agnC	drpp30	ddx1	cwc2	nola2	DDB_G0273237	DDB_G0291015	DDB_G0289453	pabpc1A	slu7	erf1	eif4e	prpf8	mrps14	nop10	rpl12	ncbp1	snrnp70	nop58	eif3d	ctu2	nudt21	aco1	srp9	rpl5
+GO:0003724	"RNA helicase activity"	ifdA	helD
+GO:0003727	"single-stranded RNA binding"	pabpc1A	ddx1	agnC
+GO:0003729	"mRNA binding"	aco1	eif3d	erf1	mrps14	nudt21
+GO:0003730	"mRNA 3'-UTR binding"	nudt21
+GO:0003743	"translation initiation factor activity"	eif4e
+GO:0003747	"translation release factor activity"	erf1
+GO:0003755	"peptidyl-prolyl cis-trans isomerase activity"	DDB_G0268358
+GO:0003756	"protein disulfide isomerase activity"	DDB_G0274887
+GO:0003774	"motor activity"	kif2	myoI	dhcA	kif10
+GO:0003777	"microtubule motor activity"	kif10	dhcA	kif2
+GO:0003779	"actin binding"	proB	abpC	acpA
+GO:0003785	"actin monomer binding"	proB
+GO:0003796	"lysozyme activity"	cf45-1
+GO:0003824	"catalytic activity"	nfs1	smt1	mmsdh	ppkA	melA	gcvT	DDB_G0283951	noxB	omt2	msh6	thrS2	qprt	7tmk1	etnkA	alg10	ach1	ube2w	cshA	amdhd1	StlB	prpD	DDB_G0269330	gluD	hspD	uox	osgep	udpA	srr	pck2	snfA	thfA	malaS	dph1	nt5c2	ech1	etfdh	DDB_G0290799	fntB	gmppA	gloA	nat5	ufc1	hpdl-1	splA	ger	dcd3A	gnd	hgd	hibA	sdhB	masA	galE	maoB-1	treh	pde3	glpV	pgl	DDB_G0268652	argC	idhC	udkC	helD	polA	DDB_G0288757	ifdA	dnmA	prep	mfeB	l2hgdh	DDB_G0278993	pncA	uglB	top2	pikD	Dd5P2	ugpB	asnB	adh5	mtmr15	apnA	vps29	guaA	sqor	DDB_G0269722	thyA	purB	cdk8	lig1	DDB_G0284915	pyr4	hddc2	alg6	metE	canA	trrA	DDB_G0273477	DDB_G0267546	glkA	pyr56	cyb5r1	pggt1b	tal	DDB_G0272418	pgtA	alg11	rtca	pdeE	acp1	sdh	hagh	pkgB	pssA	alad	naprt	alg7	gna1	alg8	mus81	DDB_G0282299	coq7	DDB_G0286465	cda	DDB_G0282239	ucr	fsjA	dio3	DG2033	trmt61a	adprt4	maspS	alg3	captA	allB2	rnrB-1	lysS	modA	DDB_G0276237	lkhA	kmo	pepd	adprt2	purN	dnapkcs	rpiA	pikA	prdx4	comG	icmt-1	trmt5	mdhC	atg4-1	DDB_G0269890	DDB_G0291301	DDB_G0269404	impa1	ado-1	MYH	bcaA	4cl1	dohh-1	hacl1	DDB_G0271752	cysB	mipp1	fut8	hmgA	fbp	uba3	pdkB	agtA	sds	sglA	gabT	DDB_G0276503	DDB_G0285967	hemD	xdh	upf1	phyA	selD	repD	tgds	mtr	adkB	dotA	odc	hexa2	glnS	oxct1	tyrS	ileS	allC	pyk	ndkC-1	pdhC	DDB_G0277367	erkB	ino1	hibch	pgmB	itpa	DDB_G0267852	DDB_G0282495	DDB_G0275203	cahA	mtaA	pldG	acadsb	qpct	DDB_G0283417	NTH1	DDB_G0294595	hemA	DDB_G0273177	DDB_G0278493	fxn	purL	fah	tat	DDB_G0268064	bkdB	tdo	prmt2	drpp30	mocs2l	mkkA	ate1	pgkA	abhd	glud2	hemC	sptA	adhfe1	uprt	gnpda1	alg2	dimt1	eapA	mproS	nmt	ppcdc	purF	tkt-1	uba5	gnt14	shmt1	pkaC	zakA	nit2	DDB_G0295715	dcd3B	gpt	prsB	alg9	serC	hmgL	cas1	gnt1	taz	pycr2	cyp51	DDB_G0278481	acrA	pyr1-3	argD	cysA	uroc1	dut	pmmB	metS	DDB_G0270104	enoph1	DDB_G0274269	DDB_G0274887	dhkE	pip5k3	malA	ldhA	pigm	dhps	pctA	ddiA	pan2	alkB	tirA	pccA	panC	DDB_G0271550	kil1	mekA	ilvB	mvk	ireA	alfA	alg5	glnA1	pdhB	fsjB	trmu	atg7	DDB_G0280259	sepsecs	gcvP	DDB_G0283309	mcm6	DDB_G0271884	adat1	DDB_G0268928	DDB_G0295739	ADA2	fadB	ugt52	serA	dgat1	rtpR	miox	iunH	gshB	DDB_G0272708	pgghg	fumH	manC	repG	tpsB	auh	mpi	DDB_G0287281	pscA	DDB_G0283293	top3	rbsk	purD	DDB_G0268742	DDB_G0272484	uba1	sahA	DDB_G0270312	ipi	ksrA-1	polr2j	senp8	acgA	hemH	dolpp1	aoxA	pyd3	sgkA	dgk	gadA	pah	DDB_G0278171	stt3	tkrA	dcd2B	cnrI	veg111	gpsn2	g6pd-1	pigl	gmd	DDB_G0272014	mcee	atg10	ppme1	leuS	stlA	dokA	pemtA	cplA	polr1c	nagk	aprt	sgmD	ercc1	mcysS	accA	echs1	gnt4	fdxr	coq3	trxE	omt1	hgsB	scsC	enoB	udkA	DG1039	aatA	pigw	mfeA	nat10	DDB_G0282903	mecr	dtd	pnpo	DDB_G0290689	plip	exosc10	sodA	atp5f1d	coq1	ccbl	coxA	amd1	idhA	impdh	fba	guaD	gsta1	splA	Dd5P4	aspA	mocs1	glcS	DDB_G0284557	pyrK	DDB_G0281259	guk1	mserS	pyd2	hprT	DDB_G0268358	cdsA	spsA	argJ	folC	adi1	alg1	thyB	odhB	ifkA	rrpC	4cl3	coq6	DDB_G0268776	pcmA	scsB	sir2E	argE	nol9	aco	gsr	elp3	sac1	amdA	natA	DDB_G0267588	mhisS	crsA	qdpr	DDB_G0283667	smc3	nit1-1	jcdg	ube2m	DDB_G0292440	prodh	fhit	gcdh	fdfT	mpheS	DDB_G0287165	wdr85	aco2	sppA	cysK	iptA	pikC	nosA	fcsA	dpp3-1	DDB_G0269788	amyA	rab7A	DDB_G0279593	coq5	valS1	sprA	tpiA	DDB_G0287153	ivdA	gnt8	DDB_G0272839	spoT	dak	glgB	mocs3	haox	cf45-1	hemE	gpi	kynu	acmsd	rfc5	rabggta	mai	oatA	mgst	DDB_G0269658	gchA	apeA	rsad1	gphn	DDB_G0273081	DDB_G0286581	galK	glyS	ftcd	lpd	trm13	ppa1	gpmA	DDB_G0279357	fhbA	acy1	oplah	alg12	dtymk	dhak	roco11	adkA	nola4	cdk5rap1	cchl	sgkC	drnB	ggtA	DDB_G0283553	dpm1	cyp524A1	gnt12	fsjC	sae1	purH	plbG	pdx1	msrA	aslB	ptsA	ppox	alrC	plc	nsdhl	coq2	mocos	sdhC	ddx1	DDB_G0271544	pth2	pckA	pgs1	ada	uap1	asnS2	fhkA	odhA	nadsyn1	dcsA	rpe	rpmA	aif	trpS	pyd1	DDB_G0279427	argS1	tipD	wrn	ebp	agxt	mvd	DDB_G0279967	dph5	dafE	fahd1	pyrK	mccb	dgkA	mhkD	DDB_G0275507	polB	redB	adprh	purA	gcsA	catB	gluA	set1	DDB_G0279831	mgluS	erg24	gloB2	fol1	psmB6	metK	gghA	ddo-1	polr1a	tpp1	cox10	DDB_G0276821	gca	isy1	adk	magA	haao	gpdA	hdaA
+GO:0003825	"alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity"	tpsB
+GO:0003827	"alpha-1,3-mannosylglycoprotein 2-beta-N-acetylglucosaminyltransferase activity"	gnt4
+GO:0003830	"beta-1,4-mannosylglycoprotein 4-beta-N-acetylglucosaminyltransferase activity"	gnt8
+GO:0003837	"beta-ureidopropionase activity"	pyd3
+GO:0003838	"sterol 24-C-methyltransferase activity"	smt1
+GO:0003842	"1-pyrroline-5-carboxylate dehydrogenase activity"	DDB_G0283293
+GO:0003844	"1,4-alpha-glucan branching enzyme activity"	glgB
+GO:0003848	"2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity"	fol1
+GO:0003853	"2-methylacyl-CoA dehydrogenase activity"	acadsb
+GO:0003857	"3-hydroxyacyl-CoA dehydrogenase activity"	mfeA
+GO:0003860	"3-hydroxyisobutyryl-CoA hydrolase activity"	hibch
+GO:0003863	"3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring) activity"	bkdB
+GO:0003867	"4-aminobutyrate transaminase activity"	gabT
+GO:0003868	"4-hydroxyphenylpyruvate dioxygenase activity"	hpdl-1
+GO:0003870	"5-aminolevulinate synthase activity"	hemA
+GO:0003872	"6-phosphofructokinase activity"	pkgB
+GO:0003874	"6-pyruvoyltetrahydropterin synthase activity"	ptsA
+GO:0003875	"ADP-ribosylarginine hydrolase activity"	adprh
+GO:0003876	"AMP deaminase activity"	amdA
+GO:0003880	"protein C-terminal carboxyl O-methyltransferase activity"	icmt-1
+GO:0003882	"CDP-diacylglycerol-serine O-phosphatidyltransferase activity"	pssA
+GO:0003883	"CTP synthase activity"	pyrK
+GO:0003884	"D-amino-acid oxidase activity"	ddo-1
+GO:0003886	"DNA (cytosine-5-)-methyltransferase activity"	dnmA
+GO:0003887	"DNA-directed DNA polymerase activity"	polA
+GO:0003899	"DNA-directed RNA polymerase activity"	rpmA	polr1c	polr2j
+GO:0003905	"alkylbase DNA N-glycosylase activity"	magA
+GO:0003906	"DNA-(apurinic or apyrimidinic site) lyase activity"	NTH1
+GO:0003909	"DNA ligase activity"	lig1	DDB_G0282299
+GO:0003910	"DNA ligase (ATP) activity"	lig1
+GO:0003911	"DNA ligase (NAD+) activity"	DDB_G0282299
+GO:0003916	"DNA topoisomerase activity"	top3	top2
+GO:0003917	"DNA topoisomerase type I activity"	top3
+GO:0003918	"DNA topoisomerase type II (ATP-hydrolyzing) activity"	top2
+GO:0003921	"GMP synthase activity"	guaA
+GO:0003922	"GMP synthase (glutamine-hydrolyzing) activity"	guaA
+GO:0003924	"GTPase activity"	rab7A
+GO:0003925	"obsolete small monomeric GTPase activity"	rab7A
+GO:0003933	"GTP cyclohydrolase activity"	gchA
+GO:0003934	"GTP cyclohydrolase I activity"	gchA
+GO:0003937	"IMP cyclohydrolase activity"	purH
+GO:0003938	"IMP dehydrogenase activity"	impdh
+GO:0003941	"L-serine ammonia-lyase activity"	sds
+GO:0003942	"N-acetyl-gamma-glutamyl-phosphate reductase activity"	argC
+GO:0003950	"NAD+ ADP-ribosyltransferase activity"	adprt4
+GO:0003952	"NAD+ synthase (glutamine-hydrolyzing) activity"	nadsyn1
+GO:0003953	"NAD+ nucleosidase activity"	tirA
+GO:0003954	"NADH dehydrogenase activity"	DDB_G0270104
+GO:0003955	"NAD(P)H dehydrogenase (quinone) activity"	DDB_G0270104
+GO:0003958	"NADPH-hemoprotein reductase activity"	redB
+GO:0003959	"NADPH dehydrogenase activity"	DDB_G0271752
+GO:0003960	"NADPH:quinone reductase activity"	DDB_G0271884
+GO:0003963	"RNA-3'-phosphate cyclase activity"	rtca
+GO:0003964	"RNA-directed DNA polymerase activity"	nola4
+GO:0003968	"RNA-directed RNA polymerase activity"	rrpC
+GO:0003972	"RNA ligase (ATP) activity"	DDB_G0278481
+GO:0003973	"(S)-2-hydroxy-acid oxidase activity"	haox
+GO:0003974	"UDP-N-acetylglucosamine 4-epimerase activity"	galE
+GO:0003975	"UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase activity"	alg7
+GO:0003977	"UDP-N-acetylglucosamine diphosphorylase activity"	uap1
+GO:0003978	"UDP-glucose 4-epimerase activity"	galE
+GO:0003980	"UDP-glucose:glycoprotein glucosyltransferase activity"	ggtA
+GO:0003983	"UTP:glucose-1-phosphate uridylyltransferase activity"	ugpB
+GO:0003984	"acetolactate synthase activity"	ilvB
+GO:0003985	"acetyl-CoA C-acetyltransferase activity"	DDB_G0271544
+GO:0003986	"acetyl-CoA hydrolase activity"	ach1
+GO:0003987	"acetate-CoA ligase activity"	aslB
+GO:0003988	"acetyl-CoA C-acyltransferase activity"	DDB_G0271544
+GO:0003989	"acetyl-CoA carboxylase activity"	accA
+GO:0003991	"acetylglutamate kinase activity"	argC
+GO:0003992	"N2-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase activity"	argD
+GO:0003993	"acid phosphatase activity"	acp1
+GO:0003994	"aconitate hydratase activity"	aco2
+GO:0003995	"acyl-CoA dehydrogenase activity"	gcdh	ivdA	acadsb
+GO:0003999	"adenine phosphoribosyltransferase activity"	aprt
+GO:0004000	"adenosine deaminase activity"	adat1	ADA2
+GO:0004001	"adenosine kinase activity"	adk
+GO:0004013	"adenosylhomocysteinase activity"	sahA
+GO:0004014	"adenosylmethionine decarboxylase activity"	amd1
+GO:0004016	"adenylate cyclase activity"	acrA
+GO:0004017	"adenylate kinase activity"	DDB_G0278493
+GO:0004018	"N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity"	purB
+GO:0004019	"adenylosuccinate synthase activity"	purA
+GO:0004021	"L-alanine:2-oxoglutarate aminotransferase activity"	gpt
+GO:0004022	"alcohol dehydrogenase (NAD) activity"	adh5
+GO:0004024	"alcohol dehydrogenase activity, zinc-dependent"	adh5
+GO:0004030	"aldehyde dehydrogenase [NAD(P)+] activity"	comG
+GO:0004032	"alditol:NADP+ 1-oxidoreductase activity"	alrC
+GO:0004033	"aldo-keto reductase (NADP) activity"	alrC
+GO:0004037	"allantoicase activity"	allC
+GO:0004038	"allantoinase activity"	allB2
+GO:0004042	"acetyl-CoA:L-glutamate N-acetyltransferase activity"	argJ
+GO:0004044	"amidophosphoribosyltransferase activity"	purF
+GO:0004045	"aminoacyl-tRNA hydrolase activity"	pth2
+GO:0004046	"aminoacylase activity"	acy1
+GO:0004047	"aminomethyltransferase activity"	gcvT
+GO:0004057	"arginyltransferase activity"	ate1
+GO:0004060	"arylamine N-acetyltransferase activity"	nat5
+GO:0004066	"asparagine synthase (glutamine-hydrolyzing) activity"	asnB
+GO:0004067	"asparaginase activity"	aspA
+GO:0004069	"L-aspartate:2-oxoglutarate aminotransferase activity"	aatA
+GO:0004070	"aspartate carbamoyltransferase activity"	pyr1-3
+GO:0004075	"biotin carboxylase activity"	accA
+GO:0004082	"bisphosphoglycerate mutase activity"	gpmA
+GO:0004084	"branched-chain-amino-acid transaminase activity"	bcaA
+GO:0004088	"carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity"	pyr1-3
+GO:0004089	"carbonate dehydratase activity"	cahA
+GO:0004096	"catalase activity"	catB
+GO:0004103	"choline kinase activity"	etnkA
+GO:0004108	"citrate (Si)-synthase activity"	cshA
+GO:0004109	"coproporphyrinogen oxidase activity"	rsad1
+GO:0004112	"cyclic-nucleotide phosphodiesterase activity"	pdeE	pde3
+GO:0004114	"3',5'-cyclic-nucleotide phosphodiesterase activity"	pdeE	pde3
+GO:0004115	"3',5'-cyclic-AMP phosphodiesterase activity"	pdeE
+GO:0004122	"cystathionine beta-synthase activity"	cysB
+GO:0004123	"cystathionine gamma-lyase activity"	cysA
+GO:0004124	"cysteine synthase activity"	cysK
+GO:0004126	"cytidine deaminase activity"	cda
+GO:0004127	"cytidylate kinase activity"	pyrK
+GO:0004128	"cytochrome-b5 reductase activity, acting on NAD(P)H"	cyb5r1
+GO:0004136	"deoxyadenosine kinase activity"	dak
+GO:0004138	"deoxyguanosine kinase activity"	dgk
+GO:0004143	"diacylglycerol kinase activity"	dgkA
+GO:0004144	"diacylglycerol O-acyltransferase activity"	dgat1
+GO:0004148	"dihydrolipoyl dehydrogenase activity"	lpd
+GO:0004149	"dihydrolipoyllysine-residue succinyltransferase activity"	odhB
+GO:0004150	"dihydroneopterin aldolase activity"	fol1
+GO:0004151	"dihydroorotase activity"	pyr1-3
+GO:0004152	"dihydroorotate dehydrogenase activity"	pyr4
+GO:0004155	"6,7-dihydropteridine reductase activity"	qdpr
+GO:0004156	"dihydropteroate synthase activity"	fol1
+GO:0004157	"dihydropyrimidinase activity"	pyd2
+GO:0004161	"dimethylallyltranstransferase activity"	DDB_G0268742
+GO:0004163	"diphosphomevalonate decarboxylase activity"	mvd
+GO:0004164	"diphthine synthase activity"	dph5
+GO:0004169	"dolichyl-phosphate-mannose-protein mannosyltransferase activity"	dpm1
+GO:0004170	"dUTP diphosphatase activity"	dut
+GO:0004174	"electron-transferring-flavoprotein dehydrogenase activity"	etfdh
+GO:0004175	"endopeptidase activity"	cplA	psmB6
+GO:0004177	"aminopeptidase activity"	lkhA	pepd
+GO:0004180	"carboxypeptidase activity"	pscA
+GO:0004185	"serine-type carboxypeptidase activity"	pscA
+GO:0004197	"cysteine-type endopeptidase activity"	cplA
+GO:0004198	"calcium-dependent cysteine-type endopeptidase activity"	cplA
+GO:0004298	"threonine-type endopeptidase activity"	psmB6
+GO:0004300	"enoyl-CoA hydratase activity"	echs1
+GO:0004301	"epoxide hydrolase activity"	lkhA
+GO:0004303	"estradiol 17-beta-dehydrogenase activity"	mfeB
+GO:0004305	"ethanolamine kinase activity"	etnkA
+GO:0004306	"ethanolamine-phosphate cytidylyltransferase activity"	pctA
+GO:0004310	"farnesyl-diphosphate farnesyltransferase activity"	fdfT
+GO:0004311	"farnesyltranstransferase activity"	cox10	fdfT
+GO:0004312	"fatty acid synthase activity"	stlA	DDB_G0270312
+GO:0004315	"3-oxoacyl-[acyl-carrier-protein] synthase activity"	stlA
+GO:0004322	"ferroxidase activity"	fxn
+GO:0004325	"ferrochelatase activity"	hemH
+GO:0004326	"tetrahydrofolylpolyglutamate synthase activity"	folC
+GO:0004332	"fructose-bisphosphate aldolase activity"	fba
+GO:0004333	"fumarate hydratase activity"	fumH
+GO:0004334	"fumarylacetoacetase activity"	fah
+GO:0004335	"galactokinase activity"	galK
+GO:0004337	"geranyltranstransferase activity"	DDB_G0268742
+GO:0004342	"glucosamine-6-phosphate deaminase activity"	gnpda1
+GO:0004343	"glucosamine 6-phosphate N-acetyltransferase activity"	gna1
+GO:0004345	"glucose-6-phosphate dehydrogenase activity"	g6pd-1
+GO:0004347	"glucose-6-phosphate isomerase activity"	gpi
+GO:0004351	"glutamate decarboxylase activity"	gadA
+GO:0004352	"glutamate dehydrogenase (NAD+) activity"	glud2
+GO:0004353	"glutamate dehydrogenase [NAD(P)+] activity"	glud2	gluD
+GO:0004354	"glutamate dehydrogenase (NADP+) activity"	gluD
+GO:0004356	"glutamate-ammonia ligase activity"	glnA1
+GO:0004357	"glutamate-cysteine ligase activity"	gcsA
+GO:0004358	"glutamate N-acetyltransferase activity"	argJ
+GO:0004359	"glutaminase activity"	nadsyn1
+GO:0004361	"glutaryl-CoA dehydrogenase activity"	gcdh
+GO:0004362	"glutathione-disulfide reductase activity"	gsr
+GO:0004363	"glutathione synthase activity"	gshB
+GO:0004364	"glutathione transferase activity"	gsta1
+GO:0004365	"glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity"	gpdA
+GO:0004368	"glycerol-3-phosphate dehydrogenase activity"	DDB_G0283951
+GO:0004371	"glycerone kinase activity"	dhak
+GO:0004372	"glycine hydroxymethyltransferase activity"	shmt1
+GO:0004373	"glycogen (starch) synthase activity"	glcS
+GO:0004375	"glycine dehydrogenase (decarboxylating) activity"	gcvP
+GO:0004376	"glycolipid mannosyltransferase activity"	alg2	alg11
+GO:0004377	"GDP-Man:Man3GlcNAc2-PP-Dol alpha-1,2-mannosyltransferase activity"	alg11
+GO:0004378	"GDP-Man:Man1GlcNAc2-PP-Dol alpha-1,3-mannosyltransferase activity"	alg2
+GO:0004379	"glycylpeptide N-tetradecanoyltransferase activity"	nmt
+GO:0004381	"fucosylgalactoside 3-alpha-galactosyltransferase activity"	agtA
+GO:0004383	"guanylate cyclase activity"	gca
+GO:0004385	"guanylate kinase activity"	guk1
+GO:0004386	"helicase activity"	upf1	helD	repD	ifdA	mcm6	ddx1	wrn
+GO:0004395	"hexaprenyldihydroxybenzoate methyltransferase activity"	coq3
+GO:0004397	"histidine ammonia-lyase activity"	DDB_G0273081
+GO:0004402	"histone acetyltransferase activity"	DDB_G0274269
+GO:0004407	"histone deacetylase activity"	hdaA	sir2E
+GO:0004408	"holocytochrome-c synthase activity"	cchl
+GO:0004411	"homogentisate 1,2-dioxygenase activity"	hgd
+GO:0004416	"hydroxyacylglutathione hydrolase activity"	hagh
+GO:0004418	"hydroxymethylbilane synthase activity"	hemC
+GO:0004419	"hydroxymethylglutaryl-CoA lyase activity"	hmgL
+GO:0004420	"hydroxymethylglutaryl-CoA reductase (NADPH) activity"	hmgA
+GO:0004421	"hydroxymethylglutaryl-CoA synthase activity"	hgsB
+GO:0004422	"hypoxanthine phosphoribosyltransferase activity"	hprT
+GO:0004427	"inorganic diphosphatase activity"	ppa1
+GO:0004430	"1-phosphatidylinositol 4-kinase activity"	pikD
+GO:0004435	"phosphatidylinositol phospholipase C activity"	plc
+GO:0004438	"phosphatidylinositol-3-phosphatase activity"	sac1
+GO:0004439	"phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity"	Dd5P4
+GO:0004441	"inositol-1,4-bisphosphate 1-phosphatase activity"	DDB_G0268652
+GO:0004446	"inositol-hexakisphosphate phosphatase activity"	mipp1
+GO:0004448	"isocitrate dehydrogenase activity"	idhA	idhC
+GO:0004449	"isocitrate dehydrogenase (NAD+) activity"	idhA
+GO:0004450	"isocitrate dehydrogenase (NADP+) activity"	idhC
+GO:0004452	"isopentenyl-diphosphate delta-isomerase activity"	ipi
+GO:0004454	"ketohexokinase activity"	DDB_G0292440
+GO:0004457	"lactate dehydrogenase activity"	ldhA
+GO:0004462	"lactoylglutathione lyase activity"	gloA
+GO:0004467	"long-chain fatty acid-CoA ligase activity"	fcsA
+GO:0004470	"malic enzyme activity"	malA
+GO:0004471	"malate dehydrogenase (decarboxylating) (NAD+) activity"	malA
+GO:0004473	"malate dehydrogenase (decarboxylating) (NADP+) activity"	malA
+GO:0004474	"malate synthase activity"	masA
+GO:0004475	"mannose-1-phosphate guanylyltransferase activity"	gmppA
+GO:0004476	"mannose-6-phosphate isomerase activity"	mpi
+GO:0004478	"methionine adenosyltransferase activity"	metK
+GO:0004483	"mRNA (nucleoside-2'-O-)-methyltransferase activity"	DDB_G0279593
+GO:0004485	"methylcrotonoyl-CoA carboxylase activity"	mccb
+GO:0004486	"methylenetetrahydrofolate dehydrogenase [NAD(P)+] activity"	thfA
+GO:0004487	"methylenetetrahydrofolate dehydrogenase (NAD+) activity"	thfA
+GO:0004488	"methylenetetrahydrofolate dehydrogenase (NADP+) activity"	thfA
+GO:0004490	"methylglutaconyl-CoA hydratase activity"	auh
+GO:0004491	"methylmalonate-semialdehyde dehydrogenase (acylating) activity"	mmsdh
+GO:0004493	"methylmalonyl-CoA epimerase activity"	mcee
+GO:0004496	"mevalonate kinase activity"	mvk
+GO:0004497	"monooxygenase activity"	kmo	DDB_G0269788	pah	coq6	coq7	dohh-1	miox	cyp51	cyp524A1
+GO:0004502	"kynurenine 3-monooxygenase activity"	kmo
+GO:0004505	"phenylalanine 4-monooxygenase activity"	pah
+GO:0004510	"tryptophan 5-monooxygenase activity"	pah
+GO:0004512	"inositol-3-phosphate synthase activity"	ino1
+GO:0004514	"nicotinate-nucleotide diphosphorylase (carboxylating) activity"	qprt
+GO:0004515	"nicotinate-nucleotide adenylyltransferase activity"	DDB_G0288757
+GO:0004516	"nicotinate phosphoribosyltransferase activity"	naprt
+GO:0004518	"nuclease activity"	polA	drpp30	mus81	repG	apnA	mtmr15	exosc10	DDB_G0272839	ddiA	pan2	drnB	ireA	ercc1	NTH1	DDB_G0280259	DDB_G0279967	apeA
+GO:0004519	"endonuclease activity"	mus81	repG	ddiA	NTH1	DDB_G0280259	drnB	drpp30	ireA	ercc1	apnA
+GO:0004520	"endodeoxyribonuclease activity"	mus81	repG	apnA	ercc1
+GO:0004521	"endoribonuclease activity"	ddiA	DDB_G0280259	drnB	drpp30	ireA
+GO:0004525	"ribonuclease III activity"	drnB
+GO:0004526	"ribonuclease P activity"	drpp30
+GO:0004527	"exonuclease activity"	apeA	DDB_G0272839	pan2	polA	DDB_G0279967	mtmr15	exosc10
+GO:0004528	"phosphodiesterase I activity"	mtmr15
+GO:0004529	"exodeoxyribonuclease activity"	DDB_G0272839	apeA
+GO:0004532	"exoribonuclease activity"	pan2	exosc10	DDB_G0279967
+GO:0004535	"poly(A)-specific ribonuclease activity"	pan2
+GO:0004536	"deoxyribonuclease activity"	mus81	repG	DDB_G0272839	ercc1	apnA	apeA
+GO:0004540	"ribonuclease activity"	ddiA	pan2	DDB_G0280259	drnB	DDB_G0279967	drpp30	ireA	exosc10
+GO:0004549	"tRNA-specific ribonuclease activity"	drpp30
+GO:0004550	"nucleoside diphosphate kinase activity"	ndkC-1
+GO:0004551	"nucleotide diphosphatase activity"	DDB_G0290689	fhit
+GO:0004553	"hydrolase activity, hydrolyzing O-glycosyl compounds"	DDB_G0278171	melA	veg111	pgghg	amyA	manC	hexa2	gluA	dcd3A	alfA	cf45-1	treh	modA
+GO:0004555	"alpha,alpha-trehalase activity"	treh
+GO:0004556	"alpha-amylase activity"	amyA
+GO:0004557	"alpha-galactosidase activity"	melA
+GO:0004559	"alpha-mannosidase activity"	manC
+GO:0004560	"alpha-L-fucosidase activity"	alfA
+GO:0004563	"beta-N-acetylhexosaminidase activity"	hexa2	veg111
+GO:0004568	"chitinase activity"	DDB_G0278171
+GO:0004576	"oligosaccharyl transferase activity"	stt3
+GO:0004578	"chitobiosyldiphosphodolichol beta-mannosyltransferase activity"	alg1
+GO:0004579	"dolichyl-diphosphooligosaccharide-protein glycotransferase activity"	stt3
+GO:0004581	"dolichyl-phosphate beta-glucosyltransferase activity"	alg5
+GO:0004582	"dolichyl-phosphate beta-D-mannosyltransferase activity"	dpm1
+GO:0004586	"ornithine decarboxylase activity"	odc
+GO:0004587	"ornithine-oxo-acid transaminase activity"	oatA
+GO:0004588	"orotate phosphoribosyltransferase activity"	pyr56
+GO:0004590	"orotidine-5'-phosphate decarboxylase activity"	pyr56
+GO:0004591	"oxoglutarate dehydrogenase (succinyl-transferring) activity"	odhA
+GO:0004592	"pantoate-beta-alanine ligase activity"	panC
+GO:0004596	"peptide alpha-N-acetyltransferase activity"	natA
+GO:0004601	"peroxidase activity"	catB	mgst
+GO:0004602	"glutathione peroxidase activity"	mgst
+GO:0004605	"phosphatidate cytidylyltransferase activity"	cdsA
+GO:0004608	"phosphatidylethanolamine N-methyltransferase activity"	pemtA
+GO:0004609	"phosphatidylserine decarboxylase activity"	DDB_G0276503
+GO:0004611	"phosphoenolpyruvate carboxykinase activity"	pck2	pckA
+GO:0004612	"phosphoenolpyruvate carboxykinase (ATP) activity"	pckA
+GO:0004613	"phosphoenolpyruvate carboxykinase (GTP) activity"	pck2
+GO:0004614	"phosphoglucomutase activity"	pgmB
+GO:0004615	"phosphomannomutase activity"	pmmB
+GO:0004616	"phosphogluconate dehydrogenase (decarboxylating) activity"	gnd
+GO:0004617	"phosphoglycerate dehydrogenase activity"	serA
+GO:0004618	"phosphoglycerate kinase activity"	pgkA
+GO:0004620	"phospholipase activity"	plbG	plc	sgmD	pldG	DDB_G0283553
+GO:0004621	"glycosylphosphatidylinositol phospholipase D activity"	pldG
+GO:0004623	"phospholipase A2 activity"	DDB_G0283553
+GO:0004629	"phospholipase C activity"	plc
+GO:0004630	"phospholipase D activity"	pldG
+GO:0004633	"phosphopantothenoylcysteine decarboxylase activity"	ppcdc
+GO:0004634	"phosphopyruvate hydratase activity"	enoB
+GO:0004637	"phosphoribosylamine-glycine ligase activity"	purD
+GO:0004641	"phosphoribosylformylglycinamidine cyclo-ligase activity"	purD
+GO:0004642	"phosphoribosylformylglycinamidine synthase activity"	purL
+GO:0004643	"phosphoribosylaminoimidazolecarboxamide formyltransferase activity"	purH
+GO:0004644	"phosphoribosylglycinamide formyltransferase activity"	purN
+GO:0004645	"phosphorylase activity"	glpV
+GO:0004648	"O-phospho-L-serine:2-oxoglutarate aminotransferase activity"	serC
+GO:0004655	"porphobilinogen synthase activity"	alad
+GO:0004657	"proline dehydrogenase activity"	prodh
+GO:0004658	"propionyl-CoA carboxylase activity"	pccA
+GO:0004659	"prenyltransferase activity"	coq1	cox10	fdfT	DDB_G0269330	coq2	fntB	pggt1b	rabggta	DDB_G0268742
+GO:0004660	"protein farnesyltransferase activity"	fntB
+GO:0004661	"protein geranylgeranyltransferase activity"	rabggta	pggt1b
+GO:0004662	"CAAX-protein geranylgeranyltransferase activity"	pggt1b
+GO:0004663	"Rab geranylgeranyltransferase activity"	rabggta
+GO:0004664	"prephenate dehydratase activity"	pah
+GO:0004671	"protein C-terminal S-isoprenylcysteine carboxyl O-methyltransferase activity"	icmt-1
+GO:0004672	"protein kinase activity"	snfA	dnapkcs	mkkA	mhkD	7tmk1	roco11	dhkE	DDB_G0286465	fhkA	erkB	dokA	DDB_G0279831	ifkA	splA	cdk8	DDB_G0271550	mekA	zakA	pkaC	glkA	pdkB
+GO:0004673	"protein histidine kinase activity"	dhkE
+GO:0004674	"protein serine/threonine kinase activity"	cdk8	snfA	pdkB	dnapkcs	DDB_G0271550	DDB_G0286465	fhkA	erkB	mkkA	DDB_G0279831	ifkA	mhkD	pkaC
+GO:0004676	"3-phosphoinositide-dependent protein kinase activity"	pdkB
+GO:0004677	"DNA-dependent protein kinase activity"	dnapkcs
+GO:0004679	"AMP-activated protein kinase activity"	snfA
+GO:0004683	"calmodulin-dependent protein kinase activity"	DDB_G0279831	mhkD
+GO:0004687	"myosin light chain kinase activity"	DDB_G0271550
+GO:0004690	"cyclic nucleotide-dependent protein kinase activity"	pkaC
+GO:0004691	"cAMP-dependent protein kinase activity"	pkaC
+GO:0004693	"cyclin-dependent protein serine/threonine kinase activity"	cdk8
+GO:0004694	"eukaryotic translation initiation factor 2alpha kinase activity"	ifkA
+GO:0004707	"MAP kinase activity"	erkB
+GO:0004708	"MAP kinase kinase activity"	mekA
+GO:0004709	"MAP kinase kinase kinase activity"	mkkA
+GO:0004712	"protein serine/threonine/tyrosine kinase activity"	mekA	zakA
+GO:0004713	"protein tyrosine kinase activity"	7tmk1	roco11	splA
+GO:0004714	"transmembrane receptor protein tyrosine kinase activity"	7tmk1
+GO:0004715	"non-membrane spanning protein tyrosine kinase activity"	splA
+GO:0004719	"protein-L-isoaspartate (D-aspartate) O-methyltransferase activity"	pcmA
+GO:0004721	"phosphoprotein phosphatase activity"	DDB_G0269404	acp1	DDB_G0277367	canA	DDB_G0283417
+GO:0004722	"protein serine/threonine phosphatase activity"	canA	DDB_G0269404
+GO:0004723	"calcium-dependent protein serine/threonine phosphatase activity"	canA
+GO:0004725	"protein tyrosine phosphatase activity"	acp1
+GO:0004729	"oxygen-dependent protoporphyrinogen oxidase activity"	ppox
+GO:0004733	"pyridoxamine-phosphate oxidase activity"	pnpo
+GO:0004735	"pyrroline-5-carboxylate reductase activity"	pycr2
+GO:0004738	"pyruvate dehydrogenase activity"	pdhB
+GO:0004739	"pyruvate dehydrogenase (acetyl-transferring) activity"	pdhB
+GO:0004742	"dihydrolipoyllysine-residue acetyltransferase activity"	pdhC
+GO:0004743	"pyruvate kinase activity"	pyk
+GO:0004747	"ribokinase activity"	rbsk
+GO:0004748	"ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor"	rnrB-1
+GO:0004749	"ribose phosphate diphosphokinase activity"	prsB
+GO:0004750	"ribulose-phosphate 3-epimerase activity"	rpe
+GO:0004751	"ribose-5-phosphate isomerase activity"	rpiA
+GO:0004753	"saccharopine dehydrogenase activity"	sdh
+GO:0004755	"saccharopine dehydrogenase (NADP+, L-glutamate-forming) activity"	sdh
+GO:0004756	"selenide, water dikinase activity"	selD
+GO:0004757	"sepiapterin reductase activity"	sprA
+GO:0004758	"serine C-palmitoyltransferase activity"	sptA
+GO:0004760	"serine-pyruvate transaminase activity"	agxt
+GO:0004766	"spermidine synthase activity"	spsA
+GO:0004767	"sphingomyelin phosphodiesterase activity"	sgmD
+GO:0004769	"steroid delta-isomerase activity"	ebp
+GO:0004774	"succinate-CoA ligase activity"	scsB	scsC
+GO:0004775	"succinate-CoA ligase (ADP-forming) activity"	scsC
+GO:0004776	"succinate-CoA ligase (GDP-forming) activity"	scsB
+GO:0004784	"superoxide dismutase activity"	sodA
+GO:0004788	"thiamine diphosphokinase activity"	DDB_G0267546
+GO:0004791	"thioredoxin-disulfide reductase activity"	trrA
+GO:0004792	"thiosulfate sulfurtransferase activity"	mocs3
+GO:0004797	"thymidine kinase activity"	thyB
+GO:0004798	"thymidylate kinase activity"	dtymk
+GO:0004799	"thymidylate synthase activity"	thyA
+GO:0004800	"thyroxine 5'-deiodinase activity"	dio3
+GO:0004801	"sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase activity"	tal
+GO:0004802	"transketolase activity"	tkt-1
+GO:0004807	"triose-phosphate isomerase activity"	tpiA
+GO:0004812	"aminoacyl-tRNA ligase activity"	mpheS	malaS	glyS	mserS	thrS2	glnS	metS	tyrS	ileS	asnS2	leuS	valS1	mproS	mgluS	mcysS	trpS	maspS	argS1	mhisS	lysS
+GO:0004813	"alanine-tRNA ligase activity"	malaS
+GO:0004814	"arginine-tRNA ligase activity"	argS1
+GO:0004815	"aspartate-tRNA ligase activity"	maspS
+GO:0004816	"asparagine-tRNA ligase activity"	asnS2
+GO:0004817	"cysteine-tRNA ligase activity"	mcysS
+GO:0004818	"glutamate-tRNA ligase activity"	mgluS
+GO:0004819	"glutamine-tRNA ligase activity"	glnS
+GO:0004820	"glycine-tRNA ligase activity"	glyS
+GO:0004821	"histidine-tRNA ligase activity"	mhisS
+GO:0004822	"isoleucine-tRNA ligase activity"	ileS
+GO:0004823	"leucine-tRNA ligase activity"	leuS
+GO:0004824	"lysine-tRNA ligase activity"	lysS
+GO:0004825	"methionine-tRNA ligase activity"	metS
+GO:0004826	"phenylalanine-tRNA ligase activity"	mpheS
+GO:0004827	"proline-tRNA ligase activity"	mproS
+GO:0004828	"serine-tRNA ligase activity"	mserS
+GO:0004829	"threonine-tRNA ligase activity"	thrS2
+GO:0004830	"tryptophan-tRNA ligase activity"	trpS
+GO:0004831	"tyrosine-tRNA ligase activity"	tyrS
+GO:0004832	"valine-tRNA ligase activity"	valS1
+GO:0004833	"tryptophan 2,3-dioxygenase activity"	tdo
+GO:0004838	"L-tyrosine:2-oxoglutarate aminotransferase activity"	tat
+GO:0004839	"ubiquitin activating enzyme activity"	uba1
+GO:0004842	"ubiquitin-protein transferase activity"	ube2w	nosA
+GO:0004844	"uracil DNA N-glycosylase activity"	uglB
+GO:0004845	"uracil phosphoribosyltransferase activity"	uprt
+GO:0004846	"urate oxidase activity"	uox
+GO:0004849	"uridine kinase activity"	udkA
+GO:0004850	"uridine phosphorylase activity"	udpA
+GO:0004852	"uroporphyrinogen-III synthase activity"	hemD
+GO:0004853	"uroporphyrinogen decarboxylase activity"	hemE
+GO:0004854	"xanthine dehydrogenase activity"	xdh
+GO:0004860	"protein kinase inhibitor activity"	pkaR
+GO:0004862	"cAMP-dependent protein kinase inhibitor activity"	pkaR
+GO:0004864	"protein phosphatase inhibitor activity"	dpiA
+GO:0004866	"endopeptidase inhibitor activity"	cpiC	DDB_G0269462
+GO:0004869	"cysteine-type endopeptidase inhibitor activity"	cpiC
+GO:0004888	"transmembrane signaling receptor activity"	carA-1	7tmk1	grlK	grlR	fslB
+GO:0004930	"G-protein coupled receptor activity"	carA-1	grlR	grlK
+GO:0004965	"G-protein coupled GABA receptor activity"	grlR
+GO:0005047	"signal recognition particle binding"	srpra
+GO:0005048	"signal sequence binding"	kdelr	sec61a	pex7	pex19	srp14-1	pex5	timm22	tnpo
+GO:0005049	"nuclear export signal receptor activity"	xpo4
+GO:0005052	"peroxisome matrix targeting signal-1 binding"	pex5
+GO:0005053	"peroxisome matrix targeting signal-2 binding"	pex7
+GO:0005080	"protein kinase C binding"	gpbB
+GO:0005085	"guanyl-nucleotide exchange factor activity"	gefW
+GO:0005092	"GDP-dissociation inhibitor activity"	rdiA
+GO:0005094	"Rho GDP-dissociation inhibitor activity"	rdiA
+GO:0005096	"GTPase activator activity"	gefW
+GO:0005102	"receptor binding"	pex14	psiA	gpaB	DDB_G0272420
+GO:0005198	"structural molecule activity"	act23	cope	H3a
+GO:0005200	"structural constituent of cytoskeleton"	act23
+GO:0005215	"transporter activity"	DDB_G0291554	mcfR	iplA	mcfN	DDB_G0268478	tmco1	slc35b2	tom40	slc44a2	ucpC	DDB_G0267924	DDB_G0274481	npcA	mcfQ	pitB	DDB_G0272544	DDB0186972	orfR1062	mcfV	abcG20	slc35b4	ctns	DDB_G0291406	patA	porA	mcfT	mcfC	DDB_G0282067	sfxn	clcB	tmem184B	zntA	mcfD	amtC	mcfI	DDB_G0282801	patB	mcfM	p2xA	slmo	mcfW	DDB_G0269332	atp5f1d	rimA	clcC	nramp1	ctaA	aqpA	slc50a1	crtp3	tmem144A	abcD1	osbD	sec61a	slc35b1	slc35c1	DDB_G0292412	arsB	abcG15	mcfZ	DDB_G0270104	mcfK	mcfO	ancA	ucr	atp5f1b	DDB_G0269864	DDB_G0268360	mcfF	nramp2	DDB_G0278059	nhe1
+GO:0005216	"ion channel activity"	p2xA	DDB_G0269864	iplA	clcC	porA	orfR1062	DDB_G0282801	atp5f1d	tmco1
+GO:0005217	"intracellular ligand-gated ion channel activity"	p2xA	iplA
+GO:0005220	"inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity"	iplA
+GO:0005227	"calcium activated cation channel activity"	orfR1062	DDB_G0269864
+GO:0005244	"voltage-gated ion channel activity"	clcC	porA
+GO:0005247	"voltage-gated chloride channel activity"	clcC
+GO:0005253	"anion channel activity"	clcC	porA
+GO:0005254	"chloride channel activity"	clcC
+GO:0005261	"cation channel activity"	p2xA	DDB_G0269864	iplA	orfR1062	atp5f1d	tmco1
+GO:0005262	"calcium channel activity"	tmco1	p2xA	iplA
+GO:0005267	"potassium channel activity"	DDB_G0269864
+GO:0005275	"amine transmembrane transporter activity"	slc44a2
+GO:0005310	"dicarboxylic acid transmembrane transporter activity"	mcfT	ucpC	mcfZ	mcfO
+GO:0005313	"L-glutamate transmembrane transporter activity"	mcfO
+GO:0005315	"inorganic phosphate transmembrane transporter activity"	mcfN
+GO:0005319	"lipid transporter activity"	osbD	pitB	slmo	npcA	abcD1
+GO:0005324	"long-chain fatty acid transporter activity"	abcD1
+GO:0005338	"nucleotide-sugar transmembrane transporter activity"	slc35b1	slc35b4	slc35c1
+GO:0005342	"organic acid transmembrane transporter activity"	ucpC	DDB_G0268478	mcfZ	ctns	mcfI	mcfD	mcfO	mcfT
+GO:0005344	"oxygen transporter activity"	fhbA
+GO:0005346	"purine ribonucleotide transmembrane transporter activity"	mcfC	mcfR	slc35b2	DDB_G0278059	mcfQ	ancA
+GO:0005347	"ATP transmembrane transporter activity"	mcfC	ancA
+GO:0005372	"water transmembrane transporter activity"	aqpA
+GO:0005381	"iron ion transmembrane transporter activity"	mcfF
+GO:0005385	"zinc ion transmembrane transporter activity"	DDB_G0269332
+GO:0005388	"calcium-transporting ATPase activity"	patA
+GO:0005391	"sodium:potassium-exchanging ATPase activity"	DDB_G0267924
+GO:0005451	"monovalent cation:proton antiporter activity"	nhe1
+GO:0005457	"GDP-fucose transmembrane transporter activity"	slc35c1
+GO:0005459	"UDP-galactose transmembrane transporter activity"	slc35b1
+GO:0005460	"UDP-glucose transmembrane transporter activity"	slc35b1
+GO:0005462	"UDP-N-acetylglucosamine transmembrane transporter activity"	slc35b4
+GO:0005469	"succinate:fumarate antiporter activity"	mcfZ
+GO:0005471	"ATP:ADP antiporter activity"	ancA
+GO:0005483	"soluble NSF attachment protein activity"	snpC
+GO:0005488	"binding"	guf1	vasp	pepd	trfA	ppiA	padA	acbA	DDB_G0281039	iplA	pex5	eif3C	gshB	gpgA	msh6	H3a	msh3	atp1	DDB_G0267216	DDB_G0273237	pex7	vwkA	mef2A	pabpc1A	srfA	MIP1	DDB_G0293188	gpbB	leo1	proB	StlB	impa1	psaB	DDB_G0272839	MYH	snrnp70	gpaB	rab11A	capA-1	hspD	vatM	mtmr15	gpi	brk1	cnbA	elmoA	ctxB	timm22	gabT	dscC-1	xdh	DDB_G0272544	upf1	cap	pkaR	repD	mtr	calA	cpnD	cwc2	fhbA	nola2	xpr1	chcA	dicA	ppme1	pyk	DDB_G0291015	DDB_G0289453	mhcA	erf1	mlcD	prpf8	rdeA	cdk1	pkbA	gtf2f1	DDB_G0288371	cbpJ	lis1	splB	ncbp1	eef1a1	clc	cupA	mtaA	ercc1	DDB_G0272420	cyp524A1	ctu2	sugt1	sdhB	ap2a1-1	kif2	kdelr	polr2b	DDB_G0295483	pde3	derl2	hdaC	pitE	corA	fxn	hatC	cblA-1	rpl5	DDB_G0276689	bkdC	rasS	cybA	myoD	tbcb	prmt2	argC	fttB	orcD	febA	DDB_G0284059	drpp30	dhcA	ddx1	pgkA	exoc7	acsA	grpE	sptA	DDB_G0282903	uprt	pckA	rac1B	eif5	gpbA	atox1	rpl12	DDB_G0269284	sodA	ctbs2	tnpo	pex14	DDB_G0284369	nop10	act23	mlh1	polr3c	rrp8	psiA	abpE-1	rpmA	hipA	gtaE	acpA	ndufab1	pyd1	idhA	DDB_G0279427	nudt21	DDB_G0278031	pkaC	DDB_G0267546	srpra	fkbp5	srp9	dstC	gtf2b	kif4	fpaA	H1	ku70	acrA	pyr1-3	bzpJ	rad50	agnC	sec61a	DDB_G0270778	DDB_G0270454	pex19	pkgB	shmt2	gmfA	enoph1	redB	psmD4	mlcE	spc97	slu7	adi1	gtf3c5	eif4e	wdr12	mrps14	nap1	maf1	washc2	sir2E	spc98	nop58	ctnnA	gflB	ilvB	eif3d	pakC	qdpr	cdc20	aco1	commd7	culB	gpr89	med11	abpC	gpaJ	srp14-1	allB2	gcvP	taf1	tbcd	med26
+GO:0005496	"steroid binding"	DDB_G0270454
+GO:0005504	"fatty acid binding"	hatC	bkdC
+GO:0005506	"iron ion binding"	cyp524A1	fxn
+GO:0005507	"copper ion binding"	sodA
+GO:0005509	"calcium ion binding"	cnbA
+GO:0005515	"protein binding"	vasp	DDB_G0281039	eif3C	gpgA	H3a	vwkA	mef2A	MIP1	DDB_G0293188	gpbB	leo1	proB	gpaB	rab11A	hspD	vatM	elmoA	cnbA	ctxB	gabT	cap	pkaR	calA	chcA	dicA	ppme1	mhcA	mlcD	rdeA	cdk1	pkbA	gtf2f1	cbpJ	splB	eef1a1	clc	mtaA	DDB_G0272420	sugt1	ap2a1-1	kif2	derl2	hdaC	corA	cblA-1	myoD	rasS	tbcb	prmt2	fttB	febA	DDB_G0284059	dhcA	grpE	rac1B	eif5	atox1	gpbA	DDB_G0284369	pex14	act23	rrp8	psiA	abpE-1	acpA	pkaC	dstC	gtf2b	fpaA	pkgB	psmD4	mlcE	spc97	nap1	maf1	spc98	ctnnA	gflB	pakC	commd7	culB	gpr89	med11	abpC	taf1	tbcd	med26
+GO:0005516	"calmodulin binding"	vwkA
+GO:0005522	"profilin binding"	abpE-1
+GO:0005524	"ATP binding"	acrA
+GO:0005525	"GTP binding"	uprt
+GO:0005527	"macrolide binding"	fkbp5
+GO:0005542	"folic acid binding"	DDB_G0272544
+GO:0005543	"phospholipid binding"	DDB_G0295483	pitE	DDB_G0288371	DDB_G0278031	DDB_G0276689	cpnD	exoc7
+GO:0005544	"calcium-dependent phospholipid binding"	cpnD
+GO:0005546	"phosphatidylinositol-4,5-bisphosphate binding"	exoc7
+GO:0005548	"phospholipid transporter activity"	slmo	pitB
+GO:0008013	"beta-catenin binding"	ctnnA
+GO:0008017	"microtubule binding"	mtaA	kif2	spc97
+GO:0008028	"monocarboxylic acid transmembrane transporter activity"	DDB_G0268478
+GO:0008047	"enzyme activator activity"	ncfA	rasC	hop2
+GO:0008061	"chitin binding"	ctbs2
+GO:0008079	"translation termination factor activity"	erf1
+GO:0008080	"N-acetyltransferase activity"	nat10	argJ	DDB_G0274269	nat5	natA	gna1
+GO:0008081	"phosphoric diester hydrolase activity"	pdeE	plc	pde3	sgmD	pldG	mtmr15
+GO:0008083	"growth factor activity"	psiA
+GO:0008092	"cytoskeletal protein binding"	proB	myoD	act23	tbcb	kif2	elmoA	fttB	mlcE	abpC	spc97	abpE-1	spc98	mtaA	pkgB	acpA	mlcD	tbcd	pkbA
+GO:0008093	"cytoskeletal adaptor activity"	gxcB
+GO:0008094	"DNA-dependent ATPase activity"	upf1	rfc5	top2	smc3	repD	mcm6	ddx1	msh6	wrn
+GO:0008097	"5S rRNA binding"	rpl5
+GO:0008106	"alcohol dehydrogenase (NADP+) activity"	alrC
+GO:0008107	"galactoside 2-alpha-L-fucosyltransferase activity"	pgtA
+GO:0008113	"peptide-methionine (S)-S-oxide reductase activity"	msrA
+GO:0008115	"sarcosine oxidase activity"	DDB_G0291301
+GO:0008117	"sphinganine-1-phosphate aldolase activity"	sglA
+GO:0008121	"ubiquinol-cytochrome-c reductase activity"	ucr
+GO:0008124	"4-alpha-hydroxytetrahydrobiopterin dehydratase activity"	DDB_G0278993
+GO:0008126	"acetylesterase activity"	abhd
+GO:0008134	"transcription factor binding"	gtf2f1	commd7	prmt2	splB	med11	DDB_G0281039	hdaC	taf1
+GO:0008135	"translation factor activity, RNA binding"	erf1	eif4e
+GO:0008137	"NADH dehydrogenase (ubiquinone) activity"	DDB_G0270104
+GO:0008138	"protein tyrosine/serine/threonine phosphatase activity"	DDB_G0269404	DDB_G0283417
+GO:0008139	"nuclear localization sequence binding"	tnpo
+GO:0008143	"poly(A) binding"	ddx1
+GO:0008146	"sulfotransferase activity"	kil1
+GO:0008157	"protein phosphatase 1 binding"	med26
+GO:0008160	"protein tyrosine phosphatase activator activity"	ppp2r4B
+GO:0008168	"methyltransferase activity"	smt1	coq3	prmt2	DDB_G0281259	omt1	trm13	cnrI	mtr	DDB_G0272708	gcvT	dnmA	icmt-1	trmt5	dotA	omt2	coq5	DDB_G0279593	dimt1	DDB_G0282239	set1	pemtA	fsjA	thyA	DDB_G0269722	pcmA	DG2033	DDB_G0275203	trmt61a	metE	fsjC	fsjB	DDB_G0295715	DDB_G0294595	dph5	DDB_G0269658	DDB_G0276237
+GO:0008169	"C-methyltransferase activity"	smt1	coq3	coq5
+GO:0008170	"N-methyltransferase activity"	prmt2	DDB_G0294595	DDB_G0275203	cnrI	dimt1	set1	DDB_G0272708	pemtA	dotA	DDB_G0276237
+GO:0008171	"O-methyltransferase activity"	coq3	DDB_G0279593	pcmA	omt1	trm13	fsjC	icmt-1
+GO:0008172	"S-methyltransferase activity"	mtr	metE
+GO:0008173	"RNA methyltransferase activity"	trm13	trmt5	DDB_G0279593	dimt1	DDB_G0269722	fsjA	DG2033	DDB_G0275203	trmt61a	fsjC	fsjB	DDB_G0295715
+GO:0008174	"mRNA methyltransferase activity"	DDB_G0279593
+GO:0008175	"tRNA methyltransferase activity"	DDB_G0295715	DG2033	trmt61a	trm13	trmt5	fsjA
+GO:0008177	"succinate dehydrogenase (ubiquinone) activity"	sdhB
+GO:0008179	"adenylate cyclase binding"	cap
+GO:0008184	"glycogen phosphorylase activity"	glpV
+GO:0008186	"RNA-dependent ATPase activity"	ddx52	ifdA	helD	ddx1
+GO:0008187	"poly-pyrimidine tract binding"	pabpc1A
+GO:0008190	"eukaryotic initiation factor 4E binding"	febA
+GO:0008194	"UDP-glycosyltransferase activity"	tpsB	gnt8	dcsA	ugt52	gnt1	glcS	agtA	ggtA	gnt12	gnt4	alg5
+GO:0008199	"ferric iron binding"	fxn
+GO:0008233	"peptidase activity"	lkhA	pepd	DG1039	DDB_G0279357	prep	dpp3-1	atg4-1	pscA	cplA	psmB6	gghA	tpp1	senp8
+GO:0008234	"cysteine-type peptidase activity"	cplA	senp8	atg4-1	gghA	DG1039
+GO:0008235	"metalloexopeptidase activity"	dpp3-1	pepd
+GO:0008236	"serine-type peptidase activity"	tpp1	pscA
+GO:0008237	"metallopeptidase activity"	dpp3-1	pepd	DG1039
+GO:0008238	"exopeptidase activity"	lkhA	dpp3-1	pepd	pscA	tpp1
+GO:0008239	"dipeptidyl-peptidase activity"	dpp3-1
+GO:0008240	"tripeptidyl-peptidase activity"	tpp1
+GO:0008242	"omega peptidase activity"	gghA	DDB_G0279357
+GO:0008251	"tRNA-specific adenosine deaminase activity"	adat1
+GO:0008252	"nucleotidase activity"	nt5c2	DDB_G0268652
+GO:0008253	"5'-nucleotidase activity"	nt5c2
+GO:0008260	"3-oxoacid CoA-transferase activity"	oxct1
+GO:0008265	"Mo-molybdopterin cofactor sulfurase activity"	mocos
+GO:0008266	"poly(U) RNA binding"	pabpc1A
+GO:0008270	"zinc ion binding"	gtaE
+GO:0008276	"protein methyltransferase activity"	prmt2	pcmA	DDB_G0294595	set1	DDB_G0269658	DDB_G0272708	icmt-1	dotA	DDB_G0276237
+GO:0008289	"lipid binding"	bkdC	DDB_G0270454	DDB_G0295483	pitE	DDB_G0288371	DDB_G0278031	hatC	DDB_G0276689	cpnD	exoc7
+GO:0008296	"3'-5'-exodeoxyribonuclease activity"	apeA
+GO:0008308	"voltage-gated anion channel activity"	clcC	porA
+GO:0008309	"double-stranded DNA exodeoxyribonuclease activity"	apeA
+GO:0008311	"double-stranded DNA 3'-5' exodeoxyribonuclease activity"	apeA
+GO:0008312	"7S RNA binding"	srp9
+GO:0008318	"protein prenyltransferase activity"	fntB	pggt1b	rabggta
+GO:0008320	"protein transmembrane transporter activity"	sec61a	DDB_G0291406	tom40
+GO:0008324	"cation transmembrane transporter activity"	amtC	iplA	DDB_G0292412	orfR1062	patB	tmco1	p2xA	patA	mcfK	DDB_G0269332	ucr	atp5f1d	atp5f1b	DDB_G0282067	DDB_G0269864	nramp1	zntA	slc44a2	mcfF	DDB_G0268360	DDB_G0267924	DDB_G0278059	mcfQ	mcfD	nhe1
+GO:0008353	"RNA polymerase II carboxy-terminal domain kinase activity"	cdk8
+GO:0008374	"O-acyltransferase activity"	taz	pigw	dgat1
+GO:0008375	"acetylglucosaminyltransferase activity"	gnt8	gnt1	gnt4
+GO:0008378	"galactosyltransferase activity"	agtA
+GO:0008381	"mechanically-gated ion channel activity"	DDB_G0282801
+GO:0008398	"sterol 14-demethylase activity"	cyp51
+GO:0008408	"3'-5' exonuclease activity"	pan2	polA	exosc10	DDB_G0279967	apeA
+GO:0008409	"5'-3' exonuclease activity"	DDB_G0272839
+GO:0008410	"CoA-transferase activity"	oxct1	ach1
+GO:0008412	"4-hydroxybenzoate octaprenyltransferase activity"	coq2
+GO:0008417	"fucosyltransferase activity"	fut8	pgtA
+GO:0008419	"RNA lariat debranching enzyme activity"	DDB_G0280259
+GO:0008422	"beta-glucosidase activity"	gluA
+GO:0008425	"2-polyprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity"	coq3	coq5
+GO:0008441	"3'(2'),5'-bisphosphate nucleotidase activity"	DDB_G0268652
+GO:0008442	"3-hydroxyisobutyrate dehydrogenase activity"	hibA
+GO:0008443	"phosphofructokinase activity"	pkgB
+GO:0008444	"CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity"	pgs1
+GO:0008445	"D-aspartate oxidase activity"	ddo-1
+GO:0008446	"GDP-mannose 4,6-dehydratase activity"	gmd
+GO:0008452	"RNA ligase activity"	DDB_G0278481
+GO:0008453	"alanine-glyoxylate transaminase activity"	agxt
+GO:0008460	"dTDP-glucose 4,6-dehydratase activity"	tgds
+GO:0008469	"histone-arginine N-methyltransferase activity"	DDB_G0276237	prmt2
+GO:0008470	"isovaleryl-CoA dehydrogenase activity"	ivdA
+GO:0008474	"palmitoyl-(protein) hydrolase activity"	DDB_G0268064
+GO:0008477	"purine nucleosidase activity"	iunH
+GO:0008478	"pyridoxal kinase activity"	splA
+GO:0008481	"sphinganine kinase activity"	sgkA
+GO:0008483	"transaminase activity"	agxt	DDB_G0272014	ccbl	gpt	bcaA	serC	oatA	argD	gabT	aatA	tat
+GO:0008488	"gamma-glutamyl carboxylase activity"	DDB_G0282903
+GO:0008495	"protoheme IX farnesyltransferase activity"	cox10
+GO:0008509	"anion transmembrane transporter activity"	mcfR	slc35b1	mcfI	arsB	DDB_G0268478	mcfM	mcfZ	slc35b4	slc35b2	ctns	porA	mcfO	ancA	mcfC	clcB	clcC	ucpC	DDB_G0274481	DDB_G0278059	mcfQ	mcfD	nhe1
+GO:0008514	"organic anion transmembrane transporter activity"	mcfC	ucpC	DDB_G0268478	mcfZ	slc35b4	mcfR	slc35b1	ctns	slc35b2	mcfI	DDB_G0278059	mcfQ	mcfD	mcfO	ancA	mcfM
+GO:0008517	"folic acid transporter activity"	mcfI
+GO:0008519	"ammonium transmembrane transporter activity"	amtC
+GO:0008521	"acetyl-CoA transporter activity"	DDB_G0278059
+GO:0008525	"phosphatidylcholine transporter activity"	pitB
+GO:0008534	"oxidized purine nucleobase lesion DNA N-glycosylase activity"	MYH
+GO:0008553	"hydrogen-exporting ATPase activity, phosphorylative mechanism"	patB
+GO:0008554	"sodium-exporting ATPase activity, phosphorylative mechanism"	DDB_G0267924
+GO:0008556	"potassium-transporting ATPase activity"	DDB_G0267924
+GO:0008568	"microtubule-severing ATPase activity"	DDB_G0287165
+GO:0008569	"ATP-dependent microtubule motor activity, minus-end-directed"	dhcA
+GO:0008574	"ATP-dependent microtubule motor activity, plus-end-directed"	kif10
+GO:0008579	"JUN kinase phosphatase activity"	DDB_G0283417
+GO:0008597	"calcium-dependent protein serine/threonine phosphatase regulator activity"	cnbA
+GO:0008603	"cAMP-dependent protein kinase regulator activity"	pkaR	adcC
+GO:0008607	"phosphorylase kinase regulator activity"	elp4
+GO:0008609	"alkylglycerone-phosphate synthase activity"	eapA
+GO:0008641	"small protein activating enzyme activity"	uba1	uba3	atg7	uba5	mocs3	sae1
+GO:0008649	"rRNA methyltransferase activity"	fsjB	DDB_G0275203	dimt1	fsjC	DDB_G0269722
+GO:0008650	"rRNA (uridine-2'-O-)-methyltransferase activity"	fsjC
+GO:0008681	"2-octaprenyl-6-methoxyphenol hydroxylase activity"	coq6
+GO:0008682	"2-octoprenyl-3-methyl-6-methoxy-1,4-benzoquinone hydroxylase activity"	coq7
+GO:0008689	"3-demethylubiquinone-9 3-O-methyltransferase activity"	coq3
+GO:0008705	"methionine synthase activity"	mtr
+GO:0008720	"D-lactate dehydrogenase activity"	ldhA
+GO:0008721	"D-serine ammonia-lyase activity"	srr
+GO:0008725	"DNA-3-methyladenine glycosylase activity"	magA
+GO:0008757	"S-adenosylmethionine-dependent methyltransferase activity"	smt1	coq3	prmt2	DDB_G0281259	omt1	cnrI	DDB_G0272708	dnmA	trmt5	icmt-1	dotA	omt2	coq5	DDB_G0279593	dimt1	DDB_G0282239	set1	pemtA	DDB_G0269722	fsjA	pcmA	DG2033	DDB_G0275203	trmt61a	fsjC	fsjB	DDB_G0295715	DDB_G0294595	dph5	DDB_G0276237
+GO:0008775	"acetate CoA-transferase activity"	ach1
+GO:0008777	"acetylornithine deacetylase activity"	argE
+GO:0008793	"aromatic-amino-acid:2-oxoglutarate aminotransferase activity"	DDB_G0272014
+GO:0008798	"beta-aspartyl-peptidase activity"	DDB_G0279357
+GO:0008821	"crossover junction endodeoxyribonuclease activity"	mus81
+GO:0008832	"dGTPase activity"	DDB_G0272484
+GO:0008833	"deoxyribonuclease IV (phage-T4-induced) activity"	apnA
+GO:0008837	"diaminopimelate epimerase activity"	dafE
+GO:0008873	"gluconate 2-dehydrogenase activity"	tkrA
+GO:0008875	"gluconate dehydrogenase activity"	tkrA
+GO:0008892	"guanine deaminase activity"	guaD
+GO:0008893	"guanosine-3',5'-bis(diphosphate) 3'-diphosphatase activity"	spoT
+GO:0008905	"mannose-phosphate guanylyltransferase activity"	gmppA
+GO:0008934	"inositol monophosphate 1-phosphatase activity"	impa1
+GO:0008936	"nicotinamidase activity"	pncA
+GO:0008941	"nitric oxide dioxygenase activity"	fhbA
+GO:0008948	"oxaloacetate decarboxylase activity"	malA
+GO:0008962	"phosphatidylglycerophosphatase activity"	plip
+GO:0008973	"phosphopentomutase activity"	pgmB
+GO:0008976	"polyphosphate kinase activity"	ppkA
+GO:0008988	"rRNA (adenine-N6-)-methyltransferase activity"	DDB_G0275203
+GO:0008998	"ribonucleoside-triphosphate reductase activity"	rtpR
+GO:0009002	"serine-type D-Ala-D-Ala carboxypeptidase activity"	pscA
+GO:0009008	"DNA-methyltransferase activity"	dnmA
+GO:0009019	"tRNA (guanine-N1-)-methyltransferase activity"	trmt5
+GO:0009041	"uridylate kinase activity"	pyrK
+GO:0009055	"electron carrier activity"	DDB_G0270104	ucr	sdhB	etfdh
+GO:0009678	"hydrogen-translocating pyrophosphatase activity"	atp5f1b	patB
+GO:0009815	"1-aminocyclopropane-1-carboxylate oxidase activity"	aco
+GO:0009824	"AMP dimethylallyltransferase activity"	iptA
+GO:0009916	"alternative oxidase activity"	aoxA
+GO:0009922	"fatty acid elongase activity"	DDB_G0270312
+GO:0009927	"histidine phosphotransfer kinase activity"	dokA
+GO:0009931	"calcium-dependent protein serine/threonine kinase activity"	fhkA
+GO:0009975	"cyclase activity"	gca	acrA	rtca
+GO:0010181	"FMN binding"	redB
+GO:0010308	"acireductone dioxygenase (Ni2+-requiring) activity"	adi1
+GO:0010309	"acireductone dioxygenase [iron(II)-requiring] activity"	adi1
+GO:0010340	"carboxyl-O-methyltransferase activity"	pcmA	icmt-1
+GO:0010420	"polyprenyldihydroxybenzoate methyltransferase activity"	coq3
+GO:0010485	"H4 histone acetyltransferase activity"	DDB_G0274269
+GO:0010851	"cyclase regulator activity"	rasC
+GO:0010853	"cyclase activator activity"	rasC
+GO:0010856	"adenylate cyclase activator activity"	rasC
+GO:0010857	"calcium-dependent protein kinase activity"	fhkA
+GO:0010997	"anaphase-promoting complex binding"	cdc20
+GO:0015020	"glucuronosyltransferase activity"	gnt12
+GO:0015035	"protein disulfide oxidoreductase activity"	gsr	DDB_G0272418	trrA
+GO:0015036	"disulfide oxidoreductase activity"	trxE	gsr	DDB_G0272418	trrA
+GO:0015038	"glutathione disulfide oxidoreductase activity"	gsr
+GO:0015039	"NADPH-adrenodoxin reductase activity"	fdxr
+GO:0015075	"ion transmembrane transporter activity"	mcfR	slc35b1	amtC	mcfI	iplA	DDB_G0292412	arsB	orfR1062	DDB_G0282801	patB	tmco1	mcfM	DDB_G0268478	p2xA	mcfZ	slc35b4	slc35b2	ctns	patA	mcfK	DDB_G0269332	porA	mcfO	ancA	ucr	atp5f1d	mcfC	atp5f1b	DDB_G0282067	DDB_G0269864	sfxn	clcB	clcC	nramp1	zntA	slc44a2	ctaA	ucpC	mcfF	DDB_G0268360	DDB_G0267924	DDB_G0274481	DDB_G0278059	mcfQ	mcfD	nhe1
+GO:0015078	"hydrogen ion transmembrane transporter activity"	atp5f1b	DDB_G0268360	DDB_G0278059	nhe1	ucr	patB	atp5f1d
+GO:0015079	"potassium ion transmembrane transporter activity"	DDB_G0267924	DDB_G0269864	DDB_G0292412	nhe1
+GO:0015081	"sodium ion transmembrane transporter activity"	DDB_G0267924	nhe1
+GO:0015085	"calcium ion transmembrane transporter activity"	p2xA	patA	iplA	tmco1
+GO:0015086	"cadmium ion transmembrane transporter activity"	nramp1
+GO:0015093	"ferrous iron transmembrane transporter activity"	mcfF
+GO:0015101	"organic cation transmembrane transporter activity"	slc44a2	mcfQ	mcfK
+GO:0015103	"inorganic anion transmembrane transporter activity"	DDB_G0274481	clcB	clcC	porA	arsB
+GO:0015105	"arsenite transmembrane transporter activity"	arsB
+GO:0015108	"chloride transmembrane transporter activity"	clcB
+GO:0015114	"phosphate ion transmembrane transporter activity"	DDB_G0274481
+GO:0015117	"thiosulfate transmembrane transporter activity"	ucpC
+GO:0015131	"oxaloacetate transmembrane transporter activity"	ucpC
+GO:0015138	"fumarate transmembrane transporter activity"	mcfZ
+GO:0015140	"malate transmembrane transporter activity"	ucpC
+GO:0015141	"succinate transmembrane transporter activity"	ucpC	mcfZ
+GO:0015144	"carbohydrate transmembrane transporter activity"	slc50a1	tmem144A
+GO:0015165	"pyrimidine nucleotide-sugar transmembrane transporter activity"	slc35b1	slc35b4
+GO:0015171	"amino acid transmembrane transporter activity"	ctns	mcfD	mcfO
+GO:0015172	"acidic amino acid transmembrane transporter activity"	mcfO
+GO:0015179	"L-amino acid transmembrane transporter activity"	ctns	mcfD	mcfO
+GO:0015183	"L-aspartate transmembrane transporter activity"	mcfO
+GO:0015184	"L-cystine transmembrane transporter activity"	ctns
+GO:0015215	"nucleotide transmembrane transporter activity"	mcfC	mcfV	mcfR	slc35b2	mcfW	DDB_G0278059	mcfQ	ancA	mcfM	rimA
+GO:0015216	"purine nucleotide transmembrane transporter activity"	mcfC	mcfR	slc35b2	DDB_G0278059	mcfQ	ancA
+GO:0015217	"ADP transmembrane transporter activity"	ancA	mcfQ
+GO:0015218	"pyrimidine nucleotide transmembrane transporter activity"	rimA
+GO:0015220	"choline transmembrane transporter activity"	slc44a2
+GO:0015228	"coenzyme A transmembrane transporter activity"	mcfR
+GO:0015230	"FAD transmembrane transporter activity"	mcfM
+GO:0015234	"thiamine transmembrane transporter activity"	mcfK
+GO:0015248	"sterol transporter activity"	osbD
+GO:0015250	"water channel activity"	aqpA
+GO:0015252	"hydrogen ion channel activity"	atp5f1d
+GO:0015267	"channel activity"	aqpA	p2xA	DDB_G0269864	iplA	clcC	porA	orfR1062	DDB_G0282801	atp5f1d	tmco1
+GO:0015269	"calcium-activated potassium channel activity"	DDB_G0269864
+GO:0015276	"ligand-gated ion channel activity"	p2xA	iplA
+GO:0015278	"calcium-release channel activity"	p2xA	iplA
+GO:0015288	"porin activity"	porA
+GO:0015291	"secondary active transmembrane transporter activity"	mcfN	mcfZ	nramp2	DDB0186972	DDB_G0278059	nhe1	ancA
+GO:0015292	"uniporter activity"	DDB0186972
+GO:0015293	"symporter activity"	nramp2	DDB_G0278059
+GO:0015294	"solute:cation symporter activity"	DDB_G0278059
+GO:0015295	"solute:proton symporter activity"	DDB_G0278059
+GO:0015297	"antiporter activity"	ancA	mcfZ	nhe1
+GO:0015298	"solute:cation antiporter activity"	nhe1
+GO:0015299	"solute:proton antiporter activity"	nhe1
+GO:0015301	"anion:anion antiporter activity"	ancA	mcfZ
+GO:0015318	"inorganic solute uptake transmembrane transporter activity"	amtC	iplA	DDB_G0292412	arsB	orfR1062	mcfN	DDB_G0282801	patB	tmco1	p2xA	patA	DDB_G0269332	porA	ucr	atp5f1d	atp5f1b	DDB_G0282067	DDB_G0269864	clcB	clcC	nramp1	zntA	aqpA	mcfF	DDB_G0268360	DDB_G0267924	DDB_G0274481	DDB_G0278059	nhe1
+GO:0015385	"sodium:proton antiporter activity"	nhe1
+GO:0015386	"potassium:proton antiporter activity"	nhe1
+GO:0015399	"primary active transmembrane transporter activity"	atp5f1b	abcG20	DDB_G0270104	DDB_G0267924	sec61a	patA	DDB_G0291406	ctaA	clcB	ucr	patB	abcG15
+GO:0015450	"P-P-bond-hydrolysis-driven protein transmembrane transporter activity"	sec61a	DDB_G0291406
+GO:0015453	"oxidoreduction-driven active transmembrane transporter activity"	ucr	DDB_G0270104
+GO:0015462	"protein-transmembrane transporting ATPase activity"	DDB_G0291406
+GO:0015491	"cation:cation antiporter activity"	nhe1
+GO:0015556	"C4-dicarboxylate transmembrane transporter activity"	ucpC	mcfZ	mcfO
+GO:0015605	"organophosphate ester transmembrane transporter activity"	mcfC	mcfV	mcfR	slc35b2	mcfW	DDB_G0278059	mcfQ	ancA	mcfM	rimA
+GO:0015631	"tubulin binding"	tbcb	kif2	spc97	spc98	mtaA	pkgB	tbcd
+GO:0015645	"fatty acid ligase activity"	fcsA
+GO:0015662	"ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism"	DDB_G0267924	patA	ctaA	patB
+GO:0015665	"alcohol transmembrane transporter activity"	slc44a2
+GO:0015922	"aspartate oxidase activity"	ddo-1
+GO:0015923	"mannosidase activity"	manC
+GO:0015925	"galactosidase activity"	melA
+GO:0015926	"glucosidase activity"	modA	gluA	pgghg
+GO:0015927	"trehalase activity"	treh
+GO:0015928	"fucosidase activity"	alfA
+GO:0015929	"hexosaminidase activity"	veg111	hexa2
+GO:0015932	"nucleobase-containing compound transmembrane transporter activity"	ancA	mcfC	mcfV	slc35b4	mcfR	slc35b2	slc35b1	mcfW	slc35c1	DDB_G0278059	mcfQ	mcfM	rimA
+GO:0016018	"cyclosporin A binding"	ppiA
+GO:0016034	"maleylacetoacetate isomerase activity"	mai
+GO:0016149	"translation release factor activity, codon specific"	erf1
+GO:0016151	"nickel cation binding"	adi1
+GO:0016153	"urocanate hydratase activity"	uroc1
+GO:0016160	"amylase activity"	amyA
+GO:0016174	"NAD(P)H oxidase activity"	aif
+GO:0016175	"superoxide-generating NADPH oxidase activity"	noxB
+GO:0016176	"superoxide-generating NADPH oxidase activator activity"	ncfA
+GO:0016207	"4-coumarate-CoA ligase activity"	4cl3
+GO:0016208	"AMP binding"	acsA
+GO:0016209	"antioxidant activity"	mgst	prdx4	catB	gsr	trrA	sodA
+GO:0016210	"naringenin-chalcone synthase activity"	stlA
+GO:0016211	"ammonia ligase activity"	glnA1
+GO:0016212	"kynurenine-oxoglutarate transaminase activity"	aatA
+GO:0016229	"steroid dehydrogenase activity"	mfeB
+GO:0016231	"beta-N-acetylglucosaminidase activity"	veg111
+GO:0016251	"obsolete general RNA polymerase II transcription factor activity"	taf6
+GO:0016273	"arginine N-methyltransferase activity"	prmt2	DDB_G0276237
+GO:0016274	"protein-arginine N-methyltransferase activity"	prmt2	DDB_G0276237
+GO:0016278	"lysine N-methyltransferase activity"	DDB_G0294595	set1	DDB_G0272708	dotA
+GO:0016279	"protein-lysine N-methyltransferase activity"	DDB_G0294595	set1	DDB_G0272708	dotA
+GO:0016286	"small conductance calcium-activated potassium channel activity"	DDB_G0269864
+GO:0016289	"CoA hydrolase activity"	hibch	ach1
+GO:0016298	"lipase activity"	plbG	plc	DDB_G0283553	DDB_G0286581	sgmD	pldG	abhd
+GO:0016301	"kinase activity"	pyrK	dgk	snfA	DDB_G0295739	argC	DDB_G0284557	galK	dnapkcs	selD	ppkA	pkgB	guk1	dgkA	udkA	mkkA	pikC	pgkA	mhkD	adkB	nt5c2	dtymk	dhak	roco11	7tmk1	ndkC-1	etnkA	dhkE	pikD	DDB_G0286465	thyB	fhkA	erkB	rbsk	dokA	pip5k3	DDB_G0279831	ifkA	splA	cdk8	nagk	sgkC	dak	DDB_G0271550	nol9	mekA	mvk	splA	DDB_G0267588	zakA	pikA	pkaC	glkA	pdkB	DDB_G0278493	adk	DDB_G0292440	sgkA
+GO:0016303	"1-phosphatidylinositol-3-kinase activity"	pikC
+GO:0016307	"phosphatidylinositol phosphate kinase activity"	pip5k3	DDB_G0267588	pikA
+GO:0016312	"inositol bisphosphate phosphatase activity"	DDB_G0268652
+GO:0016405	"CoA-ligase activity"	4cl3	4cl1	aslB	fcsA
+GO:0016407	"acetyltransferase activity"	nat10	argJ	DDB_G0274269	pdhC	nat5	elp3	DDB_G0271544	natA	gna1	DDB_G0275507
+GO:0016408	"C-acyltransferase activity"	sptA	DDB_G0271544
+GO:0016409	"palmitoyltransferase activity"	sptA	DDB_G0273477
+GO:0016410	"N-acyltransferase activity"	nat10	hemA	argJ	DDB_G0274269	nat5	natA	nmt	gna1	crsA
+GO:0016411	"acylglycerol O-acyltransferase activity"	dgat1
+GO:0016417	"S-acyltransferase activity"	odhB	pdhC	DDB_G0273477
+GO:0016418	"S-acetyltransferase activity"	pdhC
+GO:0016421	"CoA carboxylase activity"	pccA	accA	mccb
+GO:0016423	"tRNA (guanine) methyltransferase activity"	DG2033	trmt5
+GO:0016426	"tRNA (adenine) methyltransferase activity"	trmt61a
+GO:0016427	"tRNA (cytosine) methyltransferase activity"	DDB_G0295715	fsjA
+GO:0016428	"tRNA (cytosine-5-)-methyltransferase activity"	DDB_G0295715
+GO:0016429	"tRNA (adenine-N1-)-methyltransferase activity"	trmt61a
+GO:0016433	"rRNA (adenine) methyltransferase activity"	dimt1	DDB_G0275203
+GO:0016435	"rRNA (guanine) methyltransferase activity"	DDB_G0269722
+GO:0016436	"rRNA (uridine) methyltransferase activity"	fsjC
+GO:0016453	"C-acetyltransferase activity"	DDB_G0271544
+GO:0016454	"C-palmitoyltransferase activity"	sptA
+GO:0016462	"pyrophosphatase activity"	fhit	rab7A	dolpp1	udkC	DDB_G0267852	hspD	ppa1	DDB_G0290689	dut	itpa
+GO:0016491	"oxidoreductase activity"	kmo	gcdh	fadB	mmsdh	serA	prdx4	rtpR	miox	comG	DDB_G0283951	noxB	mdhC	DDB_G0269788	DDB_G0283293	sprA	ivdA	DDB_G0291301	ado-1	gluD	dohh-1	ksrA-1	DDB_G0271752	haox	uox	hmgA	mgst	aoxA	rsad1	pah	xdh	thfA	phyA	tkrA	lpd	gpsn2	g6pd-1	etfdh	fhbA	hpdl-1	ger	gnd	DDB_G0282495	hgd	hibA	acadsb	cyp524A1	sdhB	maoB-1	msrA	fxn	ppox	alrC	fdxr	bkdB	tdo	argC	nsdhl	idhC	trxE	sdhC	mfeA	glud2	mfeB	l2hgdh	adhfe1	mecr	pnpo	sqor	adh5	odhA	sodA	coxA	pyr4	idhA	impdh	aif	pyd1	trrA	DDB_G0279427	cyb5r1	pycr2	cyp51	DDB_G0272418	sdh	DDB_G0270104	redB	catB	coq7	adi1	ucr	malA	ldhA	coq6	erg24	dio3	alkB	gloB2	aco	gsr	ddo-1	qdpr	DDB_G0276821	pdhB	jcdg	rnrB-1	gcvP	haao	DDB_G0271884	prodh	gpdA
+GO:0016502	"nucleotide receptor activity"	carA-1
+GO:0016504	"peptidase activator activity"	adrm1-1
+GO:0016530	"metallochaperone activity"	ccs	atox1	fxn	nubp2
+GO:0016531	"copper chaperone activity"	atox1	ccs
+GO:0016532	"superoxide dismutase copper chaperone activity"	ccs
+GO:0016538	"cyclin-dependent protein serine/threonine kinase regulator activity"	cdk8
+GO:0016594	"glycine binding"	gcvP
+GO:0016597	"amino acid binding"	pyr1-3	gcvP	shmt2
+GO:0016603	"glutaminyl-peptide cyclotransferase activity"	qpct
+GO:0016614	"oxidoreductase activity, acting on CH-OH group of donors"	nsdhl	idhC	serA	tkrA	g6pd-1	DDB_G0283951	mfeA	mdhC	mfeB	l2hgdh	adhfe1	sprA	adh5	malA	ldhA	ger	gnd	idhA	hibA	impdh	ksrA-1	haox	hmgA	alrC
+GO:0016615	"malate dehydrogenase activity"	malA	mdhC
+GO:0016616	"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"	nsdhl	idhC	serA	tkrA	g6pd-1	mfeA	mdhC	mfeB	sprA	adh5	malA	ldhA	ger	gnd	idhA	hibA	impdh	ksrA-1	hmgA	alrC
+GO:0016618	"hydroxypyruvate reductase activity"	tkrA
+GO:0016620	"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor"	DDB_G0276821	argC	mmsdh	gpdA	comG
+GO:0016624	"oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor"	odhA	bkdB	pdhB
+GO:0016627	"oxidoreductase activity, acting on the CH-CH group of donors"	rsad1	gcdh	ivdA	erg24	pyr4	mecr	pyd1	sdhC	acadsb	ppox	gpsn2	sdhB
+GO:0016628	"oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor"	erg24	mecr	gpsn2	pyd1
+GO:0016634	"oxidoreductase activity, acting on the CH-CH group of donors, oxygen as acceptor"	ppox	rsad1
+GO:0016635	"oxidoreductase activity, acting on the CH-CH group of donors, quinone or related compound as acceptor"	pyr4	sdhB
+GO:0016638	"oxidoreductase activity, acting on the CH-NH2 group of donors"	glud2	maoB-1	gluD	pnpo	gcvP	aco	ddo-1	DDB_G0291301
+GO:0016639	"oxidoreductase activity, acting on the CH-NH2 group of donors, NAD or NADP as acceptor"	glud2	gluD
+GO:0016641	"oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor"	maoB-1	pnpo	aco	ddo-1	DDB_G0291301
+GO:0016642	"oxidoreductase activity, acting on the CH-NH2 group of donors, disulfide as acceptor"	gcvP
+GO:0016645	"oxidoreductase activity, acting on the CH-NH group of donors"	qdpr	sdh	thfA	DDB_G0291301	DDB_G0283293	pycr2	prodh	etfdh
+GO:0016646	"oxidoreductase activity, acting on the CH-NH group of donors, NAD or NADP as acceptor"	qdpr	sdh	thfA	DDB_G0283293	pycr2
+GO:0016647	"oxidoreductase activity, acting on the CH-NH group of donors, oxygen as acceptor"	DDB_G0291301
+GO:0016649	"oxidoreductase activity, acting on the CH-NH group of donors, quinone or similar compound as acceptor"	etfdh
+GO:0016651	"oxidoreductase activity, acting on NAD(P)H"	DDB_G0270104	redB	coxA	cyb5r1	aif	DDB_G0271884	DDB_G0271752	noxB
+GO:0016653	"oxidoreductase activity, acting on NAD(P)H, heme protein as acceptor"	coxA	redB	cyb5r1
+GO:0016655	"oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor"	DDB_G0270104	DDB_G0271884
+GO:0016661	"oxidoreductase activity, acting on other nitrogenous compounds as donors"	uox
+GO:0016663	"oxidoreductase activity, acting on other nitrogenous compounds as donors, oxygen as acceptor"	uox
+GO:0016667	"oxidoreductase activity, acting on a sulfur group of donors"	trxE	msrA	lpd	gsr	sqor	DDB_G0272418	trrA
+GO:0016668	"oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor"	DDB_G0272418	trrA	lpd	gsr
+GO:0016671	"oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor"	msrA
+GO:0016672	"oxidoreductase activity, acting on a sulfur group of donors, quinone or similar compound as acceptor"	sqor
+GO:0016679	"oxidoreductase activity, acting on diphenols and related substances as donors"	ucr	aoxA
+GO:0016682	"oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor"	aoxA
+GO:0016684	"oxidoreductase activity, acting on peroxide as acceptor"	mgst	prdx4	catB	DDB_G0279427
+GO:0016701	"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen"	ado-1	tdo	gloB2	hgd	adi1	miox	haao	hpdl-1
+GO:0016702	"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen"	ado-1	tdo	gloB2	hgd	adi1	haao	hpdl-1
+GO:0016705	"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"	kmo	pah	fadB	phyA	fhbA	DDB_G0269788	coq7	coq6	alkB	DDB_G0282495	dohh-1	cyp524A1	jcdg	cyp51
+GO:0016706	"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors"	jcdg	phyA	alkB	DDB_G0282495
+GO:0016708	"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of two atoms of oxygen into one donor"	fhbA
+GO:0016709	"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen"	kmo	DDB_G0269788	coq7	cyp51
+GO:0016712	"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen"	coq6
+GO:0016714	"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced pteridine as one donor, and incorporation of one atom of oxygen"	pah
+GO:0016717	"oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water"	fadB
+GO:0016721	"oxidoreductase activity, acting on superoxide radicals as acceptor"	sodA
+GO:0016722	"oxidoreductase activity, oxidizing metal ions"	fxn
+GO:0016724	"oxidoreductase activity, oxidizing metal ions, oxygen as acceptor"	fxn
+GO:0016725	"oxidoreductase activity, acting on CH or CH2 groups"	rnrB-1	rtpR	xdh
+GO:0016726	"oxidoreductase activity, acting on CH or CH2 groups, NAD or NADP as acceptor"	xdh
+GO:0016728	"oxidoreductase activity, acting on CH or CH2 groups, disulfide as acceptor"	rnrB-1	rtpR
+GO:0016730	"oxidoreductase activity, acting on iron-sulfur proteins as donors"	fdxr
+GO:0016731	"oxidoreductase activity, acting on iron-sulfur proteins as donors, NAD or NADP as acceptor"	fdxr
+GO:0016740	"transferase activity"	nfs1	smt1	ppkA	gcvT	omt2	qprt	7tmk1	etnkA	alg10	ach1	ube2w	cshA	StlB	DDB_G0269330	osgep	udpA	snfA	dph1	nt5c2	fntB	gmppA	nat5	ufc1	splA	masA	glpV	argC	polA	DDB_G0288757	dnmA	pikD	ugpB	DDB_G0269722	thyA	cdk8	alg6	metE	DDB_G0273477	DDB_G0267546	glkA	pyr56	pggt1b	tal	pgtA	alg11	pkgB	pssA	alg7	gna1	alg8	DDB_G0286465	DDB_G0282239	fsjA	DG2033	trmt61a	adprt4	alg3	captA	DDB_G0276237	adprt2	purN	dnapkcs	pikA	icmt-1	trmt5	bcaA	fut8	pdkB	agtA	gabT	selD	mtr	adkB	dotA	oxct1	pyk	ndkC-1	pdhC	erkB	DDB_G0275203	mtaA	qpct	DDB_G0294595	hemA	DDB_G0278493	tat	prmt2	mocs2l	mkkA	ate1	pgkA	hemC	sptA	uprt	alg2	dimt1	eapA	nmt	purF	tkt-1	gnt14	shmt1	zakA	pkaC	DDB_G0295715	alg9	gpt	prsB	serC	gnt1	taz	acrA	pyr1-3	argD	DDB_G0274269	dhkE	pip5k3	pigm	dhps	pctA	DDB_G0271550	kil1	mekA	ilvB	mvk	alg5	fsjB	trmu	sepsecs	DDB_G0268928	DDB_G0295739	ugt52	dgat1	DDB_G0272708	tpsB	DDB_G0287281	rbsk	DDB_G0268742	DDB_G0270312	polr2j	sgkA	dgk	stt3	cnrI	DDB_G0272014	atg10	stlA	dokA	pemtA	polr1c	nagk	aprt	gnt4	coq3	omt1	hgsB	udkA	aatA	pigw	nat10	coq1	ccbl	gsta1	splA	glcS	DDB_G0284557	DDB_G0281259	guk1	hprT	cdsA	spsA	argJ	alg1	thyB	odhB	ifkA	rrpC	pcmA	nol9	elp3	natA	DDB_G0267588	crsA	DDB_G0283667	ube2m	DDB_G0292440	fdfT	cysK	iptA	pikC	nosA	coq5	DDB_G0279593	DDB_G0287153	gnt8	dak	glgB	mocs3	rabggta	oatA	DDB_G0269658	gphn	galK	ftcd	trm13	alg12	dtymk	dhak	roco11	adkA	nola4	cdk5rap1	sgkC	ggtA	dpm1	gnt12	fsjC	purH	mocos	coq2	DDB_G0271544	pgs1	uap1	fhkA	dcsA	rpmA	tipD	agxt	dph5	pyrK	dgkA	mhkD	DDB_G0275507	polB	set1	DDB_G0279831	fol1	metK	polr1a	cox10	adk
+GO:0016741	"transferase activity, transferring one-carbon groups"	pyr1-3	smt1	coq3	prmt2	purN	DDB_G0281259	omt1	ftcd	trm13	cnrI	mtr	DDB_G0272708	gcvT	dnmA	icmt-1	trmt5	dotA	omt2	coq5	DDB_G0279593	dimt1	DDB_G0282239	set1	pemtA	fsjA	thyA	DDB_G0269722	pcmA	DG2033	DDB_G0275203	trmt61a	metE	fsjC	shmt1	purH	fsjB	DDB_G0295715	DDB_G0294595	dph5	DDB_G0269658	DDB_G0276237
+GO:0016742	"hydroxymethyl-, formyl- and related transferase activity"	purN	ftcd	shmt1	purH
+GO:0016743	"carboxyl- or carbamoyltransferase activity"	pyr1-3
+GO:0016744	"transferase activity, transferring aldehyde or ketonic groups"	tal	ilvB	tkt-1
+GO:0016746	"transferase activity, transferring acyl groups"	dgat1	hgsB	DDB_G0271544	ate1	gna1	DDB_G0275507	pigw	nat10	sptA	DDB_G0287281	argJ	DDB_G0274269	stlA	pdhC	nat5	odhB	nmt	cshA	DDB_G0270312	elp3	qpct	natA	crsA	DDB_G0273477	osgep	masA	hemA	taz
+GO:0016747	"transferase activity, transferring acyl groups other than amino-acyl groups"	dgat1	DDB_G0271544	gna1	DDB_G0275507	pigw	nat10	sptA	argJ	DDB_G0274269	stlA	pdhC	nat5	odhB	nmt	DDB_G0270312	elp3	natA	crsA	DDB_G0273477	osgep	hemA	taz
+GO:0016748	"succinyltransferase activity"	odhB	hemA
+GO:0016749	"N-succinyltransferase activity"	hemA
+GO:0016751	"S-succinyltransferase activity"	odhB
+GO:0016755	"transferase activity, transferring amino-acyl groups"	ate1	qpct
+GO:0016757	"transferase activity, transferring glycosyl groups"	DDB_G0268928	ugt52	stt3	adprt2	hprT	alg8	alg12	tpsB	qprt	uprt	alg10	alg2	alg1	pigm	gnt8	dcsA	gnt4	purF	aprt	glgB	adprt4	ggtA	alg6	gnt14	dpm1	gnt12	alg5	fut8	pyr56	udpA	alg9	alg3	gnt1	glcS	agtA	glpV	pgtA	alg11
+GO:0016758	"transferase activity, transferring hexosyl groups"	DDB_G0268928	ugt52	stt3	alg8	alg12	tpsB	alg10	alg2	alg1	pigm	gnt8	dcsA	gnt4	glgB	ggtA	alg6	dpm1	gnt12	alg5	fut8	alg9	alg3	gnt1	glcS	agtA	glpV	pgtA	alg11
+GO:0016759	"cellulose synthase activity"	dcsA
+GO:0016760	"cellulose synthase (UDP-forming) activity"	dcsA
+GO:0016763	"transferase activity, transferring pentosyl groups"	pyr56	qprt	uprt	udpA	adprt2	purF	aprt	adprt4	gnt14	hprT
+GO:0016765	"transferase activity, transferring alkyl or aryl (other than methyl) groups"	fdfT	coq2	cysK	iptA	dph1	hemC	spsA	fntB	eapA	DDB_G0268742	dhps	coq1	DDB_G0269330	fol1	metK	gsta1	cox10	rabggta	pggt1b
+GO:0016769	"transferase activity, transferring nitrogenous groups"	agxt	DDB_G0272014	ccbl	gpt	bcaA	serC	oatA	argD	gabT	aatA	tat
+GO:0016772	"transferase activity, transferring phosphorus-containing groups"	DDB_G0295739	dnapkcs	ppkA	pikA	pikC	7tmk1	etnkA	rbsk	dak	mocs3	polr2j	pdkB	sgkA	dgk	gphn	snfA	galK	selD	adkB	nt5c2	dtymk	dhak	roco11	pyk	gmppA	ndkC-1	adkA	nola4	erkB	dokA	splA	polr1c	nagk	sgkC	DDB_G0278493	argC	polA	DDB_G0288757	udkA	mkkA	pgkA	pgs1	uap1	pikD	ugpB	fhkA	cdk8	rpmA	splA	zakA	pkaC	DDB_G0267546	glkA	prsB	pyrK	acrA	DDB_G0284557	pkgB	pssA	guk1	dgkA	alg7	mhkD	polB	cdsA	dhkE	DDB_G0286465	thyB	pip5k3	DDB_G0279831	rrpC	ifkA	pctA	fol1	nol9	DDB_G0271550	mekA	mvk	polr1a	DDB_G0267588	captA	adk	DDB_G0292440
+GO:0016773	"phosphotransferase activity, alcohol group as acceptor"	snfA	DDB_G0284557	galK	dnapkcs	pikA	pikC	pkgB	dgkA	nt5c2	mkkA	mhkD	dhak	roco11	7tmk1	pyk	etnkA	dhkE	pikD	DDB_G0286465	fhkA	erkB	rbsk	dokA	pip5k3	DDB_G0279831	ifkA	splA	cdk8	nol9	DDB_G0271550	mekA	mvk	splA	DDB_G0267588	zakA	pkaC	glkA	pdkB	adk	DDB_G0292440	sgkA
+GO:0016774	"phosphotransferase activity, carboxyl group as acceptor"	argC	pgkA
+GO:0016775	"phosphotransferase activity, nitrogenous group as acceptor"	dhkE
+GO:0016776	"phosphotransferase activity, phosphate group as acceptor"	pyrK	dtymk	ndkC-1	ppkA	adkA	DDB_G0278493	guk1	adkB
+GO:0016778	"diphosphotransferase activity"	DDB_G0267546	prsB	fol1
+GO:0016779	"nucleotidyltransferase activity"	gphn	polA	DDB_G0288757	polB	cdsA	gmppA	uap1	ugpB	nola4	rrpC	polr1c	pctA	rpmA	polr1a	mocs3	polr2j
+GO:0016780	"phosphotransferase activity, for other substituted phosphate groups"	captA	pgs1	pssA	alg7
+GO:0016781	"phosphotransferase activity, paired acceptors"	selD
+GO:0016782	"transferase activity, transferring sulfur-containing groups"	nfs1	oxct1	mocos	trmu	kil1	mocs2l	ach1	mocs3	cdk5rap1
+GO:0016783	"sulfurtransferase activity"	nfs1	mocos	trmu	mocs2l	mocs3
+GO:0016785	"transferase activity, transferring selenium-containing groups"	sepsecs
+GO:0016787	"hydrolase activity"	lkhA	ADA2	pepd	wdr85	melA	sppA	iunH	pgghg	dpp3-1	amyA	manC	repG	rab7A	atg4-1	pscA	ach1	DDB_G0272484	DDB_G0269404	impa1	amdhd1	DDB_G0272839	MYH	spoT	sahA	hspD	mipp1	cf45-1	senp8	fbp	kynu	dolpp1	pyd3	DDB_G0285967	gchA	apeA	DDB_G0278171	DDB_G0286581	repD	dcd2B	ppa1	DDB_G0279357	veg111	nt5c2	pigl	acy1	oplah	hexa2	ppme1	allC	DDB_G0277367	hibch	itpa	cplA	dcd3A	DDB_G0267852	drnB	sgmD	ercc1	pldG	DDB_G0283553	DDB_G0283417	purH	plbG	treh	NTH1	pde3	pgl	fah	plc	DDB_G0268064	DDB_G0268652	udkC	polA	drpp30	DG1039	abhd	pth2	prep	pncA	uglB	gnpda1	dtd	ada	Dd5P2	apnA	mtmr15	plip	DDB_G0290689	exosc10	vps29	fhit	nadsyn1	hddc2	guaD	canA	nit2	Dd5P4	aspA	dcd3B	DDB_G0279967	fahd1	pdeE	pyr1-3	acp1	hagh	dut	pyd2	mus81	enoph1	adprh	gluA	cda	ddiA	pan2	tirA	sir2E	argE	psmB6	ireA	gghA	alfA	sac1	amdA	tpp1	nit1-1	DDB_G0280259	allB2	modA	magA	hdaA	adat1
+GO:0016788	"hydrolase activity, acting on ester bonds"	wdr85	sppA	repG	ach1	DDB_G0272484	DDB_G0269404	impa1	DDB_G0272839	spoT	mipp1	fbp	DDB_G0285967	apeA	DDB_G0286581	nt5c2	ppme1	DDB_G0277367	hibch	drnB	sgmD	pldG	ercc1	DDB_G0283553	DDB_G0283417	plbG	NTH1	pde3	pgl	plc	DDB_G0268064	DDB_G0268652	polA	drpp30	abhd	pth2	dtd	Dd5P2	apnA	mtmr15	plip	vps29	exosc10	hddc2	canA	Dd5P4	DDB_G0279967	pdeE	acp1	hagh	mus81	enoph1	ddiA	pan2	ireA	sac1	DDB_G0280259
+GO:0016790	"thiolester hydrolase activity"	DDB_G0268064	hagh	ach1	hibch
+GO:0016791	"phosphatase activity"	acp1	DDB_G0268652	sppA	nt5c2	enoph1	Dd5P2	DDB_G0277367	plip	vps29	DDB_G0269404	impa1	hddc2	canA	sac1	DDB_G0283417	mipp1	Dd5P4	fbp	DDB_G0285967
+GO:0016793	"triphosphoric monoester hydrolase activity"	DDB_G0272484
+GO:0016794	"diphosphoric monoester hydrolase activity"	spoT
+GO:0016796	"exonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters"	apeA	DDB_G0272839	pan2	DDB_G0279967	exosc10
+GO:0016798	"hydrolase activity, acting on glycosyl bonds"	DDB_G0278171	melA	veg111	iunH	pgghg	amyA	manC	hexa2	uglB	adprh	gluA	MYH	dcd3A	tirA	alfA	cf45-1	treh	NTH1	modA	magA
+GO:0016799	"hydrolase activity, hydrolyzing N-glycosyl compounds"	MYH	NTH1	uglB	tirA	adprh	magA	iunH
+GO:0016801	"hydrolase activity, acting on ether bonds"	lkhA	sahA
+GO:0016802	"trialkylsulfonium hydrolase activity"	sahA
+GO:0016803	"ether hydrolase activity"	lkhA
+GO:0016805	"dipeptidase activity"	pepd
+GO:0016810	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"	pyr1-3	ADA2	dcd2B	pigl	pyd2	acy1	oplah	pncA	allC	ada	cda	amdhd1	nadsyn1	dcd3A	sir2E	argE	guaD	amdA	purH	nit2	nit1-1	aspA	dcd3B	allB2	pyd3	gchA	hdaA	adat1
+GO:0016811	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides"	nit2	acy1	nit1-1	nadsyn1	aspA	pncA	dcd3A	dcd3B	argE	sir2E	dcd2B	pyd3	pigl	hdaA
+GO:0016812	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides"	amdhd1	oplah	pyr1-3	allB2	pyd2
+GO:0016813	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines"	allC
+GO:0016814	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amidines"	ADA2	ada	guaD	adat1	cda	gchA	amdA	purH
+GO:0016817	"hydrolase activity, acting on acid anhydrides"	udkC	repD	ppa1	dut	rab7A	DDB_G0290689	itpa	DDB_G0267852	hspD	dolpp1	fhit
+GO:0016818	"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"	udkC	repD	ppa1	dut	rab7A	DDB_G0290689	itpa	DDB_G0267852	hspD	dolpp1	fhit
+GO:0016822	"hydrolase activity, acting on acid carbon-carbon bonds"	fah	kynu	fahd1
+GO:0016823	"hydrolase activity, acting on acid carbon-carbon bonds, in ketonic substances"	fah	kynu	fahd1
+GO:0016825	"hydrolase activity, acting on acid phosphorus-nitrogen bonds"	DDB_G0277367
+GO:0016829	"lyase activity"	acrA	gadA	pah	hemD	DDB_G0273081	aco2	ftcd	tgds	alad	enoB	cysA	uroc1	fumH	odc	auh	DDB_G0278993	gmd	DDB_G0290799	DDB_G0282903	pckA	DDB_G0276503	gloA	malA	ppcdc	purB	DDB_G0284915	ccbl	prpD	ddiA	cchl	fol1	amd1	cahA	fba	hacl1	cysB	pdx1	hemE	pyr56	acgA	mvd	acmsd	hemH	gca	mocs1	NTH1	hmgL	srr	sds	echs1	sglA	ptsA	pck2
+GO:0016830	"carbon-carbon lyase activity"	gadA	odc	DDB_G0282903	pckA	malA	ppcdc	fol1	amd1	fba	hacl1	hemE	pyr56	mvd	acmsd	mocs1	hmgL	sglA	DDB_G0276503	pck2
+GO:0016831	"carboxy-lyase activity"	odc	gadA	hemE	pyr56	mvd	acmsd	DDB_G0282903	pckA	amd1	DDB_G0276503	malA	pck2	ppcdc
+GO:0016832	"aldehyde-lyase activity"	hacl1	sglA	fba	fol1
+GO:0016833	"oxo-acid-lyase activity"	hmgL
+GO:0016835	"carbon-oxygen lyase activity"	pah	hemD	aco2	tgds	alad	enoB	uroc1	fumH	auh	DDB_G0278993	gmd	DDB_G0290799	DDB_G0284915	prpD	cahA	cysB	NTH1	echs1	ptsA
+GO:0016836	"hydro-lyase activity"	pah	hemD	aco2	tgds	alad	enoB	uroc1	fumH	auh	DDB_G0278993	gmd	DDB_G0290799	DDB_G0284915	prpD	cahA	cysB	echs1
+GO:0016838	"carbon-oxygen lyase activity, acting on phosphates"	ptsA
+GO:0016840	"carbon-nitrogen lyase activity"	purB	pdx1	DDB_G0273081	ftcd	srr	sds
+GO:0016841	"ammonia-lyase activity"	DDB_G0273081	ftcd	srr	sds
+GO:0016842	"amidine-lyase activity"	purB
+GO:0016843	"amine-lyase activity"	pdx1
+GO:0016846	"carbon-sulfur lyase activity"	ccbl	cchl	gloA	cysA
+GO:0016849	"phosphorus-oxygen lyase activity"	acrA	acgA	gca	ddiA	mocs1
+GO:0016853	"isomerase activity"	rpiA	gpmA	ech1	pmmB	mcee	DDB_G0268358	mpi	top2	enoph1	gnpda1	DDB_G0274887	top3	tpiA	ino1	DDB_G0269890	pgmB	rpe	ipi	ebp	galE	gpi	mai	DDB_G0273177	cas1	srr	DDB_G0283309	dafE
+GO:0016854	"racemase and epimerase activity"	DDB_G0269890	galE	mcee	rpe	DDB_G0273177	srr	dafE
+GO:0016855	"racemase and epimerase activity, acting on amino acids and derivatives"	srr	dafE
+GO:0016857	"racemase and epimerase activity, acting on carbohydrates and derivatives"	rpe	galE	DDB_G0273177
+GO:0016859	"cis-trans isomerase activity"	DDB_G0268358	mai
+GO:0016860	"intramolecular oxidoreductase activity"	ebp	gpi	enoph1	mpi	gnpda1	rpiA	DDB_G0274887	ipi	DDB_G0283309	tpiA	ech1
+GO:0016861	"intramolecular oxidoreductase activity, interconverting aldoses and ketoses"	gpi	mpi	gnpda1	rpiA	DDB_G0283309	tpiA
+GO:0016862	"intramolecular oxidoreductase activity, interconverting keto- and enol-groups"	enoph1
+GO:0016863	"intramolecular oxidoreductase activity, transposing C=C bonds"	ebp	ipi	ech1
+GO:0016864	"intramolecular oxidoreductase activity, transposing S-S bonds"	DDB_G0274887
+GO:0016866	"intramolecular transferase activity"	cas1	gpmA	pmmB	pgmB
+GO:0016868	"intramolecular transferase activity, phosphotransferases"	gpmA	pmmB	pgmB
+GO:0016871	"cycloartenol synthase activity"	cas1
+GO:0016872	"intramolecular lyase activity"	ino1
+GO:0016874	"ligase activity"	pyr1-3	mpheS	malaS	pyrK	mccb	glyS	scsC	mserS	naprt	gshB	fcsA	thrS2	glnS	DDB_G0282299	metS	ileS	tyrS	purA	gcsA	folC	asnS2	leuS	asnB	valS1	mproS	guaA	purD	atp5f1d	mgluS	uba1	4cl3	nadsyn1	lig1	DDB_G0268776	scsB	pccA	panC	uba5	4cl1	mcysS	trpS	mocs3	accA	argS1	maspS	sae1	mhisS	uba3	glnA1	atg7	lysS	purL	aslB	DDB_G0278481	rtca
+GO:0016875	"ligase activity, forming carbon-oxygen bonds"	mpheS	malaS	glyS	mserS	thrS2	glnS	metS	tyrS	ileS	asnS2	leuS	valS1	mproS	mgluS	mcysS	trpS	maspS	argS1	mhisS	lysS
+GO:0016877	"ligase activity, forming carbon-sulfur bonds"	uba1	4cl3	uba3	scsB	mocs3	atg7	uba5	4cl1	scsC	aslB	sae1	fcsA
+GO:0016878	"acid-thiol ligase activity"	4cl3	scsB	scsC	aslB	fcsA
+GO:0016879	"ligase activity, forming carbon-nitrogen bonds"	pyr1-3	pyrK	naprt	gshB	purA	gcsA	folC	asnB	purD	guaA	nadsyn1	DDB_G0268776	panC	accA	glnA1	purL
+GO:0016880	"acid-ammonia (or amide) ligase activity"	glnA1
+GO:0016881	"acid-amino acid ligase activity"	panC	gcsA	folC	gshB
+GO:0016882	"cyclo-ligase activity"	purD
+GO:0016884	"carbon-nitrogen ligase activity, with glutamine as amido-N-donor"	pyr1-3	nadsyn1	DDB_G0268776	asnB	purL	guaA
+GO:0016885	"ligase activity, forming carbon-carbon bonds"	pccA	accA	mccb
+GO:0016886	"ligase activity, forming phosphoric ester bonds"	DDB_G0278481	lig1	rtca	DDB_G0282299
+GO:0016887	"ATPase activity"	hspD
+GO:0016888	"endodeoxyribonuclease activity, producing 5'-phosphomonoesters"	repG	apnA
+GO:0016889	"endodeoxyribonuclease activity, producing 3'-phosphomonoesters"	mus81
+GO:0016891	"endoribonuclease activity, producing 5'-phosphomonoesters"	DDB_G0280259	drnB	drpp30
+GO:0016893	"endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters"	repG	DDB_G0280259	drnB	drpp30	apnA
+GO:0016894	"endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 3'-phosphomonoesters"	mus81
+GO:0016895	"exodeoxyribonuclease activity, producing 5'-phosphomonoesters"	DDB_G0272839	apeA
+GO:0016896	"exoribonuclease activity, producing 5'-phosphomonoesters"	pan2	exosc10	DDB_G0279967
+GO:0016899	"oxidoreductase activity, acting on the CH-OH group of donors, oxygen as acceptor"	haox
+GO:0016901	"oxidoreductase activity, acting on the CH-OH group of donors, quinone or similar compound as acceptor"	DDB_G0283951
+GO:0016903	"oxidoreductase activity, acting on the aldehyde or oxo group of donors"	bkdB	DDB_G0276821	pdhB	argC	mmsdh	gpdA	odhA	comG	alrC
+GO:0016905	"myosin heavy chain kinase activity"	mhkD
+GO:0016906	"sterol 3-beta-glucosyltransferase activity"	ugt52
+GO:0016917	"GABA receptor activity"	grlR
+GO:0016922	"ligand-dependent nuclear receptor binding"	DDB_G0281039	prmt2
+GO:0017018	"myosin phosphatase activity"	DDB_G0269404
+GO:0017022	"myosin binding"	myoD	act23	elmoA	fttB	mlcE	abpE-1	mlcD
+GO:0017024	"myosin I binding"	mlcE	abpE-1
+GO:0017040	"ceramidase activity"	dcd2B	dcd3A
+GO:0017050	"D-erythro-sphingosine kinase activity"	sgkC
+GO:0017057	"6-phosphogluconolactonase activity"	pgl
+GO:0017069	"snRNA binding"	snrnp70	DDB_G0289453	prpf8
+GO:0017070	"U6 snRNA binding"	prpf8
+GO:0017076	"purine nucleotide binding"	acrA	atp1	rasS	acsA	grpE	uprt	acbA	gpaJ	pde3	pckA	capA-1	pgkA
+GO:0017108	"5'-flap endonuclease activity"	repG
+GO:0017111	"nucleoside-triphosphatase activity"	hspD	rab7A
+GO:0017113	"dihydropyrimidine dehydrogenase (NADP+) activity"	pyd1
+GO:0017116	"single-stranded DNA-dependent ATP-dependent DNA helicase activity"	mcm6
+GO:0017124	"SH3 domain binding"	vasp
+GO:0017136	"NAD-dependent histone deacetylase activity"	sir2E
+GO:0017168	"5-oxoprolinase (ATP-hydrolyzing) activity"	oplah
+GO:0017169	"CDP-alcohol phosphatidyltransferase activity"	pssA	pgs1
+GO:0017171	"serine hydrolase activity"	tpp1	pscA
+GO:0018024	"histone-lysine N-methyltransferase activity"	set1	DDB_G0294595	dotA
+GO:0018064	"protein-histidine N-methyltransferase activity"	cnrI
+GO:0018114	"threonine racemase activity"	srr
+GO:0018455	"alcohol dehydrogenase [NAD(P)+] activity"	adh5
+GO:0018478	"malonate-semialdehyde dehydrogenase (acetylating) activity"	mmsdh
+GO:0018773	"acetylpyruvate hydrolase activity"	fahd1
+GO:0019001	"guanyl nucleotide binding"	gpaJ	uprt	rasS	pde3
+GO:0019003	"GDP binding"	rasS
+GO:0019104	"DNA N-glycosylase activity"	MYH	NTH1	uglB	magA
+GO:0019107	"myristoyltransferase activity"	nmt
+GO:0019135	"deoxyhypusine monooxygenase activity"	dohh-1
+GO:0019136	"deoxynucleoside kinase activity"	dgk	thyB	dak
+GO:0019166	"trans-2-enoyl-CoA reductase (NADPH) activity"	mecr
+GO:0019187	"beta-1,4-mannosyltransferase activity"	alg1
+GO:0019199	"transmembrane receptor protein kinase activity"	7tmk1
+GO:0019200	"carbohydrate kinase activity"	nagk	galK	pkgB	DDB_G0292440	rbsk
+GO:0019202	"amino acid kinase activity"	DDB_G0295739
+GO:0019203	"carbohydrate phosphatase activity"	fbp
+GO:0019205	"nucleobase-containing compound kinase activity"	pyrK	dgk	dtymk	ndkC-1	adkB	dak	nol9	DDB_G0278493	adk	guk1	thyB	udkA	nt5c2
+GO:0019206	"nucleoside kinase activity"	dgk	dak	adk	thyB	udkA
+GO:0019207	"kinase regulator activity"	wdr91	cdk8	pkaR	pikA	DDB_G0292252	fray2	ctxB	elp4	adcC	DDB_G0293188
+GO:0019208	"phosphatase regulator activity"	ppp4r2	cnbA	ppp2r4B	rmp	ppp2r4A	dpiA	smkA
+GO:0019209	"kinase activator activity"	fray2	pikA
+GO:0019210	"kinase inhibitor activity"	pkaR
+GO:0019211	"phosphatase activator activity"	ppp2r4A	ppp2r4B	smkA
+GO:0019212	"phosphatase inhibitor activity"	rmp	dpiA
+GO:0019213	"deacetylase activity"	pigl	hdaA	sir2E	argE
+GO:0019238	"cyclohydrolase activity"	gchA	purH
+GO:0019239	"deaminase activity"	ADA2	gnpda1	ada	guaD	cda	amdA	adat1
+GO:0019706	"protein-cysteine S-palmitoyltransferase activity"	DDB_G0273477
+GO:0019707	"protein-cysteine S-acyltransferase activity"	DDB_G0273477
+GO:0019776	"Atg8 ligase activity"	tipD
+GO:0019778	"Atg12 activating enzyme activity"	atg7
+GO:0019779	"Atg8 activating enzyme activity"	atg7
+GO:0019781	"NEDD8 activating enzyme activity"	uba3
+GO:0019783	"ubiquitin-like protein-specific protease activity"	senp8	atg4-1	DG1039
+GO:0019784	"NEDD8-specific protease activity"	senp8
+GO:0019786	"Atg8-specific protease activity"	atg4-1
+GO:0019787	"ubiquitin-like protein transferase activity"	DDB_G0287153	atg10	nosA	ube2m	ufc1	DDB_G0283667	tipD	ube2w
+GO:0019788	"NEDD8 transferase activity"	ube2m
+GO:0019789	"SUMO transferase activity"	DDB_G0287153
+GO:0019825	"oxygen binding"	fhbA
+GO:0019829	"cation-transporting ATPase activity"	atp5f1b	DDB_G0267924	patA	patB
+GO:0019842	"vitamin binding"	DDB_G0267546	StlB	DDB_G0272544	sptA	DDB_G0282903	DDB_G0270778	ilvB	mtr
+GO:0019843	"rRNA binding"	rpl12	rpl5
+GO:0019887	"protein kinase regulator activity"	cdk8	pkaR	pikA	fray2	ctxB	elp4	adcC
+GO:0019888	"protein phosphatase regulator activity"	ppp4r2	cnbA	ppp2r4B	dpiA	smkA
+GO:0019899	"enzyme binding"	cap	pkaR	DDB_G0284059	ppme1	rac1B	MIP1	gpbB	leo1	rdeA	cbpJ	maf1	vatM	pakC	culB	cnbA	gpr89	abpC	derl2	dstC	gtf2b	med26
+GO:0019900	"kinase binding"	cbpJ	pkaR	abpC	rac1B	dstC	MIP1	gpbB	rdeA
+GO:0019901	"protein kinase binding"	pkaR	abpC	dstC	rac1B	MIP1	gpbB	rdeA
+GO:0019902	"phosphatase binding"	cnbA	ppme1	med26
+GO:0019903	"protein phosphatase binding"	cnbA	ppme1	med26
+GO:0019904	"protein domain specific binding"	fpaA	vasp
+GO:0019948	"SUMO activating enzyme activity"	sae1
+GO:0020037	"heme binding"	cybA
+GO:0022803	"passive transmembrane transporter activity"	aqpA	p2xA	DDB_G0269864	iplA	clcC	porA	orfR1062	DDB_G0282801	atp5f1d	tmco1
+GO:0022804	"active transmembrane transporter activity"	sec61a	DDB0186972	mcfN	patB	abcG15	abcG20	mcfZ	DDB_G0270104	DDB_G0291406	patA	ancA	ucr	atp5f1b	clcB	ctaA	DDB_G0267924	nramp2	DDB_G0278059	nhe1
+GO:0022821	"potassium ion antiporter activity"	nhe1
+GO:0022829	"wide pore channel activity"	porA
+GO:0022832	"voltage-gated channel activity"	clcC	porA
+GO:0022834	"ligand-gated channel activity"	p2xA	iplA
+GO:0022836	"gated channel activity"	DDB_G0269864	iplA	clcC	porA	orfR1062	DDB_G0282801	p2xA
+GO:0022839	"ion gated channel activity"	orfR1062	DDB_G0269864
+GO:0022853	"active ion transmembrane transporter activity"	ancA	atp5f1b	mcfZ	DDB_G0267924	patA	ctaA	ucr	clcB	DDB_G0278059	nhe1	patB
+GO:0022857	"transmembrane transporter activity"	DDB_G0291554	mcfR	iplA	mcfN	DDB_G0268478	tmco1	slc35b2	tom40	slc44a2	ucpC	DDB_G0267924	DDB_G0274481	mcfQ	DDB_G0272544	DDB0186972	orfR1062	mcfV	abcG20	slc35b4	ctns	DDB_G0291406	patA	porA	mcfT	mcfC	DDB_G0282067	sfxn	clcB	zntA	mcfD	amtC	mcfI	DDB_G0282801	patB	mcfM	p2xA	mcfW	DDB_G0269332	atp5f1d	rimA	clcC	nramp1	ctaA	aqpA	slc50a1	crtp3	tmem144A	sec61a	slc35b1	slc35c1	DDB_G0292412	arsB	abcG15	mcfZ	DDB_G0270104	mcfK	mcfO	ancA	ucr	atp5f1b	DDB_G0269864	DDB_G0268360	mcfF	nramp2	DDB_G0278059	nhe1
+GO:0022884	"macromolecule transmembrane transporter activity"	sec61a	DDB_G0291406	tom40
+GO:0022890	"inorganic cation transmembrane transporter activity"	amtC	iplA	DDB_G0292412	orfR1062	patB	tmco1	p2xA	patA	DDB_G0269332	ucr	atp5f1d	atp5f1b	DDB_G0282067	DDB_G0269864	nramp1	zntA	mcfF	DDB_G0268360	DDB_G0267924	DDB_G0278059	nhe1
+GO:0030060	"L-malate dehydrogenase activity"	mdhC
+GO:0030145	"manganese ion binding"	pepd
+GO:0030159	"receptor signaling complex scaffold activity"	gpbA
+GO:0030170	"pyridoxal phosphate binding"	sptA
+GO:0030234	"enzyme regulator activity"	ncfA	pkaR	pikA	DDB_G0269462	cpiC	ppp2r4B	elp4	DDB_G0276867	DDB_G0274699	hop2	fray2	rasC	DDB_G0293188	rmp	ppp2r4A	wdr91	ppp4r2	cdk8	rdiA	adcC	gefW	cdc20	cnbA	DDB_G0292252	ctxB	adrm1-1	dpm2-1	dpiA	smkA
+GO:0030246	"carbohydrate binding"	gpi	DDB_G0270778	cupA	dscC-1
+GO:0030249	"guanylate cyclase regulator activity"	rasC
+GO:0030250	"guanylate cyclase activator activity"	rasC
+GO:0030267	"glyoxylate reductase (NADP) activity"	tkrA
+GO:0030276	"clathrin binding"	ap2a1-1	chcA	clc
+GO:0030291	"protein serine/threonine kinase inhibitor activity"	pkaR
+GO:0030295	"protein kinase activator activity"	fray2	pikA
+GO:0030331	"estrogen receptor binding"	prmt2
+GO:0030332	"cyclin binding"	cdk1
+GO:0030337	"DNA polymerase processivity factor activity"	DDB_G0276867
+GO:0030350	"iron-responsive element binding"	aco1
+GO:0030366	"molybdopterin synthase activity"	mocs2l
+GO:0030378	"serine racemase activity"	srr
+GO:0030409	"glutamate formimidoyltransferase activity"	ftcd
+GO:0030412	"formimidoyltetrahydrofolate cyclodeaminase activity"	ftcd
+GO:0030414	"peptidase inhibitor activity"	DDB_G0269462	cpiC	DDB_G0274699
+GO:0030429	"kynureninase activity"	kynu
+GO:0030515	"snoRNA binding"	nop58	nola2
+GO:0030523	"dihydrolipoamide S-acyltransferase activity"	pdhC
+GO:0030527	"structural constituent of chromatin"	H3a
+GO:0030545	"receptor regulator activity"	psiA	DDB_G0272420
+GO:0030546	"receptor activator activity"	psiA
+GO:0030547	"receptor inhibitor activity"	DDB_G0272420
+GO:0030551	"cyclic nucleotide binding"	capA-1	pde3
+GO:0030552	"cAMP binding"	capA-1
+GO:0030553	"cGMP binding"	pde3
+GO:0030554	"adenyl nucleotide binding"	acrA	atp1	acsA	grpE	acbA	capA-1	pgkA
+GO:0030580	"quinone cofactor methyltransferase activity"	coq3	coq5
+GO:0030619	"U1 snRNA binding"	snrnp70
+GO:0030623	"U5 snRNA binding"	prpf8
+GO:0030628	"pre-mRNA 3'-splice site binding"	slu7
+GO:0030674	"protein binding, bridging"	ap2a1-1	hatA	sun1	DDB_G0304683	gpbA	snpC	ap4e1	gxcB
+GO:0030695	"GTPase regulator activity"	rdiA	gefW
+GO:0030735	"carnosine N-methyltransferase activity"	DDB_G0282239
+GO:0030942	"endoplasmic reticulum signal peptide binding"	srp14-1
+GO:0030943	"mitochondrion targeting sequence binding"	timm22
+GO:0030955	"potassium ion binding"	pyk
+GO:0030975	"thiamine binding"	DDB_G0267546
+GO:0030976	"thiamine pyrophosphate binding"	ilvB
+GO:0030983	"mismatched DNA binding"	msh3	MYH	msh6
+GO:0031005	"filamin binding"	pkbA
+GO:0031071	"cysteine desulfurase activity"	nfs1
+GO:0031127	"alpha-(1,2)-fucosyltransferase activity"	pgtA
+GO:0031151	"histone methyltransferase activity (H3-K79 specific)"	dotA
+GO:0031177	"phosphopantetheine binding"	StlB
+GO:0031210	"phosphatidylcholine binding"	pitE
+GO:0031267	"small GTPase binding"	pakC
+GO:0031369	"translation initiation factor binding"	eif3C	febA	eif5
+GO:0031386	"protein tag"	urm1
+GO:0031403	"lithium ion binding"	impa1
+GO:0031405	"lipoic acid binding"	bkdC
+GO:0031406	"carboxylic acid binding"	bkdC	DDB_G0272544	DDB_G0270778	gcvP	hatC	DDB_G0279427	shmt2
+GO:0031418	"L-ascorbic acid binding"	DDB_G0270778
+GO:0031419	"cobalamin binding"	mtr
+GO:0031420	"alkali metal ion binding"	impa1	pyk
+GO:0031434	"mitogen-activated protein kinase kinase binding"	MIP1
+GO:0031490	"chromatin DNA binding"	trfA	H1
+GO:0031491	"nucleosome binding"	H1
+GO:0031492	"nucleosomal DNA binding"	H1
+GO:0031543	"peptidyl-proline dioxygenase activity"	phyA
+GO:0031559	"oxidosqualene cyclase activity"	cas1
+GO:0031593	"polyubiquitin binding"	psmD4
+GO:0031625	"ubiquitin protein ligase binding"	culB
+GO:0031681	"G-protein beta-subunit binding"	gpgA
+GO:0031682	"G-protein gamma-subunit binding"	gpbA
+GO:0031683	"G-protein beta/gamma-subunit complex binding"	gpaJ
+GO:0032027	"myosin light chain binding"	myoD
+GO:0032036	"myosin heavy chain binding"	fttB	mlcD	abpE-1
+GO:0032037	"myosin I heavy chain binding"	abpE-1
+GO:0032038	"myosin II heavy chain binding"	fttB
+GO:0032050	"clathrin heavy chain binding"	clc
+GO:0032051	"clathrin light chain binding"	chcA
+GO:0032135	"DNA insertion or deletion binding"	msh3
+GO:0032182	"ubiquitin-like protein binding"	DDB_G0284369
+GO:0032216	"glucosaminyl-phosphotidylinositol O-acyltransferase activity"	pigw
+GO:0032266	"phosphatidylinositol-3-phosphate binding"	DDB_G0276689
+GO:0032296	"double-stranded RNA-specific ribonuclease activity"	drnB
+GO:0032356	"oxidized DNA binding"	MYH
+GO:0032357	"oxidized purine DNA binding"	MYH
+GO:0032404	"mismatch repair complex binding"	mlh1
+GO:0032407	"MutSalpha complex binding"	mlh1
+GO:0032451	"demethylase activity"	jcdg	alkB	cyp51
+GO:0032452	"histone demethylase activity"	jcdg
+GO:0032453	"histone demethylase activity (H3-K4 specific)"	jcdg
+GO:0032549	"ribonucleoside binding"	polr2b
+GO:0032553	"ribonucleotide binding"	acrA	atp1	rasS	acsA	redB	uprt	acbA	pde3	capA-1	pgkA
+GO:0032555	"purine ribonucleotide binding"	acrA	atp1	rasS	acsA	uprt	acbA	pde3	capA-1	pgkA
+GO:0032559	"adenyl ribonucleotide binding"	acrA	atp1	acsA	acbA	capA-1	pgkA
+GO:0032561	"guanyl ribonucleotide binding"	uprt	rasS	pde3
+GO:0032767	"copper-dependent protein binding"	atox1
+GO:0032794	"GTPase activating protein binding"	rab11A
+GO:0032934	"sterol binding"	DDB_G0270454
+GO:0032977	"membrane insertase activity"	mmgt
+GO:0033192	"calmodulin-dependent protein phosphatase activity"	canA
+GO:0033204	"ribonuclease P RNA binding"	drpp30
+GO:0033218	"amide binding"	StlB	psaB	DDB_G0272544	gshB	sec61a	ppiA	kdelr	pex7	acbA	pex19	srp14-1	pex5	timm22	tnpo
+GO:0033293	"monocarboxylic acid binding"	hatC	bkdC
+GO:0033328	"peroxisome membrane targeting sequence binding"	pex19
+GO:0033558	"protein deacetylase activity"	hdaA	sir2E
+GO:0033677	"DNA/RNA helicase activity"	ddx1
+GO:0033699	"DNA 5'-adenosine monophosphate hydrolase activity"	DDB_G0272839
+GO:0033721	"aldehyde dehydrogenase (NADP+) activity"	comG
+GO:0033744	"L-methionine:thioredoxin-disulfide S-oxidoreductase activity"	msrA
+GO:0033764	"steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"	mfeB
+GO:0033830	"Skp1-protein-hydroxyproline N-acetylglucosaminyltransferase activity"	gnt1
+GO:0033862	"UMP kinase activity"	pyrK
+GO:0033897	"ribonuclease T2 activity"	ddiA
+GO:0034038	"deoxyhypusine synthase activity"	dhps
+GO:0034039	"8-oxo-7,8-dihydroguanine DNA N-glycosylase activity"	MYH
+GO:0034061	"DNA polymerase activity"	polB	polA	nola4
+GO:0034062	"RNA polymerase activity"	polr1c	polr2j	rpmA	polr1a	rrpC
+GO:0034212	"peptide N-acetyltransferase activity"	DDB_G0274269	natA
+GO:0034228	"ethanolamine transmembrane transporter activity"	slc44a2
+GO:0034236	"protein kinase A catalytic subunit binding"	pkaR
+GO:0034237	"protein kinase A regulatory subunit binding"	pkaC
+GO:0034338	"short-chain carboxylesterase activity"	abhd
+GO:0034386	"4-aminobutyrate:2-oxoglutarate transaminase activity"	gabT
+GO:0034416	"bisphosphoglycerate phosphatase activity"	mipp1
+GO:0034417	"bisphosphoglycerate 3-phosphatase activity"	mipp1
+GO:0034450	"ubiquitin-ubiquitin ligase activity"	nosA
+GO:0034458	"3'-5' RNA helicase activity"	helD
+GO:0034485	"phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity"	Dd5P2
+GO:0034513	"box H/ACA snoRNA binding"	nola2
+GO:0034545	"fumarylpyruvate hydrolase activity"	fahd1
+GO:0034584	"piRNA binding"	agnC
+GO:0034593	"phosphatidylinositol bisphosphate phosphatase activity"	Dd5P4
+GO:0034594	"phosphatidylinositol trisphosphate phosphatase activity"	Dd5P2
+GO:0034595	"phosphatidylinositol phosphate 5-phosphatase activity"	Dd5P4	Dd5P2
+GO:0034596	"phosphatidylinositol phosphate 4-phosphatase activity"	sac1
+GO:0034647	"histone demethylase activity (H3-trimethyl-K4 specific)"	jcdg
+GO:0034722	"gamma-glutamyl-peptidase activity"	gghA
+GO:0034979	"NAD-dependent protein deacetylase activity"	sir2E
+GO:0034986	"iron chaperone activity"	fxn
+GO:0035004	"phosphatidylinositol 3-kinase activity"	pikC	pikA
+GO:0035005	"1-phosphatidylinositol-4-phosphate 3-kinase activity"	pikA
+GO:0035014	"phosphatidylinositol 3-kinase regulator activity"	DDB_G0292252	wdr91
+GO:0035064	"methylated histone binding"	rrp8
+GO:0035091	"phosphatidylinositol binding"	DDB_G0295483	DDB_G0288371	DDB_G0278031	DDB_G0276689	exoc7
+GO:0035173	"histone kinase activity"	DDB_G0286465
+GO:0035184	"histone threonine kinase activity"	DDB_G0286465
+GO:0035197	"siRNA binding"	DDB_G0273237
+GO:0035242	"protein-arginine omega-N asymmetric methyltransferase activity"	prmt2
+GO:0035250	"UDP-galactosyltransferase activity"	agtA
+GO:0035251	"UDP-glucosyltransferase activity"	tpsB	dcsA	ugt52	glcS	ggtA	alg5
+GO:0035312	"5'-3' exodeoxyribonuclease activity"	DDB_G0272839
+GO:0035485	"adenine/guanine mispair binding"	MYH
+GO:0035497	"cAMP response element binding"	bzpJ
+GO:0035514	"DNA demethylase activity"	alkB
+GO:0035515	"oxidative RNA demethylase activity"	alkB
+GO:0035516	"oxidative DNA demethylase activity"	alkB
+GO:0035529	"NADH pyrophosphatase activity"	DDB_G0290689
+GO:0035591	"signaling adaptor activity"	gpbA	DDB_G0304683
+GO:0035596	"methylthiotransferase activity"	cdk5rap1
+GO:0035597	"N6-isopentenyladenosine methylthiotransferase activity"	cdk5rap1
+GO:0035615	"clathrin adaptor activity"	ap2a1-1
+GO:0035639	"purine ribonucleoside triphosphate binding"	acrA	uprt
+GO:0035673	"oligopeptide transmembrane transporter activity"	DDB_G0291554
+GO:0035870	"dITP diphosphatase activity"	itpa
+GO:0035925	"mRNA 3'-UTR AU-rich region binding"	nudt21
+GO:0036002	"pre-mRNA binding"	slu7	prpf8	cwc2
+GO:0036080	"purine nucleotide-sugar transmembrane transporter activity"	slc35c1
+GO:0036094	"small molecule binding"	acrA	pyr1-3	rasS	DDB_G0272544	bkdC	argC	padA	acbA	DDB_G0270778	iplA	mtr	shmt2	pgkA	fhbA	atp1	xpr1	grpE	acsA	redB	uprt	DDB_G0282903	sptA	pckA	StlB	sir2E	idhA	capA-1	ilvB	pyd1	DDB_G0267546	qdpr	gpi	polr2b	gpaJ	pde3	gcvP
+GO:0036121	"double-stranded DNA-dependent ATP-dependent DNA helicase activity"	upf1
+GO:0036137	"kynurenine aminotransferase activity"	aatA
+GO:0036220	"ITP diphosphatase activity"	itpa
+GO:0036222	"XTP diphosphatase activity"	itpa
+GO:0036361	"racemase activity, acting on amino acids and derivatives"	srr	dafE
+GO:0036381	"pyridoxal 5'-phosphate synthase (glutamine hydrolysing) activity"	pdx1
+GO:0036402	"proteasome-activating ATPase activity"	psmC1
+GO:0036424	"L-phosphoserine phosphatase activity"	vps29
+GO:0036430	"CMP kinase activity"	pyrK
+GO:0036431	"dCMP kinase activity"	pyrK
+GO:0036440	"citrate synthase activity"	cshA
+GO:0036456	"L-methionine-(S)-S-oxide reductase activity"	msrA
+GO:0038023	"signaling receptor activity"	carA-1	gca	7tmk1	grlK	grlR	fslB
+GO:0038024	"cargo receptor activity"	DDB_G0291374
+GO:0039706	"co-receptor binding"	DDB_G0272420
+GO:0042054	"histone methyltransferase activity"	prmt2	DDB_G0294595	set1	dotA	DDB_G0276237
+GO:0042083	"5,10-methylenetetrahydrofolate-dependent methyltransferase activity"	thyA
+GO:0042084	"5-methyltetrahydrofolate-dependent methyltransferase activity"	mtr
+GO:0042132	"fructose 1,6-bisphosphate 1-phosphatase activity"	fbp
+GO:0042162	"telomeric DNA binding"	ku70	rad50
+GO:0042277	"peptide binding"	gshB	psaB	sec61a	ppiA	kdelr	pex7	pex19	srp14-1	pex5	timm22	tnpo
+GO:0042281	"dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase activity"	alg6
+GO:0042283	"dolichyl pyrophosphate Glc1Man9GlcNAc2 alpha-1,3-glucosyltransferase activity"	alg8
+GO:0042285	"xylosyltransferase activity"	gnt14
+GO:0042292	"URM1 activating enzyme activity"	mocs3
+GO:0042392	"sphingosine-1-phosphate phosphatase activity"	sppA
+GO:0042393	"histone binding"	rrp8	nap1
+GO:0042409	"caffeoyl-CoA O-methyltransferase activity"	omt1
+GO:0042577	"lipid phosphatase activity"	sppA
+GO:0042578	"phosphoric ester hydrolase activity"	pdeE	plc	acp1	DDB_G0268652	sppA	nt5c2	enoph1	Dd5P2	DDB_G0277367	mtmr15	plip	vps29	DDB_G0272484	DDB_G0269404	impa1	spoT	hddc2	sgmD	pldG	sac1	canA	DDB_G0283417	mipp1	Dd5P4	fbp	pde3	DDB_G0285967
+GO:0042625	"ATPase coupled ion transmembrane transporter activity"	atp5f1b
+GO:0042626	"ATPase activity, coupled to transmembrane movement of substances"	atp5f1b	abcG20	sec61a	DDB_G0267924	patA	DDB_G0291406	ctaA	clcB	patB	abcG15
+GO:0042799	"histone methyltransferase activity (H4-K20 specific)"	DDB_G0294595
+GO:0042800	"histone methyltransferase activity (H3-K4 specific)"	set1
+GO:0042802	"identical protein binding"	gabT	grpE
+GO:0042803	"protein homodimerization activity"	grpE
+GO:0042826	"histone deacetylase binding"	DDB_G0284059
+GO:0042887	"amide transmembrane transporter activity"	DDB_G0291554	mcfI	DDB_G0278059
+GO:0042910	"xenobiotic transporter activity"	crtp3
+GO:0043014	"alpha-tubulin binding"	tbcb
+GO:0043015	"gamma-tubulin binding"	spc98
+GO:0043021	"ribonucleoprotein complex binding"	guf1	upf1	srpra	wdr12
+GO:0043022	"ribosome binding"	guf1
+GO:0043024	"ribosomal small subunit binding"	upf1
+GO:0043138	"3'-5' DNA helicase activity"	mcm6	wrn
+GO:0043139	"5'-3' DNA helicase activity"	repD
+GO:0043167	"ion binding"	acrA	bkdC	rasS	DDB_G0272544	pepd	argC	padA	DDB_G0270778	iplA	gshB	shmt2	pgkA	exoc7	xpr1	acsA	DDB_G0267216	enoph1	redB	uprt	sptA	pyk	adi1	sodA	impa1	sir2E	capA-1	hipA	gtaE	ilvB	cyp524A1	DDB_G0279427	DDB_G0267546	qdpr	cnbA	pde3	allB2	gcvP	pitE	fxn	hatC
+GO:0043168	"anion binding"	acrA	bkdC	rasS	DDB_G0272544	argC	padA	DDB_G0270778	iplA	gshB	shmt2	pgkA	exoc7	xpr1	acsA	sptA	redB	uprt	sir2E	capA-1	hipA	ilvB	DDB_G0279427	qdpr	pde3	gcvP	hatC
+GO:0043169	"cation binding"	pepd	shmt2	acsA	DDB_G0267216	enoph1	pyk	adi1	sodA	impa1	gtaE	ilvB	cyp524A1	DDB_G0267546	cnbA	allB2	gcvP	pitE	fxn
+GO:0043175	"RNA polymerase core enzyme binding"	maf1	gtf2b	leo1
+GO:0043177	"organic acid binding"	bkdC	pyr1-3	DDB_G0272544	DDB_G0270778	gcvP	shmt2
+GO:0043178	"alcohol binding"	DDB_G0267546	xpr1	iplA
+GO:0043225	"anion transmembrane-transporting ATPase activity"	clcB
+GO:0043295	"glutathione binding"	gshB
+GO:0043325	"phosphatidylinositol-3,4-bisphosphate binding"	hipA
+GO:0043333	"2-octaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity"	coq5
+GO:0043334	"2-hexaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity"	coq5
+GO:0043422	"protein kinase B binding"	abpC
+GO:0043424	"protein histidine kinase binding"	rdeA
+GO:0043495	"protein anchor"	sun1
+GO:0043515	"kinetochore binding"	kif4
+GO:0043531	"ADP binding"	pgkA
+GO:0043539	"protein serine/threonine kinase activator activity"	fray2
+GO:0043546	"molybdopterin cofactor binding"	xdh
+GO:0043548	"phosphatidylinositol 3-kinase binding"	rasS
+GO:0043565	"sequence-specific DNA binding"	bzpJ	rad50	orcD	mef2A	gtf2b	rpmA	srfA	gtaE	gtf3c5	ku70
+GO:0043621	"protein self-association"	corA
+GO:0043715	"2,3-diketo-5-methylthiopentyl-1-phosphate enolase activity"	enoph1
+GO:0043716	"2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase activity"	enoph1
+GO:0043733	"DNA-3-methylbase glycosylase activity"	magA
+GO:0043795	"glyceraldehyde oxidoreductase activity"	alrC
+GO:0043812	"phosphatidylinositol-4-phosphate phosphatase activity"	sac1
+GO:0043829	"tRNA-specific adenosine-37 deaminase activity"	adat1
+GO:0043874	"acireductone synthase activity"	enoph1
+GO:0043878	"glyceraldehyde-3-phosphate dehydrogenase (NAD+) (non-phosphorylating) activity"	DDB_G0276821
+GO:0043891	"glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating) activity"	gpdA
+GO:0043956	"3-hydroxypropionyl-CoA dehydratase activity"	echs1
+GO:0044183	"protein binding involved in protein folding"	hspD	DDB_G0275849
+GO:0044389	"ubiquitin-like protein ligase binding"	culB
+GO:0044540	"L-cystine L-cysteine-lyase (deaminating)"	cysA
+GO:0044594	"17-beta-hydroxysteroid dehydrogenase (NAD+) activity"	mfeB
+GO:0044610	"FMN transmembrane transporter activity"	mcfQ
+GO:0044769	"ATPase activity, coupled to transmembrane movement of ions, rotational mechanism"	atp5f1b
+GO:0044877	"macromolecular complex binding"	guf1	upf1	gmfA	wdr12	gtf2f1	mlh1	lis1	washc2	cdc20	srpra	brk1	med11	abpC	gpaJ	H1
+GO:0045028	"G-protein coupled purinergic nucleotide receptor activity"	carA-1
+GO:0045127	"N-acetylglucosamine kinase activity"	nagk
+GO:0045140	"inositol phosphoceramide synthase activity"	DDB_G0268928
+GO:0045159	"myosin II binding"	fttB	elmoA
+GO:0045182	"translation regulator activity"	gpbB	erf1	eif4e	ifkA
+GO:0045294	"alpha-catenin binding"	ctxB
+GO:0045309	"protein phosphorylated amino acid binding"	cblA-1	leo1
+GO:0045503	"dynein light chain binding"	dicA
+GO:0045504	"dynein heavy chain binding"	dicA
+GO:0045505	"dynein intermediate chain binding"	dhcA
+GO:0046316	"gluconokinase activity"	DDB_G0284557
+GO:0046404	"ATP-dependent polydeoxyribonucleotide 5'-hydroxyl-kinase activity"	nol9
+GO:0046523	"S-methyl-5-thioribose-1-phosphate isomerase activity"	DDB_G0283309
+GO:0046527	"glucosyltransferase activity"	alg8	tpsB	dcsA	ugt52	alg10	glcS	alg6	ggtA	alg5
+GO:0046570	"methylthioribulose 1-phosphate dehydratase activity"	DDB_G0284915
+GO:0046872	"metal ion binding"	impa1	DDB_G0267216	pepd	enoph1	cnbA	pyk	allB2	gtaE	adi1	fxn	cyp524A1	sodA
+GO:0046873	"metal ion transmembrane transporter activity"	iplA	DDB_G0292412	tmco1	p2xA	patA	DDB_G0269332	DDB_G0269864	nramp1	zntA	mcfF	DDB_G0267924	nhe1
+GO:0046899	"nucleoside triphosphate adenylate kinase activity"	adkB
+GO:0046906	"tetrapyrrole binding"	cybA	mtr
+GO:0046912	"transferase activity, transferring acyl groups, acyl groups converted into alkyl on transfer"	cshA	masA	DDB_G0287281	hgsB
+GO:0046914	"transition metal ion binding"	pepd	allB2	gtaE	adi1	fxn	cyp524A1	sodA
+GO:0046915	"transition metal ion transmembrane transporter activity"	mcfF	DDB_G0269332	nramp1
+GO:0046921	"alpha-(1->6)-fucosyltransferase activity"	fut8
+GO:0046923	"ER retention sequence binding"	kdelr
+GO:0046933	"proton-transporting ATP synthase activity, rotational mechanism"	atp5f1d
+GO:0046935	"1-phosphatidylinositol-3-kinase regulator activity"	DDB_G0292252
+GO:0046936	"deoxyadenosine deaminase activity"	ADA2
+GO:0046943	"carboxylic acid transmembrane transporter activity"	ucpC	DDB_G0268478	mcfZ	ctns	mcfI	mcfD	mcfO	mcfT
+GO:0046961	"proton-transporting ATPase activity, rotational mechanism"	atp5f1b
+GO:0046964	"3'-phosphoadenosine 5'-phosphosulfate transmembrane transporter activity"	slc35b2
+GO:0046982	"protein heterodimerization activity"	H3a
+GO:0046983	"protein dimerization activity"	H3a	mef2A	grpE
+GO:0047012	"sterol-4-alpha-carboxylate 3-dehydrogenase (decarboxylating) activity"	nsdhl
+GO:0047134	"protein-disulfide reductase activity"	DDB_G0272418	trrA	gsr
+GO:0047184	"1-acylglycerophosphocholine O-acyltransferase activity"	taz
+GO:0047293	"4-hydroxybenzoate nonaprenyltransferase activity"	coq2
+GO:0047316	"glutamine-phenylpyruvate transaminase activity"	ccbl
+GO:0047372	"acylglycerol lipase activity"	abhd
+GO:0047402	"protein-glucosylgalactosylhydroxylysine glucosidase activity"	pgghg
+GO:0047429	"nucleoside-triphosphate diphosphatase activity"	DDB_G0267852	dut	itpa
+GO:0047453	"ATP-dependent NAD(P)H-hydrate dehydratase activity"	DDB_G0290799
+GO:0047499	"calcium-independent phospholipase A2 activity"	DDB_G0283553
+GO:0047545	"2-hydroxyglutarate dehydrogenase activity"	l2hgdh
+GO:0047547	"2-methylcitrate dehydratase activity"	prpD
+GO:0047555	"3',5'-cyclic-GMP phosphodiesterase activity"	pde3
+GO:0047560	"3-dehydrosphinganine reductase activity"	ksrA-1
+GO:0047621	"acylpyruvate hydrolase activity"	fahd1
+GO:0047623	"adenosine-phosphate deaminase activity"	amdA
+GO:0047635	"alanine-oxo-acid transaminase activity"	gpt
+GO:0047661	"amino-acid racemase activity"	srr	dafE
+GO:0047710	"bis(5'-adenosyl)-triphosphatase activity"	fhit
+GO:0047750	"cholestenol delta-isomerase activity"	ebp
+GO:0047780	"citrate dehydratase activity"	aco2
+GO:0047800	"cysteamine dioxygenase activity"	ado-1
+GO:0047804	"cysteine-S-conjugate beta-lyase activity"	ccbl
+GO:0047844	"deoxycytidine deaminase activity"	cda
+GO:0047874	"dolichyldiphosphatase activity"	dolpp1
+GO:0047982	"homocysteine desulfhydrase activity"	cysA
+GO:0047988	"hydroxyacid-oxoacid transhydrogenase activity"	adhfe1
+GO:0048018	"receptor agonist activity"	psiA
+GO:0048019	"receptor antagonist activity"	DDB_G0272420
+GO:0048027	"mRNA 5'-UTR binding"	mrps14
+GO:0048029	"monosaccharide binding"	DDB_G0270778	gpi
+GO:0048038	"quinone binding"	sdhB
+GO:0048039	"ubiquinone binding"	sdhB
+GO:0048244	"phytanoyl-CoA dioxygenase activity"	DDB_G0282495
+GO:0048256	"flap endonuclease activity"	repG
+GO:0048306	"calcium-dependent protein binding"	eef1a1
+GO:0048487	"beta-tubulin binding"	tbcd
+GO:0050031	"L-pipecolate oxidase activity"	DDB_G0291301
+GO:0050048	"L-leucine:2-oxoglutarate aminotransferase activity"	bcaA
+GO:0050113	"inositol oxygenase activity"	miox
+GO:0050135	"NAD(P)+ nucleosidase activity"	tirA
+GO:0050136	"NADH dehydrogenase (quinone) activity"	DDB_G0270104
+GO:0050145	"nucleoside phosphate kinase activity"	pyrK	DDB_G0278493	dtymk	guk1
+GO:0050146	"nucleoside phosphotransferase activity"	nt5c2
+GO:0050152	"omega-amidase activity"	nit2
+GO:0050155	"ornithine(lysine) transaminase activity"	oatA
+GO:0050252	"retinol O-fatty-acyltransferase activity"	dgat1
+GO:0050263	"ribosylpyrimidine nucleosidase activity"	iunH
+GO:0050291	"sphingosine N-acyltransferase activity"	crsA
+GO:0050308	"sugar-phosphatase activity"	fbp
+GO:0050313	"sulfur dioxygenase activity"	gloB2
+GO:0050321	"tau-protein kinase activity"	glkA
+GO:0050354	"triokinase activity"	dhak
+GO:0050440	"2-methylcitrate synthase activity"	DDB_G0287281
+GO:0050480	"imidazolonepropionase activity"	amdhd1
+GO:0050483	"IMP 5'-nucleotidase activity"	nt5c2
+GO:0050484	"GMP 5'-nucleotidase activity"	nt5c2
+GO:0050497	"transferase activity, transferring alkylthio groups"	cdk5rap1
+GO:0050567	"glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity"	DDB_G0268776
+GO:0050577	"GDP-L-fucose synthase activity"	ger
+GO:0050613	"delta14-sterol reductase activity"	erg24
+GO:0050661	"NADP binding"	argC	redB	padA
+GO:0050664	"oxidoreductase activity, acting on NAD(P)H, oxygen as acceptor"	aif	noxB
+GO:0050797	"thymidylate synthase (FAD) activity"	thyA
+GO:0050815	"phosphoserine binding"	leo1
+GO:0050833	"pyruvate transmembrane transporter activity"	DDB_G0268478
+GO:0050839	"cell adhesion molecule binding"	calA
+GO:0050897	"cobalt ion binding"	allB2
+GO:0050997	"quaternary ammonium group binding"	pitE	ilvB
+GO:0051010	"microtubule plus-end binding"	mtaA
+GO:0051011	"microtubule minus-end binding"	spc97
+GO:0051015	"actin filament binding"	abpC
+GO:0051018	"protein kinase A binding"	pkaR	DDB_G0293188	pkaC
+GO:0051019	"mitogen-activated protein kinase binding"	abpC
+GO:0051020	"GTPase binding"	pakC
+GO:0051059	"NF-kappaB binding"	commd7
+GO:0051082	"unfolded protein binding"	hspD
+GO:0051087	"chaperone binding"	sugt1
+GO:0051117	"ATPase binding"	vatM
+GO:0051119	"sugar transmembrane transporter activity"	slc50a1
+GO:0051139	"metal ion:proton antiporter activity"	nhe1
+GO:0051213	"dioxygenase activity"	ado-1	tdo	jcdg	phyA	alkB	DDB_G0282495	gloB2	hgd	adi1	haao	hpdl-1	fhbA
+GO:0051219	"phosphoprotein binding"	cblA-1	leo1
+GO:0051287	"NAD binding"	idhA	qdpr	sir2E
+GO:0051499	"D-aminoacyl-tRNA deacylase activity"	dtd
+GO:0051500	"D-tyrosyl-tRNA(Tyr) deacylase activity"	dtd
+GO:0051536	"iron-sulfur cluster binding"	repD	sdhB
+GO:0051538	"3 iron, 4 sulfur cluster binding"	sdhB
+GO:0051539	"4 iron, 4 sulfur cluster binding"	repD
+GO:0051540	"metal cluster binding"	repD	sdhB
+GO:0051721	"protein phosphatase 2A binding"	ppme1
+GO:0051722	"protein C-terminal methylesterase activity"	ppme1
+GO:0051723	"protein methylesterase activity"	ppme1
+GO:0051724	"NAD transporter activity"	mcfW
+GO:0051731	"polynucleotide 5'-hydroxyl-kinase activity"	nol9
+GO:0051733	"polydeoxyribonucleotide kinase activity"	nol9
+GO:0051734	"ATP-dependent polynucleotide kinase activity"	nol9
+GO:0051748	"UTP-monosaccharide-1-phosphate uridylyltransferase activity"	ugpB
+GO:0051750	"delta3,5-delta2,4-dienoyl-CoA isomerase activity"	ech1
+GO:0051751	"alpha-1,4-mannosyltransferase activity"	pigm
+GO:0051864	"histone demethylase activity (H3-K36 specific)"	jcdg
+GO:0051880	"G-quadruplex DNA binding"	rad50
+GO:0051903	"S-(hydroxymethyl)glutathione dehydrogenase activity"	adh5
+GO:0051920	"peroxiredoxin activity"	prdx4
+GO:0051959	"dynein light intermediate chain binding"	dhcA
+GO:0051996	"squalene synthase activity"	fdfT
+GO:0051998	"protein carboxyl O-methyltransferase activity"	pcmA	icmt-1
+GO:0052590	"sn-glycerol-3-phosphate:ubiquinone oxidoreductase activity"	DDB_G0283951
+GO:0052591	"sn-glycerol-3-phosphate:ubiquinone-8 oxidoreductase activity"	DDB_G0283951
+GO:0052654	"L-leucine transaminase activity"	bcaA
+GO:0052655	"L-valine transaminase activity"	bcaA
+GO:0052656	"L-isoleucine transaminase activity"	bcaA
+GO:0052657	"guanine phosphoribosyltransferase activity"	hprT
+GO:0052666	"tRNA (cytosine-2'-O-)-methyltransferase activity"	fsjA
+GO:0052689	"carboxylic ester hydrolase activity"	DDB_G0268064	DDB_G0283553	ppme1	wdr85	dtd	pgl	abhd	pth2
+GO:0052692	"raffinose alpha-galactosidase activity"	melA
+GO:0052742	"phosphatidylinositol kinase activity"	pikD	pikC	pip5k3
+GO:0052744	"phosphatidylinositol monophosphate phosphatase activity"	sac1
+GO:0052745	"inositol phosphate phosphatase activity"	mipp1	Dd5P4	impa1	DDB_G0268652
+GO:0052810	"1-phosphatidylinositol-5-kinase activity"	pip5k3
+GO:0052826	"inositol hexakisphosphate 2-phosphatase activity"	mipp1
+GO:0052832	"inositol monophosphate 3-phosphatase activity"	impa1
+GO:0052833	"inositol monophosphate 4-phosphatase activity"	impa1
+GO:0052834	"inositol monophosphate phosphatase activity"	impa1
+GO:0052856	"NADHX epimerase activity"	DDB_G0269890
+GO:0052857	"NADPHX epimerase activity"	DDB_G0269890
+GO:0052866	"phosphatidylinositol phosphate phosphatase activity"	Dd5P4	Dd5P2	DDB_G0285967	sac1
+GO:0052890	"oxidoreductase activity, acting on the CH-CH group of donors, with a flavin as acceptor"	acadsb
+GO:0052906	"tRNA (guanine(37)-N(1))-methyltransferase activity"	trmt5
+GO:0052907	"23S rRNA (adenine(1618)-N(6))-methyltransferase activity"	DDB_G0275203
+GO:0052909	"18S rRNA (adenine(1779)-N(6)/adenine(1780)-N(6))-dimethyltransferase activity"	dimt1
+GO:0052917	"dol-P-Man:Man(7)GlcNAc(2)-PP-Dol alpha-1,6-mannosyltransferase activity"	alg12
+GO:0052918	"dol-P-Man:Man(8)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase activity"	alg9
+GO:0052925	"dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase activity"	alg3
+GO:0052926	"dol-P-Man:Man(6)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase activity"	alg9
+GO:0055106	"ubiquitin-protein transferase regulator activity"	cdc20
+GO:0060089	"molecular transducer activity"	carA-1	gca	7tmk1	grlK	grlR	dokA	fslB
+GO:0060090	"binding, bridging"	ap2a1-1	DDB_G0283567	hatA	sun1	DDB_G0304683	gpbA	snpC	ap4e1	gxcB
+GO:0060589	"nucleoside-triphosphatase regulator activity"	rdiA	gefW
+GO:0060590	"ATPase regulator activity"	grpE
+GO:0061133	"endopeptidase activator activity"	adrm1-1
+GO:0061134	"peptidase regulator activity"	DDB_G0269462	cpiC	adrm1-1	DDB_G0274699
+GO:0061135	"endopeptidase regulator activity"	DDB_G0269462	cpiC	adrm1-1
+GO:0061542	"3-demethylubiquinone-n 3-O-methyltransferase activity"	coq3
+GO:0061578	"Lys63-specific deubiquitinase activity"	DG1039
+GO:0061598	"molybdopterin adenylyltransferase activity"	gphn
+GO:0061599	"molybdopterin molybdotransferase activity"	gphn
+GO:0061604	"molybdopterin-synthase sulfurtransferase activity"	mocs3
+GO:0061605	"molybdopterin-synthase adenylyltransferase activity"	mocs3
+GO:0061608	"nuclear import signal receptor activity"	DDB_G0272318
+GO:0061629	"RNA polymerase II sequence-specific DNA binding transcription factor binding"	commd7	splB	prmt2	DDB_G0281039
+GO:0061630	"ubiquitin protein ligase activity"	nosA
+GO:0061631	"ubiquitin conjugating enzyme activity"	ube2w
+GO:0061650	"ubiquitin-like protein conjugating enzyme activity"	ufc1	ube2m	ube2w	DDB_G0287153
+GO:0061654	"NEDD8 conjugating enzyme activity"	ube2m
+GO:0061656	"SUMO conjugating enzyme activity"	DDB_G0287153
+GO:0061657	"UFM1 conjugating enzyme activity"	ufc1
+GO:0061659	"ubiquitin-like protein ligase activity"	nosA	DDB_G0283667
+GO:0061666	"UFM1 ligase activity"	DDB_G0283667
+GO:0061685	"diphthine methylesterase activity"	wdr85
+GO:0061708	"tRNA-5-taurinomethyluridine 2-sulfurtransferase"	trmu
+GO:0061711	"N(6)-L-threonylcarbamoyladenine synthase"	osgep
+GO:0061731	"ribonucleoside-diphosphate reductase activity"	rnrB-1
+GO:0061733	"peptide-lysine-N-acetyltransferase activity"	DDB_G0274269
+GO:0070003	"threonine-type peptidase activity"	psmB6	DDB_G0279357
+GO:0070006	"metalloaminopeptidase activity"	pepd
+GO:0070008	"serine-type exopeptidase activity"	tpp1	pscA
+GO:0070012	"oligopeptidase activity"	prep
+GO:0070034	"telomerase RNA binding"	nop10
+GO:0070063	"RNA polymerase binding"	maf1	gtf2b	leo1
+GO:0070180	"large ribosomal subunit rRNA binding"	rpl12
+GO:0070224	"sulfide:quinone oxidoreductase activity"	sqor
+GO:0070273	"phosphatidylinositol-4-phosphate binding"	DDB_G0288371
+GO:0070279	"vitamin B6 binding"	sptA
+GO:0070336	"flap-structured DNA binding"	mtmr15
+GO:0070401	"NADP+ binding"	argC
+GO:0070402	"NADPH binding"	padA
+GO:0070403	"NAD+ binding"	sir2E
+GO:0070404	"NADH binding"	qdpr
+GO:0070492	"oligosaccharide binding"	dscC-1
+GO:0070546	"L-phenylalanine aminotransferase activity"	DDB_G0272014
+GO:0070547	"L-tyrosine aminotransferase activity"	tat
+GO:0070548	"L-glutamine aminotransferase activity"	ccbl
+GO:0070566	"adenylyltransferase activity"	gphn	DDB_G0288757	mocs3
+GO:0070567	"cytidylyltransferase activity"	cdsA	pctA
+GO:0070568	"guanylyltransferase activity"	gmppA
+GO:0070569	"uridylyltransferase activity"	uap1	ugpB
+GO:0070626	"(S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido)succinate AMP-lyase (fumarate-forming) activity"	purB
+GO:0070679	"inositol 1,4,5 trisphosphate binding"	iplA
+GO:0070717	"poly-purine tract binding"	ddx1
+GO:0070728	"leucine binding"	DDB_G0279427
+GO:0070774	"phytoceramidase activity"	dcd3A
+GO:0070818	"protoporphyrinogen oxidase activity"	ppox
+GO:0070840	"dynein complex binding"	lis1
+GO:0070905	"serine binding"	shmt2
+GO:0071074	"eukaryotic initiation factor eIF2 binding"	eif5
+GO:0071077	"adenosine 3',5'-bisphosphate transmembrane transporter activity"	mcfR	DDB_G0278059
+GO:0071208	"histone pre-mRNA DCP binding"	DDB_G0291015
+GO:0071209	"U7 snRNA binding"	DDB_G0289453
+GO:0071566	"UFM1 activating enzyme activity"	uba5
+GO:0071568	"UFM1 transferase activity"	DDB_G0283667	ufc1
+GO:0071885	"N-terminal protein N-methyltransferase activity"	DDB_G0269658
+GO:0071889	"14-3-3 protein binding"	mhcA
+GO:0071933	"Arp2/3 complex binding"	gmfA
+GO:0071987	"WD40-repeat domain binding"	fpaA
+GO:0072341	"modified amino acid binding"	StlB	gshB	DDB_G0272544
+GO:0072349	"modified amino acid transmembrane transporter activity"	ctns	mcfI
+GO:0072354	"histone kinase activity (H3-T3 specific)"	DDB_G0286465
+GO:0072542	"protein phosphatase activator activity"	ppp2r4B	smkA
+GO:0080084	"5S rDNA binding"	gtf3c5
+GO:0080101	"phosphatidyl-N-dimethylethanolamine N-methyltransferase activity"	pemtA
+GO:0080122	"AMP transmembrane transporter activity"	mcfQ
+GO:0080130	"L-phenylalanine:2-oxoglutarate aminotransferase activity"	DDB_G0272014
+GO:0080146	"L-cysteine desulfhydrase activity"	cysA
+GO:0090079	"translation regulator activity, nucleic acid binding"	erf1	eif4e
+GO:0090482	"vitamin transmembrane transporter activity"	DDB_G0272544	mcfI	mcfK
+GO:0090560	"2-(3-amino-3-carboxypropyl)histidine synthase activity"	dph1
+GO:0090599	"alpha-glucosidase activity"	modA
+GO:0097020	"COPII adaptor activity"	DDB_G0291374
+GO:0097027	"ubiquitin-protein transferase activator activity"	cdc20
+GO:0097157	"pre-mRNA intronic binding"	prpf8
+GO:0097159	"organic cyclic compound binding"	trfA	padA	acbA	msh6	msh3	atp1	DDB_G0273237	mef2A	pabpc1A	srfA	DDB_G0272839	MYH	snrnp70	capA-1	xdh	DDB_G0272544	mtr	cwc2	nola2	DDB_G0291015	DDB_G0289453	erf1	prpf8	ncbp1	ercc1	ctu2	polr2b	pde3	rpl5	bkdC	rasS	cybA	argC	orcD	drpp30	ddx1	pgkA	acsA	grpE	sptA	uprt	pckA	rpl12	mtmr15	nop10	polr3c	rpmA	idhA	gtaE	pyd1	nudt21	DDB_G0267546	fkbp5	srp9	gtf2b	H1	ku70	acrA	bzpJ	rad50	agnC	DDB_G0270454	DDB_G0270778	redB	slu7	gtf3c5	eif4e	mrps14	sir2E	nop58	ilvB	eif3d	qdpr	aco1	gpaJ
+GO:0097177	"mitochondrial ribosome binding"	guf1
+GO:0097269	"all-trans-decaprenyl-diphosphate synthase activity"	coq1
+GO:0097367	"carbohydrate derivative binding"	acrA	atp1	rasS	acsA	redB	uprt	polr2b	acbA	pde3	capA-1	ctbs2	pgkA
+GO:0097472	"cyclin-dependent protein kinase activity"	cdk8
+GO:0097506	"deaminated base DNA N-glycosylase activity"	uglB
+GO:0097602	"cullin family protein binding"	fpaA
+GO:0097621	"monoamine oxidase activity"	maoB-1
+GO:0097677	"STAT family protein binding"	splB
+GO:0098599	"palmitoyl hydrolase activity"	DDB_G0268064
+GO:0098621	"phosphoseryl-selenocysteinyl-tRNA selenium transferase activity"	sepsecs
+GO:0098772	"molecular function regulator"	ncfA	pkaR	pikA	DDB_G0269462	cpiC	ppp2r4B	elp4	DDB_G0276867	DDB_G0274699	hop2	rab7A	grpE	ahsa	fray2	rasC	DDB_G0293188	rmp	ppp2r4A	wdr91	ppp4r2	cdk8	psiA	rdiA	adcC	DDB_G0272420	gefW	cdc20	cnbA	DDB_G0292252	ctxB	adrm1-1	dpm2-1	dpiA	smkA
+GO:0098808	"mRNA cap binding"	eif3d
+GO:0099604	"ligand-gated calcium channel activity"	p2xA	iplA
+GO:0101005	"ubiquitinyl hydrolase activity"	DG1039
+GO:0101006	"protein histidine phosphatase activity"	DDB_G0277367
+GO:0102009	"proline dipeptidase activity"	pepd
+GO:0102035	"isobutyryl-CoA:FAD oxidoreductase activity"	acadsb
+GO:1900750	"oligopeptide binding"	gshB
+GO:1901265	"nucleoside phosphate binding"	acrA	rasS	argC	padA	acbA	pgkA	atp1	acsA	grpE	redB	uprt	pckA	sir2E	idhA	capA-1	qdpr	gpaJ	pde3
+GO:1901363	"heterocyclic compound binding"	trfA	padA	acbA	msh6	msh3	atp1	DDB_G0273237	mef2A	pabpc1A	srfA	DDB_G0272839	MYH	snrnp70	capA-1	xdh	DDB_G0272544	mtr	cwc2	nola2	DDB_G0291015	DDB_G0289453	erf1	prpf8	ncbp1	ercc1	ctu2	polr2b	pde3	rpl5	bkdC	rasS	cybA	argC	orcD	drpp30	ddx1	pgkA	acsA	grpE	sptA	uprt	pckA	rpl12	mtmr15	nop10	polr3c	rpmA	idhA	gtaE	pyd1	nudt21	DDB_G0267546	fkbp5	srp9	gtf2b	H1	ku70	acrA	bzpJ	rad50	agnC	DDB_G0270778	redB	slu7	gtf3c5	eif4e	mrps14	sir2E	nop58	ilvB	eif3d	qdpr	aco1	gpaJ
+GO:1901474	"azole transmembrane transporter activity"	mcfK
+GO:1901505	"carbohydrate derivative transporter activity"	ancA	mcfC	slc35b4	mcfR	slc35b2	slc35b1	slc35c1	DDB_G0278059	mcfQ
+GO:1901567	"fatty acid derivative binding"	acbA
+GO:1901618	"organic hydroxy compound transmembrane transporter activity"	slc44a2
+GO:1901681	"sulfur compound binding"	DDB_G0267546	bkdC	acbA	ilvB	gshB
+GO:1901682	"sulfur compound transmembrane transporter activity"	ucpC	slc35b2	ctns	mcfK	DDB_G0278059
+GO:1901981	"phosphatidylinositol phosphate binding"	DDB_G0295483	DDB_G0288371	DDB_G0278031	DDB_G0276689	exoc7
+GO:1902936	"phosphatidylinositol bisphosphate binding"	DDB_G0278031	exoc7
+GO:1904680	"peptide transmembrane transporter activity"	DDB_G0291554
+GO:1990050	"phosphatidic acid transporter activity"	slmo
+GO:1990165	"single-strand break-containing DNA binding"	DDB_G0272839
+GO:1990189	"peptide-serine-N-acetyltransferase activity"	natA
+GO:1990190	"peptide-glutamate-N-acetyltransferase activity"	natA
+GO:1990269	"RNA polymerase II C-terminal domain phosphoserine binding"	leo1
+GO:1990381	"ubiquitin-specific protease binding"	derl2
+GO:1990404	"protein ADP-ribosylase activity"	adprt2
+GO:1990444	"F-box domain binding"	fpaA
+GO:1990518	"single-stranded DNA-dependent ATP-dependent 3'-5' DNA helicase activity"	mcm6
+GO:1990757	"ubiquitin ligase activator activity"	cdc20
+GO:1990782	"protein tyrosine kinase binding"	dstC
+GO:1990825	"sequence-specific mRNA binding"	erf1
+GO:1990837	"sequence-specific double-stranded DNA binding"	bzpJ	orcD	mef2A	gtf2b	rpmA	srfA	gtf3c5
+GO:1990838	"poly(U)-specific exoribonuclease activity, producing 3' uridine cyclic phosphate ends"	DDB_G0279967
+GO:1990883	"rRNA cytidine N-acetyltransferase activity"	nat10

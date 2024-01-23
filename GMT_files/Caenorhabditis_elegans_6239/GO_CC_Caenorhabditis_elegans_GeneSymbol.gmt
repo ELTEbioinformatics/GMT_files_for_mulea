@@ -1,0 +1,1030 @@
+# Gene set GMT file for mulea Bioconductor R package
+# taxon_name: Caenorhabditis elegans
+# taxonomy_ID: 6239
+# ID_type: GeneSymbol
+# source_url: http://geneontology.org/ 
+# source_PMID: 30395331
+# source_primary_ID: GeneSymbol 
+# source_version: 
+# source_last_update: 2023
+# gmt_download_date: 09-05-2023
+# gmt_version:2
+# gmt_entry_names:gene ontology
+# Gene Ontology Term Description Genes
+
+
+
+
+
+GO:0000015	"phosphopyruvate hydratase complex"	enol-1
+GO:0000109	"nucleotide-excision repair complex"	xpc-1	xpb-1	ercc-1	csa-1
+GO:0000110	"nucleotide-excision repair factor 1 complex"	ercc-1
+GO:0000111	"nucleotide-excision repair factor 2 complex"	xpc-1
+GO:0000112	"nucleotide-excision repair factor 3 complex"	xpb-1
+GO:0000118	"histone deacetylase complex"	sin-3	egl-27	hda-1	zhit-1	athp-1
+GO:0000120	"RNA polymerase I transcription factor complex"	F23H11.2
+GO:0000123	"histone acetyltransferase complex"	ing-3	epc-1	ada-2	trr-1	CELE_ZK1127.3	CELE_T01C3.2	sumv-2
+GO:0000124	"SAGA complex"	CELE_T01C3.2
+GO:0000126	"transcription factor TFIIIB complex"	B0261.1
+GO:0000127	"transcription factor TFIIIC complex"	tftc-3
+GO:0000137	"Golgi cis cisterna"	golg-2
+GO:0000138	"Golgi trans cisterna"	hid-1
+GO:0000139	"Golgi membrane"	arf-1.2
+GO:0000145	"exocyst"	sec-5
+GO:0000151	"ubiquitin ligase complex"	brd-1	cul-5	rbx-1	CELE_M18.6	sel-1	CELE_Y57A10A.31	cul-3	elb-1	vhl-1	mig-32	CELE_F15E6.9	ubc-1	apc-11	skr-2	pdr-1
+GO:0000152	"nuclear ubiquitin ligase complex"	brd-1	apc-11	mig-32
+GO:0000153	"cytoplasmic ubiquitin ligase complex"	sel-1	vhl-1
+GO:0000159	"protein phosphatase type 2A complex"	let-92
+GO:0000164	"protein phosphatase type 1 complex"	CELE_H18N23.2
+GO:0000172	"ribonuclease MRP complex"	CELE_Y62E10A.24
+GO:0000176	"nuclear exosome (RNase complex)"	crn-3
+GO:0000177	"cytoplasmic exosome (RNase complex)"	crn-5	C08F8.2
+GO:0000178	"exosome (RNase complex)"	dis-3	crn-5	C08F8.2	crn-3
+GO:0000214	"tRNA-intron endonuclease complex"	tsen-2
+GO:0000220	"vacuolar proton-transporting V-type ATPase, V0 domain"	unc-32
+GO:0000221	"vacuolar proton-transporting V-type ATPase, V1 domain"	vha-18
+GO:0000228	"nuclear chromosome"	div-1	ruvb-1	slx-1	nol-6	sin-3	snfc-5	hpr-9	zhp-2	orc-2	pole-2	ctf-4	F10C2.4	athp-1	zhit-1	rla-1	psf-3
+GO:0000235	"astral microtubule"	maph-9
+GO:0000242	"pericentriolar material"	bbs-4
+GO:0000274	"mitochondrial proton-transporting ATP synthase, stator stalk"	atp-5
+GO:0000275	"mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)"	hpo-18	atp-1
+GO:0000276	"mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)"	atp-5	asb-1
+GO:0000307	"cyclin-dependent protein kinase holoenzyme complex"	cye-1	cya-1	cit-1.2
+GO:0000313	"organellar ribosome"	mrps-31	dap-3	mrpl-49
+GO:0000314	"organellar small ribosomal subunit"	mrps-31
+GO:0000315	"organellar large ribosomal subunit"	mrpl-49
+GO:0000323	"lytic vacuole"	gop-1	arl-8	sam-4	lgg-1	asp-1	CELE_Y34B4A.2
+GO:0000346	"transcription export complex"	thoc-7
+GO:0000347	"THO complex"	thoc-7
+GO:0000407	"pre-autophagosomal structure"	lgg-3	lgg-1	epg-8
+GO:0000408	"EKC/KEOPS complex"	CELE_Y71H2AM.1
+GO:0000417	"HIR complex"	hira-1
+GO:0000421	"autophagosome membrane"	lgg-1
+GO:0000428	"DNA-directed RNA polymerase complex"	rpom-1	cyh-1	rpb-6	leo-1	gtf-2e2	gls-1	cdk-7	let-611	taf-1	div-1	pqn-51	rpb-5	gtf-2f2	ama-1
+GO:0000439	"core TFIIH complex"	gtf-2H2C
+GO:0000444	"MIS12/MIND type complex"	kbp-2
+GO:0000445	"THO complex part of transcription export complex"	thoc-7
+GO:0000502	"proteasome complex"	pbs-3	rpn-1	dss-1	rpt-4	pas-1	psme-3	rpn-7
+GO:0000506	"glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex"	piga-1
+GO:0000775	"chromosome, centromeric region"	dpy-28	cec-6	kbp-2	him-10	ska-1	bub-1	zwl-1
+GO:0000776	"kinetochore"	kbp-2	him-10	ska-1	bub-1	zwl-1
+GO:0000779	"condensed chromosome, centromeric region"	dpy-28	kbp-2	him-10	ska-1	bub-1	zwl-1
+GO:0000781	"chromosome, telomeric region"	ceh-37
+GO:0000785	"chromatin"	ruvb-1	athp-2	CELE_R10H10.7	sin-3	cec-6	snfc-5	zhit-1	mau-2	hmg-3	egl-27	hpl-1	ubc-1	let-526	CELE_Y43F8C.6	dpy-26	hcp-3	swsn-7	athp-1
+GO:0000786	"nucleosome"	hcp-3
+GO:0000792	"heterochromatin"	ubc-1	hpl-1	cec-6
+GO:0000793	"condensed chromosome"	nol-6	him-1	nse-4	dpy-28	hpr-9	zhp-2	kbp-2	fcd-2	him-10	ska-1	bub-1	zwl-1
+GO:0000794	"condensed nuclear chromosome"	nol-6	hpr-9	zhp-2
+GO:0000795	"synaptonemal complex"	zhp-2
+GO:0000796	"condensin complex"	hcp-6
+GO:0000803	"sex chromosome"	dpy-26
+GO:0000808	"origin recognition complex"	orc-2
+GO:0000811	"GINS complex"	psf-3
+GO:0000812	"Swr1 complex"	zhit-1
+GO:0000813	"ESCRT I complex"	vps-28
+GO:0000814	"ESCRT II complex"	vps-36
+GO:0000815	"ESCRT III complex"	vps-2
+GO:0000835	"ER ubiquitin ligase complex"	sel-1
+GO:0000836	"Hrd1p ubiquitin ligase complex"	sel-1
+GO:0000922	"spindle pole"	mei-1	sup-35	air-1
+GO:0000923	"equatorial microtubule organizing center"	gip-1
+GO:0000930	"gamma-tubulin complex"	tbg-1
+GO:0000932	"cytoplasmic mRNA processing body"	lin-41
+GO:0000938	"GARP complex"	vps-54
+GO:0000940	"condensed chromosome outer kinetochore"	ska-1
+GO:0000974	"Prp19 complex"	syf-2
+GO:0001401	"mitochondrial sorting and assembly machinery complex"	mtx-1
+GO:0001405	"presequence translocase-associated import motor"	dnj-21
+GO:0001518	"voltage-gated sodium channel complex"	cca-1
+GO:0001650	"fibrillar center"	CELE_Y48E1B.3
+GO:0001725	"stress fiber"	zyx-1
+GO:0001726	"ruffle"	tln-1
+GO:0001891	"phagocytic cup"	ina-1
+GO:0002102	"podosome"	pxl-1
+GO:0002116	"semaphorin receptor complex"	plx-2
+GO:0002144	"cytosolic tRNA wobble base thiouridylase complex"	tut-1
+GO:0002178	"palmitoyltransferase complex"	sptl-2	CELE_Y57G11C.33
+GO:0002189	"ribose phosphate diphosphokinase complex"	CELE_R151.2
+GO:0005575	"cellular_component"	CELE_ZK1307.8	aex-2	arl-8	nrfl-1	hda-1	C47E12.3	rpom-1	rol-6	F54F2.7	aat-6	mau-2	unc-47	vps-28	dap-3	tbg-1	ima-2	egl-27	hpr-9	rpl-27	nphp-4	ebp-2	emr-1	set-1	lig-4	vps-16	C16C10.2	B0205.8	immp-1	nkb-1	mrpl-49	syf-1	div-1	coa-6	tsen-2	CELE_F13H8.2	wdr-60	che-13	rfs-1	popl-4	eif-2gamma	daf-15	cct-2	vha-5	rpb-5	unc-13	ace-1	CELE_T28D6.4	copz-1	lys-1	hmg-5	aps-3	CELE_F59G1.4	apb-3	cec-6	chaf-1	rps-23	ceh-37	prp-6	zhit-1	hum-4	insc-1	rde-8	suca-1	nmr-1	mrps-31	CELE_Y6B3B.9	cya-1	CELE_F25H9.6	aex-6	zhp-2	dlat-1	sgt-1	bckd-1b	dnj-14	ced-9	frm-7	gex-2	abl-1	exc-4	air-1	twf-2	rpb-4	spd-1	spg-20	emb-30	crn-5	npp-3	asg-1	abch-1	nlp-4	daf-1	sin-3	dad-1	unc-96	gpn-1	CELE_ZK1127.13	cle-1	CELE_ZK1127.3	che-3	csa-1	fis-1	F54A3.5	ctb-1	sptl-2	C26D10.7	cul-3	ufd-1	hop-1	tbh-1	cls-3	glb-26	sel-1	evl-18	ctl-1	lpd-7	fcd-2	CELE_F54C9.11	cpsf-2	let-502	cav-1	nfm-1	unc-80	ZC434.4	moc-5	arf-1.2	pdhb-1	CELE_R05D11.9	gld-4	CELE_Y71G12B.25	cdc-14	CELE_R10H10.7	aex-1	cpl-1	coq-1	mig-32	ppfr-2	arv-1	abf-1	vps-36	CELE_Y97E10AL.1	wrb-1	aco-2	R06F6.8	emre-1	ggtb-1	ndx-8	F54C8.7	tom-1	abcf-3	nfyb-1	tftc-3	stg-1	cfim-1	sec-5	hgrs-1	CELE_F01D5.6	fntb-1	acr-6	ncap-1	fnta-1	fut-1	dlg-1	him-10	unc-10	lmtr-5	tax-6	shn-1	rod-1	prp-18	let-754	CELE_F47G4.5	rmh-1	air-2	gly-20	eif-2Bgamma	CELE_Y48E1B.3	raga-1	bam-2	ilys-3	hmt-1	clpp-1	osm-3	dnj-29	snr-1	CELE_Y38H8A.4	cyh-1	chs-2	hsp-3	sorf-2	sma-4	trr-1	atp-5	CELE_F54G2.1	natb-1	tni-1	erm-1	exoc-7	eif-3.E	ifa-1	smi-1	mcm-2	Y48A6B.3	mxt-1	arr-1	atp-1	CELE_K05C4.5	rps-0	vps-51	drsh-1	sel-9	hst-3.1	icd-2	spe-5	ada-2	erfa-3	syg-2	fog-1	nepr-1	ads-1	rpl-1	rrp-1	vha-1	dlc-1	CELE_Y50D7A.3	wdr-12	CELE_Y62E10A.24	ntl-11	sec-8	cts-1	apd-3	CELE_T01G1.4	tmem-258	zwl-1	CELE_Y48E1C.1	ddl-1	ncbp-1	rbx-1	CELE_Y75B8A.7	yju-2	hpl-1	smg-6	vps-15	damt-1	tut-1	rme-6	lgg-3	ipla-1	glr-5	lin-52	fmo-1	ctf-4	cee-1	hmp-2	clic-1	act-1	ing-3	rpb-6	lnp-1	Y54E10A.11	hcp-3	mms-19	che-7	gip-1	CELE_Y57G11C.22	mtq-2	mtm-3	ears-1	adr-1	luc-7l	C54C6.6	piga-1	lmn-1	ruvb-1	egl-36	hpo-28	nse-4	lsm-3	dbn-1	pdzd-8	nol-6	uaf-2	daf-2	daf-31	xpb-1	hcp-6	sec-23	art-1	CELE_E01A2.1	elpc-4	CELE_R151.2	asps-1	aps-1	mus-81	lin-7	lin-37	klc-1	CELE_R04F11.2	npp-20	lgg-1	timm-23	cku-70	ccm-3	gld-2	pfk-1.1	frg-1	CELE_Y48A6C.4	cdk-7	pfd-3	let-49	clp-1	apm-1	apg-1	mua-3	rfc-1	C34F6.10	tomm-40	golg-2	vhl-1	zhit-3	bro-1	cec-10	vha-14	him-1	sphk-1	osm-5	cye-1	pro-2	algn-14	chc-1	Y66D12A.7	ubc-1	epg-8	jph-1	dnj-21	gcsh-1	C06G3.6	rtcb-1	CELE_F33H2.6	acr-2	msp-3	let-363	nol-14	alg-1	mes-2	let-268	che-11	mev-1	lmn-1	rnp-5	trf-1	snpc-3.2	ajm-1	ama-1	ben-1	gls-1	ced-3	jmjd-3.1	rbc-1	snt-1	rpn-1	lgc-43	ergi-2	polg-1	CELE_T02G5.3	C06G3.8	sax-2	sbt-1	trpp-3	epc-1	ife-2	let-611	cif-1	CELE_T01C3.2	morc-1	vha-18	atg-13	csq-1	itsn-1	CELE_F15E6.9	bli-1	CELE_F21D5.7	mtx-1	pigm-1	ced-1	dli-1	spe-4	pry-1	dpm-3	mre-11	eif-2alpha	sca-1	tfg-1	tceb-3	atn-1	asb-1	dgn-1	phf-5	slx-1	vps-54	kin-32	scc-2	CELE_H18N23.2	smgl-1	CELE_ZC328.3	ani-2	gpa-11	dss-1	egl-21	rpt-4	unc-40	pop-1	isy-1	CELE_M116.5	CELE_F53G2.12	zmp-1	enol-1	CELE_F46C5.6	myo-1	rab-10	vps-33.2	vacl-14	dyf-1	CELE_Y57A10A.31	phb-1	pole-2	let-92	daf-7	mag-1	zyx-1	msi-1	sun-1	npp-18	mks-2	ddx-35	CELE_F18H3.4	ina-1	tomm-20	dnc-2	dib-1	glr-1	rla-1	pxl-1	nprl-3	ccdc-47	CELE_F35H10.5	CELE_M18.6	hum-6	apl-1	dlst-1	ctps-1	aha-1	CELE_W02A11.1	tps-2	ska-1	cus-2	syf-2	shw-3	dis-3	myo-3	CELE_F45H10.2	CELE_F41H10.4	syf-3	pro-1	athp-2	vha-8	C49H3.4	bbs-4	let-858	par-6	ppgn-1	snfc-5	icln-1	spcs-2	ints-2	ctf-8	CELE_F39B2.5	aph-1	mlh-1	lonp-2	unc-5	pqn-51	T26C12.1	hot-4	clec-204	arx-3	spt-5	cit-1.2	nduo-3	odr-4	cca-1	npp-10	gpdh-1	sumv-2	cdl-1	scp-1	maea-1	B0261.1	polh-1	seb-3	bec-1	CELE_Y57G11C.33	fask-1	rpi-2	sqst-5	egal-1	ahr-1	ire-1	psme-3	athp-1	hid-1	F23H11.2	gop-1	CELE_F40F8.11	zig-8	cdka-1	CELE_F32D8.4	CELE_F38A1.8	pigt-1	laf-1	klc-2	pbs-3	tin-13	dgn-2	deb-1	imp-1	swd-2.1	aos-1	lev-11	cdc-42	stip-1	rabr-1	ercc-1	plx-2	aco-1	eat-4	brd-1	gtf-2H2C	dpy-26	prx-12	snn-1	nhx-5	cnt-1	mlt-8	kin-1	emb-9	gut-2	elb-1	fars-3	gly-12	blos-1	gcy-37	orc-2	ebp-3	ech-1.1	kin-10	pcn-1	duox-2	T27F6.6	npp-2	wdr-4	sup-35	leo-1	gbb-1	aat-1	npp-19	hcf-1	syx-4	sws-1	pas-1	vha-17	gas-1	trpp-5	gop-3	hpo-18	trpp-10	rev-3	npp-22	emb-4	cogc-6	maph-9	fum-1	cul-5	anc-1	sec-61.G	gei-13	sam-4	cpf-1	smc-6	swsn-7	vps-2	mei-1	qars-1	rpn-7	rrf-3	csn-1	CELE_R04F11.5	trul-1	CELE_Y71H2AM.1	apa-2	pigv-1	lis-1	CELE_Y55F3C.17	xpc-1	che-6	myo-2	ttc-37	C08F8.2	sel-12	natc-2	hmg-3	cox-5b	CELE_F35H12.1	crn-3	cyk-4	F10C2.4	gna-2	taf-1	sgn-1	ntl-3	tln-1	cap-1	unc-112	acr-17	lin-53	dpy-22	nmy-2	clk-1	gtf-2e2	dpy-28	snr-7	CELE_K07A1.15	crn-1	unc-61	CELE_R02E12.4	prp-38	drap-1	CELE_Y34B4A.2	rpl-7	CELE_Y47G6A.18	msh-2	unc-11	gtf-2f2	oxy-5	pdr-1	unc-32	sand-1	gmpr-1	lin-46	CELE_W04C9.2	CELE_F25H2.4	egl-45	sucl-2	unc-70	hum-1	dhs-3	cdf-1	apc-11	lsm-4	psf-3	thoc-7	vps-35	tmed-10	rsy-1	rde-4	panl-3	C24H11.5	CELE_W03A5.6	kxd-1	bbs-2	rab-6.1	cls-2	lin-41	let-526	mks-3	atp-2	CELE_Y43F8C.6	rnr-1	skr-2	dyb-1	CELE_R151.1	hira-1	mig-14	vps-60	kbp-2	bub-3	egl-44	wdr-5.2	kap-1	crt-1	bub-1	asp-1
+GO:0005576	"extracellular region"	ace-1	daf-7	abf-1
+GO:0005581	"collagen trimer"	cle-1	bli-1
+GO:0005587	"collagen type IV trimer"	cle-1
+GO:0005604	"basement membrane"	cle-1	lmn-1	emb-9
+GO:0005615	"extracellular space"	daf-7
+GO:0005622	"intracellular"	CELE_ZK1307.8	arl-8	hda-1	C47E12.3	rpom-1	mau-2	vps-28	dap-3	tbg-1	ima-2	egl-27	hpr-9	rpl-27	ebp-2	emr-1	set-1	lig-4	immp-1	mrpl-49	syf-1	div-1	tsen-2	CELE_F13H8.2	wdr-60	che-13	rfs-1	eif-2gamma	cct-2	vha-5	rpb-5	unc-13	copz-1	lys-1	hmg-5	aps-3	apb-3	cec-6	rps-23	ceh-37	prp-6	zhit-1	insc-1	rde-8	suca-1	mrps-31	CELE_Y6B3B.9	CELE_F25H9.6	aex-6	zhp-2	dlat-1	sgt-1	bckd-1b	gex-2	abl-1	air-1	twf-2	spd-1	spg-20	emb-30	crn-5	npp-3	asg-1	sin-3	dad-1	unc-96	CELE_ZK1127.3	che-3	csa-1	fis-1	F54A3.5	sptl-2	ufd-1	hop-1	tbh-1	cls-3	glb-26	sel-1	evl-18	ctl-1	fcd-2	CELE_F54C9.11	cpsf-2	ZC434.4	arf-1.2	pdhb-1	CELE_R05D11.9	gld-4	cdc-14	CELE_R10H10.7	aex-1	cpl-1	mig-32	arv-1	vps-36	wrb-1	aco-2	R06F6.8	emre-1	ggtb-1	ndx-8	F54C8.7	tom-1	abcf-3	nfyb-1	cfim-1	sec-5	hgrs-1	fntb-1	ncap-1	fut-1	him-10	unc-10	lmtr-5	rod-1	prp-18	let-754	CELE_F47G4.5	rmh-1	air-2	gly-20	CELE_Y48E1B.3	ilys-3	hmt-1	osm-3	dnj-29	snr-1	cyh-1	hsp-3	sorf-2	sma-4	trr-1	atp-5	CELE_F54G2.1	natb-1	tni-1	exoc-7	eif-3.E	ifa-1	smi-1	Y48A6B.3	atp-1	CELE_K05C4.5	rps-0	vps-51	drsh-1	sel-9	hst-3.1	icd-2	ada-2	erfa-3	ads-1	rpl-1	dlc-1	CELE_Y50D7A.3	wdr-12	CELE_Y62E10A.24	cts-1	apd-3	tmem-258	zwl-1	CELE_Y48E1C.1	ddl-1	CELE_Y75B8A.7	yju-2	hpl-1	smg-6	damt-1	tut-1	rme-6	lgg-3	lin-52	fmo-1	ctf-4	cee-1	clic-1	act-1	ing-3	rpb-6	lnp-1	hcp-3	mms-19	gip-1	CELE_Y57G11C.22	mtq-2	ears-1	adr-1	luc-7l	C54C6.6	piga-1	lmn-1	ruvb-1	nse-4	dbn-1	nol-6	uaf-2	daf-31	xpb-1	hcp-6	sec-23	art-1	CELE_E01A2.1	elpc-4	lin-37	klc-1	CELE_R04F11.2	npp-20	lgg-1	timm-23	cku-70	pfk-1.1	frg-1	CELE_Y48A6C.4	cdk-7	let-49	clp-1	apm-1	apg-1	rfc-1	golg-2	vhl-1	bro-1	cec-10	him-1	cye-1	pro-2	algn-14	chc-1	ubc-1	epg-8	jph-1	dnj-21	gcsh-1	C06G3.6	CELE_F33H2.6	nol-14	mes-2	let-268	mev-1	ben-1	gls-1	ced-3	jmjd-3.1	rbc-1	snt-1	rpn-1	ergi-2	polg-1	C06G3.8	sbt-1	trpp-3	epc-1	ife-2	let-611	cif-1	CELE_T01C3.2	morc-1	vha-18	atg-13	csq-1	itsn-1	CELE_F21D5.7	mtx-1	pigm-1	ced-1	dli-1	pry-1	mre-11	eif-2alpha	sca-1	tfg-1	tceb-3	atn-1	asb-1	phf-5	slx-1	vps-54	scc-2	CELE_H18N23.2	smgl-1	ani-2	gpa-11	dss-1	rpt-4	pop-1	isy-1	CELE_M116.5	CELE_F53G2.12	enol-1	myo-1	rab-10	vps-33.2	vacl-14	phb-1	pole-2	mag-1	zyx-1	sun-1	ddx-35	tomm-20	dnc-2	dib-1	rla-1	pxl-1	ccdc-47	CELE_F35H10.5	apl-1	dlst-1	CELE_W02A11.1	tps-2	ska-1	cus-2	dis-3	myo-3	CELE_F45H10.2	CELE_F41H10.4	syf-3	pro-1	athp-2	C49H3.4	bbs-4	let-858	ppgn-1	snfc-5	icln-1	spcs-2	ints-2	ctf-8	mlh-1	lonp-2	pqn-51	T26C12.1	arx-3	spt-5	cit-1.2	odr-4	npp-10	gpdh-1	sumv-2	cdl-1	maea-1	polh-1	fask-1	sqst-5	ahr-1	athp-1	psme-3	ire-1	hid-1	F23H11.2	gop-1	CELE_F40F8.11	CELE_F38A1.8	pigt-1	laf-1	klc-2	pbs-3	tin-13	imp-1	swd-2.1	aos-1	lev-11	cdc-42	stip-1	rabr-1	ercc-1	aco-1	eat-4	brd-1	gtf-2H2C	dpy-26	snn-1	nhx-5	cnt-1	gut-2	fars-3	gly-12	blos-1	gcy-37	orc-2	ebp-3	ech-1.1	pcn-1	npp-2	wdr-4	sup-35	leo-1	npp-19	hcf-1	pas-1	gas-1	trpp-5	hpo-18	trpp-10	npp-22	emb-4	cogc-6	maph-9	fum-1	anc-1	sec-61.G	gei-13	sam-4	cpf-1	smc-6	swsn-7	vps-2	mei-1	qars-1	rpn-7	rrf-3	csn-1	CELE_R04F11.5	trul-1	apa-2	lis-1	xpc-1	myo-2	ttc-37	C08F8.2	natc-2	hmg-3	cox-5b	crn-3	cyk-4	F10C2.4	gna-2	taf-1	cap-1	lin-53	dpy-22	nmy-2	clk-1	gtf-2e2	dpy-28	snr-7	CELE_K07A1.15	crn-1	unc-61	CELE_R02E12.4	prp-38	drap-1	CELE_Y34B4A.2	rpl-7	CELE_Y47G6A.18	msh-2	gtf-2f2	oxy-5	unc-32	sand-1	CELE_W04C9.2	CELE_F25H2.4	egl-45	sucl-2	unc-70	hum-1	dhs-3	apc-11	lsm-4	psf-3	thoc-7	tmed-10	panl-3	C24H11.5	kxd-1	rab-6.1	cls-2	lin-41	let-526	atp-2	CELE_Y43F8C.6	rnr-1	CELE_R151.1	mig-14	vps-60	kbp-2	bub-3	egl-44	wdr-5.2	kap-1	crt-1	bub-1	asp-1
+GO:0005634	"nucleus"	prp-18	F23H11.2	CELE_F40F8.11	CELE_Y48E1B.3	gls-1	hda-1	ced-3	jmjd-3.1	mau-2	snr-1	cyh-1	ima-2	egl-27	hpr-9	sma-4	swd-2.1	aos-1	trr-1	emr-1	C06G3.8	stip-1	lig-4	Y48A6B.3	epc-1	ercc-1	let-611	syf-1	CELE_K05C4.5	div-1	CELE_T01C3.2	morc-1	tsen-2	brd-1	gtf-2H2C	CELE_F13H8.2	dpy-26	drsh-1	rfs-1	ada-2	gut-2	rpb-5	dlc-1	orc-2	CELE_Y62E10A.24	wdr-12	prp-6	mre-11	pcn-1	zhit-1	CELE_Y48E1C.1	npp-2	tceb-3	leo-1	CELE_Y75B8A.7	yju-2	smg-6	npp-19	hcf-1	phf-5	slx-1	scc-2	zhp-2	lin-52	npp-22	ctf-4	emb-4	pop-1	isy-1	ing-3	anc-1	rpb-6	gei-13	emb-30	npp-3	cpf-1	swsn-7	adr-1	luc-7l	ruvb-1	lmn-1	rrf-3	csn-1	sin-3	pole-2	mag-1	xpc-1	sun-1	CELE_ZK1127.3	csa-1	hmg-3	nol-6	crn-3	uaf-2	xpb-1	F10C2.4	taf-1	dib-1	rla-1	elpc-4	lin-53	dpy-22	CELE_F35H10.5	glb-26	gtf-2e2	evl-18	lin-37	snr-7	cpsf-2	crn-1	prp-38	drap-1	ZC434.4	cus-2	msh-2	cku-70	frg-1	CELE_Y48A6C.4	cdk-7	gtf-2f2	let-49	syf-3	gld-4	pro-1	athp-2	CELE_R10H10.7	C49H3.4	let-858	mig-32	snfc-5	apc-11	bro-1	cec-10	lsm-4	psf-3	thoc-7	pro-2	ints-2	mlh-1	pqn-51	nfyb-1	let-526	cfim-1	spt-5	cit-1.2	CELE_Y43F8C.6	npp-10	sumv-2	cdl-1	nol-14	maea-1	mes-2	bub-3	egl-44	ahr-1	athp-1
+GO:0005635	"nuclear envelope"	npp-2	anc-1	npp-10	ima-2	npp-19	npp-22	npp-3	ced-3	emr-1	sun-1	dlc-1
+GO:0005637	"nuclear inner membrane"	emr-1
+GO:0005638	"lamin filament"	lmn-1
+GO:0005640	"nuclear outer membrane"	anc-1
+GO:0005643	"nuclear pore"	npp-2	ima-2	npp-19	npp-22	npp-3	npp-10
+GO:0005652	"nuclear lamina"	glb-26	lmn-1
+GO:0005654	"nucleoplasm"	pro-1	sin-3	gls-1	let-858	hda-1	zhit-1	CELE_ZK1127.3	jmjd-3.1	psf-3	tceb-3	hmg-3	cyh-1	leo-1	egl-27	hcf-1	swd-2.1	trr-1	taf-1	pqn-51	elpc-4	lin-53	gtf-2e2	evl-18	epc-1	spt-5	cit-1.2	gtf-2f2	crn-1	CELE_T01C3.2	sumv-2	morc-1	ing-3	rpb-6	gei-13	frg-1	ada-2	CELE_Y48A6C.4	cdk-7	athp-1
+GO:0005655	"nucleolar ribonuclease P complex"	CELE_Y62E10A.24
+GO:0005656	"nuclear pre-replicative complex"	pro-1
+GO:0005657	"replication fork"	rfc-1	ctf-4	F10C2.4	polh-1	div-1	rla-1
+GO:0005658	"alpha DNA polymerase:primase complex"	div-1
+GO:0005662	"DNA replication factor A complex"	rla-1
+GO:0005663	"DNA replication factor C complex"	rfc-1
+GO:0005664	"nuclear origin of replication recognition complex"	orc-2
+GO:0005665	"DNA-directed RNA polymerase II, core complex"	rpb-6
+GO:0005666	"DNA-directed RNA polymerase III complex"	let-611
+GO:0005667	"transcription factor complex"	F23H11.2	bro-1	cec-10	cyh-1	egl-27	sma-4	taf-1	pqn-51	nfyb-1	tftc-3	gtf-2e2	lin-37	lin-52	snpc-3.2	aha-1	gtf-2f2	pop-1	drap-1	gtf-2H2C	B0261.1	egl-44	cdk-7	let-49
+GO:0005668	"RNA polymerase transcription factor SL1 complex"	F23H11.2
+GO:0005669	"transcription factor TFIID complex"	taf-1
+GO:0005672	"transcription factor TFIIA complex"	pqn-51
+GO:0005673	"transcription factor TFIIE complex"	gtf-2e2
+GO:0005674	"transcription factor TFIIF complex"	gtf-2f2
+GO:0005675	"holo TFIIH complex"	cdk-7	cyh-1
+GO:0005680	"anaphase-promoting complex"	apc-11
+GO:0005681	"spliceosomal complex"	isy-1	prp-18	cus-2	syf-3	yju-2	emb-4	snr-7	prp-6	syf-1	prp-38	lsm-4	stip-1
+GO:0005682	"U5 snRNP"	dib-1
+GO:0005683	"U7 snRNP"	C49H3.4
+GO:0005684	"U2-type spliceosomal complex"	prp-18	cus-2	yju-2	lsm-4	syf-3	stip-1
+GO:0005685	"U1 snRNP"	luc-7l
+GO:0005686	"U2 snRNP"	phf-5
+GO:0005687	"U4 snRNP"	snr-1
+GO:0005688	"U6 snRNP"	gut-2
+GO:0005689	"U12-type spliceosomal complex"	snr-7
+GO:0005694	"chromosome"	ruvb-1	rmh-1	athp-2	air-2	CELE_R10H10.7	rfc-1	sin-3	trul-1	cec-6	orc-2	ceh-37	pole-2	zhit-1	snfc-5	nse-4	athp-1	zwl-1	psf-3	mau-2	hmg-3	nol-6	him-1	egl-27	hpl-1	hpr-9	hcp-6	ctf-8	F10C2.4	ubc-1	rla-1	set-1	slx-1	dpy-28	let-526	zhp-2	fcd-2	ctf-4	CELE_Y43F8C.6	div-1	ska-1	dpy-26	hcp-3	kbp-2	polh-1	smc-6	him-10	swsn-7	bub-1
+GO:0005697	"telomerase holoenzyme complex"	smg-6
+GO:0005700	"polytene chromosome"	set-1
+GO:0005721	"pericentric heterochromatin"	cec-6
+GO:0005730	"nucleolus"	CELE_F13H8.2	ZC434.4	F23H11.2	CELE_Y48E1B.3	CELE_Y75B8A.7	Y48A6B.3	CELE_K05C4.5	wdr-12	CELE_Y62E10A.24	rpb-5	crn-1
+GO:0005732	"small nucleolar ribonucleoprotein complex"	Y48A6B.3	CELE_Y62E10A.24
+GO:0005736	"DNA-directed RNA polymerase I complex"	rpb-5
+GO:0005737	"cytoplasm"	CELE_ZK1307.8	hid-1	let-754	gly-20	gop-1	arl-8	ilys-3	hmt-1	C47E12.3	CELE_F38A1.8	rpom-1	osm-3	dnj-29	pigt-1	vps-28	dap-3	laf-1	tin-13	rbc-1	rpl-27	snt-1	rpn-1	hsp-3	imp-1	sorf-2	ergi-2	polg-1	lev-11	atp-5	cdc-42	CELE_F54G2.1	natb-1	tni-1	sbt-1	trpp-3	exoc-7	eif-3.E	smi-1	rabr-1	atp-1	ife-2	immp-1	mrpl-49	aco-1	eat-4	cif-1	rps-0	wdr-60	vha-18	atg-13	vps-51	snn-1	nhx-5	csq-1	sel-9	cnt-1	hst-3.1	eif-2gamma	icd-2	cct-2	vha-5	erfa-3	unc-13	CELE_F21D5.7	ads-1	mtx-1	fars-3	gly-12	copz-1	pigm-1	ced-1	blos-1	aps-3	gcy-37	CELE_Y50D7A.3	hmg-5	lys-1	apb-3	pry-1	ech-1.1	cts-1	apd-3	tmem-258	ire-1	eif-2alpha	sca-1	tfg-1	ddl-1	atn-1	insc-1	rde-8	asb-1	suca-1	mrps-31	CELE_Y6B3B.9	tut-1	CELE_F25H9.6	vps-54	gas-1	trpp-5	rme-6	lgg-3	CELE_H18N23.2	hpo-18	aex-6	trpp-10	dlat-1	smgl-1	sgt-1	ani-2	bckd-1b	cee-1	clic-1	rpt-4	cogc-6	maph-9	fum-1	gex-2	abl-1	lnp-1	mms-19	CELE_F53G2.12	sec-61.G	spg-20	crn-5	sam-4	CELE_Y57G11C.22	asg-1	enol-1	vps-2	ears-1	myo-1	rab-10	vps-33.2	C54C6.6	piga-1	vacl-14	CELE_R04F11.5	phb-1	dad-1	unc-96	apa-2	myo-2	ttc-37	C08F8.2	natc-2	fis-1	dbn-1	F54A3.5	sptl-2	cox-5b	lmtr-5	daf-31	ufd-1	sec-23	gna-2	tomm-20	art-1	tbh-1	CELE_E01A2.1	ccdc-47	clk-1	sel-1	ctl-1	apl-1	CELE_F54C9.11	CELE_K07A1.15	CELE_R04F11.2	npp-20	dlst-1	unc-61	tps-2	lgg-1	CELE_Y34B4A.2	timm-23	rpl-7	CELE_Y47G6A.18	arf-1.2	pfk-1.1	frg-1	pdhb-1	oxy-5	CELE_F45H10.2	myo-3	unc-32	sand-1	CELE_R05D11.9	clp-1	apm-1	CELE_F41H10.4	apg-1	CELE_W04C9.2	CELE_F25H2.4	aex-1	egl-45	cpl-1	sucl-2	unc-70	golg-2	vhl-1	ppgn-1	arv-1	vps-36	icln-1	spcs-2	tmed-10	wrb-1	aco-2	R06F6.8	panl-3	C24H11.5	algn-14	chc-1	emre-1	lonp-2	ggtb-1	kxd-1	ndx-8	F54C8.7	tom-1	abcf-3	T26C12.1	rab-6.1	jph-1	dnj-21	gcsh-1	lin-41	cls-2	epg-8	sec-5	hgrs-1	odr-4	rnr-1	gpdh-1	fntb-1	ncap-1	let-268	mig-14	vps-60	mev-1	fut-1	wdr-5.2	kap-1	unc-10	sqst-5	crt-1	bub-1	asp-1
+GO:0005739	"mitochondrion"	let-754	hmg-5	CELE_R04F11.5	CELE_W04C9.2	phb-1	ech-1.1	cts-1	ppgn-1	rpom-1	C08F8.2	fis-1	F54A3.5	dap-3	cox-5b	tin-13	asb-1	aco-2	polg-1	tomm-20	emre-1	atp-5	mrps-31	gas-1	clk-1	dnj-21	hpo-18	atp-1	immp-1	bckd-1b	CELE_R04F11.2	mrpl-49	timm-23	mev-1	pdhb-1	asg-1	oxy-5	CELE_F45H10.2	mtx-1
+GO:0005740	"mitochondrial envelope"	let-754	CELE_R04F11.5	CELE_W04C9.2	phb-1	ppgn-1	fis-1	F54A3.5	cox-5b	tin-13	asb-1	emre-1	tomm-20	atp-5	gas-1	clk-1	dnj-21	hpo-18	atp-1	immp-1	CELE_R04F11.2	timm-23	mev-1	asg-1	CELE_F45H10.2	mtx-1
+GO:0005741	"mitochondrial outer membrane"	fis-1	mtx-1	tomm-20
+GO:0005742	"mitochondrial outer membrane translocase complex"	mtx-1	tomm-20
+GO:0005743	"mitochondrial inner membrane"	CELE_R04F11.5	CELE_W04C9.2	phb-1	ppgn-1	F54A3.5	cox-5b	asb-1	emre-1	atp-5	gas-1	clk-1	dnj-21	hpo-18	atp-1	immp-1	CELE_R04F11.2	timm-23	mev-1	CELE_F45H10.2
+GO:0005744	"mitochondrial inner membrane presequence translocase complex"	timm-23	dnj-21
+GO:0005745	"m-AAA complex"	ppgn-1
+GO:0005746	"mitochondrial respiratory chain"	mev-1	gas-1	cox-5b	CELE_F45H10.2
+GO:0005747	"mitochondrial respiratory chain complex I"	gas-1
+GO:0005749	"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)"	mev-1
+GO:0005750	"mitochondrial respiratory chain complex III"	CELE_F45H10.2
+GO:0005751	"mitochondrial respiratory chain complex IV"	cox-5b
+GO:0005753	"mitochondrial proton-transporting ATP synthase complex"	hpo-18	asb-1	atp-1	CELE_R04F11.2	atp-5
+GO:0005754	"mitochondrial proton-transporting ATP synthase, catalytic core"	atp-1
+GO:0005758	"mitochondrial intermembrane space"	let-754	tin-13
+GO:0005759	"mitochondrial matrix"	hmg-5	dap-3	dnj-21	bckd-1b	ech-1.1	cts-1	mrpl-49	polg-1	pdhb-1	oxy-5	mrps-31
+GO:0005760	"gamma DNA polymerase complex"	polg-1
+GO:0005761	"mitochondrial ribosome"	mrps-31	mrpl-49	dap-3
+GO:0005762	"mitochondrial large ribosomal subunit"	mrpl-49
+GO:0005763	"mitochondrial small ribosomal subunit"	mrps-31
+GO:0005764	"lysosome"	gop-1	arl-8	sam-4	lgg-1	asp-1
+GO:0005765	"lysosomal membrane"	sam-4	gop-1	arl-8
+GO:0005768	"endosome"	vps-33.2	gop-1	ilys-3	apd-3	vps-36	vps-28	sorf-2	cdc-42	aex-6	trpp-10	apl-1	hgrs-1	vps-51	nhx-5	cnt-1	mig-14	vps-60	vha-5	CELE_Y57G11C.22	lmtr-5	vps-2	CELE_F41H10.4	sand-1
+GO:0005769	"early endosome"	mig-14	CELE_Y57G11C.22	apl-1	CELE_F41H10.4
+GO:0005770	"late endosome"	aex-6	mig-14	ilys-3	vps-60	vha-5	lmtr-5	sand-1
+GO:0005771	"multivesicular body"	vha-5	vps-60
+GO:0005773	"vacuole"	vha-18	vacl-14	gop-1	arl-8	hmt-1	sam-4	lmtr-5	sqst-5	lgg-1	unc-32	asp-1	CELE_Y34B4A.2
+GO:0005774	"vacuolar membrane"	vha-18	vacl-14	gop-1	arl-8	hmt-1	sam-4	lmtr-5	lgg-1	unc-32
+GO:0005775	"vacuolar lumen"	lgg-1
+GO:0005776	"autophagosome"	sqst-5	lgg-1
+GO:0005777	"peroxisome"	spg-20	lonp-2	ndx-8	ads-1
+GO:0005778	"peroxisomal membrane"	spg-20	ndx-8
+GO:0005780	"extrinsic component of intraperoxisomal membrane"	spg-20
+GO:0005782	"peroxisomal matrix"	lonp-2
+GO:0005783	"endoplasmic reticulum"	CELE_ZK1307.8	piga-1	CELE_F25H2.4	dad-1	C47E12.3	CELE_F38A1.8	arv-1	dnj-29	tmem-258	pigt-1	sca-1	tfg-1	sptl-2	spcs-2	rpl-27	wrb-1	ufd-1	hsp-3	algn-14	art-1	ccdc-47	sel-1	smgl-1	lnp-1	csq-1	let-268	sec-61.G	crt-1	ire-1	pigm-1
+GO:0005784	"Sec61 translocon complex"	sec-61.G
+GO:0005785	"signal recognition particle receptor complex"	CELE_F38A1.8
+GO:0005786	"signal recognition particle, endoplasmic reticulum targeting"	CELE_F21D5.7
+GO:0005787	"signal peptidase complex"	spcs-2
+GO:0005788	"endoplasmic reticulum lumen"	crt-1	csq-1
+GO:0005789	"endoplasmic reticulum membrane"	piga-1	CELE_F25H2.4	dad-1	CELE_F38A1.8	tmem-258	dnj-29	pigt-1	sca-1	sptl-2	spcs-2	rpl-27	ufd-1	algn-14	art-1	ccdc-47	sel-1	lnp-1	sec-61.G	ire-1
+GO:0005791	"rough endoplasmic reticulum"	ccdc-47	let-268	rpl-27	sec-61.G	CELE_F38A1.8	dnj-29
+GO:0005793	"endoplasmic reticulum-Golgi intermediate compartment"	trpp-5	ergi-2	gna-2
+GO:0005794	"Golgi apparatus"	hid-1	gly-20	apg-1	golg-2	R06F6.8	chc-1	F54C8.7	vps-54	trpp-3	trpp-5	exoc-7	trpp-10	cogc-6	CELE_Y47G6A.18	arf-1.2	hst-3.1	fut-1	copz-1	gly-12	CELE_R05D11.9
+GO:0005795	"Golgi stack"	hid-1	CELE_Y47G6A.18	gly-20	fut-1	golg-2	gly-12
+GO:0005796	"Golgi lumen"	hst-3.1
+GO:0005797	"Golgi medial cisterna"	gly-12
+GO:0005798	"Golgi-associated vesicle"	apg-1	sel-9	rabr-1	imp-1	chc-1	copz-1
+GO:0005801	"cis-Golgi network"	trpp-3	exoc-7
+GO:0005802	"trans-Golgi network"	F54C8.7	CELE_R05D11.9
+GO:0005811	"lipid particle"	dhs-3
+GO:0005813	"centrosome"	bbs-4	mei-1	air-1
+GO:0005814	"centriole"	cye-1
+GO:0005815	"microtubule organizing center"	che-13	CELE_F47G4.5	air-1	tbg-1	cdc-14	bbs-4	cye-1	gip-1	mei-1
+GO:0005818	"aster"	maph-9
+GO:0005819	"spindle"	rod-1	sup-35	air-2	air-1	spd-1	cyk-4	ebp-2	CELE_F33H2.6	mei-1	cls-3	maph-9
+GO:0005826	"actomyosin contractile ring"	ani-2
+GO:0005828	"kinetochore microtubule"	rod-1
+GO:0005829	"cytosol"	blos-1	gcy-37	laf-1	kxd-1	CELE_Y6B3B.9	tut-1	abcf-3	sgt-1	cee-1	rpt-4	aco-1	rnr-1	rps-0	rpl-7	mms-19	CELE_F53G2.12	pfk-1.1	cct-2	enol-1
+GO:0005832	"chaperonin-containing T-complex"	cct-2
+GO:0005834	"heterotrimeric G-protein complex"	gpa-11
+GO:0005838	"proteasome regulatory particle"	dss-1	rpn-7	rpn-1
+GO:0005839	"proteasome core complex"	pas-1	pbs-3
+GO:0005840	"ribosome"	rpl-7	abcf-3	dap-3	rps-23	mrpl-49	rpl-1	rps-0	mrps-31
+GO:0005844	"polysome"	rps-23	msi-1
+GO:0005845	"mRNA cap binding complex"	B0205.8
+GO:0005846	"nuclear cap binding complex"	ncbp-1
+GO:0005847	"mRNA cleavage and polyadenylation specificity factor complex"	cpsf-2
+GO:0005848	"mRNA cleavage stimulating factor complex"	cpf-1
+GO:0005849	"mRNA cleavage factor complex"	cfim-1	cpsf-2	cpf-1
+GO:0005850	"eukaryotic translation initiation factor 2 complex"	eif-2gamma
+GO:0005851	"eukaryotic translation initiation factor 2B complex"	eif-2alpha
+GO:0005852	"eukaryotic translation initiation factor 3 complex"	cif-1	egl-45	eif-3.E
+GO:0005854	"nascent polypeptide-associated complex"	icd-2
+GO:0005856	"cytoskeleton"	rod-1	C54C6.6	lmn-1	ben-1	air-2	cdc-14	dli-1	CELE_F47G4.5	bbs-4	ebp-3	unc-70	lis-1	hum-1	zyx-1	che-3	myo-2	dbn-1	sup-35	klc-2	tbg-1	cye-1	cyk-4	hop-1	ebp-2	dnc-2	cap-1	cls-3	pxl-1	tni-1	nmy-2	ifa-1	arx-3	klc-1	ani-2	CELE_F33H2.6	unc-61	CELE_R02E12.4	maph-9	act-1	che-13	air-1	twf-2	CELE_M116.5	spd-1	gip-1	wdr-5.2	kap-1	unc-10	mei-1
+GO:0005859	"muscle myosin complex"	myo-2
+GO:0005861	"troponin complex"	tni-1
+GO:0005863	"striated muscle myosin thick filament"	unc-96
+GO:0005865	"striated muscle thin filament"	tni-1
+GO:0005868	"cytoplasmic dynein complex"	dli-1
+GO:0005869	"dynactin complex"	dnc-2
+GO:0005871	"kinesin complex"	klc-1	klc-2	kap-1
+GO:0005874	"microtubule"	rod-1	C54C6.6	ben-1	ebp-3	wdr-5.2	CELE_F33H2.6	maph-9
+GO:0005875	"microtubule associated complex"	CELE_F47G4.5	dli-1	klc-2	air-2	klc-1	lis-1	kap-1	dnc-2	che-3
+GO:0005876	"spindle microtubule"	rod-1	maph-9	CELE_F33H2.6
+GO:0005879	"axonemal microtubule"	C54C6.6
+GO:0005881	"cytoplasmic microtubule"	C54C6.6	wdr-5.2	maph-9
+GO:0005882	"intermediate filament"	lmn-1	ifa-1
+GO:0005884	"actin filament"	twf-2	CELE_M116.5
+GO:0005885	"Arp2/3 protein complex"	arx-3
+GO:0005886	"plasma membrane"	daf-1	lin-46	zig-8	egl-36	nrfl-1	apa-2	sec-8	cdf-1	duox-2	che-3	aat-6	sphk-1	daf-2	gbb-1	aat-1	dgn-2	ina-1	aph-1	nmr-1	chc-1	dgn-1	syx-4	CELE_T02G5.3	sgn-1	glr-1	vha-17	hot-4	clec-204	stg-1	aps-1	lin-7	glr-5	gpa-11	nkb-1	frm-7	hmp-2	let-502	CELE_F01D5.6	cca-1	cav-1	acr-2	acr-6	dyb-1	CELE_R151.1	mig-14	mlt-8	shw-3	seb-3	rpi-2	dlg-1	unc-11	abch-1	trf-1	CELE_Y71G12B.25
+GO:0005887	"integral component of plasma membrane"	daf-1	daf-2	stg-1	gbb-1	egl-36	ina-1	nkb-1	nmr-1	CELE_F01D5.6	cca-1	glr-1	duox-2
+GO:0005890	"sodium:potassium-exchanging ATPase complex"	nkb-1
+GO:0005891	"voltage-gated calcium channel complex"	cca-1
+GO:0005892	"acetylcholine-gated channel complex"	CELE_F01D5.6
+GO:0005899	"insulin receptor complex"	daf-2
+GO:0005901	"caveola"	cav-1
+GO:0005902	"microvillus"	nrfl-1	hum-6
+GO:0005903	"brush border"	CELE_Y71G12B.25
+GO:0005905	"coated pit"	apa-2	aps-1	chc-1
+GO:0005911	"cell-cell junction"	C26D10.7	lin-7	che-7	par-6	syg-2	ajm-1
+GO:0005912	"adherens junction"	lin-7	ajm-1
+GO:0005921	"gap junction"	che-7
+GO:0005923	"bicellular tight junction"	par-6
+GO:0005925	"focal adhesion"	deb-1
+GO:0005929	"cilium"	C54C6.6	che-13	wdr-60	CELE_F59G1.4	aex-2	cdc-14	osm-5	CELE_T28D6.4	mks-3	nphp-4	hop-1	che-3	kap-1	CELE_Y55F3C.17	CELE_R02E12.4	bbs-2	mks-2
+GO:0005930	"axoneme"	C54C6.6	kap-1
+GO:0005938	"cell cortex"	dbn-1	cls-2	insc-1	sec-5	ani-2	unc-70	clic-1	unc-10	unc-13	unc-61	arv-1	bub-1
+GO:0005940	"septin ring"	unc-61
+GO:0005942	"phosphatidylinositol 3-kinase complex"	vacl-14	epg-8	vps-15	CELE_F39B2.5	bec-1
+GO:0005945	"6-phosphofructokinase complex"	pfk-1.1
+GO:0005946	"alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)"	tps-2
+GO:0005947	"mitochondrial alpha-ketoglutarate dehydrogenase complex"	bckd-1b	oxy-5
+GO:0005948	"acetolactate synthase complex"	T26C12.1
+GO:0005952	"cAMP-dependent protein kinase complex"	kin-1
+GO:0005953	"CAAX-protein geranylgeranyltransferase complex"	fnta-1
+GO:0005955	"calcineurin complex"	tax-6
+GO:0005956	"protein kinase CK2 complex"	kin-10
+GO:0005958	"DNA-dependent protein kinase-DNA ligase 4 complex"	lig-4
+GO:0005960	"glycine cleavage complex"	gcsh-1
+GO:0005963	"magnesium-dependent protein serine/threonine phosphatase complex"	let-92	ppfr-2	tax-6
+GO:0005964	"phosphorylase kinase complex"	CELE_Y50D7A.3
+GO:0005965	"protein farnesyltransferase complex"	fntb-1
+GO:0005967	"mitochondrial pyruvate dehydrogenase complex"	pdhb-1
+GO:0005968	"Rab-protein geranylgeranyltransferase complex"	ggtb-1
+GO:0005971	"ribonucleoside-diphosphate reductase complex"	rnr-1
+GO:0008021	"synaptic vesicle"	eat-4	snn-1
+GO:0008023	"transcription elongation factor complex"	tceb-3	hmg-3	leo-1	spt-5	gei-13	cit-1.2	elpc-4
+GO:0008024	"positive transcription elongation factor complex b"	cit-1.2
+GO:0008074	"guanylate cyclase complex, soluble"	gcy-37
+GO:0008076	"voltage-gated potassium channel complex"	egl-36
+GO:0008091	"spectrin"	unc-70
+GO:0008180	"COP9 signalosome"	csn-1
+GO:0008250	"oligosaccharyltransferase complex"	dad-1	tmem-258
+GO:0008278	"cohesin complex"	him-1
+GO:0008287	"protein serine/threonine phosphatase complex"	CELE_H18N23.2	let-92	ppfr-2	nepr-1	CELE_F46C5.6	tax-6
+GO:0008290	"F-actin capping protein complex"	cap-1
+GO:0008303	"caspase complex"	pigt-1
+GO:0008305	"integrin complex"	ina-1
+GO:0008328	"ionotropic glutamate receptor complex"	stg-1	glr-1	nmr-1
+GO:0008352	"katanin complex"	CELE_F47G4.5
+GO:0008537	"proteasome activator complex"	psme-3
+GO:0008540	"proteasome regulatory particle, base subcomplex"	rpn-1
+GO:0008541	"proteasome regulatory particle, lid subcomplex"	dss-1
+GO:0008622	"epsilon DNA polymerase complex"	pole-2
+GO:0008623	"CHRAC"	athp-2
+GO:0009295	"nucleoid"	hmg-5
+GO:0009328	"phenylalanine-tRNA ligase complex"	fars-3
+GO:0009331	"glycerol-3-phosphate dehydrogenase complex"	gpdh-1
+GO:0009353	"mitochondrial oxoglutarate dehydrogenase complex"	oxy-5
+GO:0009361	"succinate-CoA ligase complex (ADP-forming)"	sucl-2
+GO:0009368	"endopeptidase Clp complex"	clpp-1
+GO:0009897	"external side of plasma membrane"	clec-204
+GO:0009898	"cytoplasmic side of plasma membrane"	gpa-11	CELE_R151.1	frm-7	mlt-8
+GO:0009925	"basal plasma membrane"	mig-14	cdf-1
+GO:0009986	"cell surface"	nlp-4	clec-204
+GO:0010008	"endosome membrane"	vps-36	vps-28	gop-1	cnt-1	nhx-5	mig-14	sorf-2	vha-5	lmtr-5	vps-2	CELE_F41H10.4
+GO:0010494	"cytoplasmic stress granule"	laf-1
+GO:0012505	"endomembrane system"	CELE_ZK1307.8	hid-1	gly-20	gop-1	ilys-3	C47E12.3	CELE_F38A1.8	ced-3	dnj-29	pigt-1	vps-28	ima-2	rpl-27	snt-1	hsp-3	sorf-2	emr-1	cdc-42	sbt-1	trpp-3	exoc-7	rabr-1	eat-4	vps-51	snn-1	nhx-5	csq-1	cnt-1	hst-3.1	vha-5	nepr-1	copz-1	gly-12	dlc-1	pigm-1	apd-3	tmem-258	npp-2	sca-1	tfg-1	npp-19	vps-54	trpp-5	aex-6	trpp-10	smgl-1	npp-22	ced-9	cogc-6	anc-1	lnp-1	sec-61.G	npp-3	CELE_Y57G11C.22	vps-2	rab-10	vps-33.2	piga-1	dad-1	apa-2	sun-1	CELE_F18H3.4	sptl-2	ufd-1	sec-23	tbh-1	art-1	ccdc-47	sel-1	aps-1	apl-1	CELE_F54C9.11	npp-20	CELE_Y47G6A.18	arf-1.2	CELE_F41H10.4	sand-1	CELE_R05D11.9	apg-1	CELE_F25H2.4	aex-1	golg-2	arv-1	vps-36	vps-35	spcs-2	wrb-1	R06F6.8	algn-14	chc-1	F54C8.7	rab-6.1	epg-8	hgrs-1	odr-4	npp-10	let-268	mig-14	vps-60	fut-1	lmtr-5	crt-1	ire-1
+GO:0012506	"vesicle membrane"	ced-1	aps-3	gop-1	apg-1	apb-3	apa-2	vps-36	vps-28	imp-1	sec-23	sorf-2	chc-1	tbh-1	asps-1	npp-20	odr-4	eat-4	ncap-1	nhx-5	sel-9	cnt-1	mig-14	vha-5	lmtr-5	vps-2	CELE_F41H10.4	copz-1
+GO:0012507	"ER to Golgi transport vesicle membrane"	npp-20	sec-23
+GO:0012510	"trans-Golgi network transport vesicle membrane"	chc-1	apg-1
+GO:0014069	"postsynaptic density"	shn-1	glr-5
+GO:0015030	"Cajal body"	frg-1
+GO:0015629	"actin cytoskeleton"	tni-1	dnc-2	cap-1	nmy-2	dbn-1	twf-2	arx-3	CELE_M116.5	ani-2	unc-70	hum-1	zyx-1	pxl-1	myo-2
+GO:0015630	"microtubule cytoskeleton"	rod-1	C54C6.6	ben-1	CELE_F47G4.5	air-2	cdc-14	dli-1	bbs-4	ebp-3	lis-1	che-3	sup-35	klc-2	tbg-1	cye-1	cyk-4	ebp-2	dnc-2	cls-3	klc-1	CELE_F33H2.6	CELE_R02E12.4	maph-9	che-13	air-1	spd-1	gip-1	wdr-5.2	kap-1	mei-1
+GO:0015934	"large ribosomal subunit"	rpl-7	rpl-1	mrpl-49
+GO:0015935	"small ribosomal subunit"	rps-0	mrps-31	dap-3
+GO:0016010	"dystrophin-associated glycoprotein complex"	sgn-1	dyb-1	dgn-2	dgn-1
+GO:0016011	"dystroglycan complex"	sgn-1	dgn-2
+GO:0016012	"sarcoglycan complex"	sgn-1
+GO:0016014	"dystrobrevin complex"	dyb-1
+GO:0016020	"membrane"	gop-1	arl-8	zig-8	nrfl-1	hmt-1	CELE_F38A1.8	ced-3	dnj-29	aat-6	pigt-1	vps-28	dgn-2	rpl-27	imp-1	sorf-2	ergi-2	CELE_T02G5.3	emr-1	atp-5	trpp-3	vps-16	atp-1	immp-1	nkb-1	eat-4	coa-6	vha-18	nhx-5	sel-9	cnt-1	mlt-8	spe-5	vha-5	nepr-1	vha-1	copz-1	mtx-1	ced-1	aps-3	apb-3	sec-8	apd-3	tmem-258	duox-2	sca-1	gbb-1	aat-1	asb-1	vps-15	nmr-1	dgn-1	syx-4	vha-17	gas-1	gop-3	lgg-3	hpo-18	glr-5	gpa-11	frm-7	hmp-2	exc-4	anc-1	lnp-1	sec-61.G	spg-20	sam-4	asg-1	mtm-3	abch-1	vps-2	daf-1	piga-1	vacl-14	CELE_R04F11.5	egl-36	phb-1	dad-1	apa-2	che-6	sun-1	che-3	fis-1	CELE_F18H3.4	F54A3.5	sptl-2	cox-5b	ctb-1	daf-2	ina-1	ufd-1	sec-23	tomm-20	art-1	sgn-1	glr-1	tbh-1	ccdc-47	clk-1	asps-1	sel-1	aps-1	lin-7	CELE_R04F11.2	npp-20	let-502	cav-1	lgg-1	unc-80	timm-23	arf-1.2	shw-3	unc-11	CELE_F45H10.2	CELE_F41H10.4	unc-32	CELE_Y71G12B.25	apm-1	vha-8	apg-1	CELE_W04C9.2	lin-46	CELE_F25H2.4	tomm-40	ppgn-1	cdf-1	vha-14	vps-36	vps-35	spcs-2	sphk-1	CELE_F39B2.5	algn-14	chc-1	aph-1	emre-1	unc-5	ndx-8	F54C8.7	tom-1	hot-4	epg-8	dnj-21	clec-204	stg-1	nduo-3	atp-2	CELE_F01D5.6	cca-1	odr-4	acr-2	acr-6	dyb-1	ncap-1	CELE_R151.1	scp-1	mig-14	mev-1	fut-1	seb-3	rpi-2	dlg-1	bec-1	lmtr-5	trf-1	ire-1
+GO:0016021	"integral component of membrane"	daf-1	CELE_F25H2.4	egl-36	tomm-40	ppgn-1	che-6	duox-2	pigt-1	F54A3.5	daf-2	gbb-1	ina-1	nmr-1	emre-1	glr-1	gas-1	stg-1	nkb-1	CELE_F01D5.6	cca-1	unc-80	exc-4	abch-1	CELE_F45H10.2
+GO:0016035	"zeta DNA polymerase complex"	rev-3
+GO:0016234	"inclusion body"	C06G3.6
+GO:0016235	"aggresome"	C06G3.6
+GO:0016272	"prefoldin complex"	pfd-3
+GO:0016281	"eukaryotic translation initiation factor 4F complex"	ife-2
+GO:0016282	"eukaryotic 43S preinitiation complex"	egl-45
+GO:0016323	"basolateral plasma membrane"	cdf-1
+GO:0016324	"apical plasma membrane"	frm-7	aat-6
+GO:0016328	"lateral plasma membrane"	dlg-1
+GO:0016342	"catenin complex"	hmp-2
+GO:0016363	"nuclear matrix"	maea-1
+GO:0016442	"RISC complex"	alg-1
+GO:0016459	"myosin complex"	nmy-2	hum-1	myo-2
+GO:0016460	"myosin II complex"	nmy-2	myo-2
+GO:0016469	"proton-transporting two-sector ATPase complex"	vha-18	vha-8	hpo-18	asb-1	atp-1	spe-5	CELE_R04F11.2	atp-2	atp-5	vha-1	unc-32	vha-17	vha-14
+GO:0016471	"vacuolar proton-transporting V-type ATPase complex"	vha-18	unc-32
+GO:0016507	"mitochondrial fatty acid beta-oxidation multienzyme complex"	ech-1.1
+GO:0016513	"core-binding factor complex"	bro-1
+GO:0016514	"SWI/SNF complex"	let-526
+GO:0016528	"sarcoplasm"	sca-1	jph-1	csq-1
+GO:0016529	"sarcoplasmic reticulum"	sca-1	csq-1
+GO:0016533	"cyclin-dependent protein kinase 5 holoenzyme complex"	cdka-1
+GO:0016580	"Sin3 complex"	sin-3
+GO:0016581	"NuRD complex"	egl-27
+GO:0016589	"NURF complex"	CELE_Y43F8C.6
+GO:0016590	"ACF complex"	athp-2
+GO:0016591	"DNA-directed RNA polymerase II, holoenzyme"	cyh-1	rpb-6	leo-1	gtf-2e2	gls-1	cdk-7	taf-1	gtf-2f2	pqn-51
+GO:0016592	"mediator complex"	dpy-22
+GO:0016593	"Cdc73/Paf1 complex"	leo-1
+GO:0016602	"CCAAT-binding factor complex"	nfyb-1
+GO:0016604	"nuclear body"	frg-1	let-858	morc-1
+GO:0016607	"nuclear speck"	let-858
+GO:0016938	"kinesin I complex"	klc-2
+GO:0016939	"kinesin II complex"	kap-1
+GO:0017053	"transcriptional repressor complex"	lin-52	lin-37	drap-1
+GO:0017054	"negative cofactor 2 complex"	drap-1
+GO:0017059	"serine C-palmitoyltransferase complex"	sptl-2
+GO:0017071	"intracellular cyclic nucleotide activated cation channel complex"	che-6
+GO:0017101	"aminoacyl-tRNA synthetase multienzyme complex"	qars-1
+GO:0017102	"methionyl glutamyl tRNA synthetase complex"	ears-1
+GO:0017109	"glutamate-cysteine ligase complex"	CELE_E01A2.1
+GO:0017119	"Golgi transport complex"	cogc-6
+GO:0017146	"NMDA selective glutamate receptor complex"	nmr-1
+GO:0017177	"glucosidase II complex"	CELE_ZK1307.8
+GO:0018444	"translation release factor complex"	erfa-3
+GO:0019005	"SCF ubiquitin ligase complex"	skr-2
+GO:0019008	"molybdopterin synthase complex"	moc-5
+GO:0019185	"snRNA-activating protein complex"	snpc-3.2
+GO:0019773	"proteasome core complex, alpha-subunit complex"	pas-1
+GO:0019774	"proteasome core complex, beta-subunit complex"	pbs-3
+GO:0019866	"organelle inner membrane"	CELE_R04F11.5	CELE_W04C9.2	phb-1	ppgn-1	F54A3.5	cox-5b	asb-1	emre-1	emr-1	atp-5	gas-1	clk-1	dnj-21	hpo-18	atp-1	immp-1	CELE_R04F11.2	timm-23	mev-1	CELE_F45H10.2
+GO:0019867	"outer membrane"	fis-1	gop-3	anc-1	tomm-20	mtx-1
+GO:0019897	"extrinsic component of plasma membrane"	hot-4	CELE_R151.1	gpa-11	hmp-2	unc-11
+GO:0019898	"extrinsic component of membrane"	hot-4	epg-8	CELE_R151.1	clk-1	vacl-14	mtm-3	spg-20	gpa-11	vps-15	CELE_F39B2.5	hmp-2	sorf-2	bec-1	unc-11	CELE_F41H10.4
+GO:0019908	"nuclear cyclin-dependent protein kinase holoenzyme complex"	cit-1.2
+GO:0022624	"proteasome accessory complex"	dss-1	psme-3	rpn-7	rpn-1
+GO:0022625	"cytosolic large ribosomal subunit"	rpl-7
+GO:0022626	"cytosolic ribosome"	rpl-7	abcf-3	rps-0
+GO:0022627	"cytosolic small ribosomal subunit"	rps-0
+GO:0030008	"TRAPP complex"	trpp-10	trpp-5
+GO:0030014	"CCR4-NOT complex"	ntl-3	ntl-11
+GO:0030015	"CCR4-NOT core complex"	ntl-3
+GO:0030016	"myofibril"	tni-1	atn-1	unc-96	lev-11	myo-3	myo-1	clp-1
+GO:0030017	"sarcomere"	tni-1	atn-1	unc-96	lev-11	myo-3	clp-1
+GO:0030018	"Z disc"	atn-1
+GO:0030027	"lamellipodium"	laf-1
+GO:0030054	"cell junction"	lin-46	mua-3	par-6	apd-3	ace-1	C26D10.7	sphk-1	CELE_F35H12.1	rsy-1	deb-1	syx-4	CELE_W03A5.6	acr-17	unc-112	kin-32	lin-7	glr-5	dnj-14	egl-21	clic-1	acr-2	eat-4	ajm-1	acr-6	snn-1	che-7	CELE_Y57G11C.22	unc-11	syg-2	unc-10	unc-13	CELE_F41H10.4	shn-1
+GO:0030055	"cell-substrate junction"	unc-112	deb-1	mua-3
+GO:0030056	"hemidesmosome"	mua-3
+GO:0030062	"mitochondrial tricarboxylic acid cycle enzyme complex"	bckd-1b	oxy-5
+GO:0030117	"membrane coat"	ncap-1	apm-1	apg-1	apa-2	sec-23	apd-3	chc-1	copz-1
+GO:0030118	"clathrin coat"	ncap-1	apm-1	apg-1	apa-2	chc-1
+GO:0030119	"AP-type membrane coat adaptor complex"	apa-2	apm-1	apd-3	apg-1
+GO:0030120	"vesicle coat"	ncap-1	apg-1	apa-2	sec-23	chc-1	copz-1
+GO:0030121	"AP-1 adaptor complex"	apg-1
+GO:0030122	"AP-2 adaptor complex"	apa-2
+GO:0030123	"AP-3 adaptor complex"	apd-3
+GO:0030125	"clathrin vesicle coat"	apa-2	ncap-1	chc-1	apg-1
+GO:0030126	"COPI vesicle coat"	copz-1
+GO:0030127	"COPII vesicle coat"	sec-23
+GO:0030128	"clathrin coat of endocytic vesicle"	apa-2
+GO:0030130	"clathrin coat of trans-Golgi network vesicle"	chc-1	apg-1
+GO:0030131	"clathrin adaptor complex"	apa-2	apm-1	apg-1
+GO:0030132	"clathrin coat of coated pit"	apa-2	chc-1
+GO:0030133	"transport vesicle"	rab-6.1	snn-1	apg-1	rabr-1	aex-1	CELE_F54C9.11	sec-23	npp-20	chc-1	odr-4	eat-4
+GO:0030134	"ER to Golgi transport vesicle"	sec-23	npp-20	tmed-10
+GO:0030135	"coated vesicle"	ncap-1	apg-1	rme-6	rabr-1	sel-9	apb-3	tmed-10	apa-2	npp-20	sec-23	chc-1	copz-1
+GO:0030136	"clathrin-coated vesicle"	ncap-1	apg-1	rme-6	rabr-1	apb-3	apa-2	chc-1
+GO:0030137	"COPI-coated vesicle"	copz-1	sel-9
+GO:0030139	"endocytic vesicle"	ced-1	rme-6	cpl-1	apa-2	chc-1
+GO:0030140	"trans-Golgi network transport vesicle"	rabr-1	chc-1	apg-1
+GO:0030141	"secretory granule"	sbt-1	rab-10	snt-1	tbh-1
+GO:0030175	"filopodium"	erm-1	F54F2.7
+GO:0030176	"integral component of endoplasmic reticulum membrane"	CELE_F25H2.4	pigt-1
+GO:0030286	"dynein complex"	che-3	dli-1
+GO:0030289	"protein phosphatase 4 complex"	ppfr-2
+GO:0030312	"external encapsulating structure"	gpn-1	lmn-1	emb-9	rol-6	cle-1	zmp-1
+GO:0030314	"junctional membrane complex"	jph-1
+GO:0030424	"axon"	sel-12	C34F6.10	bam-2	sec-8	seb-3	dnj-14	apd-3
+GO:0030425	"dendrite"	kin-32	CELE_Y97E10AL.1	spe-4	arr-1	shw-3	osm-3	unc-47
+GO:0030426	"growth cone"	sel-12	sec-8	C34F6.10
+GO:0030427	"site of polarized growth"	sel-12	sec-8	sax-2	C34F6.10
+GO:0030428	"cell septum"	chs-2
+GO:0030496	"midbody"	air-2
+GO:0030532	"small nuclear ribonucleoprotein complex"	luc-7l	snr-1	phf-5	CELE_F40F8.11	C49H3.4	gut-2	dib-1
+GO:0030658	"transport vesicle membrane"	apg-1	sec-23	npp-20	chc-1	odr-4	eat-4
+GO:0030659	"cytoplasmic vesicle membrane"	ced-1	aps-3	gop-1	apg-1	apb-3	apa-2	vps-36	vps-28	imp-1	sec-23	sorf-2	chc-1	tbh-1	npp-20	odr-4	eat-4	ncap-1	nhx-5	sel-9	cnt-1	mig-14	vha-5	lmtr-5	vps-2	CELE_F41H10.4	copz-1
+GO:0030660	"Golgi-associated vesicle membrane"	sel-9	apg-1	imp-1	chc-1	copz-1
+GO:0030662	"coated vesicle membrane"	ncap-1	apg-1	sel-9	apb-3	apa-2	npp-20	sec-23	chc-1	copz-1
+GO:0030663	"COPI-coated vesicle membrane"	copz-1	sel-9
+GO:0030665	"clathrin-coated vesicle membrane"	ncap-1	apg-1	apb-3	apa-2	chc-1
+GO:0030666	"endocytic vesicle membrane"	apa-2	ced-1
+GO:0030667	"secretory granule membrane"	tbh-1
+GO:0030669	"clathrin-coated endocytic vesicle membrane"	apa-2
+GO:0030670	"phagocytic vesicle membrane"	ced-1
+GO:0030672	"synaptic vesicle membrane"	eat-4
+GO:0030673	"axolemma"	seb-3
+GO:0030677	"ribonuclease P complex"	popl-4	CELE_Y62E10A.24
+GO:0030681	"multimeric ribonuclease P complex"	CELE_Y62E10A.24
+GO:0030684	"preribosome"	CELE_F13H8.2	ZC434.4	C16C10.2	CELE_Y75B8A.7	lpd-7	wdr-12	pro-2	CELE_K05C4.5	rrp-1	nol-14
+GO:0030686	"90S preribosome"	CELE_F13H8.2	ZC434.4	CELE_Y75B8A.7	wdr-12	pro-2	CELE_K05C4.5	nol-14
+GO:0030687	"preribosome, large subunit precursor"	pro-2	lpd-7
+GO:0030688	"preribosome, small subunit precursor"	rrp-1	nol-14
+GO:0030689	"Noc complex"	pro-2	nol-14
+GO:0030690	"Noc1p-Noc2p complex"	pro-2
+GO:0030691	"Noc2p-Noc3p complex"	pro-2
+GO:0030692	"Noc4p-Nop14p complex"	nol-14
+GO:0030863	"cortical cytoskeleton"	ani-2	unc-70	dbn-1	unc-10
+GO:0030864	"cortical actin cytoskeleton"	ani-2	unc-70	dbn-1
+GO:0030867	"rough endoplasmic reticulum membrane"	ccdc-47	rpl-27	sec-61.G	CELE_F38A1.8	dnj-29
+GO:0030870	"Mre11 complex"	mre-11
+GO:0030877	"beta-catenin destruction complex"	pry-1
+GO:0030880	"RNA polymerase complex"	rpom-1	rrf-3	cyh-1	rpb-6	leo-1	gtf-2e2	gls-1	cdk-7	gld-2	rpb-4	let-611	taf-1	div-1	pqn-51	rpb-5	gtf-2f2	ama-1
+GO:0030891	"VCB complex"	vhl-1
+GO:0030894	"replisome"	div-1	F10C2.4	rla-1
+GO:0030896	"checkpoint clamp complex"	hpr-9
+GO:0030897	"HOPS complex"	vps-16
+GO:0030904	"retromer complex"	vps-35
+GO:0030906	"retromer, cargo-selective complex"	vps-35
+GO:0030907	"MBF transcription complex"	cec-10
+GO:0030915	"Smc5-Smc6 complex"	nse-4
+GO:0030956	"glutamyl-tRNA(Gln) amidotransferase complex"	Y66D12A.7
+GO:0030964	"NADH dehydrogenase complex"	nduo-3	gas-1
+GO:0030990	"intraciliary transport particle"	dyf-1	che-11
+GO:0030991	"intraciliary transport particle A"	che-11
+GO:0030992	"intraciliary transport particle B"	dyf-1
+GO:0030993	"axonemal heterotrimeric kinesin-II complex"	kap-1
+GO:0031010	"ISWI-type complex"	athp-2	CELE_Y43F8C.6
+GO:0031011	"Ino80 complex"	ruvb-1
+GO:0031012	"extracellular matrix"	gpn-1	lmn-1	emb-9	rol-6	cle-1	zmp-1
+GO:0031045	"dense core granule"	snt-1
+GO:0031080	"nuclear pore outer ring"	npp-2
+GO:0031082	"BLOC complex"	blos-1
+GO:0031083	"BLOC-1 complex"	blos-1
+GO:0031090	"organelle membrane"	gop-1	arl-8	hmt-1	CELE_F38A1.8	ced-3	dnj-29	pigt-1	vps-28	rpl-27	imp-1	sorf-2	ergi-2	emr-1	atp-5	trpp-3	atp-1	immp-1	eat-4	vha-18	nhx-5	sel-9	cnt-1	vha-5	copz-1	mtx-1	ced-1	aps-3	apb-3	tmem-258	sca-1	asb-1	gas-1	hpo-18	anc-1	lnp-1	sec-61.G	spg-20	sam-4	asg-1	vps-2	piga-1	vacl-14	CELE_R04F11.5	phb-1	dad-1	apa-2	che-3	fis-1	F54A3.5	sptl-2	cox-5b	ufd-1	sec-23	tomm-20	art-1	tbh-1	ccdc-47	clk-1	asps-1	sel-1	CELE_R04F11.2	npp-20	lgg-1	timm-23	arf-1.2	CELE_F45H10.2	CELE_F41H10.4	unc-32	apg-1	CELE_W04C9.2	CELE_F25H2.4	ppgn-1	vps-36	spcs-2	algn-14	chc-1	emre-1	ndx-8	F54C8.7	epg-8	dnj-21	odr-4	ncap-1	mig-14	mev-1	fut-1	lmtr-5	ire-1
+GO:0031105	"septin complex"	unc-61
+GO:0031143	"pseudopodium"	msp-3
+GO:0031201	"SNARE complex"	tom-1
+GO:0031205	"endoplasmic reticulum Sec complex"	dnj-29
+GO:0031207	"Sec62/Sec63 complex"	dnj-29
+GO:0031209	"SCAR complex"	gex-2
+GO:0031211	"endoplasmic reticulum palmitoyltransferase complex"	sptl-2
+GO:0031224	"intrinsic component of membrane"	daf-1	CELE_F25H2.4	egl-36	tomm-40	ppgn-1	che-6	sun-1	duox-2	pigt-1	F54A3.5	daf-2	gbb-1	ina-1	nmr-1	emre-1	glr-1	gas-1	stg-1	nkb-1	CELE_F01D5.6	cca-1	unc-80	exc-4	abch-1	CELE_F45H10.2
+GO:0031226	"intrinsic component of plasma membrane"	daf-1	daf-2	stg-1	gbb-1	egl-36	ina-1	nkb-1	nmr-1	CELE_F01D5.6	cca-1	glr-1	duox-2
+GO:0031227	"intrinsic component of endoplasmic reticulum membrane"	CELE_F25H2.4	pigt-1
+GO:0031234	"extrinsic component of cytoplasmic side of plasma membrane"	gpa-11	CELE_R151.1
+GO:0031248	"protein acetyltransferase complex"	natb-1	natc-2	ing-3	epc-1	daf-31	ada-2	trr-1	CELE_ZK1127.3	CELE_T01C3.2	sumv-2
+GO:0031251	"PAN complex"	panl-3
+GO:0031252	"cell leading edge"	laf-1	zig-8	shw-3	seb-3	tln-1
+GO:0031253	"cell projection membrane"	zig-8	nrfl-1	shw-3	seb-3	che-3	CELE_Y71G12B.25
+GO:0031256	"leading edge membrane"	shw-3	seb-3	zig-8
+GO:0031261	"DNA replication preinitiation complex"	evl-18	psf-3
+GO:0031262	"Ndc80 complex"	him-10
+GO:0031298	"replication fork protection complex"	ctf-4
+GO:0031300	"intrinsic component of organelle membrane"	CELE_F25H2.4	F54A3.5	ppgn-1	pigt-1
+GO:0031301	"integral component of organelle membrane"	CELE_F25H2.4	F54A3.5	ppgn-1	pigt-1
+GO:0031304	"intrinsic component of mitochondrial inner membrane"	F54A3.5	ppgn-1
+GO:0031305	"integral component of mitochondrial inner membrane"	F54A3.5	ppgn-1
+GO:0031312	"extrinsic component of organelle membrane"	epg-8	clk-1	spg-20	sorf-2	CELE_F41H10.4
+GO:0031313	"extrinsic component of endosome membrane"	sorf-2	CELE_F41H10.4
+GO:0031314	"extrinsic component of mitochondrial inner membrane"	clk-1
+GO:0031332	"RNAi effector complex"	alg-1
+GO:0031371	"ubiquitin conjugating enzyme complex"	ubc-1
+GO:0031379	"RNA-directed RNA polymerase complex"	rrf-3	gld-2
+GO:0031380	"nuclear RNA-directed RNA polymerase complex"	rrf-3
+GO:0031390	"Ctf18 RFC-like complex"	ctf-8
+GO:0031410	"cytoplasmic vesicle"	vps-33.2	ced-1	lys-1	aps-3	gop-1	apg-1	apb-3	aex-1	ilys-3	cpl-1	apa-2	apd-3	vps-36	vps-28	tmed-10	snt-1	imp-1	sec-23	sorf-2	chc-1	tbh-1	cdc-42	CELE_F54G2.1	vps-54	sbt-1	rab-6.1	rme-6	rabr-1	aex-6	trpp-10	apl-1	hgrs-1	CELE_F54C9.11	npp-20	odr-4	eat-4	ncap-1	vps-51	snn-1	nhx-5	sel-9	cnt-1	mig-14	vps-60	vha-5	CELE_Y57G11C.22	lmtr-5	vps-2	CELE_F41H10.4	copz-1	sand-1	rab-10
+GO:0031414	"N-terminal protein acetyltransferase complex"	daf-31	natc-2	natb-1
+GO:0031415	"NatA complex"	daf-31
+GO:0031416	"NatB complex"	natb-1
+GO:0031417	"NatC complex"	natc-2
+GO:0031422	"RecQ helicase-Topo III complex"	rmh-1
+GO:0031429	"box H/ACA snoRNP complex"	Y48A6B.3
+GO:0031430	"M band"	clp-1
+GO:0031436	"BRCA1-BARD1 complex"	brd-1
+GO:0031461	"cullin-RING ubiquitin ligase complex"	cul-5	rbx-1	CELE_M18.6	cul-3	elb-1	CELE_F15E6.9	apc-11	skr-2
+GO:0031462	"Cul2-RING ubiquitin ligase complex"	elb-1
+GO:0031463	"Cul3-RING ubiquitin ligase complex"	cul-3
+GO:0031464	"Cul4A-RING E3 ubiquitin ligase complex"	CELE_M18.6
+GO:0031466	"Cul5-RING ubiquitin ligase complex"	cul-5
+GO:0031499	"TRAMP complex"	gld-4
+GO:0031501	"mannosyltransferase complex"	pigv-1	dpm-3
+GO:0031510	"SUMO activating enzyme complex"	aos-1
+GO:0031514	"motile cilium"	CELE_R02E12.4	CELE_Y55F3C.17
+GO:0031515	"tRNA (m1A) methyltransferase complex"	CELE_W02A11.1
+GO:0031519	"PcG protein complex"	lin-53	mes-2	mig-32
+GO:0031523	"Myb complex"	lin-37
+GO:0031526	"brush border membrane"	CELE_Y71G12B.25
+GO:0031528	"microvillus membrane"	nrfl-1
+GO:0031588	"nucleotide-activated protein kinase complex"	CELE_Y38H8A.4
+GO:0031594	"neuromuscular junction"	unc-13
+GO:0031597	"cytosolic proteasome complex"	rpt-4
+GO:0031616	"spindle pole centrosome"	air-1
+GO:0031617	"NMS complex"	him-10
+GO:0031672	"A band"	myo-3	clp-1
+GO:0031674	"I band"	atn-1	lev-11
+GO:0031901	"early endosome membrane"	CELE_F41H10.4	mig-14
+GO:0031902	"late endosome membrane"	mig-14	vha-5	lmtr-5
+GO:0031903	"microbody membrane"	spg-20	ndx-8
+GO:0031904	"endosome lumen"	ilys-3
+GO:0031906	"late endosome lumen"	ilys-3
+GO:0031907	"microbody lumen"	lonp-2
+GO:0031931	"TORC1 complex"	daf-15
+GO:0031932	"TORC2 complex"	let-363
+GO:0031941	"filamentous actin"	CELE_M116.5
+GO:0031965	"nuclear membrane"	emr-1	anc-1	ced-3
+GO:0031966	"mitochondrial membrane"	CELE_R04F11.5	CELE_W04C9.2	phb-1	ppgn-1	fis-1	F54A3.5	cox-5b	asb-1	emre-1	tomm-20	atp-5	gas-1	clk-1	dnj-21	hpo-18	atp-1	immp-1	CELE_R04F11.2	timm-23	mev-1	asg-1	CELE_F45H10.2	mtx-1
+GO:0031967	"organelle envelope"	let-754	CELE_R04F11.5	CELE_W04C9.2	phb-1	ppgn-1	ced-3	sun-1	fis-1	npp-2	F54A3.5	cox-5b	tin-13	ima-2	asb-1	npp-19	emre-1	tomm-20	emr-1	atp-5	gas-1	clk-1	dnj-21	hpo-18	atp-1	immp-1	npp-22	CELE_R04F11.2	npp-10	timm-23	anc-1	mev-1	npp-3	asg-1	CELE_F45H10.2	mtx-1	dlc-1
+GO:0031968	"organelle outer membrane"	fis-1	mtx-1	anc-1	tomm-20
+GO:0031970	"organelle envelope lumen"	let-754	tin-13
+GO:0031974	"membrane-enclosed lumen"	F23H11.2	let-754	CELE_Y48E1B.3	gls-1	ilys-3	hda-1	jmjd-3.1	dap-3	tin-13	cyh-1	egl-27	hpr-9	swd-2.1	polg-1	trr-1	Y48A6B.3	epc-1	mrpl-49	CELE_K05C4.5	div-1	CELE_T01C3.2	morc-1	CELE_F13H8.2	csq-1	hst-3.1	ada-2	rpb-5	lys-1	hmg-5	orc-2	CELE_Y62E10A.24	wdr-12	ech-1.1	cts-1	zhit-1	tceb-3	leo-1	CELE_Y75B8A.7	hcf-1	mrps-31	slx-1	zhp-2	bckd-1b	ctf-4	ing-3	rpb-6	gei-13	emb-30	ruvb-1	lmn-1	sin-3	pole-2	CELE_ZK1127.3	hmg-3	nol-6	crn-3	F10C2.4	taf-1	rla-1	elpc-4	lin-53	glb-26	gtf-2e2	evl-18	crn-1	lgg-1	ZC434.4	frg-1	pdhb-1	CELE_Y48A6C.4	cdk-7	oxy-5	gtf-2f2	pro-1	let-858	snfc-5	psf-3	lonp-2	pqn-51	dnj-21	spt-5	cit-1.2	sumv-2	maea-1	crt-1	athp-1
+GO:0031975	"envelope"	let-754	CELE_R04F11.5	CELE_W04C9.2	phb-1	ppgn-1	ced-3	sun-1	fis-1	npp-2	F54A3.5	cox-5b	tin-13	ima-2	asb-1	npp-19	emre-1	tomm-20	emr-1	atp-5	gas-1	clk-1	dnj-21	hpo-18	atp-1	immp-1	npp-22	CELE_R04F11.2	npp-10	timm-23	anc-1	mev-1	npp-3	asg-1	CELE_F45H10.2	mtx-1	dlc-1
+GO:0031981	"nuclear lumen"	ruvb-1	pro-1	lmn-1	F23H11.2	CELE_Y48E1B.3	sin-3	gls-1	let-858	orc-2	hda-1	CELE_Y62E10A.24	pole-2	wdr-12	zhit-1	snfc-5	CELE_ZK1127.3	jmjd-3.1	psf-3	tceb-3	hmg-3	nol-6	cyh-1	crn-3	leo-1	cdk-7	egl-27	hpr-9	CELE_Y75B8A.7	F10C2.4	hcf-1	swd-2.1	trr-1	taf-1	pqn-51	rla-1	elpc-4	slx-1	lin-53	glb-26	gtf-2e2	evl-18	Y48A6B.3	spt-5	zhp-2	epc-1	cit-1.2	ctf-4	CELE_K05C4.5	div-1	crn-1	CELE_T01C3.2	sumv-2	morc-1	CELE_F13H8.2	ZC434.4	ing-3	maea-1	rpb-6	gei-13	frg-1	emb-30	ada-2	CELE_Y48A6C.4	rpb-5	gtf-2f2	athp-1
+GO:0031982	"vesicle"	vps-33.2	ced-1	lys-1	aps-3	gop-1	apg-1	apb-3	aex-1	ilys-3	cpl-1	apa-2	apd-3	hum-4	vps-36	vps-28	tmed-10	snt-1	imp-1	sec-23	sorf-2	chc-1	tbh-1	cdc-42	CELE_F54G2.1	vps-54	sbt-1	rab-6.1	asps-1	rme-6	rabr-1	aex-6	trpp-10	apl-1	hgrs-1	CELE_F54C9.11	npp-20	odr-4	eat-4	ncap-1	vps-51	snn-1	nhx-5	sel-9	cnt-1	itsn-1	mig-14	vps-60	vha-5	CELE_Y57G11C.22	lmtr-5	vps-2	CELE_F41H10.4	copz-1	sand-1	rab-10
+GO:0031983	"vesicle lumen"	lys-1
+GO:0031984	"organelle subcompartment"	hid-1	piga-1	gly-20	CELE_F25H2.4	dad-1	golg-2	CELE_F38A1.8	arv-1	dnj-29	tmem-258	pigt-1	sca-1	sptl-2	spcs-2	rpl-27	ufd-1	algn-14	art-1	F54C8.7	ccdc-47	sel-1	CELE_Y47G6A.18	lnp-1	sec-61.G	fut-1	ire-1	gly-12	CELE_R05D11.9
+GO:0031985	"Golgi cisterna"	hid-1	CELE_Y47G6A.18	fut-1	golg-2	gly-12
+GO:0032021	"NELF complex"	gei-13
+GO:0032039	"integrator complex"	ints-2
+GO:0032040	"small-subunit processome"	C16C10.2
+GO:0032044	"DSIF complex"	spt-5
+GO:0032045	"guanyl-nucleotide exchange factor complex"	R06F6.8	eif-2Bgamma	lmtr-5
+GO:0032116	"SMC loading complex"	scc-2	mau-2
+GO:0032133	"chromosome passenger complex"	air-2
+GO:0032153	"cell division site"	unc-61	ani-2	gip-1	let-502
+GO:0032154	"cleavage furrow"	let-502
+GO:0032156	"septin cytoskeleton"	unc-61
+GO:0032279	"asymmetric synapse"	glr-5	shn-1
+GO:0032281	"AMPA glutamate receptor complex"	stg-1
+GO:0032299	"ribonuclease H2 complex"	CELE_ZK1127.13
+GO:0032300	"mismatch repair complex"	mlh-1	msh-2
+GO:0032301	"MutSalpha complex"	msh-2
+GO:0032389	"MutLalpha complex"	mlh-1
+GO:0032421	"stereocilium bundle"	cdc-14
+GO:0032432	"actin filament bundle"	zyx-1
+GO:0032433	"filopodium tip"	F54F2.7
+GO:0032541	"cortical endoplasmic reticulum"	arv-1
+GO:0032545	"CURI complex"	nol-6
+GO:0032580	"Golgi cisterna membrane"	fut-1
+GO:0032584	"growth cone membrane"	sec-8
+GO:0032585	"multivesicular body membrane"	vha-5
+GO:0032588	"trans-Golgi network membrane"	F54C8.7
+GO:0032589	"neuron projection membrane"	shw-3	seb-3	zig-8
+GO:0032590	"dendrite membrane"	shw-3
+GO:0032592	"integral component of mitochondrial membrane"	F54A3.5	ppgn-1
+GO:0032593	"insulin-responsive compartment"	rab-10
+GO:0032777	"Piccolo NuA4 histone acetyltransferase complex"	epc-1
+GO:0032797	"SMN complex"	smi-1
+GO:0032806	"carboxy-terminal domain protein kinase complex"	cdk-7	cyh-1	cit-1.2
+GO:0032807	"DNA ligase IV complex"	lig-4
+GO:0032809	"neuronal cell body membrane"	seb-3
+GO:0032838	"cell projection cytoplasm"	wdr-60	C54C6.6	apd-3	kap-1	osm-3
+GO:0032839	"dendrite cytoplasm"	osm-3
+GO:0032936	"SREBP-SCAP complex"	scp-1
+GO:0032982	"myosin filament"	unc-96	myo-1
+GO:0032991	"macromolecular complex"	CELE_ZK1307.8	hda-1	rpom-1	mau-2	vps-28	dap-3	tbg-1	ima-2	egl-27	hpr-9	lig-4	vps-16	C16C10.2	B0205.8	immp-1	nkb-1	mrpl-49	syf-1	div-1	coa-6	tsen-2	CELE_F13H8.2	rfs-1	popl-4	eif-2gamma	daf-15	cct-2	rpb-5	copz-1	chaf-1	rps-23	prp-6	zhit-1	suca-1	nmr-1	mrps-31	CELE_Y6B3B.9	cya-1	CELE_F25H9.6	dlat-1	sgt-1	bckd-1b	gex-2	exc-4	rpb-4	crn-5	npp-3	abch-1	daf-1	sin-3	dad-1	CELE_ZK1127.13	cle-1	CELE_ZK1127.3	che-3	csa-1	F54A3.5	sptl-2	cul-3	ufd-1	evl-18	sel-1	lpd-7	cpsf-2	unc-80	ZC434.4	moc-5	pdhb-1	gld-4	CELE_R10H10.7	coq-1	mig-32	ppfr-2	vps-36	wrb-1	R06F6.8	emre-1	ggtb-1	tom-1	nfyb-1	tftc-3	stg-1	cfim-1	sec-5	hgrs-1	CELE_F01D5.6	fntb-1	ncap-1	fnta-1	him-10	lmtr-5	tax-6	prp-18	rmh-1	CELE_F47G4.5	eif-2Bgamma	air-2	raga-1	clpp-1	dnj-29	snr-1	CELE_Y38H8A.4	cyh-1	hsp-3	sma-4	trr-1	atp-5	natb-1	tni-1	eif-3.E	smi-1	mcm-2	Y48A6B.3	mxt-1	atp-1	CELE_K05C4.5	rps-0	vps-51	drsh-1	icd-2	spe-5	ada-2	erfa-3	fog-1	nepr-1	rpl-1	rrp-1	vha-1	CELE_Y50D7A.3	wdr-12	CELE_Y62E10A.24	ntl-11	apd-3	CELE_T01G1.4	tmem-258	zwl-1	CELE_Y48E1C.1	ddl-1	ncbp-1	rbx-1	CELE_Y75B8A.7	yju-2	smg-6	vps-15	damt-1	tut-1	ipla-1	lgg-3	lin-52	cee-1	ctf-4	hmp-2	ing-3	rpb-6	Y54E10A.11	hcp-3	mms-19	mtq-2	ears-1	luc-7l	ruvb-1	piga-1	egl-36	nse-4	lsm-3	nol-6	uaf-2	daf-2	daf-31	xpb-1	hcp-6	sec-23	CELE_E01A2.1	elpc-4	CELE_R151.2	mus-81	lin-7	lin-37	klc-1	CELE_R04F11.2	timm-23	cku-70	ccm-3	gld-2	pfk-1.1	CELE_Y48A6C.4	cdk-7	pfd-3	let-49	apm-1	apg-1	rfc-1	tomm-40	vhl-1	zhit-3	bro-1	cec-10	vha-14	him-1	cye-1	pro-2	algn-14	chc-1	Y66D12A.7	ubc-1	epg-8	jph-1	dnj-21	gcsh-1	rtcb-1	let-363	nol-14	alg-1	mes-2	che-11	mev-1	lmn-1	rnp-5	trf-1	snpc-3.2	ama-1	gls-1	jmjd-3.1	rbc-1	lgc-43	rpn-1	polg-1	CELE_T02G5.3	C06G3.8	epc-1	ife-2	let-611	cif-1	CELE_T01C3.2	vha-18	atg-13	CELE_F15E6.9	bli-1	CELE_F21D5.7	mtx-1	pigm-1	dli-1	pry-1	dpm-3	mre-11	eif-2alpha	tceb-3	asb-1	dgn-1	phf-5	slx-1	vps-54	scc-2	CELE_H18N23.2	smgl-1	gpa-11	dss-1	rpt-4	unc-40	pop-1	isy-1	CELE_M116.5	CELE_F53G2.12	enol-1	CELE_F46C5.6	vps-33.2	vacl-14	dyf-1	CELE_Y57A10A.31	phb-1	pole-2	let-92	mag-1	msi-1	sun-1	npp-18	ina-1	tomm-20	dnc-2	dib-1	glr-1	rla-1	nprl-3	CELE_F35H10.5	CELE_M18.6	dlst-1	aha-1	CELE_W02A11.1	tps-2	ska-1	cus-2	syf-2	dis-3	CELE_F45H10.2	syf-3	pro-1	athp-2	vha-8	C49H3.4	ppgn-1	snfc-5	icln-1	spcs-2	ints-2	ctf-8	CELE_F39B2.5	aph-1	mlh-1	pqn-51	T26C12.1	arx-3	spt-5	cit-1.2	nduo-3	cca-1	npp-10	gpdh-1	sumv-2	cdl-1	scp-1	maea-1	B0261.1	bec-1	CELE_Y57G11C.33	egal-1	ahr-1	athp-1	psme-3	ire-1	F23H11.2	CELE_F40F8.11	cdka-1	CELE_F32D8.4	CELE_F38A1.8	pigt-1	laf-1	klc-2	pbs-3	tin-13	dgn-2	swd-2.1	aos-1	stip-1	ercc-1	plx-2	brd-1	gtf-2H2C	dpy-26	prx-12	kin-1	gut-2	elb-1	fars-3	blos-1	gcy-37	orc-2	ech-1.1	kin-10	pcn-1	duox-2	npp-2	wdr-4	leo-1	gbb-1	aat-1	npp-19	hcf-1	sws-1	pas-1	vha-17	gas-1	trpp-5	hpo-18	trpp-10	rev-3	npp-22	emb-4	cogc-6	fum-1	cul-5	sec-61.G	gei-13	cpf-1	swsn-7	vps-2	qars-1	rpn-7	rrf-3	csn-1	CELE_R04F11.5	CELE_Y71H2AM.1	apa-2	pigv-1	lis-1	xpc-1	che-6	myo-2	ttc-37	C08F8.2	natc-2	hmg-3	cox-5b	crn-3	cyk-4	F10C2.4	taf-1	ntl-3	sgn-1	cap-1	lin-53	dpy-22	nmy-2	gtf-2e2	snr-7	CELE_K07A1.15	unc-61	prp-38	drap-1	rpl-7	msh-2	gtf-2f2	oxy-5	pdr-1	unc-32	sand-1	gmpr-1	CELE_F25H2.4	egl-45	sucl-2	unc-70	hum-1	apc-11	lsm-4	psf-3	thoc-7	vps-35	rde-4	panl-3	C24H11.5	kxd-1	bbs-2	let-526	mks-3	atp-2	CELE_Y43F8C.6	rnr-1	skr-2	dyb-1	hira-1	kbp-2	bub-3	egl-44	kap-1
+GO:0032993	"protein-DNA complex"	pro-1	evl-18	hcp-3	xpb-1	F10C2.4	div-1	rla-1	psf-3
+GO:0033017	"sarcoplasmic reticulum membrane"	sca-1
+GO:0033018	"sarcoplasmic reticulum lumen"	csq-1
+GO:0033061	"DNA recombinase mediator complex"	rfs-1
+GO:0033063	"Rad51B-Rad51C-Rad51D-XRCC2 complex"	rfs-1
+GO:0033106	"cis-Golgi network membrane"	trpp-3
+GO:0033116	"endoplasmic reticulum-Golgi intermediate compartment membrane"	ergi-2
+GO:0033176	"proton-transporting V-type ATPase complex"	vha-18	spe-5	unc-32	vha-17	vha-14
+GO:0033177	"proton-transporting two-sector ATPase complex, proton-transporting domain"	atp-5	vha-1	unc-32	asb-1
+GO:0033178	"proton-transporting two-sector ATPase complex, catalytic domain"	vha-18	vha-8	hpo-18	spe-5	atp-1	atp-2
+GO:0033179	"proton-transporting V-type ATPase, V0 domain"	unc-32
+GO:0033180	"proton-transporting V-type ATPase, V1 domain"	vha-18	spe-5
+GO:0033181	"plasma membrane proton-transporting V-type ATPase complex"	vha-17
+GO:0033185	"dolichol-phosphate-mannose synthase complex"	dpm-3
+GO:0033186	"CAF-1 complex"	chaf-1
+GO:0033263	"CORVET complex"	vps-33.2
+GO:0033290	"eukaryotic 48S preinitiation complex"	egl-45
+GO:0033309	"SBF transcription complex"	cec-10
+GO:0033503	"HULC complex"	ubc-1
+GO:0033557	"Slx1-Slx4 complex"	slx-1
+GO:0033565	"ESCRT-0 complex"	hgrs-1
+GO:0033588	"Elongator holoenzyme complex"	elpc-4
+GO:0033597	"mitotic checkpoint complex"	bub-3
+GO:0034045	"pre-autophagosomal structure membrane"	lgg-3	epg-8
+GO:0034066	"RIC1-RGP1 guanyl-nucleotide exchange factor complex"	R06F6.8
+GO:0034098	"VCP-NPL4-UFD1 AAA ATPase complex"	ufd-1
+GO:0034245	"mitochondrial DNA-directed RNA polymerase complex"	rpom-1
+GO:0034271	"phosphatidylinositol 3-kinase complex, class III, type I"	bec-1
+GO:0034272	"phosphatidylinositol 3-kinase complex, class III, type II"	vps-15
+GO:0034274	"Atg12-Atg5-Atg16 complex"	lgg-3
+GO:0034388	"Pwp2p-containing subcomplex of 90S preribosome"	CELE_F13H8.2
+GO:0034399	"nuclear periphery"	glb-26	emb-30	lmn-1	maea-1
+GO:0034455	"t-UTP complex"	CELE_K05C4.5
+GO:0034456	"UTP-C complex"	ZC434.4
+GO:0034457	"Mpp10 complex"	CELE_Y75B8A.7
+GO:0034464	"BBSome"	bbs-2
+GO:0034515	"proteasome storage granule"	rpn-1
+GO:0034518	"RNA cap binding complex"	B0205.8	mxt-1	ncbp-1
+GO:0034657	"GID complex"	maea-1
+GO:0034663	"endoplasmic reticulum chaperone complex"	hsp-3
+GO:0034702	"ion channel complex"	exc-4	stg-1	egl-36	nmr-1	CELE_F01D5.6	cca-1	che-6	emre-1	glr-1	unc-80
+GO:0034703	"cation channel complex"	stg-1	egl-36	nmr-1	emre-1	cca-1	che-6	unc-80
+GO:0034704	"calcium channel complex"	emre-1	cca-1
+GO:0034705	"potassium channel complex"	egl-36
+GO:0034706	"sodium channel complex"	cca-1
+GO:0034707	"chloride channel complex"	exc-4
+GO:0034708	"methyltransferase complex"	lin-53	wdr-4	icln-1	damt-1	CELE_Y48A6C.4	hcf-1	mtq-2	swd-2.1	CELE_W02A11.1	jmjd-3.1
+GO:0034709	"methylosome"	icln-1
+GO:0034715	"pICln-Sm protein complex"	icln-1
+GO:0034719	"SMN-Sm protein complex"	C24H11.5	smi-1
+GO:0034751	"aryl hydrocarbon receptor complex"	ahr-1	aha-1
+GO:0034753	"nuclear aryl hydrocarbon receptor complex"	ahr-1
+GO:0034777	"recycling endosome lumen"	ilys-3
+GO:0034992	"microtubule organizing center attachment site"	sun-1
+GO:0034993	"LINC complex"	sun-1
+GO:0034998	"oligosaccharyltransferase I complex"	tmem-258
+GO:0035032	"phosphatidylinositol 3-kinase complex, class III"	vps-15	vacl-14	bec-1	epg-8
+GO:0035060	"brahma complex"	snfc-5
+GO:0035097	"histone methyltransferase complex"	lin-53	swd-2.1	hcf-1	CELE_Y48A6C.4	jmjd-3.1
+GO:0035098	"ESC/E(Z) complex"	lin-53
+GO:0035101	"FACT complex"	hmg-3
+GO:0035102	"PRC1 complex"	mig-32
+GO:0035145	"exon-exon junction complex"	mag-1
+GO:0035253	"ciliary rootlet"	hop-1
+GO:0035267	"NuA4 histone acetyltransferase complex"	ing-3	epc-1
+GO:0035371	"microtubule plus-end"	ebp-3
+GO:0035632	"mitochondrial prohibitin complex"	phb-1
+GO:0035657	"eRF1 methyltransferase complex"	mtq-2
+GO:0035658	"Mon1-Ccz1 complex"	sand-1
+GO:0035770	"ribonucleoprotein granule"	laf-1	lin-41	rde-8	fask-1
+GO:0035859	"Seh1-associated complex"	npp-18	nprl-3
+GO:0035861	"site of double-strand break"	smc-6
+GO:0035869	"ciliary transition zone"	mks-2	mks-3
+GO:0036019	"endolysosome"	gop-1
+GO:0036020	"endolysosome membrane"	gop-1
+GO:0036038	"TCTN-B9D complex"	mks-3
+GO:0036064	"ciliary basal body"	che-13	cdc-14
+GO:0036125	"fatty acid beta-oxidation multienzyme complex"	ech-1.1
+GO:0036126	"sperm flagellum"	CELE_Y55F3C.17
+GO:0036379	"myofilament"	tni-1	unc-96
+GO:0036387	"pre-replicative complex"	pro-1
+GO:0036396	"MIS complex"	damt-1
+GO:0036452	"ESCRT complex"	vps-36	vps-2	vps-28	hgrs-1
+GO:0036464	"cytoplasmic ribonucleoprotein granule"	rde-8	laf-1	lin-41
+GO:0036477	"somatodendritic compartment"	kin-32	CELE_Y97E10AL.1	spe-4	arr-1	shw-3	seb-3	osm-3	ire-1	unc-47
+GO:0038037	"G-protein coupled receptor dimeric complex"	gbb-1
+GO:0038039	"G-protein coupled receptor heterodimeric complex"	gbb-1
+GO:0038201	"TOR complex"	let-363	daf-15
+GO:0042175	"nuclear outer membrane-endoplasmic reticulum membrane network"	piga-1	CELE_F25H2.4	dad-1	CELE_F38A1.8	tmem-258	dnj-29	pigt-1	sca-1	CELE_F18H3.4	sptl-2	spcs-2	rpl-27	ufd-1	algn-14	art-1	ccdc-47	sel-1	anc-1	lnp-1	sec-61.G	nepr-1	ire-1
+GO:0042383	"sarcolemma"	dgn-1
+GO:0042555	"MCM complex"	mcm-2
+GO:0042575	"DNA polymerase complex"	rev-3	pole-2	F10C2.4	polg-1	div-1
+GO:0042579	"microbody"	spg-20	ads-1	lonp-2	ndx-8
+GO:0042641	"actomyosin"	zyx-1
+GO:0042645	"mitochondrial nucleoid"	hmg-5
+GO:0042709	"succinate-CoA ligase complex"	suca-1	sucl-2
+GO:0042719	"mitochondrial intermembrane space protein transporter complex"	tin-13
+GO:0042720	"mitochondrial inner membrane peptidase complex"	immp-1
+GO:0042721	"mitochondrial inner membrane protein insertion complex"	CELE_R04F11.5
+GO:0042734	"presynaptic membrane"	unc-11	syx-4	sphk-1
+GO:0042765	"GPI-anchor transamidase complex"	pigt-1
+GO:0042788	"polysomal ribosome"	rps-23
+GO:0042995	"cell projection"	C54C6.6	aex-2	CELE_F59G1.4	cdc-14	zig-8	arl-8	spe-4	bam-2	nrfl-1	C34F6.10	sec-8	apd-3	CELE_Y55F3C.17	osm-3	F54F2.7	mks-2	unc-47	che-3	sel-12	hum-4	laf-1	CELE_Y97E10AL.1	osm-5	nphp-4	hop-1	tln-1	bbs-2	erm-1	kin-32	mks-3	hum-6	arr-1	dnj-14	CELE_R02E12.4	msp-3	wdr-60	che-13	shw-3	seb-3	kap-1	CELE_T28D6.4	CELE_Y71G12B.25
+GO:0043005	"neuron projection"	sel-12	kin-32	cdc-14	zig-8	CELE_Y97E10AL.1	arl-8	spe-4	bam-2	C34F6.10	arr-1	shw-3	sec-8	seb-3	dnj-14	apd-3	osm-3	unc-47
+GO:0043020	"NADPH oxidase complex"	duox-2
+GO:0043025	"neuronal cell body"	seb-3	ire-1	arr-1
+GO:0043083	"synaptic cleft"	ace-1
+GO:0043189	"H4/H2A histone acetyltransferase complex"	ing-3	CELE_ZK1127.3	epc-1
+GO:0043190	"ATP-binding cassette (ABC) transporter complex"	abch-1
+GO:0043195	"terminal bouton"	dnj-14	apd-3
+GO:0043197	"dendritic spine"	kin-32
+GO:0043198	"dendritic shaft"	spe-4
+GO:0043202	"lysosomal lumen"	lgg-1
+GO:0043204	"perikaryon"	arr-1
+GO:0043226	"organelle"	CELE_ZK1307.8	aex-2	arl-8	hda-1	C47E12.3	rpom-1	mau-2	vps-28	dap-3	tbg-1	ima-2	egl-27	hpr-9	rpl-27	nphp-4	ebp-2	emr-1	set-1	lig-4	immp-1	mrpl-49	syf-1	div-1	tsen-2	CELE_F13H8.2	wdr-60	che-13	rfs-1	vha-5	rpb-5	CELE_T28D6.4	copz-1	lys-1	hmg-5	aps-3	CELE_F59G1.4	apb-3	cec-6	rps-23	ceh-37	prp-6	zhit-1	hum-4	rde-8	mrps-31	aex-6	zhp-2	bckd-1b	air-1	twf-2	spd-1	spg-20	emb-30	npp-3	asg-1	sin-3	dad-1	unc-96	CELE_ZK1127.3	che-3	csa-1	fis-1	F54A3.5	sptl-2	ufd-1	hop-1	tbh-1	cls-3	glb-26	sel-1	evl-18	fcd-2	CELE_F54C9.11	cpsf-2	ZC434.4	arf-1.2	pdhb-1	CELE_R05D11.9	gld-4	cdc-14	CELE_R10H10.7	aex-1	cpl-1	mig-32	arv-1	vps-36	wrb-1	aco-2	R06F6.8	emre-1	ndx-8	F54C8.7	abcf-3	nfyb-1	cfim-1	hgrs-1	ncap-1	fut-1	him-10	unc-10	lmtr-5	shn-1	rod-1	prp-18	let-754	CELE_F47G4.5	rmh-1	air-2	gly-20	CELE_Y48E1B.3	ilys-3	hmt-1	dnj-29	snr-1	cyh-1	hsp-3	sorf-2	sma-4	trr-1	atp-5	CELE_F54G2.1	tni-1	exoc-7	ifa-1	Y48A6B.3	atp-1	CELE_K05C4.5	rps-0	vps-51	drsh-1	sel-9	hst-3.1	ada-2	ads-1	rpl-1	dlc-1	wdr-12	CELE_Y62E10A.24	cts-1	apd-3	tmem-258	zwl-1	CELE_Y48E1C.1	CELE_Y75B8A.7	yju-2	hpl-1	smg-6	vps-15	rme-6	glr-5	lin-52	fmo-1	ctf-4	act-1	ing-3	rpb-6	lnp-1	hcp-3	gip-1	CELE_Y57G11C.22	adr-1	luc-7l	C54C6.6	piga-1	lmn-1	ruvb-1	hpo-28	nse-4	dbn-1	pdzd-8	nol-6	uaf-2	xpb-1	hcp-6	sec-23	art-1	elpc-4	asps-1	lin-37	klc-1	CELE_R04F11.2	npp-20	lgg-1	timm-23	cku-70	frg-1	CELE_Y48A6C.4	cdk-7	let-49	clp-1	apg-1	rfc-1	golg-2	bro-1	cec-10	him-1	osm-5	cye-1	pro-2	algn-14	chc-1	ubc-1	epg-8	dnj-21	CELE_F33H2.6	nol-14	mes-2	let-268	mev-1	ben-1	gls-1	ced-3	jmjd-3.1	snt-1	rpn-1	ergi-2	polg-1	C06G3.8	sbt-1	trpp-3	epc-1	let-611	CELE_T01C3.2	morc-1	vha-18	csq-1	itsn-1	mtx-1	pigm-1	ced-1	dli-1	mre-11	sca-1	tfg-1	tceb-3	atn-1	asb-1	phf-5	slx-1	vps-54	scc-2	smgl-1	CELE_ZC328.3	ani-2	pop-1	isy-1	CELE_M116.5	myo-1	rab-10	vps-33.2	vacl-14	phb-1	pole-2	mag-1	zyx-1	sun-1	mks-2	tomm-20	dnc-2	dib-1	rla-1	pxl-1	ccdc-47	CELE_F35H10.5	apl-1	ska-1	cus-2	myo-3	CELE_F45H10.2	CELE_F41H10.4	syf-3	pro-1	athp-2	C49H3.4	bbs-4	let-858	ppgn-1	snfc-5	spcs-2	ints-2	ctf-8	mlh-1	lonp-2	pqn-51	arx-3	spt-5	cit-1.2	odr-4	npp-10	sumv-2	cdl-1	maea-1	polh-1	fask-1	sqst-5	ahr-1	athp-1	ire-1	hid-1	F23H11.2	gop-1	CELE_F40F8.11	CELE_F38A1.8	pigt-1	laf-1	klc-2	tin-13	imp-1	swd-2.1	aos-1	lev-11	cdc-42	stip-1	rabr-1	ercc-1	eat-4	brd-1	gtf-2H2C	dpy-26	snn-1	nhx-5	cnt-1	gut-2	gly-12	orc-2	ebp-3	ech-1.1	pcn-1	npp-2	sup-35	leo-1	npp-19	hcf-1	gas-1	trpp-5	hpo-18	trpp-10	npp-22	emb-4	cogc-6	maph-9	anc-1	sec-61.G	gei-13	sam-4	cpf-1	smc-6	swsn-7	vps-2	mei-1	rrf-3	csn-1	CELE_R04F11.5	trul-1	apa-2	lis-1	CELE_Y55F3C.17	xpc-1	myo-2	C08F8.2	hmg-3	cox-5b	crn-3	cyk-4	F10C2.4	gna-2	taf-1	cap-1	lin-53	dpy-22	nmy-2	clk-1	gtf-2e2	dpy-28	snr-7	crn-1	unc-61	CELE_R02E12.4	prp-38	drap-1	CELE_Y34B4A.2	rpl-7	CELE_Y47G6A.18	msh-2	gtf-2f2	oxy-5	unc-32	sand-1	lin-46	CELE_W04C9.2	CELE_F25H2.4	unc-70	hum-1	dhs-3	apc-11	lsm-4	psf-3	thoc-7	tmed-10	CELE_W03A5.6	bbs-2	rab-6.1	lin-41	let-526	mks-3	CELE_Y43F8C.6	mig-14	vps-60	kbp-2	bub-3	egl-44	wdr-5.2	kap-1	crt-1	bub-1	asp-1
+GO:0043227	"membrane-bounded organelle"	CELE_ZK1307.8	aex-2	arl-8	hda-1	C47E12.3	rpom-1	mau-2	vps-28	dap-3	ima-2	egl-27	hpr-9	rpl-27	nphp-4	emr-1	lig-4	immp-1	mrpl-49	syf-1	div-1	tsen-2	CELE_F13H8.2	wdr-60	che-13	rfs-1	vha-5	rpb-5	CELE_T28D6.4	copz-1	lys-1	hmg-5	aps-3	CELE_F59G1.4	apb-3	prp-6	zhit-1	hum-4	mrps-31	aex-6	zhp-2	bckd-1b	spg-20	emb-30	npp-3	asg-1	sin-3	dad-1	CELE_ZK1127.3	che-3	csa-1	fis-1	F54A3.5	sptl-2	ufd-1	hop-1	tbh-1	glb-26	sel-1	evl-18	CELE_F54C9.11	cpsf-2	ZC434.4	arf-1.2	pdhb-1	CELE_R05D11.9	gld-4	CELE_R10H10.7	cdc-14	aex-1	cpl-1	mig-32	arv-1	vps-36	wrb-1	aco-2	R06F6.8	emre-1	ndx-8	F54C8.7	nfyb-1	cfim-1	hgrs-1	ncap-1	fut-1	lmtr-5	prp-18	let-754	gly-20	CELE_Y48E1B.3	ilys-3	hmt-1	dnj-29	snr-1	cyh-1	hsp-3	sorf-2	sma-4	trr-1	atp-5	CELE_F54G2.1	exoc-7	Y48A6B.3	atp-1	CELE_K05C4.5	vps-51	drsh-1	sel-9	hst-3.1	ada-2	ads-1	dlc-1	wdr-12	CELE_Y62E10A.24	cts-1	apd-3	tmem-258	CELE_Y48E1C.1	CELE_Y75B8A.7	yju-2	smg-6	rme-6	lin-52	fmo-1	ctf-4	ing-3	rpb-6	lnp-1	CELE_Y57G11C.22	adr-1	luc-7l	C54C6.6	piga-1	lmn-1	ruvb-1	nol-6	uaf-2	xpb-1	sec-23	art-1	elpc-4	asps-1	lin-37	CELE_R04F11.2	npp-20	lgg-1	timm-23	cku-70	frg-1	CELE_Y48A6C.4	cdk-7	let-49	apg-1	golg-2	bro-1	cec-10	osm-5	pro-2	algn-14	chc-1	epg-8	dnj-21	nol-14	mes-2	let-268	mev-1	gls-1	ced-3	jmjd-3.1	snt-1	ergi-2	polg-1	C06G3.8	sbt-1	trpp-3	epc-1	let-611	CELE_T01C3.2	morc-1	vha-18	csq-1	itsn-1	mtx-1	pigm-1	ced-1	mre-11	sca-1	tfg-1	tceb-3	asb-1	phf-5	slx-1	vps-54	scc-2	smgl-1	pop-1	isy-1	rab-10	vps-33.2	vacl-14	phb-1	pole-2	mag-1	sun-1	mks-2	tomm-20	dib-1	rla-1	ccdc-47	CELE_F35H10.5	apl-1	cus-2	CELE_F45H10.2	CELE_F41H10.4	syf-3	pro-1	athp-2	C49H3.4	let-858	ppgn-1	snfc-5	spcs-2	ints-2	mlh-1	lonp-2	pqn-51	spt-5	cit-1.2	odr-4	npp-10	sumv-2	cdl-1	maea-1	sqst-5	ahr-1	athp-1	ire-1	hid-1	F23H11.2	gop-1	CELE_F40F8.11	CELE_F38A1.8	pigt-1	tin-13	imp-1	swd-2.1	aos-1	cdc-42	stip-1	rabr-1	ercc-1	eat-4	brd-1	gtf-2H2C	dpy-26	snn-1	nhx-5	cnt-1	gut-2	gly-12	orc-2	ech-1.1	pcn-1	npp-2	leo-1	npp-19	hcf-1	gas-1	trpp-5	hpo-18	trpp-10	npp-22	emb-4	cogc-6	anc-1	sec-61.G	gei-13	sam-4	cpf-1	swsn-7	vps-2	rrf-3	csn-1	CELE_R04F11.5	apa-2	CELE_Y55F3C.17	xpc-1	C08F8.2	hmg-3	cox-5b	crn-3	F10C2.4	gna-2	taf-1	lin-53	dpy-22	clk-1	gtf-2e2	snr-7	crn-1	CELE_R02E12.4	prp-38	drap-1	CELE_Y34B4A.2	CELE_Y47G6A.18	msh-2	gtf-2f2	oxy-5	unc-32	sand-1	CELE_W04C9.2	CELE_F25H2.4	apc-11	lsm-4	psf-3	thoc-7	tmed-10	bbs-2	rab-6.1	let-526	mks-3	CELE_Y43F8C.6	mig-14	vps-60	bub-3	egl-44	kap-1	crt-1	asp-1
+GO:0043228	"non-membrane-bounded organelle"	rod-1	F23H11.2	ben-1	CELE_F47G4.5	air-2	rmh-1	CELE_Y48E1B.3	mau-2	dap-3	laf-1	klc-2	tbg-1	egl-27	hpr-9	rpn-1	ebp-2	lev-11	set-1	tni-1	ifa-1	Y48A6B.3	mrpl-49	CELE_K05C4.5	div-1	rps-0	CELE_F13H8.2	dpy-26	che-13	rpb-5	rpl-1	hmg-5	dli-1	cec-6	orc-2	CELE_Y62E10A.24	ebp-3	ceh-37	rps-23	wdr-12	zhit-1	zwl-1	atn-1	sup-35	CELE_Y75B8A.7	rde-8	hpl-1	mrps-31	slx-1	zhp-2	ani-2	ctf-4	maph-9	act-1	air-1	twf-2	hcp-3	CELE_M116.5	spd-1	gip-1	smc-6	swsn-7	mei-1	myo-1	C54C6.6	ruvb-1	lmn-1	sin-3	trul-1	unc-96	pole-2	lis-1	zyx-1	che-3	myo-2	nse-4	athp-1	dbn-1	hmg-3	nol-6	hcp-6	hop-1	F10C2.4	cyk-4	dnc-2	cap-1	rla-1	pxl-1	cls-3	nmy-2	dpy-28	klc-1	fcd-2	crn-1	unc-61	ska-1	CELE_R02E12.4	rpl-7	ZC434.4	unc-10	frg-1	myo-3	clp-1	athp-2	cdc-14	CELE_R10H10.7	rfc-1	bbs-4	unc-70	hum-1	dhs-3	snfc-5	psf-3	him-1	cye-1	ctf-8	ubc-1	abcf-3	lin-41	arx-3	let-526	CELE_Y43F8C.6	CELE_F33H2.6	kbp-2	polh-1	fask-1	wdr-5.2	kap-1	him-10	bub-1
+GO:0043229	"intracellular organelle"	CELE_ZK1307.8	arl-8	hda-1	C47E12.3	rpom-1	mau-2	vps-28	dap-3	tbg-1	ima-2	egl-27	hpr-9	rpl-27	ebp-2	emr-1	set-1	lig-4	immp-1	mrpl-49	syf-1	div-1	tsen-2	CELE_F13H8.2	che-13	rfs-1	vha-5	rpb-5	copz-1	lys-1	hmg-5	aps-3	apb-3	cec-6	rps-23	ceh-37	prp-6	zhit-1	rde-8	mrps-31	aex-6	zhp-2	bckd-1b	air-1	twf-2	spd-1	spg-20	emb-30	npp-3	asg-1	sin-3	dad-1	unc-96	CELE_ZK1127.3	che-3	csa-1	fis-1	F54A3.5	sptl-2	ufd-1	hop-1	tbh-1	cls-3	glb-26	sel-1	evl-18	fcd-2	CELE_F54C9.11	cpsf-2	ZC434.4	arf-1.2	pdhb-1	CELE_R05D11.9	gld-4	cdc-14	CELE_R10H10.7	aex-1	cpl-1	mig-32	arv-1	vps-36	wrb-1	aco-2	R06F6.8	emre-1	ndx-8	F54C8.7	abcf-3	nfyb-1	cfim-1	hgrs-1	ncap-1	fut-1	him-10	unc-10	lmtr-5	rod-1	prp-18	let-754	CELE_F47G4.5	rmh-1	air-2	gly-20	CELE_Y48E1B.3	ilys-3	hmt-1	dnj-29	snr-1	cyh-1	hsp-3	sorf-2	sma-4	trr-1	atp-5	CELE_F54G2.1	tni-1	exoc-7	ifa-1	Y48A6B.3	atp-1	CELE_K05C4.5	rps-0	vps-51	drsh-1	sel-9	hst-3.1	ada-2	ads-1	rpl-1	dlc-1	wdr-12	CELE_Y62E10A.24	cts-1	apd-3	tmem-258	zwl-1	CELE_Y48E1C.1	CELE_Y75B8A.7	yju-2	hpl-1	smg-6	rme-6	lin-52	fmo-1	ctf-4	act-1	ing-3	rpb-6	lnp-1	hcp-3	gip-1	CELE_Y57G11C.22	adr-1	luc-7l	C54C6.6	piga-1	lmn-1	ruvb-1	nse-4	dbn-1	nol-6	uaf-2	xpb-1	hcp-6	sec-23	art-1	elpc-4	lin-37	klc-1	CELE_R04F11.2	npp-20	lgg-1	timm-23	cku-70	frg-1	CELE_Y48A6C.4	cdk-7	let-49	clp-1	apg-1	rfc-1	golg-2	bro-1	cec-10	him-1	cye-1	pro-2	algn-14	chc-1	ubc-1	epg-8	dnj-21	CELE_F33H2.6	nol-14	mes-2	let-268	mev-1	ben-1	gls-1	ced-3	jmjd-3.1	snt-1	rpn-1	ergi-2	polg-1	C06G3.8	sbt-1	trpp-3	epc-1	let-611	CELE_T01C3.2	morc-1	vha-18	csq-1	itsn-1	mtx-1	pigm-1	ced-1	dli-1	mre-11	sca-1	tfg-1	tceb-3	atn-1	asb-1	phf-5	slx-1	vps-54	scc-2	smgl-1	ani-2	pop-1	isy-1	CELE_M116.5	myo-1	rab-10	vps-33.2	vacl-14	phb-1	pole-2	mag-1	zyx-1	sun-1	tomm-20	dnc-2	dib-1	rla-1	pxl-1	ccdc-47	CELE_F35H10.5	apl-1	ska-1	cus-2	myo-3	CELE_F45H10.2	CELE_F41H10.4	syf-3	pro-1	athp-2	C49H3.4	bbs-4	let-858	ppgn-1	snfc-5	spcs-2	ints-2	ctf-8	mlh-1	lonp-2	pqn-51	arx-3	spt-5	cit-1.2	odr-4	npp-10	sumv-2	cdl-1	maea-1	polh-1	fask-1	sqst-5	ahr-1	athp-1	ire-1	hid-1	F23H11.2	gop-1	CELE_F40F8.11	CELE_F38A1.8	pigt-1	laf-1	klc-2	tin-13	imp-1	swd-2.1	aos-1	lev-11	cdc-42	stip-1	rabr-1	ercc-1	eat-4	brd-1	gtf-2H2C	dpy-26	snn-1	nhx-5	cnt-1	gut-2	gly-12	orc-2	ebp-3	ech-1.1	pcn-1	npp-2	sup-35	leo-1	npp-19	hcf-1	gas-1	trpp-5	hpo-18	trpp-10	npp-22	emb-4	cogc-6	maph-9	anc-1	sec-61.G	gei-13	sam-4	cpf-1	smc-6	swsn-7	vps-2	mei-1	rrf-3	csn-1	CELE_R04F11.5	trul-1	apa-2	lis-1	xpc-1	myo-2	C08F8.2	hmg-3	cox-5b	crn-3	cyk-4	F10C2.4	gna-2	taf-1	cap-1	lin-53	dpy-22	nmy-2	clk-1	gtf-2e2	dpy-28	snr-7	crn-1	unc-61	CELE_R02E12.4	prp-38	drap-1	CELE_Y34B4A.2	rpl-7	CELE_Y47G6A.18	msh-2	gtf-2f2	oxy-5	unc-32	sand-1	CELE_W04C9.2	CELE_F25H2.4	unc-70	hum-1	dhs-3	apc-11	lsm-4	psf-3	thoc-7	tmed-10	rab-6.1	lin-41	let-526	CELE_Y43F8C.6	mig-14	vps-60	kbp-2	bub-3	egl-44	wdr-5.2	kap-1	crt-1	bub-1	asp-1
+GO:0043231	"intracellular membrane-bounded organelle"	CELE_ZK1307.8	arl-8	hda-1	C47E12.3	rpom-1	mau-2	vps-28	dap-3	ima-2	egl-27	hpr-9	rpl-27	emr-1	lig-4	immp-1	mrpl-49	syf-1	div-1	tsen-2	CELE_F13H8.2	rfs-1	vha-5	rpb-5	copz-1	lys-1	hmg-5	aps-3	apb-3	prp-6	zhit-1	mrps-31	aex-6	zhp-2	bckd-1b	spg-20	emb-30	npp-3	asg-1	sin-3	dad-1	CELE_ZK1127.3	csa-1	fis-1	F54A3.5	sptl-2	ufd-1	tbh-1	glb-26	sel-1	evl-18	CELE_F54C9.11	cpsf-2	ZC434.4	arf-1.2	pdhb-1	CELE_R05D11.9	gld-4	CELE_R10H10.7	aex-1	cpl-1	mig-32	arv-1	vps-36	wrb-1	aco-2	R06F6.8	emre-1	ndx-8	F54C8.7	nfyb-1	cfim-1	hgrs-1	ncap-1	fut-1	lmtr-5	prp-18	let-754	gly-20	CELE_Y48E1B.3	ilys-3	hmt-1	dnj-29	snr-1	cyh-1	hsp-3	sorf-2	sma-4	trr-1	atp-5	CELE_F54G2.1	exoc-7	Y48A6B.3	atp-1	CELE_K05C4.5	vps-51	drsh-1	sel-9	hst-3.1	ada-2	ads-1	dlc-1	wdr-12	CELE_Y62E10A.24	cts-1	apd-3	tmem-258	CELE_Y48E1C.1	CELE_Y75B8A.7	yju-2	smg-6	rme-6	lin-52	fmo-1	ctf-4	ing-3	rpb-6	lnp-1	CELE_Y57G11C.22	adr-1	luc-7l	ruvb-1	piga-1	lmn-1	nol-6	uaf-2	xpb-1	sec-23	art-1	elpc-4	lin-37	CELE_R04F11.2	npp-20	lgg-1	timm-23	cku-70	frg-1	CELE_Y48A6C.4	cdk-7	let-49	apg-1	golg-2	bro-1	cec-10	pro-2	algn-14	chc-1	epg-8	dnj-21	nol-14	mes-2	let-268	mev-1	gls-1	ced-3	jmjd-3.1	snt-1	ergi-2	polg-1	C06G3.8	sbt-1	trpp-3	epc-1	let-611	CELE_T01C3.2	morc-1	vha-18	csq-1	itsn-1	mtx-1	pigm-1	ced-1	mre-11	sca-1	tfg-1	tceb-3	asb-1	phf-5	slx-1	vps-54	scc-2	smgl-1	pop-1	isy-1	rab-10	vps-33.2	vacl-14	phb-1	pole-2	mag-1	sun-1	tomm-20	dib-1	rla-1	ccdc-47	CELE_F35H10.5	apl-1	cus-2	CELE_F41H10.4	CELE_F45H10.2	syf-3	pro-1	athp-2	C49H3.4	let-858	ppgn-1	snfc-5	spcs-2	ints-2	mlh-1	lonp-2	pqn-51	spt-5	cit-1.2	odr-4	npp-10	sumv-2	cdl-1	maea-1	sqst-5	ahr-1	athp-1	ire-1	hid-1	F23H11.2	gop-1	CELE_F40F8.11	CELE_F38A1.8	pigt-1	tin-13	imp-1	swd-2.1	aos-1	cdc-42	stip-1	rabr-1	ercc-1	eat-4	brd-1	gtf-2H2C	dpy-26	snn-1	nhx-5	cnt-1	gut-2	gly-12	orc-2	ech-1.1	pcn-1	npp-2	leo-1	npp-19	hcf-1	gas-1	trpp-5	hpo-18	trpp-10	npp-22	emb-4	cogc-6	anc-1	sec-61.G	gei-13	sam-4	cpf-1	swsn-7	vps-2	rrf-3	csn-1	CELE_R04F11.5	apa-2	xpc-1	C08F8.2	hmg-3	cox-5b	crn-3	F10C2.4	gna-2	taf-1	lin-53	dpy-22	clk-1	gtf-2e2	snr-7	crn-1	prp-38	drap-1	CELE_Y34B4A.2	CELE_Y47G6A.18	msh-2	gtf-2f2	oxy-5	unc-32	sand-1	CELE_W04C9.2	CELE_F25H2.4	apc-11	lsm-4	psf-3	thoc-7	tmed-10	rab-6.1	let-526	CELE_Y43F8C.6	mig-14	vps-60	bub-3	egl-44	crt-1	asp-1
+GO:0043232	"intracellular non-membrane-bounded organelle"	rod-1	F23H11.2	ben-1	CELE_F47G4.5	air-2	rmh-1	CELE_Y48E1B.3	mau-2	dap-3	laf-1	klc-2	tbg-1	egl-27	hpr-9	rpn-1	ebp-2	lev-11	set-1	tni-1	ifa-1	Y48A6B.3	mrpl-49	CELE_K05C4.5	div-1	rps-0	CELE_F13H8.2	dpy-26	che-13	rpb-5	rpl-1	hmg-5	dli-1	cec-6	orc-2	CELE_Y62E10A.24	ebp-3	ceh-37	rps-23	wdr-12	zhit-1	zwl-1	atn-1	sup-35	CELE_Y75B8A.7	rde-8	hpl-1	mrps-31	slx-1	zhp-2	ani-2	ctf-4	maph-9	act-1	air-1	twf-2	hcp-3	CELE_M116.5	spd-1	gip-1	smc-6	swsn-7	mei-1	myo-1	C54C6.6	ruvb-1	lmn-1	sin-3	trul-1	unc-96	pole-2	lis-1	zyx-1	che-3	myo-2	nse-4	athp-1	dbn-1	hmg-3	nol-6	hcp-6	hop-1	F10C2.4	cyk-4	dnc-2	cap-1	rla-1	pxl-1	cls-3	nmy-2	dpy-28	klc-1	fcd-2	crn-1	unc-61	ska-1	CELE_R02E12.4	rpl-7	ZC434.4	unc-10	frg-1	myo-3	clp-1	athp-2	cdc-14	CELE_R10H10.7	rfc-1	bbs-4	unc-70	hum-1	dhs-3	snfc-5	psf-3	him-1	cye-1	ctf-8	ubc-1	abcf-3	lin-41	arx-3	let-526	CELE_Y43F8C.6	CELE_F33H2.6	kbp-2	polh-1	fask-1	wdr-5.2	kap-1	him-10	bub-1
+GO:0043233	"organelle lumen"	F23H11.2	let-754	CELE_Y48E1B.3	gls-1	ilys-3	hda-1	jmjd-3.1	dap-3	tin-13	cyh-1	egl-27	hpr-9	swd-2.1	polg-1	trr-1	Y48A6B.3	epc-1	mrpl-49	CELE_K05C4.5	div-1	CELE_T01C3.2	morc-1	CELE_F13H8.2	csq-1	hst-3.1	ada-2	rpb-5	lys-1	hmg-5	orc-2	CELE_Y62E10A.24	wdr-12	ech-1.1	cts-1	zhit-1	tceb-3	leo-1	CELE_Y75B8A.7	hcf-1	mrps-31	slx-1	zhp-2	bckd-1b	ctf-4	ing-3	rpb-6	gei-13	emb-30	ruvb-1	lmn-1	sin-3	pole-2	CELE_ZK1127.3	hmg-3	nol-6	crn-3	F10C2.4	taf-1	rla-1	elpc-4	lin-53	glb-26	gtf-2e2	evl-18	crn-1	lgg-1	ZC434.4	frg-1	pdhb-1	CELE_Y48A6C.4	cdk-7	oxy-5	gtf-2f2	pro-1	let-858	snfc-5	psf-3	lonp-2	pqn-51	dnj-21	spt-5	cit-1.2	sumv-2	maea-1	crt-1	athp-1
+GO:0043235	"receptor complex"	daf-1	daf-2	stg-1	gbb-1	lgc-43	ina-1	ahr-1	nmr-1	CELE_F01D5.6	plx-2	unc-40	trf-1	glr-1	aha-1
+GO:0043240	"Fanconi anaemia nuclear complex"	CELE_F35H10.5
+GO:0043256	"laminin complex"	lmn-1
+GO:0043291	"RAVE complex"	rbc-1
+GO:0043292	"contractile fiber"	tni-1	atn-1	unc-96	frg-1	lev-11	myo-3	myo-2	myo-1	clp-1
+GO:0043296	"apical junction complex"	ajm-1	par-6
+GO:0043527	"tRNA methyltransferase complex"	CELE_W02A11.1	wdr-4
+GO:0043529	"GET complex"	wrb-1
+GO:0043541	"UDP-N-acetylglucosamine transferase complex"	algn-14
+GO:0043564	"Ku70:Ku80 complex"	cku-70
+GO:0043596	"nuclear replication fork"	F10C2.4	div-1	ctf-4	rla-1
+GO:0043601	"nuclear replisome"	div-1	F10C2.4	rla-1
+GO:0043614	"multi-eIF complex"	eif-2alpha
+GO:0043625	"delta DNA polymerase complex"	F10C2.4
+GO:0043626	"PCNA complex"	pcn-1
+GO:0043679	"axon terminus"	dnj-14	apd-3
+GO:0044232	"organelle membrane contact site"	pdzd-8	CELE_W04C9.2	CELE_ZC328.3	vps-15	hpo-28
+GO:0044233	"ER-mitochondrion membrane contact site"	pdzd-8
+GO:0044284	"mitochondrial crista junction"	CELE_W04C9.2
+GO:0044291	"cell-cell contact zone"	C26D10.7
+GO:0044292	"dendrite terminus"	unc-47
+GO:0044295	"axonal growth cone"	C34F6.10
+GO:0044297	"cell body"	seb-3	ire-1	arr-1
+GO:0044298	"cell body membrane"	seb-3
+GO:0044304	"main axon"	seb-3
+GO:0044306	"neuron projection terminus"	dnj-14	apd-3	unc-47
+GO:0044309	"neuron spine"	kin-32
+GO:0044322	"endoplasmic reticulum quality control compartment"	C47E12.3
+GO:0044391	"ribosomal subunit"	rpl-7	dap-3	mrpl-49	rpl-1	rps-0	mrps-31
+GO:0044545	"NSL complex"	sumv-2
+GO:0044611	"nuclear pore inner ring"	npp-3
+GO:0044613	"nuclear pore central transport channel"	npp-19
+GO:0044614	"nuclear pore cytoplasmic filaments"	npp-10
+GO:0044615	"nuclear pore nuclear basket"	npp-19
+GO:0044665	"MLL1/2 complex"	CELE_Y48A6C.4
+GO:0044666	"MLL3/4 complex"	jmjd-3.1
+GO:0044753	"amphisome"	sqst-5
+GO:0044796	"DNA polymerase processivity factor complex"	pcn-1
+GO:0044815	"DNA packaging complex"	hcp-6	hcp-3
+GO:0044853	"plasma membrane raft"	cav-1
+GO:0045025	"mitochondrial degradosome"	C08F8.2
+GO:0045111	"intermediate filament cytoskeleton"	lmn-1	ifa-1
+GO:0045121	"membrane raft"	unc-5	cav-1	lmtr-5
+GO:0045177	"apical part of cell"	frm-7	insc-1	aat-6	nfm-1
+GO:0045178	"basal part of cell"	mig-14	cls-2	cdf-1
+GO:0045179	"apical cortex"	insc-1
+GO:0045180	"basal cortex"	cls-2
+GO:0045202	"synapse"	lin-46	apd-3	ace-1	sphk-1	rsy-1	syx-4	CELE_W03A5.6	acr-17	kin-32	glr-5	dnj-14	egl-21	clic-1	acr-2	eat-4	acr-6	snn-1	CELE_Y57G11C.22	unc-11	unc-10	unc-13	CELE_F41H10.4	shn-1
+GO:0045211	"postsynaptic membrane"	acr-2	lin-46	glr-5
+GO:0045239	"tricarboxylic acid cycle enzyme complex"	fum-1	suca-1	sucl-2	bckd-1b	dlst-1	oxy-5
+GO:0045240	"dihydrolipoyl dehydrogenase complex"	bckd-1b	oxy-5	dlst-1
+GO:0045252	"oxoglutarate dehydrogenase complex"	oxy-5	dlst-1
+GO:0045254	"pyruvate dehydrogenase complex"	pdhb-1	dlat-1
+GO:0045257	"succinate dehydrogenase complex (ubiquinone)"	mev-1
+GO:0045259	"proton-transporting ATP synthase complex"	hpo-18	asb-1	atp-1	CELE_R04F11.2	atp-2	atp-5
+GO:0045261	"proton-transporting ATP synthase complex, catalytic core F(1)"	hpo-18	atp-2	atp-1
+GO:0045263	"proton-transporting ATP synthase complex, coupling factor F(o)"	atp-5	asb-1
+GO:0045265	"proton-transporting ATP synthase, stator stalk"	atp-5
+GO:0045267	"proton-transporting ATP synthase, catalytic core"	atp-1
+GO:0045271	"respiratory chain complex I"	gas-1
+GO:0045273	"respiratory chain complex II"	mev-1
+GO:0045275	"respiratory chain complex III"	CELE_F45H10.2
+GO:0045277	"respiratory chain complex IV"	coa-6	cox-5b
+GO:0045281	"succinate dehydrogenase complex"	mev-1
+GO:0045283	"fumarate reductase complex"	mev-1
+GO:0045293	"mRNA editing complex"	damt-1
+GO:0045334	"clathrin-coated endocytic vesicle"	apa-2	chc-1
+GO:0045335	"phagocytic vesicle"	ced-1	cpl-1
+GO:0046536	"dosage compensation complex"	dpy-26
+GO:0046540	"U4/U6 x U5 tri-snRNP complex"	gut-2
+GO:0046930	"pore complex"	tomm-40
+GO:0048179	"activin receptor complex"	daf-1
+GO:0048188	"Set1C/COMPASS complex"	swd-2.1
+GO:0048471	"perinuclear region of cytoplasm"	ctl-1
+GO:0048475	"coated membrane"	ncap-1	apm-1	apg-1	apa-2	sec-23	apd-3	chc-1	copz-1
+GO:0048476	"Holliday junction resolvase complex"	mus-81
+GO:0048500	"signal recognition particle"	CELE_F21D5.7
+GO:0048786	"presynaptic active zone"	unc-13	rsy-1	syx-4	unc-10
+GO:0048787	"presynaptic active zone membrane"	syx-4
+GO:0048788	"cytoskeleton of presynaptic active zone"	unc-10
+GO:0051233	"spindle midzone"	ebp-2	spd-1
+GO:0055029	"nuclear DNA-directed RNA polymerase complex"	cyh-1	rpb-6	leo-1	gtf-2e2	gls-1	cdk-7	let-611	taf-1	div-1	pqn-51	rpb-5	gtf-2f2
+GO:0055037	"recycling endosome"	vps-51	cnt-1	ilys-3	CELE_F41H10.4	cdc-42
+GO:0055038	"recycling endosome membrane"	cnt-1
+GO:0055087	"Ski complex"	ttc-37
+GO:0055120	"striated muscle dense body"	frg-1
+GO:0060076	"excitatory synapse"	eat-4
+GO:0060091	"kinocilium"	cdc-14
+GO:0060102	"collagen and cuticulin-based cuticle extracellular matrix"	rol-6
+GO:0060170	"ciliary membrane"	che-3
+GO:0060205	"cytoplasmic membrane-bounded vesicle lumen"	lys-1
+GO:0061174	"type I terminal bouton"	dnj-14
+GO:0061177	"type Is terminal bouton"	dnj-14
+GO:0061574	"ASAP complex"	rnp-5
+GO:0061617	"MICOS complex"	F54A3.5
+GO:0061695	"transferase complex, transferring phosphorus-containing groups"	daf-1	rrf-3	vacl-14	CELE_Y50D7A.3	gls-1	cdka-1	pole-2	rpom-1	CELE_Y38H8A.4	cyh-1	leo-1	daf-2	cye-1	vps-15	F10C2.4	CELE_F39B2.5	polg-1	taf-1	pqn-51	CELE_Y6B3B.9	cya-1	epg-8	CELE_R151.2	gtf-2e2	cit-1.2	rev-3	let-611	div-1	gtf-2f2	atg-13	rpb-6	gld-2	rpb-4	pfk-1.1	bec-1	rpb-5	cdk-7	ama-1
+GO:0061702	"inflammasome complex"	laf-1
+GO:0070013	"intracellular organelle lumen"	F23H11.2	let-754	CELE_Y48E1B.3	gls-1	ilys-3	hda-1	jmjd-3.1	dap-3	tin-13	cyh-1	egl-27	hpr-9	swd-2.1	polg-1	trr-1	Y48A6B.3	epc-1	mrpl-49	CELE_K05C4.5	div-1	CELE_T01C3.2	morc-1	CELE_F13H8.2	csq-1	hst-3.1	ada-2	rpb-5	lys-1	hmg-5	orc-2	CELE_Y62E10A.24	wdr-12	ech-1.1	cts-1	zhit-1	tceb-3	leo-1	CELE_Y75B8A.7	hcf-1	mrps-31	slx-1	zhp-2	bckd-1b	ctf-4	ing-3	rpb-6	gei-13	emb-30	ruvb-1	lmn-1	sin-3	pole-2	CELE_ZK1127.3	hmg-3	nol-6	crn-3	F10C2.4	taf-1	rla-1	elpc-4	lin-53	glb-26	gtf-2e2	evl-18	crn-1	lgg-1	ZC434.4	frg-1	pdhb-1	CELE_Y48A6C.4	cdk-7	oxy-5	gtf-2f2	pro-1	let-858	snfc-5	psf-3	lonp-2	pqn-51	dnj-21	spt-5	cit-1.2	sumv-2	maea-1	crt-1	athp-1
+GO:0070069	"cytochrome complex"	coa-6	CELE_F45H10.2	cox-5b
+GO:0070160	"occluding junction"	par-6
+GO:0070161	"anchoring junction"	C26D10.7	mua-3	lin-7	deb-1	par-6	che-7	syg-2	unc-112	ajm-1
+GO:0070176	"DRM complex"	lin-52
+GO:0070209	"ASTRA complex"	CELE_R10H10.7
+GO:0070319	"Golgi to plasma membrane transport vesicle"	CELE_F54C9.11
+GO:0070382	"exocytic vesicle"	CELE_F54C9.11	eat-4	aex-1	snn-1
+GO:0070390	"transcription export complex 2"	CELE_T01C3.2
+GO:0070419	"nonhomologous end joining complex"	lig-4
+GO:0070449	"elongin complex"	tceb-3
+GO:0070461	"SAGA-type complex"	ada-2	CELE_T01C3.2
+GO:0070469	"respiratory chain"	ctb-1	gas-1	cox-5b	mev-1	coa-6	CELE_F45H10.2
+GO:0070522	"ERCC4-ERCC1 complex"	ercc-1
+GO:0070531	"BRCA1-A complex"	brd-1
+GO:0070545	"PeBoW complex"	wdr-12
+GO:0070578	"RISC-loading complex"	rde-4
+GO:0070603	"SWI/SNF superfamily-type complex"	ruvb-1	athp-2	let-526	egl-27	snfc-5	CELE_Y43F8C.6	swsn-7	zhit-1
+GO:0070761	"pre-snoRNP complex"	zhit-3
+GO:0070762	"nuclear pore transmembrane ring"	npp-22
+GO:0070765	"gamma-secretase complex"	aph-1
+GO:0070772	"PAS complex"	vacl-14
+GO:0070822	"Sin3-type complex"	sin-3	athp-1
+GO:0070847	"core mediator complex"	let-49
+GO:0070860	"RNA polymerase I core factor complex"	F23H11.2
+GO:0070876	"SOSS complex"	C06G3.8
+GO:0070877	"microprocessor complex"	drsh-1
+GO:0070938	"contractile ring"	ani-2
+GO:0070939	"Dsl1p complex"	smgl-1
+GO:0070971	"endoplasmic reticulum exit site"	tfg-1
+GO:0070985	"TFIIK complex"	cyh-1
+GO:0070993	"translation preinitiation complex"	egl-45
+GO:0071005	"U2-type precatalytic spliceosome"	lsm-4
+GO:0071006	"U2-type catalytic step 1 spliceosome"	yju-2
+GO:0071007	"U2-type catalytic step 2 spliceosome"	syf-3
+GO:0071008	"U2-type post-mRNA release spliceosomal complex"	stip-1
+GO:0071011	"precatalytic spliceosome"	prp-38	lsm-4
+GO:0071012	"catalytic step 1 spliceosome"	yju-2
+GO:0071013	"catalytic step 2 spliceosome"	prp-6	syf-3
+GO:0071014	"post-mRNA release spliceosomal complex"	syf-1	stip-1
+GO:0071020	"post-spliceosomal complex"	prp-18	isy-1
+GO:0071021	"U2-type post-spliceosomal complex"	prp-18
+GO:0071141	"SMAD protein complex"	sma-4
+GO:0071144	"SMAD2-SMAD3 protein complex"	sma-4
+GO:0071203	"WASH complex"	ddl-1
+GO:0071204	"histone pre-mRNA 3'end processing complex"	cdl-1
+GO:0071254	"cytoplasmic U snRNP body"	CELE_K07A1.15
+GO:0071256	"translocon complex"	sec-61.G
+GO:0071261	"Ssh1 translocon complex"	sec-61.G
+GO:0071339	"MLL1 complex"	CELE_Y48A6C.4
+GO:0071439	"clathrin complex"	chc-1
+GO:0071513	"phosphopantothenoylcysteine decarboxylase complex"	CELE_F25H9.6
+GO:0071540	"eukaryotic translation initiation factor 3 complex, eIF3e"	eif-3.E
+GO:0071541	"eukaryotic translation initiation factor 3 complex, eIF3m"	cif-1
+GO:0071561	"nucleus-vacuole junction"	vps-15
+GO:0071564	"npBAF complex"	snfc-5
+GO:0071565	"nBAF complex"	snfc-5
+GO:0071595	"Nem1-Spo7 phosphatase complex"	nepr-1
+GO:0071683	"sensory dendrite"	CELE_Y97E10AL.1
+GO:0071782	"endoplasmic reticulum tubular network"	arv-1	lnp-1
+GO:0071797	"LUBAC complex"	CELE_Y57A10A.31
+GO:0071818	"BAT3 complex"	cee-1
+GO:0071819	"DUBm complex"	CELE_T01C3.2
+GO:0071821	"FANCM-MHF complex"	CELE_Y48E1C.1
+GO:0071942	"XPC complex"	xpc-1
+GO:0071944	"cell periphery"	daf-1	lin-46	zig-8	egl-36	nrfl-1	apa-2	unc-70	sec-8	gpn-1	cdf-1	rol-6	cle-1	arv-1	duox-2	che-3	aat-6	frm-7	T27F6.6	dbn-1	insc-1	sphk-1	daf-2	gbb-1	aat-1	dgn-2	ina-1	aph-1	nmr-1	chc-1	dgn-1	syx-4	CELE_T02G5.3	sgn-1	glr-1	vha-17	hot-4	cls-2	clec-204	stg-1	aps-1	lin-7	sec-5	glr-5	ani-2	gpa-11	nkb-1	hmp-2	let-502	CELE_F01D5.6	cca-1	cav-1	unc-61	acr-2	clic-1	acr-6	dyb-1	unc-10	CELE_R151.1	mig-14	mlt-8	shw-3	seb-3	rpi-2	dlg-1	emb-9	lmn-1	abch-1	unc-13	trf-1	unc-11	bub-1	zmp-1	CELE_Y71G12B.25
+GO:0071986	"Ragulator complex"	lmtr-5
+GO:0072379	"ER membrane insertion complex"	sgt-1	cee-1
+GO:0072380	"TRC complex"	sgt-1
+GO:0072546	"ER membrane protein complex"	CELE_F25H2.4
+GO:0072588	"box H/ACA RNP complex"	Y48A6B.3
+GO:0072669	"tRNA-splicing ligase complex"	rtcb-1
+GO:0072686	"mitotic spindle"	cyk-4	sup-35	cls-3	spd-1
+GO:0080008	"Cul4-RING E3 ubiquitin ligase complex"	CELE_M18.6	CELE_F15E6.9
+GO:0089701	"U2AF"	uaf-2
+GO:0090443	"FAR/SIN/STRIPAK complex"	ccm-3
+GO:0090533	"cation-transporting ATPase complex"	nkb-1
+GO:0090545	"CHD-type complex"	egl-27
+GO:0090571	"RNA polymerase II transcription repressor complex"	lin-52	drap-1
+GO:0090575	"RNA polymerase II transcription factor complex"	gtf-2H2C	cyh-1	nfyb-1	gtf-2e2	cdk-7	let-49	egl-44	sma-4	taf-1	gtf-2f2	bro-1	pqn-51	pop-1	cec-10
+GO:0090576	"RNA polymerase III transcription factor complex"	tftc-3	B0261.1
+GO:0090665	"glycoprotein complex"	sgn-1	dyb-1	dgn-2	dgn-1
+GO:0097014	"ciliary plasm"	wdr-60	C54C6.6	kap-1
+GO:0097025	"MPP7-DLG1-LIN7 complex"	lin-7
+GO:0097060	"synaptic membrane"	acr-6	lin-46	sphk-1	glr-5	unc-11	syx-4	acr-2
+GO:0097124	"cyclin A2-CDK2 complex"	cya-1
+GO:0097134	"cyclin E1-CDK2 complex"	cye-1
+GO:0097149	"centralspindlin complex"	cyk-4
+GO:0097196	"Shu complex"	sws-1
+GO:0097255	"R2TP complex"	CELE_F32D8.4
+GO:0097268	"cytoophidium"	ctps-1
+GO:0097344	"Rix1 complex"	pro-1
+GO:0097346	"INO80-type complex"	zhit-1	ruvb-1
+GO:0097361	"CIA complex"	mms-19
+GO:0097431	"mitotic spindle pole"	sup-35
+GO:0097447	"dendritic tree"	kin-32	CELE_Y97E10AL.1	spe-4	arr-1	shw-3	osm-3	unc-47
+GO:0097517	"contractile actin filament bundle"	zyx-1
+GO:0097525	"spliceosomal snRNP complex"	luc-7l	snr-1	phf-5	CELE_F40F8.11	gut-2	dib-1
+GO:0097526	"spliceosomal tri-snRNP complex"	CELE_F40F8.11	gut-2
+GO:0097542	"ciliary tip"	CELE_F59G1.4
+GO:0097543	"ciliary inversin compartment"	CELE_T28D6.4
+GO:0097546	"ciliary base"	osm-5
+GO:0097550	"transcriptional preinitiation complex"	xpb-1
+GO:0097629	"extrinsic component of omegasome membrane"	epg-8
+GO:0097632	"extrinsic component of pre-autophagosomal structure membrane"	epg-8
+GO:0097648	"G-protein coupled receptor complex"	gbb-1
+GO:0097708	"intracellular vesicle"	vps-33.2	ced-1	lys-1	aps-3	gop-1	apg-1	apb-3	aex-1	ilys-3	cpl-1	apa-2	apd-3	vps-36	vps-28	tmed-10	snt-1	imp-1	sec-23	sorf-2	chc-1	tbh-1	cdc-42	CELE_F54G2.1	vps-54	sbt-1	rab-6.1	rme-6	rabr-1	aex-6	trpp-10	apl-1	hgrs-1	CELE_F54C9.11	npp-20	odr-4	eat-4	ncap-1	vps-51	snn-1	nhx-5	sel-9	cnt-1	itsn-1	mig-14	vps-60	vha-5	CELE_Y57G11C.22	lmtr-5	vps-2	CELE_F41H10.4	copz-1	sand-1	rab-10
+GO:0098533	"ATPase dependent transmembrane transport complex"	nkb-1	abch-1
+GO:0098552	"side of membrane"	CELE_R151.1	clec-204	rpl-27	mlt-8	gpa-11	sam-4	frm-7
+GO:0098554	"cytoplasmic side of endoplasmic reticulum membrane"	rpl-27
+GO:0098556	"cytoplasmic side of rough endoplasmic reticulum membrane"	rpl-27
+GO:0098562	"cytoplasmic side of membrane"	CELE_R151.1	rpl-27	mlt-8	gpa-11	sam-4	frm-7
+GO:0098573	"intrinsic component of mitochondrial membrane"	F54A3.5	ppgn-1
+GO:0098574	"cytoplasmic side of lysosomal membrane"	sam-4
+GO:0098588	"bounding membrane of organelle"	ced-1	vacl-14	gop-1	apg-1	arl-8	apb-3	apa-2	hmt-1	CELE_F38A1.8	dnj-29	che-3	fis-1	vps-28	vps-36	sca-1	rpl-27	copz-1	imp-1	sec-23	sorf-2	chc-1	ergi-2	tomm-20	tbh-1	ndx-8	ccdc-47	trpp-3	epg-8	npp-20	odr-4	eat-4	lgg-1	vha-18	ncap-1	arf-1.2	anc-1	nhx-5	sel-9	cnt-1	mig-14	sec-61.G	spg-20	sam-4	vha-5	lmtr-5	vps-2	CELE_F41H10.4	mtx-1	unc-32
+GO:0098590	"plasma membrane region"	lin-46	zig-8	nrfl-1	apa-2	cdf-1	che-3	aat-6	sphk-1	chc-1	syx-4	aps-1	glr-5	frm-7	let-502	cav-1	acr-2	acr-6	mig-14	shw-3	seb-3	rpi-2	unc-11	CELE_Y71G12B.25
+GO:0098592	"cytoplasmic side of apical plasma membrane"	frm-7
+GO:0098636	"protein complex involved in cell adhesion"	ina-1
+GO:0098642	"network-forming collagen trimer"	cle-1
+GO:0098644	"complex of collagen trimers"	cle-1
+GO:0098645	"collagen network"	cle-1
+GO:0098651	"basement membrane collagen trimer"	cle-1
+GO:0098687	"chromosomal region"	dpy-28	cec-6	kbp-2	ceh-37	him-10	ska-1	bub-1	zwl-1
+GO:0098791	"Golgi subcompartment"	hid-1	CELE_Y47G6A.18	F54C8.7	gly-20	fut-1	golg-2	gly-12	CELE_R05D11.9
+GO:0098793	"presynapse"	snn-1	sphk-1	rsy-1	dnj-14	egl-21	unc-11	apd-3	syx-4	unc-10	unc-13	eat-4
+GO:0098794	"postsynapse"	kin-32	lin-46	glr-5	CELE_Y57G11C.22	clic-1	CELE_W03A5.6	acr-2	acr-17	CELE_F41H10.4	shn-1
+GO:0098796	"membrane protein complex"	CELE_F38A1.8	dnj-29	pigt-1	vps-28	dgn-2	CELE_T02G5.3	atp-5	vps-16	atp-1	immp-1	nkb-1	coa-6	vha-18	spe-5	nepr-1	vha-1	copz-1	mtx-1	apd-3	tmem-258	duox-2	gbb-1	aat-1	asb-1	vps-15	nmr-1	dgn-1	vha-17	gas-1	hpo-18	gpa-11	hmp-2	exc-4	sec-61.G	abch-1	vps-2	daf-1	piga-1	vacl-14	CELE_R04F11.5	egl-36	phb-1	dad-1	apa-2	che-6	sun-1	F54A3.5	sptl-2	cox-5b	daf-2	ina-1	ufd-1	sec-23	tomm-20	sgn-1	glr-1	sel-1	lin-7	CELE_R04F11.2	unc-80	timm-23	CELE_F45H10.2	unc-32	apm-1	vha-8	apg-1	CELE_F25H2.4	tomm-40	ppgn-1	vha-14	vps-36	vps-35	spcs-2	CELE_F39B2.5	algn-14	chc-1	aph-1	emre-1	tom-1	epg-8	dnj-21	stg-1	nduo-3	atp-2	CELE_F01D5.6	cca-1	dyb-1	ncap-1	scp-1	mev-1	bec-1	lmtr-5	trf-1	ire-1
+GO:0098797	"plasma membrane protein complex"	daf-1	egl-36	apa-2	duox-2	daf-2	gbb-1	aat-1	dgn-2	ina-1	aph-1	nmr-1	chc-1	dgn-1	CELE_T02G5.3	sgn-1	glr-1	vha-17	stg-1	lin-7	nkb-1	gpa-11	hmp-2	CELE_F01D5.6	cca-1	dyb-1	abch-1	trf-1
+GO:0098798	"mitochondrial protein complex"	CELE_R04F11.5	phb-1	ech-1.1	ppgn-1	rpom-1	C08F8.2	F54A3.5	cox-5b	tin-13	asb-1	polg-1	tomm-20	emre-1	atp-5	mrps-31	gas-1	dnj-21	hpo-18	atp-1	immp-1	bckd-1b	CELE_R04F11.2	mrpl-49	timm-23	mev-1	pdhb-1	oxy-5	CELE_F45H10.2	mtx-1
+GO:0098799	"outer mitochondrial membrane protein complex"	mtx-1	tomm-20
+GO:0098800	"inner mitochondrial membrane protein complex"	timm-23	F54A3.5	gas-1	dnj-21	cox-5b	CELE_R04F11.5	hpo-18	asb-1	phb-1	atp-1	mev-1	immp-1	CELE_R04F11.2	ppgn-1	emre-1	atp-5	CELE_F45H10.2
+GO:0098802	"plasma membrane receptor complex"	daf-1	daf-2	stg-1	gbb-1	ina-1	nmr-1	CELE_F01D5.6	trf-1	glr-1
+GO:0098803	"respiratory chain complex"	gas-1	cox-5b	mev-1	coa-6	CELE_F45H10.2
+GO:0098826	"endoplasmic reticulum tubular network membrane"	lnp-1
+GO:0098827	"endoplasmic reticulum subcompartment"	piga-1	CELE_F25H2.4	dad-1	CELE_F38A1.8	tmem-258	arv-1	dnj-29	pigt-1	sca-1	sptl-2	spcs-2	rpl-27	ufd-1	algn-14	art-1	ccdc-47	sel-1	lnp-1	sec-61.G	ire-1
+GO:0098830	"presynaptic endosome"	apd-3
+GO:0098831	"presynaptic active zone cytoplasmic component"	unc-13	unc-10
+GO:0098833	"presynaptic endocytic zone"	unc-11
+GO:0098835	"presynaptic endocytic zone membrane"	unc-11
+GO:0098837	"postsynaptic recycling endosome"	CELE_F41H10.4
+GO:0098839	"postsynaptic density membrane"	glr-5
+GO:0098842	"postsynaptic early endosome"	CELE_F41H10.4	CELE_Y57G11C.22
+GO:0098843	"postsynaptic endocytic zone"	clic-1
+GO:0098845	"postsynaptic endosome"	CELE_F41H10.4	CELE_Y57G11C.22
+GO:0098852	"lytic vacuole membrane"	sam-4	gop-1	arl-8
+GO:0098857	"membrane microdomain"	unc-5	cav-1	lmtr-5
+GO:0098858	"actin-based cell projection"	hum-4	erm-1	nrfl-1	hum-6	F54F2.7
+GO:0098862	"cluster of actin-based cell projections"	cdc-14	CELE_Y71G12B.25
+GO:0099501	"exocytic vesicle membrane"	eat-4
+GO:0099503	"secretory vesicle"	sbt-1	snn-1	aex-1	snt-1	CELE_F54C9.11	tbh-1	eat-4	CELE_F54G2.1	rab-10
+GO:0099512	"supramolecular fiber"	rod-1	C54C6.6	lmn-1	ben-1	ebp-3	unc-96	myo-2	atn-1	lev-11	tni-1	ifa-1	CELE_F33H2.6	maph-9	twf-2	CELE_M116.5	frg-1	wdr-5.2	myo-3	myo-1	clp-1
+GO:0099513	"polymeric cytoskeletal fiber"	rod-1	C54C6.6	lmn-1	ben-1	ifa-1	twf-2	CELE_M116.5	ebp-3	wdr-5.2	CELE_F33H2.6	maph-9
+GO:0099568	"cytoplasmic region"	C54C6.6	wdr-60	cls-2	insc-1	clic-1	kap-1	unc-10	unc-13	osm-3	apd-3
+GO:0099569	"presynaptic cytoskeleton"	unc-10
+GO:0099572	"postsynaptic specialization"	glr-5	CELE_W03A5.6	lin-46	shn-1
+GO:0099631	"postsynaptic endocytic zone, cytoplasmic component"	clic-1
+GO:0099634	"postsynaptic specialization membrane"	lin-46	glr-5
+GO:0099738	"cell cortex region"	cls-2	insc-1	clic-1	unc-10	unc-13
+GO:1902493	"acetyltransferase complex"	natb-1	natc-2	ing-3	epc-1	daf-31	ada-2	trr-1	CELE_ZK1127.3	CELE_T01C3.2	sumv-2
+GO:1902494	"catalytic complex"	gls-1	hda-1	cdka-1	rpom-1	jmjd-3.1	pigt-1	CELE_Y38H8A.4	pbs-3	cyh-1	egl-27	rpn-1	swd-2.1	polg-1	trr-1	aos-1	natb-1	Y48A6B.3	epc-1	let-611	div-1	CELE_T01C3.2	tsen-2	brd-1	atg-13	drsh-1	popl-4	ada-2	CELE_F15E6.9	rpb-5	elb-1	nepr-1	fars-3	pigm-1	dli-1	CELE_Y50D7A.3	CELE_Y62E10A.24	prp-6	dpm-3	CELE_T01G1.4	zhit-1	tmem-258	duox-2	wdr-4	leo-1	rbx-1	yju-2	suca-1	vps-15	damt-1	hcf-1	pas-1	CELE_Y6B3B.9	cya-1	CELE_F25H9.6	gas-1	ipla-1	lgg-3	CELE_H18N23.2	dlat-1	rev-3	gpa-11	bckd-1b	dss-1	rpt-4	ing-3	cul-5	rpb-6	rpb-4	crn-5	mtq-2	swsn-7	enol-1	CELE_F46C5.6	rpn-7	ruvb-1	rrf-3	piga-1	daf-1	vacl-14	sin-3	CELE_Y57A10A.31	dad-1	pole-2	let-92	pigv-1	CELE_ZK1127.3	che-3	nse-4	C08F8.2	natc-2	sptl-2	crn-3	daf-2	daf-31	cul-3	F10C2.4	taf-1	CELE_E01A2.1	lin-53	CELE_R151.2	gtf-2e2	sel-1	CELE_M18.6	mus-81	dlst-1	CELE_W02A11.1	tps-2	gld-2	pfk-1.1	dis-3	pdhb-1	CELE_Y48A6C.4	cdk-7	gtf-2f2	oxy-5	CELE_F45H10.2	pdr-1	syf-3	gmpr-1	athp-2	sucl-2	mig-32	coq-1	vhl-1	ppfr-2	ppgn-1	apc-11	snfc-5	icln-1	spcs-2	cye-1	rde-4	CELE_F39B2.5	ubc-1	ggtb-1	pqn-51	T26C12.1	epg-8	gcsh-1	let-526	cit-1.2	nduo-3	CELE_Y43F8C.6	rnr-1	gpdh-1	skr-2	fntb-1	sumv-2	fnta-1	mev-1	bec-1	CELE_Y57G11C.33	athp-1	psme-3	tax-6	ama-1
+GO:1902495	"transmembrane transporter complex"	gas-1	exc-4	stg-1	abch-1	egl-36	nkb-1	nmr-1	CELE_F01D5.6	cca-1	che-6	emre-1	glr-1	CELE_F45H10.2	unc-80
+GO:1902554	"serine/threonine protein kinase complex"	daf-1	atg-13	cyh-1	CELE_Y50D7A.3	cit-1.2	cdka-1	cye-1	cdk-7	cya-1
+GO:1902555	"endoribonuclease complex"	drsh-1	popl-4	CELE_Y62E10A.24	rde-4	CELE_Y6B3B.9	tsen-2
+GO:1902560	"GMP reductase complex"	gmpr-1
+GO:1902562	"H4 histone acetyltransferase complex"	ing-3	CELE_ZK1127.3	epc-1	sumv-2
+GO:1902636	"kinociliary basal body"	cdc-14
+GO:1902710	"GABA receptor complex"	lgc-43
+GO:1902711	"GABA-A receptor complex"	lgc-43
+GO:1902773	"GTPase activator complex"	R06F6.8	eif-2Bgamma	lmtr-5
+GO:1902911	"protein kinase complex"	daf-1	atg-13	CELE_Y38H8A.4	cyh-1	CELE_Y50D7A.3	daf-2	cit-1.2	cye-1	cdka-1	cdk-7	CELE_Y6B3B.9	cya-1
+GO:1903095	"ribonuclease III complex"	drsh-1
+GO:1903293	"phosphatase complex"	ipla-1	CELE_H18N23.2	let-92	ppfr-2	nepr-1	CELE_F46C5.6	tax-6
+GO:1903349	"omegasome membrane"	epg-8
+GO:1904115	"axon cytoplasm"	apd-3
+GO:1904423	"dehydrodolichyl diphosphate synthase complex"	CELE_T01G1.4
+GO:1904949	"ATPase complex"	ruvb-1	athp-2	let-526	egl-27	snfc-5	CELE_Y43F8C.6	swsn-7	zhit-1
+GO:1990023	"mitotic spindle midzone"	spd-1
+GO:1990070	"TRAPPI protein complex"	trpp-5
+GO:1990071	"TRAPPII protein complex"	trpp-10
+GO:1990072	"TRAPPIII protein complex"	trpp-5
+GO:1990075	"periciliary membrane compartment"	rpi-2
+GO:1990112	"RQC complex"	Y54E10A.11
+GO:1990124	"messenger ribonucleoprotein complex"	fog-1
+GO:1990130	"Iml1 complex"	nprl-3
+GO:1990131	"Gtr1-Gtr2 GTPase complex"	raga-1
+GO:1990184	"amino acid transport complex"	aat-1
+GO:1990204	"oxidoreductase complex"	gmpr-1	gas-1	gcsh-1	dlat-1	mev-1	bckd-1b	nduo-3	dlst-1	pdhb-1	gpdh-1	rnr-1	oxy-5	CELE_F45H10.2	duox-2
+GO:1990221	"L-cysteine desulfurase complex"	CELE_F53G2.12
+GO:1990234	"transferase complex"	gls-1	cdka-1	rpom-1	jmjd-3.1	CELE_Y38H8A.4	cyh-1	swd-2.1	polg-1	trr-1	natb-1	epc-1	let-611	div-1	CELE_T01C3.2	brd-1	atg-13	ada-2	CELE_F15E6.9	rpb-5	elb-1	pigm-1	CELE_Y50D7A.3	dpm-3	CELE_T01G1.4	tmem-258	wdr-4	leo-1	rbx-1	vps-15	damt-1	hcf-1	CELE_Y6B3B.9	cya-1	lgg-3	rev-3	ing-3	cul-5	rpb-6	rpb-4	mtq-2	daf-1	rrf-3	piga-1	vacl-14	CELE_Y57A10A.31	dad-1	pole-2	pigv-1	CELE_ZK1127.3	nse-4	natc-2	sptl-2	daf-2	daf-31	cul-3	F10C2.4	taf-1	lin-53	CELE_R151.2	gtf-2e2	sel-1	CELE_M18.6	dlst-1	CELE_W02A11.1	tps-2	gld-2	pfk-1.1	CELE_Y48A6C.4	gtf-2f2	cdk-7	oxy-5	pdr-1	coq-1	mig-32	vhl-1	apc-11	icln-1	cye-1	CELE_F39B2.5	ubc-1	ggtb-1	pqn-51	T26C12.1	epg-8	cit-1.2	skr-2	sumv-2	fntb-1	fnta-1	bec-1	CELE_Y57G11C.33	ama-1
+GO:1990246	"uniplex complex"	emre-1
+GO:1990298	"bub1-bub3 complex"	bub-3
+GO:1990316	"ATG1/ULK1 kinase complex"	atg-13
+GO:1990351	"transporter complex"	prx-12	gas-1	exc-4	tin-13	stg-1	abch-1	egl-36	nkb-1	nmr-1	CELE_F01D5.6	cca-1	che-6	emre-1	glr-1	CELE_F45H10.2	unc-80
+GO:1990391	"DNA repair complex"	lig-4	msh-2	mlh-1	ercc-1	xpb-1	sws-1	xpc-1	csa-1
+GO:1990415	"Pex17p-Pex14p docking complex"	prx-12
+GO:1990423	"RZZ complex"	zwl-1
+GO:1990429	"peroxisomal importomer complex"	prx-12
+GO:1990462	"omegasome"	epg-8
+GO:1990529	"glycosylphosphatidylinositol-mannosyltransferase I complex"	pigm-1
+GO:1990604	"IRE1-TRAF2-ASK1 complex"	ire-1
+GO:1990726	"Lsm1-7-Pat1 complex"	lsm-3
+GO:1990745	"EARP complex"	vps-51
+GO:1990752	"microtubule end"	ebp-3
+GO:1990904	"ribonucleoprotein complex"	prp-18	luc-7l	CELE_F40F8.11	C49H3.4	egl-45	wdr-12	CELE_Y62E10A.24	rps-23	prp-6	zhit-3	msi-1	lsm-4	eif-2alpha	snr-1	dap-3	CELE_Y75B8A.7	yju-2	smg-6	pro-2	rpl-1	phf-5	dib-1	mrps-31	stip-1	C16C10.2	Y48A6B.3	lpd-7	snr-7	CELE_K07A1.15	mrpl-49	emb-4	CELE_K05C4.5	syf-1	rps-0	prp-38	cdl-1	nol-14	rpl-7	CELE_F13H8.2	cus-2	alg-1	ZC434.4	isy-1	popl-4	gut-2	fog-1	CELE_F21D5.7	rrp-1	syf-3
+GO:1990907	"beta-catenin-TCF complex"	pop-1
+GO:1990923	"PET complex"	egal-1

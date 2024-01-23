@@ -1,0 +1,1080 @@
+# Gene set GMT file for mulea Bioconductor R package
+# taxon_name: Drosophila melanogaster
+# taxonomy_ID: 7227
+# ID_type: GeneSymbol
+# source_url: http://geneontology.org/ 
+# source_PMID: 30395331
+# source_primary_ID: GeneSymbol 
+# source_version: 
+# source_last_update: 2023
+# gmt_download_date: 09-05-2023
+# gmt_version:2
+# gmt_entry_names:gene ontology
+# Gene Ontology Term Description Genes
+
+
+
+
+
+GO:0000015	"phosphopyruvate hydratase complex"	Eno
+GO:0000109	"nucleotide-excision repair complex"	Ercc1	hay	Xpc	Xpac
+GO:0000110	"nucleotide-excision repair factor 1 complex"	Xpac
+GO:0000111	"nucleotide-excision repair factor 2 complex"	Xpc
+GO:0000112	"nucleotide-excision repair factor 3 complex"	hay
+GO:0000118	"histone deacetylase complex"	rept	PF1	Dmel\CG44774	Chd3	HDAC4
+GO:0000120	"RNA polymerase I transcription factor complex"	TAF1B
+GO:0000123	"histone acetyltransferase complex"	Atac2	Saf6	DMAP1	Ada2b	MrgBP	Rcd5	Dmel\CG12316	Ada1-1	Br140	Dmel\CG10931
+GO:0000124	"SAGA complex"	Ada2b
+GO:0000126	"transcription factor TFIIIB complex"	Tbp
+GO:0000127	"transcription factor TFIIIC complex"	CG7099
+GO:0000137	"Golgi cis cisterna"	GM130
+GO:0000138	"Golgi trans cisterna"	Gos28
+GO:0000139	"Golgi membrane"	Dmel\CG13893
+GO:0000145	"exocyst"	Exo70
+GO:0000151	"ubiquitin ligase complex"	dgrn	Fbw5	EloB	Cul3	ohgt	Cul5	APC10	Dmel\CG4911	Dmel\CG8237	CG30493	corto	Der-2	LUBEL	Dmel\CG3473	Bre1	CG12084
+GO:0000152	"nuclear ubiquitin ligase complex"	APC10	dgrn	corto
+GO:0000153	"cytoplasmic ubiquitin ligase complex"	Der-2	EloB	Dmel\CG8237
+GO:0000159	"protein phosphatase type 2A complex"	Dmel\CG11597
+GO:0000164	"protein phosphatase type 1 complex"	Gbs-76A
+GO:0000172	"ribonuclease MRP complex"	Pop1
+GO:0000176	"nuclear exosome (RNase complex)"	Csl4
+GO:0000177	"cytoplasmic exosome (RNase complex)"	Ski6	Suv3
+GO:0000178	"exosome (RNase complex)"	Ski6	Csl4	Suv3
+GO:0000214	"tRNA-intron endonuclease complex"	Tsen34
+GO:0000220	"vacuolar proton-transporting V-type ATPase, V0 domain"	Vha100-1
+GO:0000221	"vacuolar proton-transporting V-type ATPase, V1 domain"	Vha14-1
+GO:0000228	"nuclear chromosome"	Orc2	tim	rept	mdcds_12730	Mat89Ba	PF1	Dmel\CG44774	NSD	RpLP1	Hus1-like	PolD1	PolA2	Psf1	narya	CG14803	Chrac-14	mus312
+GO:0000235	"astral microtubule"	Klp67A
+GO:0000242	"pericentriolar material"	BBS4
+GO:0000243	"commitment complex"	U2af50
+GO:0000274	"mitochondrial proton-transporting ATP synthase, stator stalk"	ATPsynB
+GO:0000275	"mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)"	ATPsynepsilonL	ATPsyndelta	ATPsynbeta
+GO:0000276	"mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)"	ATPsynB
+GO:0000307	"cyclin-dependent protein kinase holoenzyme complex"	CycE	Cdk9	Cdk2	CycA	CycT
+GO:0000313	"organellar ribosome"	bonsai	mRpL1	Dmel\CG12848
+GO:0000314	"organellar small ribosomal subunit"	bonsai
+GO:0000315	"organellar large ribosomal subunit"	mRpL1
+GO:0000323	"lytic vacuole"	Dmel\CG13442	BORCS5	Uvrag	CG1161	ema	Naglu
+GO:0000346	"transcription export complex"	Hel25E	thoc7
+GO:0000347	"THO complex"	thoc7	tho2
+GO:0000407	"pre-autophagosomal structure"	Atg2	Atg14	Atg12
+GO:0000408	"EKC/KEOPS complex"	Tcs3
+GO:0000417	"HIR complex"	Hira
+GO:0000421	"autophagosome membrane"	Atg8a
+GO:0000428	"DNA-directed RNA polymerase complex"	TfIIFalpha	Gas41	Cdk7	Atu	TfIIA-L	TfIIEalpha	PolrMT	PolA2	Polr1C	Polr2M	Polr2A
+GO:0000439	"core TFIIH complex"	Ssl1
+GO:0000445	"THO complex part of transcription export complex"	thoc7
+GO:0000502	"proteasome complex"	Rpn11	Prosalpha1	CG8858	REG	Prosbeta1	Rpn1	Rpt4R
+GO:0000506	"glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex"	PIG-A
+GO:0000775	"chromosome, centromeric region"	MED17	Zw10	Cap-D3	Noa36	Ndc80	Kmn1
+GO:0000776	"kinetochore"	Kmn1	Ndc80	Zw10
+GO:0000779	"condensed chromosome, centromeric region"	Cap-D3	Kmn1	Ndc80	Zw10
+GO:0000781	"chromosome, telomeric region"	RpLP1
+GO:0000785	"chromatin"	Acf	Chd3	Chrac-14	Snr1	MED17	CG10336	mdcds_12730	PF1	CG9899	CG7137	BEST:LD14959	dre4	Dmel\CG44774	JIL-1	Bap170	Bap111	Tti1	rept	BigH1	osa	polybromo	Caf1-55	Bre1
+GO:0000786	"nucleosome"	BigH1
+GO:0000791	"euchromatin"	CG9899
+GO:0000792	"heterochromatin"	MED17	Bre1	CG7137
+GO:0000793	"condensed chromosome"	SA1	Cap-D3	Zw10	Mat89Ba	Ndc80	Hus1-like	smc1	CG6664	narya	CG15644	Kmn1
+GO:0000794	"condensed nuclear chromosome"	Hus1-like	Mat89Ba	narya
+GO:0000795	"synaptonemal complex"	narya
+GO:0000796	"condensin complex"	Cap-D2
+GO:0000803	"sex chromosome"	JIL-1
+GO:0000805	"X chromosome"	JIL-1
+GO:0000808	"origin recognition complex"	Orc2
+GO:0000811	"GINS complex"	Psf1
+GO:0000812	"Swr1 complex"	rept
+GO:0000813	"ESCRT I complex"	Dmel\CG10435
+GO:0000814	"ESCRT II complex"	Vps25
+GO:0000815	"ESCRT III complex"	BcDNA.GH08385
+GO:0000835	"ER ubiquitin ligase complex"	Der-2	Dmel\CG8237
+GO:0000836	"Hrd1p ubiquitin ligase complex"	Der-2	Dmel\CG8237
+GO:0000839	"Hrd1p ubiquitin ligase ERAD-L complex"	Der-2
+GO:0000922	"spindle pole"	Dmel\CG15564	nudE
+GO:0000923	"equatorial microtubule organizing center"	Grip84
+GO:0000930	"gamma-tubulin complex"	Grip84	gammaTub23C	Dmel\CG46427
+GO:0000931	"gamma-tubulin large complex"	Dmel\CG46427
+GO:0000932	"cytoplasmic mRNA processing body"	Cp1
+GO:0000938	"GARP complex"	Vps51
+GO:0000974	"Prp19 complex"	Prp19
+GO:0001401	"mitochondrial sorting and assembly machinery complex"	CG5662
+GO:0001405	"presequence translocase-associated import motor"	CG11779
+GO:0001518	"voltage-gated sodium channel complex"	NaCP60E
+GO:0001534	"radial spoke"	Rsph4a
+GO:0001651	"dense fibrillar component"	Fib
+GO:0001669	"acrosomal vesicle"	Dmel\CG13855
+GO:0001725	"stress fiber"	pigs
+GO:0001726	"ruffle"	rhea
+GO:0002116	"semaphorin receptor complex"	PlexB
+GO:0002139	"stereocilia coupling link"	dysc
+GO:0002141	"stereocilia ankle link"	dysc
+GO:0002142	"stereocilia ankle link complex"	dysc
+GO:0002144	"cytosolic tRNA wobble base thiouridylase complex"	Ctu1
+GO:0002178	"palmitoyltransferase complex"	Dmel\CG5447	Dmel\CG34194	ORMDL
+GO:0002189	"ribose phosphate diphosphokinase complex"	Prps
+GO:0005575	"cellular_component"	Gas41	abitram	kmr	Irbp	Aladin	Trpml	smc1	CG11945	Dmel\CG13097	nAChRalpha1	Dmel\CG14020	PGAP5	Aos1	Ca-alpha1D	g	CG10336	Gbs-76A	i207	mtDNA-helicase	Gclc	GatA	put	Kmn1	ATPsyndelta	pont	Lsm10	RpS18	SdhC	anon-f	ATPsynB	Bap111	Snapin	CG1544	CG10324	Cdk7	ci	osa	kkv	Cdc45	Dmel\CG14325	mRpS4	Dmel\CG14079	AP-1gamma	unc-13	Pop4	ATPsynepsilonL	frtz	Rev1	Bug22	metro	Fit1	CG15760	CG31123	Dmel\CG15676	Elp1	eEF1beta	Past1	Rpn1	CG11178	TORIP	kat80	GM130	Polr2A	Septin2	SNRPG	Dmel\CG3294	Vha14-1	Ndc80	Caf1-105	Fife	Cul5	Afg3l2	Cyt-c-d	Dpy-30L1	Bet3	ABCB7	InR	nSMase	Dmel\CG43324	Acp26Aa	Dmel\CG16753	gogo	Tps1	Mat89Ba	EcR	ver	Tbp	E3	Atg8a	BigH1	CCDC53	CG6724	Afti	Gyc88E	Stam	CG10341	alpha-PheRS	nuf	EMC1	stum	Slu7	Dmel\CG13442	sba	LUBEL	nrm	Nlg1	eIF3a	Arpc1	Hira	cta	Uspl1l	MED17	hry	CG5286	NaCP60E	Dmel\CG12848	CG10845	Scgalpha	CG7137	Ski6	Dmel\CG11110	Dmel\CG13807	Chc	IFT43	CG8907-RB	Lst8	CG11703	TfIIB	Vps4	PPP4R2r	CG11583	Dmel\CG40635	Bap170	PICK1	Psn	Ufd1	mdlc	CG12084	Zw10	RpS23	Msp300	Rpn2	Dmel\CG12069	Csl4	nudE	APP-BP1	CG31922	CG15651	BBS4	ens	CG10948	CG5662	Dmel\CG3420	Trs31	SERCA	Rcd5	mt:ND3	Dmel\CG6688	Arl6	eIF2alpha	ple	Myo10A	VGlut	Sec22	Vha26	mdcds_12730	Incenp	AP-1-2beta	CG11620	CG6316	CycA	PIG-A	PhKgamma	psidin	Ada1-1	Mocs1	CG5356	CG12211	Lrp4	Ltn1	Tim10	jp	ci	Atx2	Iml1	Dmel\CG8237	LanB1	gammaTub23C	Acp76A	NetA	Atg13	Dmel\CG1909	Pex7	IntS1	Dnaaf3	kud	Dmel\CG3339	spn-B	CG5608	twy	Tctp	Egfr	SA1	Fak	Dmel\CG44242	Acf	Gdi	Fib	Csk	RacGAP84C	alpha-Cat	Acph-1	Dmel\CG5921	Ranbp21	sip1	mod(mdg4)	Neurochondrin	Dmel\CG5946	Pop1	Dmel\CG5986	Adsl	Pbp45	stac	Asx	Cp1	Nct	Cdk2	CstF50	PolrMT	Mec2	Brf	CG14803	Slbp	ORMDL	lva	U2af50	Adi1	eRF3	Sar1	CG10510	ohgt	Mlc1	Rab3GAP1	Nop56	ALiX	AMPKalpha	BEST:LD29996	Prp18	CIA30	Fim	Dmel\CG8199	Snx3	Bgb	Naglu	Vha14-2	Vha100-1	SdhB	Klp67A	CycE	Ctps	CG8858	CG17740	Rint1	CG17996	mt:Cyt-b	Shaw	SIDL	SrpRalpha	CG13530	Dmel\CG4301	RnrL	Sirt1	BcDNA:RH52355	Rab10	pelo	COX7A	Arl8	Shrm	Burs	ema	Ak3	Cib2	Col4a1	Nubp1	TAF1B	Vinc	Hus1-like	Eno	lin-52	MED14	Rab14	Der-2	CG15644	RpS26	Noc1	Nup35	B9d1	Ptpa	Zmynd10	Dap160	Fmr1	Trf4-1	RtcB	Nprl3	Cdlc2	Scsalpha1	chif	Vps13B	CG9243	Hel25E	CD98hc	Dmel\CG12316	Wdr62	sktl	Dmel\CG3448	Rpn11	Sgt	CG12320	dgt6	Abcd1	NdufV3	ArfGAP3	cm	nopo	FRG1	CG30459	dre4	rogdi	Cap-D3	sdt	Atg2	Dmel\CG34194	BcDNA.GH08385	Dmel\CG12885	Clk	up	Liprin-beta	Ada2b	Sgs5bis	Dmel\CG10029	Dmel\CG15701	Dmel\CG15564	stg1	chb	Mhc	Chd3	Prp31	Dmel\CG11788	Madm	Atu	Mzt1	Dmel\CG12715	Dmel\CG10435	CG11779	TfIIEalpha	FIG4	Trmt6	Spase12	Atat	CG15458	Mlc-c	Dmel\CG1806	Elk	Dmel\CG17211	betaggt-I	zormin	Pi3K59F	Rich	Dbp80	Dmel\CG10803	Rpt4R	vlc	BNIP3	tho2	Fkbp59	Cdc14	Gas8	mip40	Pi3K21B	Patronin	Aatf	Bre1	CG1409	Cpsf5	Sou	eIF4E1	Mer	Grip84	Dg	muc	Syx1A	Calx	Wdr24	HDAC4	Myo95E	Bka	Rac2	hay	Tom20	Dmel\CG30389	Dmel\CG1622	APC10	ClpP	Dmel\CG6005	corto	Dnali1	Mlh1	Tsc1	Acsf3	Pdzd8	Gos28	Cnot4	Dmel\CG30284	Mcm2	CG1598	Dmel\CG10026	Abp1	mldr	Sec63	Arp10	Cam	sau	Prosbeta1	Pxn	Ciao1	btz	Tbcd	BcDNA:RE44624	Snx1	Mink	KaiR1D	mRpL1	PlexB	Mccc1	Abi	Clp	Syn	clu	spel1	Syn	CG4279	Rsph4a	AIMP2	Naa30A	CG42673	Dmel\CG4080	Ppcdc	NSD	crb	mxt	Hyls1	PolD2	Vps25	VGAT	Gnf1	Dmel\CG18745	pigs	Atac2	DIP-kappa	Brr2	CG10700	ex	PIG-V	mms4	CG17059	Dmel\CG4911	PCID2	Dmel\CG4293	HPS1	TfIIFalpha	Nup107	CG9132	Noa36	Acam	PNUTS	Dmel\CG1463	7B2	CG4045	polybromo	bonsai	Pcyt2	eIF2Bgamma	Fum1	Prosap	Clc	Csp	Srp14	Psf1	Tsen34	Anp32a	arm	IKKbeta	OXA1L	18w	Atg12	DNAlig3	Suv3	Cals	Dmel\CG32971	Cep89	Fntb	Als2	Xrcc2	lap	BEST:LD14959	shakB	CG5235	Dmel\CG46427	CG7639	Prx5	Alg10	CycT	Start1	Hsc70-3	EndoA	Spec2	tim	Saf6	Dmel\CG32371	Ire1	IFT52	Axn	CCDC151	CG42374	Prp19	Dmel\CG3198	anon-WO0118547.140	Dmel\CG7907	Hydr2	Ssl1	GluRIA	SKI3	REG	RpL19	Xpac	CG1161	CG31879	Vta1	Acadvl	CG30183	Cap-D2	CG7637	rod	shrb	Kap3	anon-WO0118547.376	Arp2	Dmel\CG43321	PIG-M	BG:DS07851.5	Slh	Sec8	CG33774	Smg6	CG14562	Nup93-1	rept	Tti1	shot	Amnionless	SCAP	Gpdh1	CG11007	CG6664	Caf1-55	Ccm3	rhea	Dmel\CG14367	Rad17	CoRest	Marc	GCR 1	Ect3	BBIP1	Exo70	Dmel\CG5447	RabX2	tmod	Vps11	Cog1	Mipp2	Mad	CG10874-RB	Flacc	Cnep1r1	CG13588	CG7741	Dmel\CG14131	Ih	CG3770	Pdss2	RagC-D	Dop1R2	X11L	insc	Alp1	Gp210	Grip128	Pfk	Scgbeta	Nacalpha	Ask1	pasha	Cdk9	Septin1	Fadd	CG13531	Dmel\CG14270	Lcch3	Dmel\CG11597	APC4	Tcs3	Tango14	Fbw5	NC2beta	Arv1	PolD1	Dmel\CG12325	Nup188	icln	Naa15-16	Snr1	Orc2	CG4537	Blos1	cnn	GAA1	Rep	Traf6	Fancl	GABA-B-R1	Dmel\CG10761	eIF1	Nmdar1	Bub3	DMAP1	CG18301	Mau2	alpha-KGDHC	mGluR	Polr2M	Dmel\CG10931	Dmel\CG10365	mre11	Vps15	Dmel\CG10834	Sf3a1	CG4074	Pms2	Ptip	Rbp6	narya	Uvrag	BORCS5	Ns3	EloA	fab1	vnc	Prosalpha1	Pex12	usp	Or10a	Ctu1	Cul3	EG:25E8.3	Septin4	Vm26Ab	Nf-YB	Zasp66	Cluap1	PCNA2	Alg13	Nfs1	Spt5	Atg1	anon-WO0140519.93	ItgaPS4	PolA2	p120ctn	eIF3i	CG1824	CG12479	l(3)neo7	PAN2	Actn	CG7099	CG11777	dgrn	EloB	Chpf	Dmel\CG8435	Polr1C	AGO2	ScsbetaG	Dmel\CG7685	ATPsynC	Dmel\CG10859	Prps	eIF2Balpha	btsz	Syf2	Arpc3A	Dmel\CG42376	RnpS1	Sxl	Dmel\CG13855	Lamtor1	AMT	COX4L	mus312	Kdm2	Nipped-B	Atg14	Nox	RpLP1	TfIIA-L	babo	MrgBP	HemK2	CG30493	Cdk5	Chrac-14	Cog3	CG11164	Lsm11	ATPsynbeta	Dmel\CG13893	PolG1	PF1	SEC61G1	beta-Spec	Vps50	RpL10Aa	CG9899	piwi	plu	Bet1	Tango1	NELF-B	Gem2	Dmel\CG9667	Dmel\CG44774	Bfc	Use1	JIL-1	ATP6AP2	SppL	dysc	CG11263	Syt1	Ercc1	Vps51	Br140	Mtpalpha	VhaM9.7-d	CG7886	CG13515	thoc7	Muted	yin	Dpm1	Jra	CG6204	Dmel\CG3473	Xpc
+GO:0005576	"extracellular region"	Acp26Aa	Acph-1	Cul3	Acp76A	Burs	Dmel\CG18745
+GO:0005581	"collagen trimer"	Col4a1
+GO:0005604	"basement membrane"	LanB1	CG17740
+GO:0005615	"extracellular space"	Burs	Acp76A	Acph-1
+GO:0005622	"intracellular"	Gas41	kmr	Irbp	Aladin	smc1	Dmel\CG13097	PGAP5	Aos1	g	CG10336	Gbs-76A	i207	mtDNA-helicase	Gclc	Kmn1	ATPsyndelta	Lsm10	RpS18	SdhC	ATPsynB	Bap111	Snapin	CG1544	CG10324	Cdk7	osa	Cdc45	mRpS4	AP-1gamma	frtz	unc-13	ATPsynepsilonL	Rev1	Bug22	CG15760	eEF1beta	Past1	Rpn1	CG11178	TORIP	kat80	GM130	Polr2A	SNRPG	Dmel\CG3294	Vha14-1	Ndc80	Fife	Afg3l2	Cyt-c-d	Dpy-30L1	Bet3	ABCB7	Dmel\CG43324	Tps1	Mat89Ba	EcR	ver	E3	Atg8a	BigH1	CCDC53	CG6724	Afti	Gyc88E	Stam	alpha-PheRS	EMC1	Slu7	Dmel\CG13442	sba	nrm	eIF3a	Arpc1	Uspl1l	MED17	hry	CG5286	Dmel\CG12848	CG10845	CG7137	Ski6	Dmel\CG11110	Chc	Vps4	CG11583	Bap170	PICK1	Ufd1	mdlc	Zw10	RpS23	Msp300	Rpn2	nudE	Csl4	CG31922	CG15651	BBS4	ens	CG5662	Dmel\CG3420	Trs31	SERCA	Rcd5	Arl6	eIF2alpha	Sec22	mdcds_12730	Incenp	AP-1-2beta	CG11620	CG6316	PIG-A	PhKgamma	psidin	Ada1-1	CG5356	CG12211	Tim10	jp	Atx2	Dmel\CG8237	gammaTub23C	Atg13	Pex7	IntS1	Dnaaf3	kud	Dmel\CG3339	spn-B	CG5608	Tctp	SA1	Dmel\CG44242	Acf	Gdi	Fib	RacGAP84C	sip1	mod(mdg4)	Dmel\CG5946	Pop1	Dmel\CG5986	Adsl	stac	Asx	Cp1	CstF50	PolrMT	CG14803	Slbp	ORMDL	U2af50	Adi1	eRF3	Sar1	CG10510	Mlc1	Rab3GAP1	ALiX	Prp18	Fim	Dmel\CG8199	Bgb	Naglu	Vha100-1	SdhB	Klp67A	Rint1	CG17996	SIDL	SrpRalpha	RnrL	Sirt1	BcDNA:RH52355	Rab10	COX7A	Arl8	ema	Ak3	Nubp1	TAF1B	Hus1-like	Eno	lin-52	MED14	Rab14	Der-2	CG15644	RpS26	Noc1	Nup35	Zmynd10	Dap160	Fmr1	Trf4-1	Cdlc2	Scsalpha1	CG9243	Hel25E	Dmel\CG12316	Wdr62	sktl	Dmel\CG3448	Rpn11	Sgt	CG12320	dgt6	Abcd1	NdufV3	ArfGAP3	cm	nopo	FRG1	CG30459	dre4	rogdi	Cap-D3	Atg2	Dmel\CG34194	BcDNA.GH08385	Dmel\CG12885	Clk	up	Ada2b	Dmel\CG10029	Dmel\CG15701	Dmel\CG15564	chb	Mhc	Chd3	Prp31	Dmel\CG11788	Atu	Mzt1	Dmel\CG12715	Dmel\CG10435	CG11779	TfIIEalpha	FIG4	Trmt6	Spase12	Atat	CG15458	Mlc-c	zormin	Rich	Dbp80	Rpt4R	BNIP3	tho2	Cdc14	mip40	Patronin	Aatf	Bre1	CG1409	Cpsf5	eIF4E1	Grip84	muc	HDAC4	Rac2	hay	Tom20	Dmel\CG30389	Dmel\CG1622	APC10	Dmel\CG6005	corto	Dnali1	Mlh1	Tsc1	Acsf3	Gos28	CG1598	Dmel\CG10026	mldr	Sec63	Arp10	Cam	sau	Prosbeta1	Ciao1	btz	BcDNA:RE44624	Mink	mRpL1	Abi	Clp	Syn	clu	spel1	Rsph4a	AIMP2	Naa30A	Dmel\CG4080	Ppcdc	NSD	Vps25	Gnf1	pigs	Atac2	Brr2	CG10700	CG17059	PCID2	Dmel\CG4293	HPS1	TfIIFalpha	Nup107	CG9132	Noa36	Acam	7B2	CG4045	polybromo	bonsai	Pcyt2	Fum1	Clc	Srp14	Psf1	Tsen34	Anp32a	arm	IKKbeta	OXA1L	Atg12	DNAlig3	Suv3	Dmel\CG32971	Cep89	Fntb	Xrcc2	BEST:LD14959	CG5235	Dmel\CG46427	Prx5	Alg10	CycT	Hsc70-3	Spec2	tim	Saf6	Dmel\CG32371	Ire1	Axn	CCDC151	CG42374	Dmel\CG3198	anon-WO0118547.140	Ssl1	SKI3	REG	RpL19	Xpac	CG1161	CG31879	Vta1	Acadvl	CG30183	Cap-D2	CG7637	rod	anon-WO0118547.376	Kap3	Arp2	Dmel\CG43321	PIG-M	Slh	CG33774	Smg6	CG14562	Nup93-1	rept	Tti1	shot	Gpdh1	CG6664	Caf1-55	Rad17	Ect3	Exo70	RabX2	tmod	Vps11	Cog1	Mad	CG10874-RB	Flacc	CG13588	CG7741	Dop1R2	insc	Gp210	Grip128	Pfk	Nacalpha	pasha	Cdk9	Septin1	Dmel\CG14270	APC4	NC2beta	Arv1	PolD1	Dmel\CG12325	Nup188	icln	Snr1	Orc2	Blos1	GAA1	Rep	Fancl	Dmel\CG10761	eIF1	Bub3	DMAP1	CG18301	Mau2	alpha-KGDHC	Polr2M	Dmel\CG10931	Dmel\CG10365	mre11	Dmel\CG10834	Sf3a1	Pms2	Ptip	narya	Uvrag	BORCS5	Ns3	EloA	vnc	Prosalpha1	usp	Ctu1	EG:25E8.3	Septin4	Nf-YB	Zasp66	PCNA2	Alg13	Nfs1	Spt5	Atg1	anon-WO0140519.93	PolA2	eIF3i	CG12479	l(3)neo7	PAN2	Actn	CG11777	dgrn	EloB	Chpf	Dmel\CG8435	Polr1C	ScsbetaG	Dmel\CG7685	Dmel\CG10859	ATPsynC	eIF2Balpha	btsz	Syf2	Arpc3A	Dmel\CG13855	Lamtor1	COX4L	mus312	Kdm2	Nipped-B	Atg14	RpLP1	TfIIA-L	MrgBP	HemK2	Chrac-14	Cog3	Lsm11	ATPsynbeta	Dmel\CG13893	PolG1	PF1	SEC61G1	beta-Spec	Vps50	RpL10Aa	CG9899	piwi	Bet1	Tango1	NELF-B	Gem2	Dmel\CG9667	Dmel\CG44774	Bfc	Use1	JIL-1	ATP6AP2	SppL	CG11263	Syt1	Ercc1	Vps51	Br140	Mtpalpha	CG7886	thoc7	Muted	yin	Jra	CG6204	Xpc
+GO:0005634	"nucleus"	Gas41	Irbp	Aladin	Dmel\CG13097	Acf	Fib	HDAC4	Aos1	hay	sip1	i207	Dmel\CG1622	APC10	Pop1	corto	Mad	Dmel\CG5986	CG7741	Asx	CstF50	Gp210	CG14803	Bap111	Slbp	CG10324	Cdk7	pasha	U2af50	osa	Cdk9	Cdc45	Prp18	btz	APC4	Bgb	NC2beta	Clp	spel1	PolD1	Dmel\CG12325	TORIP	Nup188	Snr1	Polr2A	Orc2	Sirt1	Dmel\CG3294	NSD	Fancl	Dpy-30L1	Atac2	Bub3	DMAP1	Brr2	TAF1B	Mat89Ba	EcR	Mau2	Hus1-like	CG17059	lin-52	MED14	PCID2	Polr2M	Dmel\CG10931	TfIIFalpha	Noc1	mre11	Nup35	Nup107	Sf3a1	CG6724	Pms2	Ptip	narya	polybromo	Trf4-1	Ns3	EloA	usp	Slu7	EG:25E8.3	Hel25E	Psf1	nrm	Tsen34	Nf-YB	arm	Dmel\CG12316	PCNA2	Uspl1l	Dmel\CG3448	hry	Spt5	spn-B	CG12320	anon-WO0140519.93	PolA2	DNAlig3	CG7137	l(3)neo7	Dmel\CG32971	CG11777	Xrcc2	dgrn	BEST:LD14959	dre4	CG11583	Bap170	Polr1C	Dmel\CG8435	CycT	mdlc	tim	Saf6	Syf2	Msp300	CG42374	Dmel\CG3198	Csl4	CG31922	Dmel\CG12885	mus312	Clk	Kdm2	Ada2b	Ssl1	Nipped-B	RpLP1	TfIIA-L	MrgBP	Rcd5	Xpac	Chrac-14	Chd3	Lsm11	Prp31	Atu	mdcds_12730	PF1	TfIIEalpha	CG7637	anon-WO0118547.376	Ada1-1	NELF-B	CG5356	Dmel\CG9667	Dmel\CG44774	Bfc	JIL-1	Dbp80	Ercc1	Br140	Tti1	Smg6	Nup93-1	rept	thoc7	tho2	mip40	IntS1	Jra	Caf1-55	CG6204	Aatf	Xpc	Cpsf5
+GO:0005635	"nuclear envelope"	Nup93-1	Nup35	Nup107	Sirt1	Msp300	Aladin	Dbp80	Gp210	nrm	TORIP	Nup188
+GO:0005637	"nuclear inner membrane"	Sirt1
+GO:0005640	"nuclear outer membrane"	Msp300
+GO:0005643	"nuclear pore"	Nup93-1	Nup35	Nup107	Aladin	Dbp80	Gp210	Nup188
+GO:0005654	"nucleoplasm"	Gas41	Ada2b	Slu7	TfIIA-L	MrgBP	Psf1	Rcd5	Chd3	Dmel\CG12316	HDAC4	Polr2A	Uspl1l	Atu	Spt5	PF1	anon-WO0140519.93	TfIIEalpha	i207	corto	Dpy-30L1	Ada1-1	Atac2	DMAP1	NELF-B	dre4	Dmel\CG44774	CycT	Polr2M	Br140	Dmel\CG10931	TfIIFalpha	Cdk7	rept	Saf6	CG10324	Cdk9	Cdc45	Ptip	Dmel\CG12885	Ns3	EloA
+GO:0005655	"nucleolar ribonuclease P complex"	Pop1
+GO:0005656	"nuclear pre-replicative complex"	i207
+GO:0005657	"replication fork"	tim	RpLP1	PolD1	PolA2	CG14803	Gnf1	Rev1
+GO:0005658	"alpha DNA polymerase:primase complex"	PolA2
+GO:0005662	"DNA replication factor A complex"	RpLP1
+GO:0005663	"DNA replication factor C complex"	Gnf1
+GO:0005664	"nuclear origin of replication recognition complex"	Orc2
+GO:0005665	"DNA-directed RNA polymerase II, core complex"	Polr2A
+GO:0005666	"DNA-directed RNA polymerase III complex"	Polr1C
+GO:0005667	"transcription factor complex"	Gas41	Ssl1	usp	NC2beta	TfIIA-L	Nf-YB	Chd3	arm	hry	TfIIEalpha	Mad	Pbp45	CG7099	TAF1B	EcR	Bfc	lin-52	MED14	Brf	Tbp	TfIIFalpha	Cdk7	Jra	Clk	CoRest	Bgb
+GO:0005668	"RNA polymerase transcription factor SL1 complex"	TAF1B
+GO:0005669	"transcription factor TFIID complex"	Gas41
+GO:0005672	"transcription factor TFIIA complex"	TfIIA-L
+GO:0005673	"transcription factor TFIIE complex"	TfIIEalpha
+GO:0005674	"transcription factor TFIIF complex"	TfIIFalpha
+GO:0005675	"holo TFIIH complex"	Cdk7
+GO:0005677	"chromatin silencing complex"	CG7137
+GO:0005680	"anaphase-promoting complex"	APC10
+GO:0005681	"spliceosomal complex"	CG7741	CG11777	U2af50	Brr2	Syf2	sip1	Dmel\CG9667	Dmel\CG1622	Dmel\CG8435	CG31922	Prp18	Dmel\CG5986	mdlc
+GO:0005682	"U5 snRNP"	CG12320
+GO:0005683	"U7 snRNP"	Lsm11
+GO:0005684	"U2-type spliceosomal complex"	U2af50	Syf2	sip1	Dmel\CG8435	Prp18	Dmel\CG5986	mdlc
+GO:0005685	"U1 snRNP"	Dmel\CG3198
+GO:0005686	"U2 snRNP"	Sf3a1
+GO:0005688	"U6 snRNP"	l(3)neo7
+GO:0005689	"U12-type spliceosomal complex"	CG31922
+GO:0005694	"chromosome"	SA1	RpLP1	PolD1	smc1	Psf1	Acf	Chrac-14	Chd3	Snr1	sktl	Orc2	Dmel\CG11788	MED17	CG10336	mdcds_12730	PF1	Cap-D2	NSD	Ndc80	PolA2	CG9899	CG7137	Gnf1	Kmn1	nopo	Mat89Ba	BEST:LD14959	dre4	Dmel\CG44774	JIL-1	Hus1-like	Bap170	CG14803	CG15644	Bap111	Cap-D3	ver	Tti1	tim	rept	BigH1	osa	Noa36	Zw10	CG6664	narya	polybromo	Caf1-55	mus312	Rad17	Rev1	Bre1
+GO:0005697	"telomerase holoenzyme complex"	Smg6
+GO:0005700	"polytene chromosome"	sktl
+GO:0005721	"pericentric heterochromatin"	MED17
+GO:0005730	"nucleolus"	TAF1B	Mat89Ba	EG:25E8.3	CG6724	CG7637	CG11583	Dmel\CG12325	Dmel\CG13097	Pop1	Fib
+GO:0005732	"small nucleolar ribonucleoprotein complex"	CG7637	Nop56	Pop1	CG10341
+GO:0005737	"cytoplasm"	eIF4E1	Ect3	Dmel\CG44242	muc	Gdi	Exo70	PGAP5	RabX2	tmod	g	Rac2	Vps11	Cog1	Gbs-76A	Tom20	Dmel\CG30389	mtDNA-helicase	mod(mdg4)	Dmel\CG5946	Dmel\CG6005	Gclc	ATPsyndelta	Adsl	Dnali1	CG13588	RpS18	Lsm10	Cp1	stac	Tsc1	Acsf3	Dop1R2	PolrMT	insc	Gos28	ATPsynB	Snapin	Pfk	CG1544	Nacalpha	CG1598	ORMDL	Dmel\CG10026	Adi1	mldr	Sec63	eRF3	Sar1	Septin1	CG10510	Dmel\CG14270	sau	Mlc1	Rab3GAP1	ALiX	Ciao1	AP-1gamma	frtz	unc-13	ATPsynepsilonL	Dmel\CG8199	Bug22	Naglu	Vha100-1	SdhB	CG15760	mRpL1	Klp67A	Rint1	Abi	CG17996	Syn	clu	Arv1	eEF1beta	Past1	CG11178	icln	SIDL	GM130	Rsph4a	SrpRalpha	Blos1	Naa30A	SNRPG	RnrL	Dmel\CG4080	GAA1	Vha14-1	Ppcdc	Rep	BcDNA:RH52355	Rab10	Afg3l2	Fife	Vps25	COX7A	Cyt-c-d	Bet3	ABCB7	ema	Dmel\CG10761	Ak3	eIF1	Tctp	CG10700	Tps1	Nubp1	alpha-KGDHC	Eno	Rab14	Der-2	Dmel\CG4293	HPS1	RpS26	Dmel\CG10365	E3	Atg8a	CG9132	CCDC53	Fmr1	Afti	7B2	BORCS5	Uvrag	bonsai	Gyc88E	Stam	Pcyt2	alpha-PheRS	Scsalpha1	vnc	Fum1	EMC1	Ctu1	Dmel\CG13442	CG9243	Clc	Septin4	Srp14	Anp32a	eIF3a	IKKbeta	Alg13	Nfs1	OXA1L	Sgt	Atg1	Atg12	Dmel\CG12848	Abcd1	Suv3	eIF3i	NdufV3	Ski6	ArfGAP3	cm	CG12479	Dmel\CG11110	FRG1	PAN2	Actn	Fntb	Chc	CG30459	Vps4	rogdi	EloB	CG5235	Chpf	Prx5	Alg10	PICK1	Ufd1	Hsc70-3	ScsbetaG	Dmel\CG7685	Spec2	Dmel\CG10859	eIF2Balpha	Ire1	btsz	Atg2	Axn	Dmel\CG13855	Rpn2	Dmel\CG34194	BcDNA.GH08385	Lamtor1	anon-WO0118547.140	CG15651	COX4L	up	SKI3	Atg14	Dmel\CG10029	CG5662	Dmel\CG15701	RpL19	Trs31	SERCA	CG1161	Cog3	eIF2alpha	Arl6	Vta1	Acadvl	Sec22	ATPsynbeta	CG30183	Dmel\CG13893	PolG1	AP-1-2beta	SEC61G1	beta-Spec	Dmel\CG10435	CG11779	CG11620	FIG4	Vps50	CG6316	Spase12	PIG-A	PhKgamma	psidin	Dmel\CG43321	CG15458	Bet1	Tango1	Gem2	zormin	Use1	Tim10	jp	ATP6AP2	Atx2	SppL	Dmel\CG8237	Rich	PIG-M	CG11263	Slh	Syt1	Vps51	CG33774	Mtpalpha	CG14562	Rpt4R	Atg13	BNIP3	Muted	yin	Pex7	Gpdh1	Dnaaf3	kud	CG5608	CG1409
+GO:0005739	"mitochondrion"	SdhB	mRpL1	Dmel\CG44242	CG5662	CG17996	clu	Acadvl	OXA1L	ATPsynbeta	Tom20	PolG1	CG11779	Dmel\CG12848	mtDNA-helicase	Afg3l2	Suv3	COX7A	Cyt-c-d	NdufV3	CG12479	ABCB7	Dmel\CG11110	CG15458	ATPsyndelta	Dmel\CG10761	Ak3	Dmel\CG43321	CG30459	Acsf3	PolrMT	Tim10	ATPsynB	CG1544	Mtpalpha	E3	BNIP3	mldr	Dmel\CG14270	bonsai	COX4L	ATPsynepsilonL	Dmel\CG8199	CG1409
+GO:0005740	"mitochondrial envelope"	SdhB	CG5662	CG17996	clu	Acadvl	OXA1L	ATPsynbeta	Tom20	CG11779	Afg3l2	COX7A	Cyt-c-d	NdufV3	CG12479	ABCB7	Dmel\CG11110	CG15458	ATPsyndelta	Dmel\CG10761	Dmel\CG43321	CG30459	Tim10	ATPsynB	CG1544	BNIP3	Dmel\CG14270	COX4L	ATPsynepsilonL	CG1409
+GO:0005741	"mitochondrial outer membrane"	Tom20	Dmel\CG10761	CG5662	clu
+GO:0005742	"mitochondrial outer membrane translocase complex"	Tom20	CG5662
+GO:0005743	"mitochondrial inner membrane"	SdhB	Acadvl	OXA1L	ATPsynbeta	CG11779	Afg3l2	COX7A	Cyt-c-d	NdufV3	CG12479	ABCB7	Dmel\CG11110	ATPsyndelta	CG15458	Dmel\CG43321	CG30459	ATPsynB	Dmel\CG14270	COX4L	ATPsynepsilonL	CG1409
+GO:0005744	"mitochondrial inner membrane presequence translocase complex"	CG1409	CG11779
+GO:0005745	"m-AAA complex"	Afg3l2
+GO:0005746	"mitochondrial respiratory chain"	SdhB	COX7A	Cyt-c-d	NdufV3	COX4L
+GO:0005747	"mitochondrial respiratory chain complex I"	NdufV3
+GO:0005749	"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)"	SdhB
+GO:0005750	"mitochondrial respiratory chain complex III"	Cyt-c-d
+GO:0005751	"mitochondrial respiratory chain complex IV"	COX4L
+GO:0005753	"mitochondrial proton-transporting ATP synthase complex"	ATPsynbeta	CG15458	ATPsynB	ATPsynepsilonL	ATPsyndelta
+GO:0005754	"mitochondrial proton-transporting ATP synthase, catalytic core"	ATPsynbeta
+GO:0005756	"mitochondrial proton-transporting ATP synthase, central stalk"	ATPsyndelta
+GO:0005758	"mitochondrial intermembrane space"	Tim10	CG17996
+GO:0005759	"mitochondrial matrix"	E3	mRpL1	PolG1	Dmel\CG44242	Dmel\CG12848	CG11779	mtDNA-helicase	Ak3	bonsai	Dmel\CG8199	Mtpalpha
+GO:0005760	"gamma DNA polymerase complex"	PolG1
+GO:0005761	"mitochondrial ribosome"	bonsai	Dmel\CG12848	mRpL1
+GO:0005762	"mitochondrial large ribosomal subunit"	mRpL1
+GO:0005763	"mitochondrial small ribosomal subunit"	bonsai
+GO:0005764	"lysosome"	Dmel\CG13442	BORCS5	CG1161	ema	Naglu
+GO:0005765	"lysosomal membrane"	CG1161	ema	BORCS5
+GO:0005768	"endosome"	CG9243	Gdi	Past1	CG11178	SIDL	g	Vta1	Vps11	Dmel\CG4080	Dmel\CG10435	BcDNA:RH52355	Vps50	FIG4	Vps25	Dmel\CG6005	ema	Vps4	PICK1	Dmel\CG10026	Lamtor1	BcDNA.GH08385	ALiX	Stam
+GO:0005769	"early endosome"	Dmel\CG4080	PICK1	CG9243
+GO:0005770	"late endosome"	Vta1	Dmel\CG10026	Dmel\CG4080	Lamtor1	Gdi
+GO:0005771	"multivesicular body"	Vta1
+GO:0005773	"vacuole"	Vha100-1	Atg8a	Atg1	Ect3	Vha14-1	Dmel\CG13442	Lamtor1	ATP6AP2	Uvrag	BORCS5	CG1161	ema	CG5608	Naglu
+GO:0005774	"vacuolar membrane"	Vha100-1	Atg8a	Vha14-1	Lamtor1	ATP6AP2	BORCS5	CG1161	ema	CG5608
+GO:0005775	"vacuolar lumen"	Naglu
+GO:0005776	"autophagosome"	Atg8a	Atg1
+GO:0005777	"peroxisome"	Pex7	Abcd1
+GO:0005778	"peroxisomal membrane"	Abcd1
+GO:0005782	"peroxisomal matrix"	Pex7
+GO:0005783	"endoplasmic reticulum"	EMC1	Rint1	Dmel\CG10029	Arv1	SERCA	SrpRalpha	Alg13	GAA1	SEC61G1	Dmel\CG30389	Spase12	PIG-A	Tango1	CG10700	Use1	PIG-M	Dmel\CG8237	Alg10	Ufd1	Der-2	Hsc70-3	RpS26	Dmel\CG7685	CG33774	CG1598	ORMDL	Ire1	Sec63	Dmel\CG34194	kud	Rab3GAP1	CG15651
+GO:0005784	"Sec61 translocon complex"	SEC61G1
+GO:0005785	"signal recognition particle receptor complex"	SrpRalpha
+GO:0005787	"signal peptidase complex"	Spase12
+GO:0005788	"endoplasmic reticulum lumen"	Dmel\CG10029
+GO:0005789	"endoplasmic reticulum membrane"	EMC1	SrpRalpha	Alg13	GAA1	SEC61G1	Dmel\CG30389	Spase12	PIG-A	Use1	Dmel\CG8237	Alg10	Ufd1	Der-2	RpS26	CG33774	ORMDL	Ire1	Sec63	Dmel\CG34194	kud
+GO:0005791	"rough endoplasmic reticulum"	Sec63	SEC61G1	Dmel\CG30389	CG15651	RpS26	SrpRalpha
+GO:0005793	"endoplasmic reticulum-Golgi intermediate compartment"	PGAP5	Trs31
+GO:0005794	"Golgi apparatus"	Dmel\CG10365	Cog1	Chc	Dmel\CG13893	Chpf	sau	Afti	Rich	Gos28	Dmel\CG5946	Trs31	GM130	AP-1gamma	ArfGAP3	SIDL	Cog3	Vps51	Bet3
+GO:0005795	"Golgi stack"	Chpf	sau	Gos28	ArfGAP3	GM130
+GO:0005797	"Golgi medial cisterna"	Gos28
+GO:0005798	"Golgi-associated vesicle"	Chc	Dmel\CG5946	SppL	AP-1gamma	Slh	RabX2
+GO:0005801	"cis-Golgi network"	Bet3	Cog3
+GO:0005802	"trans-Golgi network"	Dmel\CG10365	Afti
+GO:0005811	"lipid particle"	CG18301
+GO:0005813	"centrosome"	BBS4	nudE	CG10874-RB	Zmynd10
+GO:0005814	"centriole"	Cep89
+GO:0005815	"microtubule organizing center"	CG7886	Mzt1	Zmynd10	Cdc14	Dmel\CG46427	Grip84	nudE	CG10874-RB	BBS4	gammaTub23C	kat80	Grip128	Cep89
+GO:0005818	"aster"	Klp67A
+GO:0005819	"spindle"	Klp67A	Incenp	dgt6	Dmel\CG15564	nudE	rod	chb	Arl8	RacGAP84C	Mink	Wdr62
+GO:0005826	"actomyosin contractile ring"	CG30183
+GO:0005828	"kinetochore microtubule"	rod
+GO:0005829	"cytosol"	Ctu1	RpL19	IKKbeta	Blos1	Nfs1	RnrL	Sgt	CG6316	Adsl	RpS18	Tsc1	Nubp1	Eno	Prx5	Snapin	HPS1	Rpt4R	Pfk	CG14562	Ciao1	Gyc88E	Pcyt2
+GO:0005832	"chaperonin-containing T-complex"	Pcyt2
+GO:0005834	"heterotrimeric G-protein complex"	Dmel\CG43324
+GO:0005838	"proteasome regulatory particle"	Rpn1	Rpn11
+GO:0005839	"proteasome core complex"	Prosalpha1	Prosbeta1
+GO:0005840	"ribosome"	RpS18	mRpL1	RpS23	mRpS4	Dmel\CG12848	RpL10Aa	RpL19	bonsai
+GO:0005844	"polysome"	RpS23	Rbp6
+GO:0005845	"mRNA cap binding complex"	Dmel\CG13807
+GO:0005846	"nuclear cap binding complex"	Dmel\CG7907
+GO:0005847	"mRNA cleavage and polyadenylation specificity factor complex"	Clp
+GO:0005848	"mRNA cleavage stimulating factor complex"	CstF50
+GO:0005849	"mRNA cleavage factor complex"	CstF50	Clp	Cpsf5
+GO:0005850	"eukaryotic translation initiation factor 2 complex"	eIF2alpha
+GO:0005851	"eukaryotic translation initiation factor 2B complex"	eIF2Balpha
+GO:0005852	"eukaryotic translation initiation factor 3 complex"	eIF3a	eIF3i
+GO:0005853	"eukaryotic translation elongation factor 1 complex"	eEF1beta
+GO:0005854	"nascent polypeptide-associated complex"	Nacalpha
+GO:0005856	"cytoskeleton"	up	Cdlc2	Klp67A	Grip84	Dmel\CG15564	Septin4	chb	Mhc	Zasp66	Arl6	kat80	Rsph4a	Arpc1	Wdr62	RacGAP84C	Mzt1	CG30183	Incenp	CG5286	beta-Spec	dgt6	Fife	rod	CG10845	Kap3	CG10874-RB	Arl8	Atat	Arp2	pigs	Cep89	Dnali1	Actn	Mlc-c	Dmel\CG46427	Arpc3A	gammaTub23C	Grip128	Dmel\CG10859	CG7886	shot	Dmel\CG32371	Dmel\CG10834	Acam	Septin1	Arp10	CG10510	Zmynd10	Cam	CCDC151	Patronin	Mlc1	nudE	Cdc14	Dmel\CG3339	ens	frtz	BBS4	Fim	BcDNA:RE44624	Bug22	Mink	Tctp
+GO:0005858	"axonemal dynein complex"	CG10510	Dmel\CG10859	Dnali1
+GO:0005859	"muscle myosin complex"	Mlc1
+GO:0005861	"troponin complex"	up
+GO:0005865	"striated muscle thin filament"	up
+GO:0005868	"cytoplasmic dynein complex"	Dmel\CG10834
+GO:0005869	"dynactin complex"	Arp10
+GO:0005871	"kinesin complex"	CG10845	Kap3
+GO:0005874	"microtubule"	Klp67A	Dmel\CG32371	dgt6	Patronin	rod	chb	Atat	Bug22	Tctp
+GO:0005875	"microtubule associated complex"	Cdlc2	Incenp	Dmel\CG10834	Arp10	CG10510	dgt6	Dmel\CG3339	CG10845	Kap3	kat80	Dmel\CG10859	Dnali1
+GO:0005876	"spindle microtubule"	rod	Klp67A	dgt6	chb
+GO:0005879	"axonemal microtubule"	Bug22
+GO:0005881	"cytoplasmic microtubule"	Klp67A	Bug22	Tctp
+GO:0005882	"intermediate filament"	shot	CG5286
+GO:0005884	"actin filament"	Arp2	Zasp66
+GO:0005885	"Arp2/3 protein complex"	Arp2
+GO:0005886	"plasma membrane"	Hydr2	Egfr	nuf	GluRIA	Or10a	CG31123	kmr	Nox	babo	Shaw	Dg	Syn	CD98hc	stg1	nAChRalpha1	Syx1A	Dmel\CG14020	Dmel\CG6688	Ca-alpha1D	cta	alpha-Cat	18w	cnn	AP-1-2beta	NaCP60E	ItgaPS4	crb	Traf6	shrb	Scgalpha	GABA-B-R1	put	nSMase	InR	Cals	Nmdar1	Dmel\CG43324	Ih	DIP-kappa	Dmel\CG1806	Elk	Chc	KaiR1D	lap	Nct	CG11703	Lrp4	ex	mGluR	Sec8	Scgbeta	VhaM9.7-d	sdt	Fkbp59	Fadd	AMT	unc-13	Tbcd	CG10948
+GO:0005887	"integral component of plasma membrane"	Ih	Elk	GluRIA	CG11703	NaCP60E	ItgaPS4	Nox	babo	mGluR	stg1	nAChRalpha1	GABA-B-R1	put	InR	Nmdar1
+GO:0005890	"sodium:potassium-exchanging ATPase complex"	CG11703
+GO:0005891	"voltage-gated calcium channel complex"	Ca-alpha1D
+GO:0005892	"acetylcholine-gated channel complex"	nAChRalpha1
+GO:0005899	"insulin receptor complex"	InR
+GO:0005901	"caveola"	nSMase
+GO:0005902	"microvillus"	Myo95E
+GO:0005903	"brush border"	cta
+GO:0005905	"coated pit"	CG31123	AP-1-2beta	Chc
+GO:0005911	"cell-cell junction"	CG3770	ci	sdt	shakB	Vinc	Mec2	p120ctn	Csk	Shrm
+GO:0005912	"adherens junction"	p120ctn
+GO:0005917	"nephrocyte diaphragm"	Mec2
+GO:0005918	"septate junction"	CG3770
+GO:0005921	"gap junction"	shakB
+GO:0005923	"bicellular tight junction"	Shrm
+GO:0005925	"focal adhesion"	Fak
+GO:0005929	"cilium"	Dmel\CG15701	BBIP1	Dmel\CG14020	Arl6	Rsph4a	Bug22	Hyls1	Kap3	Dnali1	Dmel\CG10859	CG7886	B9d1	Dmel\CG14325	Cdc14	CG10510	Gas8	CCDC151	Dmel\CG14079	frtz	Dmel\CG14367	twy
+GO:0005930	"axoneme"	CG10510	frtz	Arl6	Bug22	Rsph4a	Dmel\CG10859	Dnali1
+GO:0005938	"cell cortex"	Actn	CG30183	Septin1	beta-Spec	CG11620	Fife	insc	Arv1	Septin4	Clc	Exo70	unc-13	Spec2
+GO:0005940	"septin ring"	Septin4
+GO:0005942	"phosphatidylinositol 3-kinase complex"	Dmel\CG14131	Atg14	Pi3K59F	Pi3K21B	CG5608
+GO:0005943	"phosphatidylinositol 3-kinase complex, class IA"	Pi3K21B
+GO:0005945	"6-phosphofructokinase complex"	Pfk
+GO:0005946	"alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)"	Tps1
+GO:0005947	"mitochondrial alpha-ketoglutarate dehydrogenase complex"	Dmel\CG8199	Dmel\CG44242
+GO:0005952	"cAMP-dependent protein kinase complex"	Dmel\CG12069
+GO:0005953	"CAAX-protein geranylgeranyltransferase complex"	betaggt-I
+GO:0005955	"calcineurin complex"	Cib2
+GO:0005956	"protein kinase CK2 complex"	Dmel\CG40635
+GO:0005958	"DNA-dependent protein kinase-DNA ligase 4 complex"	Dmel\CG3448
+GO:0005960	"glycine cleavage complex"	E3
+GO:0005963	"magnesium-dependent protein serine/threonine phosphatase complex"	Cib2	PPP4R2r	Dmel\CG11597
+GO:0005964	"phosphorylase kinase complex"	PhKgamma
+GO:0005965	"protein farnesyltransferase complex"	Fntb
+GO:0005967	"mitochondrial pyruvate dehydrogenase complex"	E3
+GO:0005968	"Rab-protein geranylgeranyltransferase complex"	Rep
+GO:0005971	"ribonucleoside-diphosphate reductase complex"	RnrL
+GO:0008021	"synaptic vesicle"	Dop1R2	Syn
+GO:0008023	"transcription elongation factor complex"	Uspl1l	Atu	Spt5	NELF-B	Cdk9	dre4	CycT	EloA
+GO:0008024	"positive transcription elongation factor complex b"	CycT	Cdk9
+GO:0008074	"guanylate cyclase complex, soluble"	Gyc88E
+GO:0008076	"voltage-gated potassium channel complex"	Ih	Elk
+GO:0008091	"spectrin"	beta-Spec
+GO:0008180	"COP9 signalosome"	CG17059
+GO:0008230	"ecdysone receptor holocomplex"	EcR	usp
+GO:0008231	"repressor ecdysone receptor complex"	EcR
+GO:0008232	"activator ecdysone receptor complex"	usp
+GO:0008250	"oligosaccharyltransferase complex"	kud	CG33774
+GO:0008275	"gamma-tubulin small complex"	Grip84
+GO:0008278	"cohesin complex"	smc1	SA1
+GO:0008287	"protein serine/threonine phosphatase complex"	Cib2	Gbs-76A	PNUTS	PPP4R2r	Dmel\CG11597	Cnep1r1
+GO:0008290	"F-actin capping protein complex"	BcDNA:RE44624
+GO:0008303	"caspase complex"	GAA1
+GO:0008305	"integrin complex"	ItgaPS4
+GO:0008328	"ionotropic glutamate receptor complex"	stg1	Nmdar1	GluRIA
+GO:0008352	"katanin complex"	kat80
+GO:0008385	"IkappaB kinase complex"	IKKbeta
+GO:0008537	"proteasome activator complex"	REG
+GO:0008540	"proteasome regulatory particle, base subcomplex"	Rpn1
+GO:0008541	"proteasome regulatory particle, lid subcomplex"	Rpn11
+GO:0008622	"epsilon DNA polymerase complex"	Chrac-14
+GO:0008623	"CHRAC"	Chrac-14
+GO:0009295	"nucleoid"	mtDNA-helicase
+GO:0009328	"phenylalanine-tRNA ligase complex"	alpha-PheRS
+GO:0009331	"glycerol-3-phosphate dehydrogenase complex"	Gpdh1
+GO:0009353	"mitochondrial oxoglutarate dehydrogenase complex"	Dmel\CG44242
+GO:0009361	"succinate-CoA ligase complex (ADP-forming)"	Scsalpha1
+GO:0009368	"endopeptidase Clp complex"	ClpP
+GO:0009897	"external side of plasma membrane"	CG10948
+GO:0009898	"cytoplasmic side of plasma membrane"	kmr	shrb	ex	Dmel\CG43324
+GO:0009925	"basal plasma membrane"	Egfr	CD98hc
+GO:0009986	"cell surface"	CG10948	Alp1
+GO:0010008	"endosome membrane"	Vps4	Dmel\CG4080	Dmel\CG10435	BcDNA:RH52355	Lamtor1	FIG4	BcDNA.GH08385	Vps25	Dmel\CG6005	Past1	ema
+GO:0010009	"cytoplasmic side of endosome membrane"	BcDNA:RH52355
+GO:0010369	"chromocenter"	sba
+GO:0010494	"cytoplasmic stress granule"	Atx2
+GO:0012505	"endomembrane system"	Aladin	Gdi	RabX2	g	Vps11	Cog1	Dmel\CG30389	Dmel\CG5946	Dmel\CG6005	Cnep1r1	Dop1R2	Gos28	Gp210	CG1598	ORMDL	Dmel\CG10026	Sec63	Sar1	sau	Rab3GAP1	ALiX	AP-1gamma	Snx1	Snx3	CG31123	Rint1	Syn	Arv1	Past1	Nup188	CG11178	TORIP	SIDL	GM130	SrpRalpha	Sirt1	Dmel\CG4080	GAA1	BcDNA:RH52355	Rab10	Vps25	Bet3	ema	CG10700	Der-2	RpS26	Dmel\CG10365	Nup35	Nup107	CG4074	Afti	7B2	Stam	EMC1	CG9243	nrm	Alg13	ArfGAP3	Chc	Vps4	Chpf	CG5235	Alg10	PICK1	Ufd1	Hsc70-3	Dmel\CG7685	Ire1	btsz	Msp300	Dmel\CG13855	Lamtor1	Dmel\CG34194	BcDNA.GH08385	CG15651	Atg14	Dmel\CG10029	Trs31	SERCA	Cog3	Vta1	Madm	Sec22	Dmel\CG13893	AP-1-2beta	SEC61G1	Dmel\CG10435	Vps50	FIG4	Spase12	PIG-A	Tango1	Use1	Rich	PIG-M	Dbp80	Dmel\CG8237	Syt1	Vps51	CG33774	Nup93-1	Muted	kud
+GO:0012506	"vesicle membrane"	fab1	CG15760	Past1	Sec22	AP-1-2beta	Dmel\CG4080	Dmel\CG10435	BcDNA:RH52355	FIG4	Vps25	Dmel\CG5946	Dmel\CG6005	ema	Chc	Vps4	CG5235	Dop1R2	SppL	CG9132	Sar1	yin	Lamtor1	BcDNA.GH08385	AP-1gamma
+GO:0012507	"ER to Golgi transport vesicle membrane"	Sar1	Sec22
+GO:0012510	"trans-Golgi network transport vesicle membrane"	Chc	AP-1gamma
+GO:0014069	"postsynaptic density"	Prosap	KaiR1D
+GO:0015030	"Cajal body"	Ns3
+GO:0015629	"actin cytoskeleton"	up	Mlc-c	Actn	CG30183	Acam	Arp10	beta-Spec	Cam	Arpc1	Mlc1	Zasp66	Mhc	Fim	BcDNA:RE44624	Arp2	pigs
+GO:0015630	"microtubule cytoskeleton"	Cdlc2	Klp67A	Grip84	Dmel\CG15564	chb	RacGAP84C	kat80	Wdr62	Mzt1	Incenp	dgt6	rod	CG10845	Kap3	CG10874-RB	Arl8	Atat	Cep89	Dnali1	Dmel\CG46427	gammaTub23C	Grip128	Dmel\CG10859	CG7886	Dmel\CG32371	Dmel\CG10834	Zmynd10	Cdc14	Arp10	CG10510	Patronin	nudE	Dmel\CG3339	ens	BBS4	Bug22	Mink	Tctp
+GO:0015934	"large ribosomal subunit"	RpL10Aa	RpL19	mRpL1
+GO:0015935	"small ribosomal subunit"	RpS18	mRpS4	bonsai
+GO:0016010	"dystrophin-associated glycoprotein complex"	Dg	Syn	Scgalpha	Dmel\CG1806
+GO:0016011	"dystroglycan complex"	Dg	Scgalpha
+GO:0016012	"sarcoglycan complex"	Scgalpha
+GO:0016013	"syntrophin complex"	Syn
+GO:0016020	"membrane"	Egfr	kmr	Trpml	Dg	Syx1A	nAChRalpha1	Dmel\CG14020	Ca-alpha1D	alpha-Cat	Vps11	Tom20	Dmel\CG30389	Dmel\CG5946	Dmel\CG6005	put	Cnep1r1	ATPsyndelta	Ih	Dmel\CG14131	SdhC	Nct	Dop1R2	ATPsynB	CG1544	Scgbeta	ORMDL	Sec63	Sar1	Fadd	Dmel\CG14270	AP-1gamma	unc-13	Tbcd	ATPsynepsilonL	Snx1	KaiR1D	Snx3	Vha14-2	Vha100-1	SdhB	CG15760	CG31123	clu	mt:Cyt-b	Shaw	Syn	Past1	TORIP	SrpRalpha	CG13530	Sirt1	cnn	Dmel\CG4080	GAA1	Vha14-1	BcDNA:RH52355	crb	Traf6	Afg3l2	Vps25	COX7A	Cyt-c-d	Bet3	GABA-B-R1	ABCB7	InR	nSMase	Dmel\CG10761	Nmdar1	Dmel\CG43324	ema	DIP-kappa	ex	mGluR	Der-2	RpS26	Atg8a	CG9132	CG4074	Afti	BORCS5	fab1	nuf	EMC1	Or10a	Vps13B	CD98hc	cta	Alg13	OXA1L	18w	Atg12	NaCP60E	ItgaPS4	Abcd1	Scgalpha	CG1824	cm	NdufV3	CG12479	Cals	Dmel\CG11110	Chc	CG30459	lap	Vps4	CG11703	Chpf	CG5235	CG7639	Alg10	Ufd1	ATPsynC	Ire1	sdt	Dmel\CG42376	Msp300	Lamtor1	Dmel\CG34194	BcDNA.GH08385	AMT	COX4L	CG10948	Hydr2	GluRIA	Atg14	Nox	CG5662	babo	stg1	mt:ND3	CG1161	Dmel\CG6688	Acadvl	Sec22	ATPsynbeta	Vha26	Dmel\CG13893	AP-1-2beta	SEC61G1	Dmel\CG10435	CG11779	FIG4	shrb	Spase12	PIG-A	Dmel\CG43321	CG15458	Bet1	Dmel\CG1806	Elk	Lrp4	Pi3K59F	Use1	ATP6AP2	SppL	Dmel\CG8237	Sec8	CG33774	VhaM9.7-d	CG13515	SCAP	Fkbp59	yin	Pi3K21B	kud	CG5608	CG1409
+GO:0016021	"integral component of membrane"	EMC1	GluRIA	Nox	babo	Trpml	mt:Cyt-b	stg1	nAChRalpha1	CG13530	Ca-alpha1D	GAA1	NaCP60E	ItgaPS4	Afg3l2	Cyt-c-d	CG1824	NdufV3	GABA-B-R1	CG12479	InR	put	Dmel\CG43321	Nmdar1	Ih	Elk	CG11703	mGluR	AMT
+GO:0016027	"inaD signaling complex"	Fkbp59
+GO:0016028	"rhabdomere"	Fkbp59
+GO:0016035	"zeta DNA polymerase complex"	PolD2
+GO:0016272	"prefoldin complex"	Dmel\CG15676
+GO:0016281	"eukaryotic translation initiation factor 4F complex"	eIF4E1
+GO:0016282	"eukaryotic 43S preinitiation complex"	eIF1
+GO:0016323	"basolateral plasma membrane"	CD98hc
+GO:0016324	"apical plasma membrane"	Dmel\CG6688	ex
+GO:0016327	"apicolateral plasma membrane"	crb
+GO:0016328	"lateral plasma membrane"	Tbcd
+GO:0016342	"catenin complex"	alpha-Cat
+GO:0016442	"RISC complex"	AGO2
+GO:0016456	"X chromosome located dosage compensation complex, transcription activating"	JIL-1
+GO:0016459	"myosin complex"	Mlc-c	Acam	Cam	Mlc1	Mhc
+GO:0016460	"myosin II complex"	Mlc1	Mlc-c
+GO:0016461	"unconventional myosin complex"	Acam	Cam
+GO:0016469	"proton-transporting two-sector ATPase complex"	VhaM9.7-d	Vha14-2	Vha100-1	Vha26	ATPsynbeta	Vha14-1	ATP6AP2	ATPsynB	ATPsyndelta	ATPsynepsilonL	CG15458	ATPsynC
+GO:0016471	"vacuolar proton-transporting V-type ATPase complex"	ATP6AP2	Vha100-1	Vha14-1
+GO:0016507	"mitochondrial fatty acid beta-oxidation multienzyme complex"	Mtpalpha
+GO:0016513	"core-binding factor complex"	Bgb
+GO:0016514	"SWI/SNF complex"	osa
+GO:0016528	"sarcoplasm"	jp	SERCA
+GO:0016529	"sarcoplasmic reticulum"	SERCA
+GO:0016533	"cyclin-dependent protein kinase 5 holoenzyme complex"	Cdk5
+GO:0016580	"Sin3 complex"	Dmel\CG44774
+GO:0016581	"NuRD complex"	Chd3
+GO:0016586	"RSC complex"	polybromo
+GO:0016589	"NURF complex"	Caf1-55
+GO:0016590	"ACF complex"	Acf
+GO:0016591	"DNA-directed RNA polymerase II, holoenzyme"	TfIIFalpha	Gas41	Cdk7	Atu	TfIIA-L	TfIIEalpha	Polr2M	Polr2A
+GO:0016592	"mediator complex"	Dmel\CG32971
+GO:0016593	"Cdc73/Paf1 complex"	Atu
+GO:0016602	"CCAAT-binding factor complex"	Nf-YB
+GO:0016604	"nuclear body"	Slu7	anon-WO0140519.93	Ns3
+GO:0016607	"nuclear speck"	Slu7
+GO:0016939	"kinesin II complex"	Kap3
+GO:0017053	"transcriptional repressor complex"	lin-52	hry	CoRest	NC2beta
+GO:0017054	"negative cofactor 2 complex"	NC2beta
+GO:0017059	"serine C-palmitoyltransferase complex"	Dmel\CG34194	ORMDL
+GO:0017071	"intracellular cyclic nucleotide activated cation channel complex"	CG13530
+GO:0017101	"aminoacyl-tRNA synthetase multienzyme complex"	AIMP2
+GO:0017109	"glutamate-cysteine ligase complex"	Gclc
+GO:0017119	"Golgi transport complex"	Cog1
+GO:0017146	"NMDA selective glutamate receptor complex"	Nmdar1
+GO:0017177	"glucosidase II complex"	Dmel\CG7685
+GO:0018444	"translation release factor complex"	eRF3
+GO:0019005	"SCF ubiquitin ligase complex"	Dmel\CG4911
+GO:0019008	"molybdopterin synthase complex"	Mocs1
+GO:0019185	"snRNA-activating protein complex"	Pbp45
+GO:0019773	"proteasome core complex, alpha-subunit complex"	Prosalpha1
+GO:0019774	"proteasome core complex, beta-subunit complex"	Prosbeta1
+GO:0019866	"organelle inner membrane"	SdhB	Acadvl	OXA1L	ATPsynbeta	Sirt1	CG11779	Afg3l2	COX7A	Cyt-c-d	NdufV3	CG12479	ABCB7	Dmel\CG11110	ATPsyndelta	CG15458	Dmel\CG43321	CG30459	ATPsynB	Dmel\CG14270	COX4L	ATPsynepsilonL	CG1409
+GO:0019867	"outer membrane"	Tom20	Msp300	CG5662	clu	CG7639	Dmel\CG10761
+GO:0019897	"extrinsic component of plasma membrane"	Dmel\CG43324	lap	Fkbp59	kmr	alpha-Cat
+GO:0019898	"extrinsic component of membrane"	Dmel\CG43324	Acadvl	Dmel\CG14131	lap	Vps13B	Fkbp59	kmr	Atg14	Pi3K59F	Pi3K21B	clu	Dmel\CG6005	CG5608	alpha-Cat
+GO:0019908	"nuclear cyclin-dependent protein kinase holoenzyme complex"	CycT	Cdk9
+GO:0022624	"proteasome accessory complex"	Rpn1	REG	Rpn11
+GO:0022625	"cytosolic large ribosomal subunit"	RpL19
+GO:0022626	"cytosolic ribosome"	RpL19	RpS18
+GO:0022627	"cytosolic small ribosomal subunit"	RpS18
+GO:0030008	"TRAPP complex"	Bet3	SIDL	Trs31
+GO:0030014	"CCR4-NOT complex"	Cnot4	BG:DS07851.5
+GO:0030015	"CCR4-NOT core complex"	BG:DS07851.5
+GO:0030016	"myofibril"	up	zormin	tmod	mod(mdg4)
+GO:0030017	"sarcomere"	up	zormin	mod(mdg4)
+GO:0030018	"Z disc"	zormin
+GO:0030027	"lamellipodium"	abitram
+GO:0030054	"cell junction"	Fit1	Liprin-beta	Fak	Syn	Prosap	Clc	Csp	Calx	Syx1A	Csk	VGlut	g	CG42673	beta-Spec	Fife	p120ctn	Shrm	Cals	CG3770	lap	CG8907-RB	Lrp4	shakB	Dop1R2	Vinc	X11L	Mec2	PICK1	EndoA	vlc	shot	ci	sdt	Dmel\CG1909	unc-13	KaiR1D
+GO:0030055	"cell-substrate junction"	Fit1	Fak	shot
+GO:0030056	"hemidesmosome"	shot
+GO:0030062	"mitochondrial tricarboxylic acid cycle enzyme complex"	Dmel\CG8199	Dmel\CG44242
+GO:0030117	"membrane coat"	Chc	CG9132	Sar1	AP-1-2beta	AP-1gamma	Dmel\CG5946	cm
+GO:0030118	"clathrin coat"	AP-1-2beta	CG9132	Chc	AP-1gamma
+GO:0030119	"AP-type membrane coat adaptor complex"	AP-1-2beta	cm	AP-1gamma
+GO:0030120	"vesicle coat"	Chc	CG9132	Sar1	AP-1-2beta	Dmel\CG5946	AP-1gamma
+GO:0030121	"AP-1 adaptor complex"	AP-1gamma
+GO:0030122	"AP-2 adaptor complex"	AP-1-2beta
+GO:0030123	"AP-3 adaptor complex"	cm
+GO:0030125	"clathrin vesicle coat"	AP-1-2beta	CG9132	Chc	AP-1gamma
+GO:0030126	"COPI vesicle coat"	Dmel\CG5946
+GO:0030127	"COPII vesicle coat"	Sar1
+GO:0030128	"clathrin coat of endocytic vesicle"	AP-1-2beta
+GO:0030130	"clathrin coat of trans-Golgi network vesicle"	Chc	AP-1gamma
+GO:0030131	"clathrin adaptor complex"	AP-1-2beta	AP-1gamma
+GO:0030132	"clathrin coat of coated pit"	AP-1-2beta	Chc
+GO:0030133	"transport vesicle"	Sec22	Chc	Muted	btsz	Sar1	Dop1R2	Syn	AP-1gamma	RabX2
+GO:0030134	"ER to Golgi transport vesicle"	Sar1	Dmel\CG4293	Sec22
+GO:0030135	"coated vesicle"	Sec22	Chc	CG9132	Sar1	AP-1-2beta	Dmel\CG5946	anon-WO0118547.140	AP-1gamma	Dmel\CG4293	RabX2
+GO:0030136	"clathrin-coated vesicle"	Chc	CG9132	AP-1-2beta	anon-WO0118547.140	AP-1gamma	RabX2
+GO:0030137	"COPI-coated vesicle"	Dmel\CG5946
+GO:0030139	"endocytic vesicle"	Chc	yin	AP-1-2beta	Rab14	Past1
+GO:0030140	"trans-Golgi network transport vesicle"	RabX2	Chc	AP-1gamma
+GO:0030141	"secretory granule"	CG5235	Rab10	Dmel\CG13855	7B2	Syt1
+GO:0030175	"filopodium"	abitram	Mer
+GO:0030176	"integral component of endoplasmic reticulum membrane"	GAA1	EMC1
+GO:0030286	"dynein complex"	Dmel\CG10834	CG10510	Dmel\CG3339	Dmel\CG10859	Dnali1
+GO:0030289	"protein phosphatase 4 complex"	PPP4R2r
+GO:0030312	"external encapsulating structure"	Dmel\CG17211	Sgs5bis	CG17740	anon-f	Vm26Ab	Pxn	LanB1	GCR 1
+GO:0030314	"junctional membrane complex"	jp
+GO:0030424	"axon"	CG13531	Csp	Psn	unc-13	NetA	Sec8
+GO:0030425	"dendrite"	CG4537	stum	Or10a	X11L	VGAT	Psn
+GO:0030426	"growth cone"	NetA	Sec8	Psn
+GO:0030427	"site of polarized growth"	NetA	Sec8	Abp1	Psn
+GO:0030428	"cell septum"	kkv
+GO:0030496	"midbody"	Arl8
+GO:0030532	"small nuclear ribonucleoprotein complex"	Prp31	Brr2	CG5356	Sf3a1	CG12320	Dmel\CG3198	l(3)neo7	Lsm11
+GO:0030658	"transport vesicle membrane"	Sec22	Chc	Sar1	Dop1R2	AP-1gamma
+GO:0030659	"cytoplasmic vesicle membrane"	CG15760	Past1	Sec22	AP-1-2beta	Dmel\CG4080	Dmel\CG10435	BcDNA:RH52355	FIG4	Vps25	Dmel\CG5946	Dmel\CG6005	ema	Chc	Vps4	CG5235	Dop1R2	SppL	CG9132	Sar1	yin	Lamtor1	BcDNA.GH08385	AP-1gamma
+GO:0030660	"Golgi-associated vesicle membrane"	Dmel\CG5946	SppL	Chc	AP-1gamma
+GO:0030662	"coated vesicle membrane"	Sec22	Chc	CG9132	Sar1	AP-1-2beta	Dmel\CG5946	AP-1gamma
+GO:0030663	"COPI-coated vesicle membrane"	Dmel\CG5946
+GO:0030665	"clathrin-coated vesicle membrane"	AP-1-2beta	CG9132	Chc	AP-1gamma
+GO:0030666	"endocytic vesicle membrane"	yin	AP-1-2beta
+GO:0030667	"secretory granule membrane"	CG5235
+GO:0030669	"clathrin-coated endocytic vesicle membrane"	AP-1-2beta
+GO:0030670	"phagocytic vesicle membrane"	yin
+GO:0030672	"synaptic vesicle membrane"	Dop1R2
+GO:0030677	"ribonuclease P complex"	Pop4	Pop1	mldr
+GO:0030678	"mitochondrial ribonuclease P complex"	mldr
+GO:0030681	"multimeric ribonuclease P complex"	Pop1
+GO:0030684	"preribosome"	Noc1	Dmel\CG16753	Mat89Ba	CG6724	CG6316	Dmel\CG12325	Dmel\CG13097	Bka
+GO:0030686	"90S preribosome"	Noc1	Dmel\CG16753	Mat89Ba	CG6724	Dmel\CG12325	Dmel\CG13097
+GO:0030687	"preribosome, large subunit precursor"	Noc1	CG6316
+GO:0030688	"preribosome, small subunit precursor"	Dmel\CG16753
+GO:0030689	"Noc complex"	Noc1
+GO:0030690	"Noc1p-Noc2p complex"	Noc1
+GO:0030863	"cortical cytoskeleton"	Actn	beta-Spec	Fife	CG30183
+GO:0030864	"cortical actin cytoskeleton"	Actn	beta-Spec	CG30183
+GO:0030867	"rough endoplasmic reticulum membrane"	Sec63	SEC61G1	Dmel\CG30389	RpS26	SrpRalpha
+GO:0030870	"Mre11 complex"	mre11
+GO:0030877	"beta-catenin destruction complex"	Axn
+GO:0030880	"RNA polymerase complex"	TfIIFalpha	Gas41	Cdk7	Atu	TfIIA-L	TfIIEalpha	PolrMT	PolA2	Polr1C	Polr2M	CG6204	Polr2A
+GO:0030891	"VCB complex"	EloB
+GO:0030892	"mitotic cohesin complex"	SA1
+GO:0030894	"replisome"	PolD1	PolA2	RpLP1
+GO:0030896	"checkpoint clamp complex"	Hus1-like
+GO:0030897	"HOPS complex"	Vps11
+GO:0030904	"retromer complex"	Snx1	CG4074	Snx3
+GO:0030905	"retromer, tubulation complex"	Snx1
+GO:0030906	"retromer, cargo-selective complex"	CG4074
+GO:0030915	"Smc5-Smc6 complex"	CG15644
+GO:0030956	"glutamyl-tRNA(Gln) amidotransferase complex"	GatA
+GO:0030964	"NADH dehydrogenase complex"	mt:ND3	NdufV3
+GO:0030990	"intraciliary transport particle"	IFT52	Cluap1	IFT43
+GO:0030991	"intraciliary transport particle A"	IFT43
+GO:0030992	"intraciliary transport particle B"	Cluap1
+GO:0031010	"ISWI-type complex"	Chrac-14	BEST:LD14959	Acf	Caf1-55
+GO:0031011	"Ino80 complex"	mdcds_12730
+GO:0031012	"extracellular matrix"	Dmel\CG17211	Sgs5bis	CG17740	Vm26Ab	Pxn	LanB1	GCR 1
+GO:0031021	"interphase microtubule organizing center"	Mzt1
+GO:0031045	"dense core granule"	Syt1
+GO:0031074	"nucleocytoplasmic shuttling complex"	Ranbp21
+GO:0031080	"nuclear pore outer ring"	Nup107
+GO:0031082	"BLOC complex"	Blos1	CG14562	HPS1
+GO:0031083	"BLOC-1 complex"	Blos1
+GO:0031084	"BLOC-2 complex"	CG14562
+GO:0031085	"BLOC-3 complex"	HPS1
+GO:0031090	"organelle membrane"	Dmel\CG14020	Tom20	Dmel\CG30389	Dmel\CG5946	Dmel\CG6005	ATPsyndelta	Dop1R2	ATPsynB	CG1544	ORMDL	Sec63	Sar1	Dmel\CG14270	AP-1gamma	ATPsynepsilonL	Vha100-1	SdhB	CG15760	clu	Past1	SrpRalpha	Sirt1	Dmel\CG4080	GAA1	Vha14-1	BcDNA:RH52355	Afg3l2	Vps25	COX7A	Cyt-c-d	Bet3	ABCB7	ema	Dmel\CG10761	Der-2	RpS26	Atg8a	CG9132	Afti	BORCS5	fab1	EMC1	Alg13	OXA1L	Abcd1	NdufV3	CG12479	Dmel\CG11110	Chc	CG30459	Vps4	Chpf	CG5235	Alg10	Ufd1	Ire1	Msp300	Lamtor1	Dmel\CG34194	BcDNA.GH08385	COX4L	Atg14	CG5662	CG1161	Acadvl	Sec22	ATPsynbeta	Dmel\CG13893	AP-1-2beta	SEC61G1	Dmel\CG10435	CG11779	FIG4	Spase12	PIG-A	Dmel\CG43321	CG15458	Use1	ATP6AP2	SppL	Dmel\CG8237	CG33774	yin	kud	CG5608	CG1409
+GO:0031105	"septin complex"	Septin1
+GO:0031201	"SNARE complex"	Bet1
+GO:0031205	"endoplasmic reticulum Sec complex"	Sec63
+GO:0031207	"Sec62/Sec63 complex"	Sec63
+GO:0031209	"SCAR complex"	Abi
+GO:0031211	"endoplasmic reticulum palmitoyltransferase complex"	Dmel\CG34194	ORMDL
+GO:0031213	"RSF complex"	BEST:LD14959
+GO:0031224	"intrinsic component of membrane"	EMC1	GluRIA	Nox	babo	Trpml	mt:Cyt-b	stg1	nAChRalpha1	TORIP	CG13530	Ca-alpha1D	GAA1	NaCP60E	ItgaPS4	Afg3l2	Cyt-c-d	CG1824	NdufV3	GABA-B-R1	CG12479	InR	put	Dmel\CG43321	Nmdar1	Ih	Elk	CG11703	mGluR	Msp300	AMT
+GO:0031226	"intrinsic component of plasma membrane"	Ih	Elk	GluRIA	CG11703	NaCP60E	ItgaPS4	Nox	babo	mGluR	stg1	nAChRalpha1	GABA-B-R1	put	InR	Nmdar1
+GO:0031227	"intrinsic component of endoplasmic reticulum membrane"	GAA1	EMC1
+GO:0031234	"extrinsic component of cytoplasmic side of plasma membrane"	kmr	Dmel\CG43324
+GO:0031248	"protein acetyltransferase complex"	Naa30A	vnc	Atac2	Saf6	DMAP1	Naa15-16	Ada2b	MrgBP	Rcd5	Ada1-1	Dmel\CG12316	psidin	Br140	Dmel\CG10931
+GO:0031251	"PAN complex"	PAN2
+GO:0031252	"cell leading edge"	DIP-kappa	abitram	Or10a	CG11945	rhea
+GO:0031253	"cell projection membrane"	Dmel\CG14020	DIP-kappa	cta	Or10a
+GO:0031256	"leading edge membrane"	DIP-kappa	Or10a
+GO:0031261	"DNA replication preinitiation complex"	Cdc45	Psf1
+GO:0031262	"Ndc80 complex"	Ndc80
+GO:0031264	"death-inducing signaling complex"	Fadd
+GO:0031265	"CD95 death-inducing signaling complex"	Fadd
+GO:0031298	"replication fork protection complex"	tim
+GO:0031300	"intrinsic component of organelle membrane"	CG12479	Afg3l2	GAA1	EMC1
+GO:0031301	"integral component of organelle membrane"	CG12479	Afg3l2	GAA1	EMC1
+GO:0031304	"intrinsic component of mitochondrial inner membrane"	CG12479	Afg3l2
+GO:0031305	"integral component of mitochondrial inner membrane"	CG12479	Afg3l2
+GO:0031312	"extrinsic component of organelle membrane"	Acadvl	Atg14	Dmel\CG6005	clu
+GO:0031313	"extrinsic component of endosome membrane"	Dmel\CG6005
+GO:0031314	"extrinsic component of mitochondrial inner membrane"	Acadvl
+GO:0031315	"extrinsic component of mitochondrial outer membrane"	clu
+GO:0031332	"RNAi effector complex"	AGO2
+GO:0031371	"ubiquitin conjugating enzyme complex"	Bre1
+GO:0031379	"RNA-directed RNA polymerase complex"	CG6204
+GO:0031380	"nuclear RNA-directed RNA polymerase complex"	CG6204
+GO:0031389	"Rad17 RFC-like complex"	Rad17
+GO:0031390	"Ctf18 RFC-like complex"	Dmel\CG11788
+GO:0031395	"bursicon neuropeptide hormone complex"	Burs
+GO:0031410	"cytoplasmic vesicle"	CG15760	CG9243	Syn	Gdi	Past1	CG11178	SIDL	RabX2	g	Vta1	Vps11	Rac2	Sec22	AP-1-2beta	Dmel\CG4080	Dmel\CG10435	BcDNA:RH52355	Rab10	FIG4	Vps50	Vps25	Dmel\CG5946	Dmel\CG6005	ema	stac	Chc	Vps4	CG5235	Dop1R2	SppL	Rab14	PICK1	Dmel\CG4293	Slh	Syt1	Vps51	Dmel\CG10026	Muted	CG9132	btsz	Sar1	yin	Dmel\CG13855	Lamtor1	7B2	BcDNA.GH08385	ALiX	anon-WO0118547.140	AP-1gamma	Stam
+GO:0031414	"N-terminal protein acetyltransferase complex"	Naa30A	vnc	psidin
+GO:0031415	"NatA complex"	vnc
+GO:0031416	"NatB complex"	psidin
+GO:0031417	"NatC complex"	Naa30A
+GO:0031428	"box C/D snoRNP complex"	Nop56
+GO:0031429	"box H/ACA snoRNP complex"	CG7637
+GO:0031430	"M band"	mod(mdg4)
+GO:0031431	"Dbf4-dependent protein kinase complex"	chif
+GO:0031461	"cullin-RING ubiquitin ligase complex"	Fbw5	Cul3	ohgt	Cul5	APC10	Dmel\CG4911	CG30493	CG12084
+GO:0031462	"Cul2-RING ubiquitin ligase complex"	CG12084
+GO:0031463	"Cul3-RING ubiquitin ligase complex"	Cul3
+GO:0031464	"Cul4A-RING E3 ubiquitin ligase complex"	ohgt
+GO:0031466	"Cul5-RING ubiquitin ligase complex"	Cul5
+GO:0031475	"myosin V complex"	Cam
+GO:0031476	"myosin VI complex"	Acam
+GO:0031477	"myosin VII complex"	Cam
+GO:0031499	"TRAMP complex"	Trf4-1
+GO:0031501	"mannosyltransferase complex"	Dpm1	PIG-V
+GO:0031510	"SUMO activating enzyme complex"	Aos1
+GO:0031514	"motile cilium"	Dmel\CG14325	Dmel\CG14079	Gas8
+GO:0031515	"tRNA (m1A) methyltransferase complex"	Trmt6
+GO:0031519	"PcG protein complex"	Kdm2	Asx	corto
+GO:0031523	"Myb complex"	mip40
+GO:0031526	"brush border membrane"	cta
+GO:0031588	"nucleotide-activated protein kinase complex"	AMPKalpha
+GO:0031594	"neuromuscular junction"	Dmel\CG1909
+GO:0031597	"cytosolic proteasome complex"	Rpt4R
+GO:0031616	"spindle pole centrosome"	nudE
+GO:0031617	"NMS complex"	Ndc80
+GO:0031672	"A band"	mod(mdg4)
+GO:0031674	"I band"	zormin
+GO:0031901	"early endosome membrane"	Dmel\CG4080
+GO:0031902	"late endosome membrane"	Lamtor1	Dmel\CG4080
+GO:0031903	"microbody membrane"	Abcd1
+GO:0031907	"microbody lumen"	Pex7
+GO:0031931	"TORC1 complex"	Mipp2
+GO:0031932	"TORC2 complex"	Lst8
+GO:0031941	"filamentous actin"	Zasp66
+GO:0031965	"nuclear membrane"	Sirt1	Msp300
+GO:0031966	"mitochondrial membrane"	SdhB	CG5662	clu	Acadvl	OXA1L	ATPsynbeta	Tom20	CG11779	Afg3l2	COX7A	Cyt-c-d	NdufV3	CG12479	ABCB7	Dmel\CG11110	CG15458	ATPsyndelta	Dmel\CG10761	Dmel\CG43321	CG30459	ATPsynB	CG1544	Dmel\CG14270	COX4L	ATPsynepsilonL	CG1409
+GO:0031967	"organelle envelope"	SdhB	Aladin	CG5662	CG17996	clu	nrm	TORIP	Nup188	Acadvl	OXA1L	ATPsynbeta	Sirt1	Tom20	CG11779	Afg3l2	COX7A	Cyt-c-d	NdufV3	CG12479	ABCB7	Dmel\CG11110	Dmel\CG10761	CG15458	ATPsyndelta	Dmel\CG43321	CG30459	Tim10	ATPsynB	Dbp80	Gp210	CG1544	Nup93-1	Nup35	BNIP3	Nup107	Dmel\CG14270	Msp300	COX4L	ATPsynepsilonL	CG1409
+GO:0031968	"organelle outer membrane"	Tom20	Msp300	CG5662	clu	Dmel\CG10761
+GO:0031970	"organelle envelope lumen"	Tim10	CG17996
+GO:0031974	"membrane-enclosed lumen"	Gas41	Dmel\CG44242	Dmel\CG13097	Fib	HDAC4	i207	mtDNA-helicase	Pop1	corto	CG14803	CG10324	Cdk7	Cdk9	Cdc45	Dmel\CG8199	APC4	Naglu	mRpL1	CG17996	PolD1	Dmel\CG12325	Polr2A	Orc2	NSD	Dpy-30L1	Ak3	Atac2	DMAP1	TAF1B	Mat89Ba	Hus1-like	Polr2M	Dmel\CG10931	TfIIFalpha	E3	CG6724	Ptip	narya	bonsai	Ns3	EloA	Slu7	EG:25E8.3	Psf1	Dmel\CG12316	Uspl1l	Spt5	anon-WO0140519.93	Dmel\CG12848	PolA2	dre4	CG11583	CycT	tim	Saf6	Csl4	Dmel\CG12885	mus312	Ada2b	Dmel\CG10029	RpLP1	TfIIA-L	MrgBP	Rcd5	Chrac-14	Chd3	Atu	mdcds_12730	PolG1	PF1	CG11779	TfIIEalpha	CG7637	Ada1-1	NELF-B	Dmel\CG44774	Tim10	Br140	Mtpalpha	rept	Pex7
+GO:0031975	"envelope"	SdhB	Aladin	CG5662	CG17996	clu	nrm	TORIP	Nup188	Acadvl	OXA1L	ATPsynbeta	Sirt1	Tom20	CG11779	Afg3l2	COX7A	Cyt-c-d	NdufV3	CG12479	ABCB7	Dmel\CG11110	Dmel\CG10761	CG15458	ATPsyndelta	Dmel\CG43321	CG30459	Tim10	ATPsynB	Dbp80	Gp210	CG1544	Nup93-1	Nup35	BNIP3	Nup107	Dmel\CG14270	Msp300	COX4L	ATPsynepsilonL	CG1409
+GO:0031981	"nuclear lumen"	Gas41	Ada2b	Slu7	EG:25E8.3	RpLP1	TfIIA-L	PolD1	MrgBP	Dmel\CG12325	Psf1	Dmel\CG13097	Rcd5	Fib	Chrac-14	Chd3	HDAC4	Dmel\CG12316	Polr2A	Orc2	Uspl1l	Atu	mdcds_12730	Spt5	PF1	anon-WO0140519.93	NSD	TfIIEalpha	i207	CG7637	PolA2	Pop1	corto	Dpy-30L1	Ada1-1	Atac2	DMAP1	NELF-B	TAF1B	Mat89Ba	dre4	Dmel\CG44774	Hus1-like	CG11583	CG14803	CycT	Polr2M	Br140	Dmel\CG10931	CG10324	TfIIFalpha	rept	Cdk7	tim	Saf6	Cdk9	Cdc45	CG6724	Ptip	Csl4	narya	Dmel\CG12885	mus312	Ns3	EloA	APC4
+GO:0031982	"vesicle"	fab1	CG15760	CG9243	Syn	Gdi	Past1	CG11178	SIDL	RabX2	g	Vta1	Rac2	Vps11	Sec22	Acph-1	AP-1-2beta	Dmel\CG4080	Dmel\CG10435	BcDNA:RH52355	Rab10	FIG4	Vps50	Vps25	Dmel\CG5946	Dmel\CG6005	Dmel\CG18745	ema	stac	Als2	Chc	Vps4	CG5235	Dop1R2	SppL	Rab14	PICK1	Dmel\CG4293	Slh	Syt1	Vps51	Dmel\CG10026	Muted	CG9132	btsz	Sar1	yin	Dap160	Dmel\CG13855	Lamtor1	7B2	BcDNA.GH08385	ALiX	anon-WO0118547.140	AP-1gamma	Stam
+GO:0031984	"organelle subcompartment"	EMC1	Arv1	SrpRalpha	GM130	Alg13	GAA1	SEC61G1	Dmel\CG30389	Spase12	ArfGAP3	PIG-A	Chpf	Use1	Gos28	Dmel\CG8237	Alg10	Ufd1	Der-2	RpS26	CG33774	Dmel\CG10365	ORMDL	Ire1	Sec63	sau	Afti	Dmel\CG34194	kud	Rab3GAP1
+GO:0031985	"Golgi cisterna"	Chpf	Gos28	GM130	sau
+GO:0032021	"NELF complex"	NELF-B
+GO:0032039	"integrator complex"	IntS1
+GO:0032040	"small-subunit processome"	Bka
+GO:0032044	"DSIF complex"	Spt5
+GO:0032045	"guanyl-nucleotide exchange factor complex"	Lamtor1	Rich	eIF2Bgamma
+GO:0032116	"SMC loading complex"	Nipped-B	Mau2
+GO:0032133	"chromosome passenger complex"	Incenp
+GO:0032153	"cell division site"	Grip84	nuf	Septin2	CG30183
+GO:0032154	"cleavage furrow"	nuf
+GO:0032156	"septin cytoskeleton"	Septin4	Septin1
+GO:0032279	"asymmetric synapse"	Prosap	KaiR1D
+GO:0032281	"AMPA glutamate receptor complex"	stg1
+GO:0032299	"ribonuclease H2 complex"	CG11164
+GO:0032300	"mismatch repair complex"	Mlh1	Pms2	spel1
+GO:0032301	"MutSalpha complex"	spel1
+GO:0032389	"MutLalpha complex"	Pms2
+GO:0032420	"stereocilium"	dysc
+GO:0032421	"stereocilium bundle"	dysc	Cdc14
+GO:0032426	"stereocilium tip"	dysc
+GO:0032432	"actin filament bundle"	Fim	pigs
+GO:0032433	"filopodium tip"	abitram
+GO:0032541	"cortical endoplasmic reticulum"	Arv1
+GO:0032545	"CURI complex"	Mat89Ba
+GO:0032580	"Golgi cisterna membrane"	Chpf
+GO:0032584	"growth cone membrane"	Sec8
+GO:0032588	"trans-Golgi network membrane"	Afti
+GO:0032589	"neuron projection membrane"	DIP-kappa	Or10a
+GO:0032590	"dendrite membrane"	Or10a
+GO:0032592	"integral component of mitochondrial membrane"	CG12479	Afg3l2
+GO:0032593	"insulin-responsive compartment"	Rab10
+GO:0032783	"ELL-EAF complex"	Uspl1l
+GO:0032797	"SMN complex"	Gem2
+GO:0032806	"carboxy-terminal domain protein kinase complex"	CycT	Cdk7	Cdk9
+GO:0032807	"DNA ligase IV complex"	Dmel\CG3448
+GO:0032809	"neuronal cell body membrane"	Shaw
+GO:0032838	"cell projection cytoplasm"	CG10510	Fmr1	Dmel\CG15701	frtz	Arl6	Bug22	Rsph4a	Dmel\CG10859	Dnali1
+GO:0032936	"SREBP-SCAP complex"	SCAP
+GO:0032982	"myosin filament"	lva
+GO:0032991	"macromolecular complex"	Gas41	Irbp	Aladin	Trpml	smc1	Dmel\CG13097	nAChRalpha1	Aos1	Ca-alpha1D	Gbs-76A	i207	Gclc	GatA	put	ATPsyndelta	pont	Lsm10	RpS18	SdhC	ATPsynB	Bap111	Snapin	Cdk7	osa	Cdc45	mRpS4	AP-1gamma	Pop4	ATPsynepsilonL	metro	Dmel\CG15676	Elp1	eEF1beta	TORIP	Rpn1	kat80	Polr2A	SNRPG	Dmel\CG3294	Vha14-1	Ndc80	Caf1-105	Cul5	Afg3l2	Cyt-c-d	Dpy-30L1	Bet3	InR	Dmel\CG43324	Dmel\CG16753	Tps1	Mat89Ba	EcR	Tbp	E3	BigH1	CCDC53	CG6724	Gyc88E	Stam	CG10341	alpha-PheRS	EMC1	LUBEL	Nlg1	eIF3a	Hira	Uspl1l	hry	NaCP60E	CG10845	Scgalpha	CG7137	Ski6	Dmel\CG11110	Dmel\CG13807	Chc	IFT43	Lst8	CG11703	TfIIB	Vps4	PPP4R2r	Dmel\CG40635	Bap170	Ufd1	mdlc	CG12084	Zw10	RpS23	Msp300	Dmel\CG12069	Csl4	APP-BP1	CG31922	CG5662	Trs31	Rcd5	mt:ND3	eIF2alpha	Vha26	mdcds_12730	Incenp	AP-1-2beta	CG6316	CycA	PIG-A	PhKgamma	psidin	Ada1-1	Mocs1	CG5356	Ltn1	Tim10	jp	ci	Iml1	Dmel\CG8237	LanB1	gammaTub23C	Atg13	IntS1	kud	Dmel\CG3339	spn-B	CG5608	twy	SA1	Dmel\CG44242	Acf	Gdi	RacGAP84C	alpha-Cat	Ranbp21	sip1	Dmel\CG5946	Pop1	Dmel\CG5986	Pbp45	Asx	Nct	Cdk2	CstF50	PolrMT	Brf	Slbp	ORMDL	U2af50	eRF3	Sar1	CG10510	ohgt	Mlc1	BEST:LD29996	Nop56	AMPKalpha	CIA30	Prp18	Dmel\CG8199	Snx3	Bgb	Vha14-2	Vha100-1	SdhB	CycE	CG8858	Rint1	mt:Cyt-b	SIDL	SrpRalpha	CG13530	Dmel\CG4301	RnrL	pelo	Burs	Cib2	Col4a1	Nubp1	TAF1B	Hus1-like	Eno	lin-52	MED14	Der-2	CG15644	Noc1	Nup35	B9d1	Ptpa	Trf4-1	RtcB	Nprl3	Cdlc2	Scsalpha1	chif	Hel25E	Dmel\CG12316	Dmel\CG3448	Rpn11	Sgt	CG12320	dgt6	NdufV3	cm	dre4	rogdi	sdt	Dmel\CG34194	BcDNA.GH08385	Dmel\CG12885	Clk	up	Ada2b	stg1	Mhc	Chd3	Prp31	Dmel\CG11788	Atu	Dmel\CG10435	CG11779	TfIIEalpha	Trmt6	Spase12	CG15458	Mlc-c	Dmel\CG1806	Elk	betaggt-I	Pi3K59F	Rich	Dbp80	Dmel\CG10803	Rpt4R	tho2	Fkbp59	mip40	Pi3K21B	Bre1	CG1409	Cpsf5	Sou	eIF4E1	Mer	Grip84	Dg	muc	Wdr24	HDAC4	Bka	hay	Tom20	Dmel\CG1622	APC10	ClpP	corto	Dnali1	Mlh1	Tsc1	Cnot4	Mcm2	CG1598	mldr	Sec63	Arp10	Cam	Prosbeta1	Ciao1	btz	BcDNA:RE44624	Snx1	mRpL1	PlexB	Mccc1	Abi	Clp	spel1	Syn	CG4279	Rsph4a	AIMP2	Naa30A	Ppcdc	mxt	PolD2	Vps25	Gnf1	Atac2	Brr2	PIG-V	mms4	CG17059	Dmel\CG4911	PCID2	HPS1	TfIIFalpha	Nup107	CG9132	Acam	PNUTS	Dmel\CG1463	CG4045	polybromo	bonsai	Pcyt2	eIF2Bgamma	Fum1	Srp14	Psf1	Tsen34	arm	IKKbeta	Atg12	DNAlig3	Suv3	Dmel\CG32971	Fntb	Xrcc2	BEST:LD14959	Dmel\CG46427	Prx5	CycT	Hsc70-3	tim	Saf6	Ire1	IFT52	Axn	CG42374	Prp19	Dmel\CG3198	Dmel\CG7907	Ssl1	GluRIA	SKI3	REG	RpL19	Xpac	Cap-D2	CG7637	anon-WO0118547.376	Kap3	Arp2	Dmel\CG43321	PIG-M	BG:DS07851.5	CG33774	Smg6	CG14562	Nup93-1	rept	Tti1	Amnionless	SCAP	Gpdh1	Caf1-55	Ccm3	Rad17	CoRest	Marc	BBIP1	Exo70	Dmel\CG5447	Vps11	Cog1	Mipp2	Mad	Flacc	Cnep1r1	CG7741	Ih	Dmel\CG14131	Pdss2	RagC-D	Gp210	Pfk	Nacalpha	Ask1	pasha	Cdk9	Septin1	Fadd	Dmel\CG14270	Lcch3	Dmel\CG11597	Tcs3	Tango14	Fbw5	NC2beta	PolD1	Dmel\CG12325	Nup188	icln	Naa15-16	Snr1	Orc2	Blos1	cnn	GAA1	Rep	Traf6	Fancl	GABA-B-R1	eIF1	Nmdar1	Bub3	DMAP1	Mau2	alpha-KGDHC	mGluR	Polr2M	Dmel\CG10931	mre11	Dmel\CG10834	Sf3a1	CG4074	Pms2	Ptip	Rbp6	EloA	vnc	Prosalpha1	Pex12	usp	Ctu1	Cul3	EG:25E8.3	Nf-YB	Zasp66	Cluap1	PCNA2	Alg13	Nfs1	Spt5	ItgaPS4	PolA2	eIF3i	CG1824	CG12479	l(3)neo7	PAN2	CG7099	CG11777	dgrn	EloB	Dmel\CG8435	Polr1C	AGO2	ScsbetaG	Dmel\CG7685	ATPsynC	Dmel\CG10859	Prps	eIF2Balpha	Syf2	Dmel\CG42376	RnpS1	Sxl	Lamtor1	AMT	COX4L	mus312	Kdm2	Nipped-B	Atg14	Nox	RpLP1	TfIIA-L	babo	MrgBP	HemK2	CG30493	Cdk5	Chrac-14	CG11164	Lsm11	ATPsynbeta	PolG1	PF1	SEC61G1	beta-Spec	Vps50	RpL10Aa	plu	Bet1	NELF-B	Gem2	Dmel\CG9667	Dmel\CG44774	Bfc	JIL-1	ATP6AP2	dysc	CG11263	Ercc1	Vps51	Br140	Mtpalpha	VhaM9.7-d	thoc7	Dpm1	Jra	CG6204	Dmel\CG3473	Xpc
+GO:0032993	"protein-DNA complex"	BigH1	Cdc45	TfIIB	RpLP1	i207	PolD1	PolA2	Psf1
+GO:0033061	"DNA recombinase mediator complex"	spn-B	Xrcc2
+GO:0033063	"Rad51B-Rad51C-Rad51D-XRCC2 complex"	Xrcc2
+GO:0033065	"Rad51C-XRCC3 complex"	spn-B
+GO:0033106	"cis-Golgi network membrane"	Bet3
+GO:0033176	"proton-transporting V-type ATPase complex"	VhaM9.7-d	Vha14-2	Vha100-1	Vha14-1	ATP6AP2
+GO:0033177	"proton-transporting two-sector ATPase complex, proton-transporting domain"	ATPsynB	Vha100-1	ATPsynC
+GO:0033178	"proton-transporting two-sector ATPase complex, catalytic domain"	Vha26	ATPsynbeta	Vha14-1	ATPsynepsilonL	ATPsyndelta
+GO:0033179	"proton-transporting V-type ATPase, V0 domain"	Vha100-1
+GO:0033180	"proton-transporting V-type ATPase, V1 domain"	Vha14-1
+GO:0033181	"plasma membrane proton-transporting V-type ATPase complex"	VhaM9.7-d
+GO:0033185	"dolichol-phosphate-mannose synthase complex"	Dpm1
+GO:0033186	"CAF-1 complex"	Caf1-105
+GO:0033263	"CORVET complex"	Vps11
+GO:0033290	"eukaryotic 48S preinitiation complex"	eIF2alpha
+GO:0033503	"HULC complex"	Bre1
+GO:0033553	"rDNA heterochromatin"	CG7137
+GO:0033557	"Slx1-Slx4 complex"	mus312
+GO:0033565	"ESCRT-0 complex"	Stam
+GO:0033588	"Elongator holoenzyme complex"	Elp1
+GO:0033596	"TSC1-TSC2 complex"	Tsc1
+GO:0033597	"mitotic checkpoint complex"	Bub3
+GO:0033768	"SUMO-targeted ubiquitin ligase complex"	dgrn
+GO:0034045	"pre-autophagosomal structure membrane"	Atg14	Atg12
+GO:0034066	"RIC1-RGP1 guanyl-nucleotide exchange factor complex"	Rich
+GO:0034098	"VCP-NPL4-UFD1 AAA ATPase complex"	Ufd1
+GO:0034245	"mitochondrial DNA-directed RNA polymerase complex"	PolrMT
+GO:0034271	"phosphatidylinositol 3-kinase complex, class III, type I"	Atg14
+GO:0034272	"phosphatidylinositol 3-kinase complex, class III, type II"	Pi3K59F
+GO:0034274	"Atg12-Atg5-Atg16 complex"	Atg12
+GO:0034388	"Pwp2p-containing subcomplex of 90S preribosome"	Dmel\CG12325
+GO:0034399	"nuclear periphery"	APC4
+GO:0034451	"centriolar satellite"	Zmynd10
+GO:0034455	"t-UTP complex"	EG:25E8.3
+GO:0034456	"UTP-C complex"	Mat89Ba
+GO:0034457	"Mpp10 complex"	Dmel\CG13097
+GO:0034464	"BBSome"	BBIP1
+GO:0034515	"proteasome storage granule"	Rpn2
+GO:0034518	"RNA cap binding complex"	mxt	Dmel\CG7907	Dmel\CG13807
+GO:0034657	"GID complex"	Sou
+GO:0034663	"endoplasmic reticulum chaperone complex"	Hsc70-3
+GO:0034702	"ion channel complex"	Ih	Elk	CG13530	GluRIA	NaCP60E	Trpml	stg1	CG1824	nAChRalpha1	Dmel\CG43321	Ca-alpha1D	Nmdar1
+GO:0034703	"cation channel complex"	Ih	Elk	CG13530	NaCP60E	Trpml	stg1	CG1824	Dmel\CG43321	Ca-alpha1D	Nmdar1
+GO:0034704	"calcium channel complex"	Dmel\CG43321	Ca-alpha1D
+GO:0034705	"potassium channel complex"	Ih	Elk	CG1824
+GO:0034706	"sodium channel complex"	NaCP60E
+GO:0034708	"methyltransferase complex"	Ptip	HemK2	CG4045	Flacc	Rcd5	corto	Trmt6	Dmel\CG12885	Dpy-30L1	icln	Dmel\CG10931
+GO:0034709	"methylosome"	icln
+GO:0034715	"pICln-Sm protein complex"	icln
+GO:0034719	"SMN-Sm protein complex"	Gem2	SNRPG
+GO:0034751	"aryl hydrocarbon receptor complex"	metro
+GO:0034992	"microtubule organizing center attachment site"	Msp300
+GO:0034993	"LINC complex"	Msp300
+GO:0034998	"oligosaccharyltransferase I complex"	kud
+GO:0035003	"subapical complex"	sdt
+GO:0035032	"phosphatidylinositol 3-kinase complex, class III"	Atg14	Pi3K59F	CG5608
+GO:0035060	"brahma complex"	Bap111
+GO:0035097	"histone methyltransferase complex"	Ptip	Rcd5	Dmel\CG12885	corto	Dpy-30L1	Dmel\CG10931
+GO:0035098	"ESC/E(Z) complex"	corto
+GO:0035101	"FACT complex"	dre4
+GO:0035102	"PRC1 complex"	corto
+GO:0035145	"exon-exon junction complex"	btz
+GO:0035253	"ciliary rootlet"	CCDC151
+GO:0035267	"NuA4 histone acetyltransferase complex"	DMAP1
+GO:0035301	"Hedgehog signaling complex"	ci
+GO:0035324	"female germline ring canal"	Cul3
+GO:0035339	"SPOTS complex"	ORMDL
+GO:0035371	"microtubule plus-end"	Dmel\CG32371
+GO:0035517	"PR-DUB complex"	Asx
+GO:0035657	"eRF1 methyltransferase complex"	HemK2
+GO:0035658	"Mon1-Ccz1 complex"	Gdi
+GO:0035770	"ribonucleoprotein granule"	CG31879	CG13588	Cp1	Fmr1	Atx2	CG11263
+GO:0035805	"egg coat"	Vm26Ab
+GO:0035859	"Seh1-associated complex"	Wdr24	Iml1	Nprl3
+GO:0035861	"site of double-strand break"	ver
+GO:0035869	"ciliary transition zone"	Kap3	B9d1
+GO:0035976	"AP1 complex"	Jra
+GO:0036019	"endolysosome"	ema
+GO:0036020	"endolysosome membrane"	ema
+GO:0036038	"TCTN-B9D complex"	B9d1
+GO:0036056	"filtration diaphragm"	Mec2
+GO:0036064	"ciliary basal body"	Cdc14	CG7886
+GO:0036125	"fatty acid beta-oxidation multienzyme complex"	Mtpalpha
+GO:0036126	"sperm flagellum"	Dmel\CG14325	Dmel\CG14079
+GO:0036156	"inner dynein arm"	Dnali1
+GO:0036157	"outer dynein arm"	Dmel\CG10859
+GO:0036375	"Kibra-Ex-Mer complex"	Mer
+GO:0036379	"myofilament"	up
+GO:0036387	"pre-replicative complex"	i207
+GO:0036396	"MIS complex"	Flacc
+GO:0036449	"microtubule minus-end"	Patronin
+GO:0036452	"ESCRT complex"	Vps4	Dmel\CG10435	BcDNA.GH08385	Vps25	Stam
+GO:0036464	"cytoplasmic ribonucleoprotein granule"	CG13588	Cp1	Fmr1	Atx2	CG11263
+GO:0036477	"somatodendritic compartment"	CG4537	stum	Or10a	X11L	Shaw	Neurochondrin	VGAT	Psn	ple
+GO:0038037	"G-protein coupled receptor dimeric complex"	GABA-B-R1	mGluR
+GO:0038038	"G-protein coupled receptor homodimeric complex"	mGluR
+GO:0038039	"G-protein coupled receptor heterodimeric complex"	GABA-B-R1
+GO:0038201	"TOR complex"	Lst8	Mipp2
+GO:0042175	"nuclear outer membrane-endoplasmic reticulum membrane network"	EMC1	SrpRalpha	Alg13	GAA1	SEC61G1	Dmel\CG30389	Spase12	PIG-A	Cnep1r1	Use1	Dmel\CG8237	Alg10	Ufd1	Der-2	RpS26	CG33774	ORMDL	Ire1	Sec63	Msp300	Dmel\CG34194	kud
+GO:0042383	"sarcolemma"	Scgbeta
+GO:0042555	"MCM complex"	Mcm2
+GO:0042565	"RNA nuclear export complex"	Ranbp21
+GO:0042575	"DNA polymerase complex"	PolG1	PolD1	PolA2	PolD2	Chrac-14
+GO:0042579	"microbody"	Abcd1	Pex7
+GO:0042600	"chorion"	anon-f
+GO:0042641	"actomyosin"	pigs
+GO:0042645	"mitochondrial nucleoid"	mtDNA-helicase
+GO:0042709	"succinate-CoA ligase complex"	Scsalpha1	ScsbetaG
+GO:0042719	"mitochondrial intermembrane space protein transporter complex"	Tim10
+GO:0042720	"mitochondrial inner membrane peptidase complex"	Dmel\CG11110
+GO:0042721	"mitochondrial inner membrane protein insertion complex"	Dmel\CG14270
+GO:0042734	"presynaptic membrane"	unc-13	Syx1A	lap
+GO:0042765	"GPI-anchor transamidase complex"	GAA1
+GO:0042788	"polysomal ribosome"	RpS23
+GO:0042995	"cell projection"	abitram	stum	Or10a	Mer	Dmel\CG15701	BBIP1	Csp	Dmel\CG14020	Arl6	unc-13	Rsph4a	Myo95E	cta	CG4537	Myo10A	Hyls1	VGAT	Kap3	twy	Dnali1	Actn	DIP-kappa	X11L	Psn	dysc	NetA	Sec8	Dmel\CG10859	CG7886	B9d1	Dmel\CG14325	Fkbp59	Cdc14	CG10510	CG13531	Gas8	CCDC151	Fmr1	Dmel\CG14079	frtz	rhea	Dmel\CG14367	Bug22
+GO:0043005	"neuron projection"	CG4537	DIP-kappa	stum	Or10a	Cdc14	CG13531	NetA	Fmr1	X11L	Csp	VGAT	Psn	unc-13	dysc	Sec8
+GO:0043020	"NADPH oxidase complex"	Nox
+GO:0043025	"neuronal cell body"	Shaw	Neurochondrin	ple
+GO:0043186	"P granule"	CG11263
+GO:0043189	"H4/H2A histone acetyltransferase complex"	MrgBP	DMAP1
+GO:0043190	"ATP-binding cassette (ABC) transporter complex"	AMT
+GO:0043195	"terminal bouton"	unc-13	Csp
+GO:0043197	"dendritic spine"	X11L
+GO:0043198	"dendritic shaft"	Psn
+GO:0043202	"lysosomal lumen"	Naglu
+GO:0043204	"perikaryon"	ple
+GO:0043226	"organelle"	Gas41	Irbp	Aladin	smc1	Dmel\CG13097	Dmel\CG14020	PGAP5	Aos1	g	CG10336	i207	mtDNA-helicase	Kmn1	ATPsyndelta	RpS18	ATPsynB	Bap111	CG1544	CG10324	Cdk7	osa	Dmel\CG14325	Cdc45	mRpS4	Dmel\CG14079	AP-1gamma	frtz	ATPsynepsilonL	Rev1	Bug22	CG15760	Past1	CG11178	TORIP	kat80	GM130	Polr2A	Dmel\CG3294	Vha14-1	Ndc80	Fife	Afg3l2	Cyt-c-d	Dpy-30L1	Bet3	ABCB7	Mat89Ba	EcR	ver	E3	Atg8a	BigH1	CG6724	Afti	Stam	EMC1	Slu7	Dmel\CG13442	sba	nrm	Arpc1	Uspl1l	MED17	hry	CG5286	Dmel\CG12848	CG10845	CG7137	Dmel\CG11110	Chc	Vps4	CG11583	Bap170	PICK1	Ufd1	mdlc	Zw10	RpS23	Msp300	Rpn2	nudE	Csl4	CG31922	CG15651	BBS4	ens	CG5662	Dmel\CG3420	Trs31	SERCA	Rcd5	Arl6	Sec22	mdcds_12730	Incenp	AP-1-2beta	PIG-A	Ada1-1	CG5356	Tim10	Atx2	Dmel\CG8237	gammaTub23C	Pex7	IntS1	Dnaaf3	kud	Dmel\CG3339	spn-B	CG5608	twy	Tctp	SA1	Dmel\CG44242	Acf	Gdi	Fib	RacGAP84C	Acph-1	sip1	mod(mdg4)	Dmel\CG5946	Pop1	Dmel\CG5986	stac	Asx	Cp1	CstF50	PolrMT	CG14803	Slbp	ORMDL	U2af50	Sar1	CG10510	Mlc1	Rab3GAP1	ALiX	Prp18	Fim	Dmel\CG8199	Bgb	Naglu	Vha100-1	SdhB	Klp67A	Rint1	CG17996	SIDL	SrpRalpha	Sirt1	BcDNA:RH52355	Rab10	COX7A	Arl8	ema	Ak3	TAF1B	Hus1-like	lin-52	MED14	Rab14	Der-2	CG15644	RpS26	Noc1	Nup35	B9d1	Zmynd10	Dap160	Fmr1	Trf4-1	Cdlc2	CG9243	Hel25E	Dmel\CG12316	Wdr62	sktl	Dmel\CG3448	CG12320	dgt6	Abcd1	NdufV3	ArfGAP3	nopo	FRG1	CG30459	dre4	Cap-D3	Dmel\CG34194	BcDNA.GH08385	Dmel\CG12885	Clk	up	Ada2b	Dmel\CG10029	Dmel\CG15701	Dmel\CG15564	chb	Mhc	Chd3	Prp31	Dmel\CG11788	Atu	Mzt1	Dmel\CG12715	Dmel\CG10435	CG11779	TfIIEalpha	FIG4	Spase12	Atat	CG15458	Mlc-c	zormin	Rich	Dbp80	vlc	BNIP3	tho2	Cdc14	Gas8	mip40	Patronin	Aatf	Bre1	CG1409	Cpsf5	Grip84	HDAC4	Rac2	hay	Tom20	Dmel\CG30389	Dmel\CG1622	APC10	Dmel\CG6005	corto	Dnali1	Acsf3	Pdzd8	Gos28	Dmel\CG30284	CG1598	Dmel\CG10026	mldr	Sec63	Arp10	Cam	sau	btz	BcDNA:RE44624	KaiR1D	Mink	mRpL1	Clp	Syn	clu	spel1	Rsph4a	Dmel\CG4080	NSD	Hyls1	Vps25	Gnf1	Dmel\CG18745	pigs	Atac2	Brr2	CG10700	CG17059	PCID2	Dmel\CG4293	TfIIFalpha	Nup107	CG9132	Noa36	Acam	7B2	polybromo	bonsai	Prosap	Psf1	Tsen34	arm	OXA1L	DNAlig3	Suv3	Dmel\CG32971	Cep89	Als2	Xrcc2	BEST:LD14959	CG5235	Dmel\CG46427	Alg10	CycT	Start1	Hsc70-3	tim	Saf6	Dmel\CG32371	Ire1	CCDC151	CG42374	Dmel\CG3198	anon-WO0118547.140	Ssl1	RpL19	Xpac	CG1161	CG31879	Vta1	Acadvl	CG30183	Cap-D2	CG7637	rod	anon-WO0118547.376	Kap3	Arp2	Dmel\CG43321	PIG-M	Slh	CG33774	Smg6	Nup93-1	Tti1	rept	shot	CG11007	CG6664	Caf1-55	Dmel\CG14367	Rad17	Ect3	BBIP1	RabX2	tmod	Vps11	Cog1	Mad	CG10874-RB	CG13588	CG7741	Dop1R2	Gp210	Grip128	pasha	Cdk9	Septin1	Dmel\CG14270	APC4	NC2beta	Arv1	PolD1	Dmel\CG12325	Nup188	Snr1	Orc2	GAA1	Fancl	Dmel\CG10761	Bub3	DMAP1	CG18301	Mau2	Polr2M	Dmel\CG10931	Dmel\CG10365	mre11	Vps15	Dmel\CG10834	Sf3a1	Pms2	Ptip	narya	Uvrag	BORCS5	Ns3	EloA	fab1	usp	EG:25E8.3	Septin4	Nf-YB	Zasp66	PCNA2	Alg13	Spt5	Atg1	anon-WO0140519.93	PolA2	CG12479	l(3)neo7	Actn	CG11777	dgrn	Chpf	Dmel\CG8435	Polr1C	Dmel\CG7685	Dmel\CG10859	btsz	Syf2	Arpc3A	Dmel\CG13855	Lamtor1	COX4L	mus312	Kdm2	Nipped-B	Atg14	RpLP1	TfIIA-L	MrgBP	Chrac-14	Cog3	Lsm11	ATPsynbeta	Dmel\CG13893	PolG1	PF1	SEC61G1	beta-Spec	Vps50	RpL10Aa	CG9899	Tango1	NELF-B	Dmel\CG9667	Dmel\CG44774	Bfc	Use1	JIL-1	ATP6AP2	SppL	dysc	CG11263	Syt1	Ercc1	Vps51	Br140	Mtpalpha	CG7886	thoc7	Muted	yin	Jra	CG6204	Xpc
+GO:0043227	"membrane-bounded organelle"	Gas41	Irbp	Aladin	Dmel\CG13097	Dmel\CG14020	PGAP5	Aos1	g	i207	mtDNA-helicase	ATPsyndelta	ATPsynB	Bap111	CG1544	CG10324	Cdk7	osa	Dmel\CG14325	Cdc45	Dmel\CG14079	AP-1gamma	frtz	ATPsynepsilonL	Bug22	CG15760	Past1	CG11178	TORIP	GM130	Polr2A	Dmel\CG3294	Vha14-1	Afg3l2	Cyt-c-d	Dpy-30L1	Bet3	ABCB7	Mat89Ba	EcR	E3	Atg8a	CG6724	Afti	Stam	EMC1	Slu7	Dmel\CG13442	nrm	Uspl1l	hry	Dmel\CG12848	CG7137	Dmel\CG11110	Chc	Vps4	CG11583	Bap170	PICK1	Ufd1	mdlc	Msp300	Csl4	CG31922	CG15651	CG5662	Dmel\CG3420	Trs31	SERCA	Rcd5	Arl6	Sec22	mdcds_12730	AP-1-2beta	PIG-A	Ada1-1	CG5356	Tim10	Dmel\CG8237	Pex7	IntS1	kud	spn-B	CG5608	twy	Dmel\CG44242	Acf	Gdi	Fib	Acph-1	sip1	Dmel\CG5946	Pop1	Dmel\CG5986	stac	Asx	CstF50	PolrMT	CG14803	Slbp	ORMDL	U2af50	Sar1	CG10510	Rab3GAP1	ALiX	Prp18	Dmel\CG8199	Bgb	Naglu	Vha100-1	SdhB	Rint1	CG17996	SIDL	SrpRalpha	Sirt1	BcDNA:RH52355	Rab10	COX7A	ema	Ak3	TAF1B	Hus1-like	lin-52	MED14	Rab14	Der-2	RpS26	Noc1	Nup35	B9d1	Dap160	Trf4-1	CG9243	Hel25E	Dmel\CG12316	Dmel\CG3448	CG12320	Abcd1	NdufV3	ArfGAP3	CG30459	dre4	Dmel\CG34194	BcDNA.GH08385	Dmel\CG12885	Clk	Ada2b	Dmel\CG10029	Dmel\CG15701	Chd3	Prp31	Atu	Dmel\CG10435	CG11779	TfIIEalpha	FIG4	Spase12	CG15458	Rich	Dbp80	BNIP3	tho2	Cdc14	Gas8	mip40	Aatf	CG1409	Cpsf5	HDAC4	Rac2	hay	Tom20	Dmel\CG30389	Dmel\CG1622	APC10	Dmel\CG6005	corto	Dnali1	Acsf3	Gos28	CG1598	Dmel\CG10026	mldr	Sec63	sau	btz	mRpL1	Clp	Syn	clu	spel1	Rsph4a	Dmel\CG4080	NSD	Hyls1	Vps25	Dmel\CG18745	Atac2	Brr2	CG10700	CG17059	PCID2	Dmel\CG4293	TfIIFalpha	Nup107	CG9132	7B2	polybromo	bonsai	Psf1	Tsen34	arm	OXA1L	DNAlig3	Suv3	Dmel\CG32971	Als2	Xrcc2	BEST:LD14959	CG5235	Alg10	CycT	Hsc70-3	tim	Saf6	Ire1	CCDC151	CG42374	Dmel\CG3198	anon-WO0118547.140	Ssl1	Xpac	CG1161	Vta1	Acadvl	CG7637	anon-WO0118547.376	Kap3	Dmel\CG43321	PIG-M	Slh	CG33774	Smg6	Nup93-1	Tti1	rept	CG11007	Caf1-55	Dmel\CG14367	Ect3	BBIP1	RabX2	Vps11	Cog1	Mad	CG7741	Dop1R2	Gp210	pasha	Cdk9	Dmel\CG14270	APC4	NC2beta	Arv1	PolD1	Dmel\CG12325	Nup188	Snr1	Orc2	GAA1	Fancl	Dmel\CG10761	Bub3	DMAP1	Mau2	Polr2M	Dmel\CG10931	Dmel\CG10365	mre11	Sf3a1	Pms2	Ptip	narya	Uvrag	BORCS5	Ns3	EloA	fab1	usp	EG:25E8.3	Nf-YB	PCNA2	Alg13	Spt5	Atg1	anon-WO0140519.93	PolA2	CG12479	l(3)neo7	CG11777	dgrn	Chpf	Dmel\CG8435	Polr1C	Dmel\CG7685	Dmel\CG10859	btsz	Syf2	Dmel\CG13855	Lamtor1	COX4L	mus312	Kdm2	Nipped-B	Atg14	RpLP1	TfIIA-L	MrgBP	Chrac-14	Cog3	Lsm11	ATPsynbeta	Dmel\CG13893	PolG1	PF1	SEC61G1	Vps50	Tango1	NELF-B	Dmel\CG9667	Dmel\CG44774	Bfc	Use1	JIL-1	ATP6AP2	SppL	Syt1	Ercc1	Vps51	Br140	Mtpalpha	CG7886	thoc7	Muted	yin	Jra	CG6204	Xpc
+GO:0043228	"non-membrane-bounded organelle"	SA1	Grip84	smc1	Dmel\CG13097	Acf	Fib	RacGAP84C	tmod	CG10336	mtDNA-helicase	mod(mdg4)	Pop1	CG10874-RB	Kmn1	Dnali1	CG13588	RpS18	Cp1	CG14803	Bap111	Grip128	osa	Septin1	Arp10	CG10510	mRpS4	Cam	Mlc1	frtz	Fim	BcDNA:RE44624	Bug22	Rev1	Mink	Klp67A	mRpL1	PolD1	Dmel\CG12325	kat80	Rsph4a	Snr1	Orc2	NSD	Ndc80	Fife	Arl8	Gnf1	pigs	CG18301	TAF1B	Mat89Ba	Hus1-like	CG15644	ver	BigH1	Dmel\CG10834	Noa36	Acam	Zmynd10	CG6724	Fmr1	narya	bonsai	polybromo	Cdlc2	EG:25E8.3	Septin4	sba	Psf1	Zasp66	Arpc1	Wdr62	sktl	MED17	CG5286	dgt6	Dmel\CG12848	PolA2	CG10845	CG7137	nopo	FRG1	Cep89	Actn	BEST:LD14959	dre4	Dmel\CG46427	CG11583	Bap170	Cap-D3	Dmel\CG10859	tim	Dmel\CG32371	RpS23	Zw10	Arpc3A	CCDC151	Rpn2	nudE	ens	BBS4	mus312	up	RpLP1	Dmel\CG15564	RpL19	chb	Mhc	Chrac-14	Chd3	Arl6	CG31879	Dmel\CG11788	mdcds_12730	CG30183	Mzt1	Incenp	PF1	beta-Spec	Cap-D2	RpL10Aa	CG7637	rod	CG9899	Kap3	Atat	Arp2	Mlc-c	zormin	Dmel\CG44774	JIL-1	Atx2	gammaTub23C	CG11263	Tti1	CG7886	rept	shot	Cdc14	Dnaaf3	Patronin	CG6664	Dmel\CG3339	Caf1-55	Rad17	Bre1	Tctp
+GO:0043229	"intracellular organelle"	Gas41	Irbp	Aladin	smc1	Dmel\CG13097	PGAP5	Aos1	g	CG10336	i207	mtDNA-helicase	Kmn1	ATPsyndelta	RpS18	ATPsynB	Bap111	CG1544	CG10324	Cdk7	osa	Cdc45	mRpS4	AP-1gamma	frtz	ATPsynepsilonL	Rev1	Bug22	CG15760	Past1	CG11178	TORIP	kat80	GM130	Polr2A	Dmel\CG3294	Vha14-1	Ndc80	Fife	Afg3l2	Cyt-c-d	Dpy-30L1	Bet3	ABCB7	Mat89Ba	EcR	ver	E3	Atg8a	BigH1	CG6724	Afti	Stam	EMC1	Slu7	Dmel\CG13442	sba	nrm	Arpc1	Uspl1l	MED17	hry	CG5286	Dmel\CG12848	CG10845	CG7137	Dmel\CG11110	Chc	Vps4	CG11583	Bap170	PICK1	Ufd1	mdlc	Zw10	RpS23	Msp300	Rpn2	nudE	Csl4	CG31922	CG15651	BBS4	ens	CG5662	Dmel\CG3420	Trs31	SERCA	Rcd5	Arl6	Sec22	mdcds_12730	Incenp	AP-1-2beta	PIG-A	Ada1-1	CG5356	Tim10	Atx2	Dmel\CG8237	gammaTub23C	Pex7	IntS1	Dnaaf3	kud	Dmel\CG3339	spn-B	CG5608	Tctp	SA1	Dmel\CG44242	Acf	Gdi	Fib	RacGAP84C	sip1	mod(mdg4)	Dmel\CG5946	Pop1	Dmel\CG5986	stac	Asx	Cp1	CstF50	PolrMT	CG14803	Slbp	ORMDL	U2af50	Sar1	CG10510	Mlc1	Rab3GAP1	ALiX	Prp18	Fim	Dmel\CG8199	Bgb	Naglu	Vha100-1	SdhB	Klp67A	Rint1	CG17996	SIDL	SrpRalpha	Sirt1	BcDNA:RH52355	Rab10	COX7A	Arl8	ema	Ak3	TAF1B	Hus1-like	lin-52	MED14	Rab14	Der-2	CG15644	RpS26	Noc1	Nup35	Zmynd10	Dap160	Fmr1	Trf4-1	Cdlc2	CG9243	Hel25E	Dmel\CG12316	Wdr62	sktl	Dmel\CG3448	CG12320	dgt6	Abcd1	NdufV3	ArfGAP3	nopo	FRG1	CG30459	dre4	Cap-D3	Dmel\CG34194	BcDNA.GH08385	Dmel\CG12885	Clk	up	Ada2b	Dmel\CG10029	Dmel\CG15564	chb	Mhc	Chd3	Prp31	Dmel\CG11788	Atu	Mzt1	Dmel\CG12715	Dmel\CG10435	CG11779	TfIIEalpha	FIG4	Spase12	Atat	CG15458	Mlc-c	zormin	Rich	Dbp80	BNIP3	tho2	Cdc14	mip40	Patronin	Aatf	Bre1	CG1409	Cpsf5	Grip84	HDAC4	Rac2	hay	Tom20	Dmel\CG30389	Dmel\CG1622	APC10	Dmel\CG6005	corto	Dnali1	Acsf3	Gos28	CG1598	Dmel\CG10026	mldr	Sec63	Arp10	Cam	sau	btz	BcDNA:RE44624	Mink	mRpL1	Clp	Syn	clu	spel1	Rsph4a	Dmel\CG4080	NSD	Vps25	Gnf1	pigs	Atac2	Brr2	CG10700	CG17059	PCID2	Dmel\CG4293	TfIIFalpha	Nup107	CG9132	Noa36	Acam	7B2	polybromo	bonsai	Psf1	Tsen34	arm	OXA1L	DNAlig3	Suv3	Dmel\CG32971	Cep89	Xrcc2	BEST:LD14959	CG5235	Dmel\CG46427	Alg10	CycT	Hsc70-3	tim	Saf6	Dmel\CG32371	Ire1	CCDC151	CG42374	Dmel\CG3198	anon-WO0118547.140	Ssl1	RpL19	Xpac	CG1161	CG31879	Vta1	Acadvl	CG30183	Cap-D2	CG7637	rod	anon-WO0118547.376	Kap3	Arp2	Dmel\CG43321	PIG-M	Slh	CG33774	Smg6	Nup93-1	Tti1	rept	shot	CG6664	Caf1-55	Rad17	Ect3	RabX2	tmod	Vps11	Cog1	Mad	CG10874-RB	CG13588	CG7741	Dop1R2	Gp210	Grip128	pasha	Cdk9	Septin1	Dmel\CG14270	APC4	NC2beta	Arv1	PolD1	Dmel\CG12325	Nup188	Snr1	Orc2	GAA1	Fancl	Dmel\CG10761	Bub3	DMAP1	CG18301	Mau2	Polr2M	Dmel\CG10931	Dmel\CG10365	mre11	Dmel\CG10834	Sf3a1	Pms2	Ptip	narya	Uvrag	BORCS5	Ns3	EloA	usp	EG:25E8.3	Septin4	Nf-YB	Zasp66	PCNA2	Alg13	Spt5	Atg1	anon-WO0140519.93	PolA2	CG12479	l(3)neo7	Actn	CG11777	dgrn	Chpf	Dmel\CG8435	Polr1C	Dmel\CG7685	Dmel\CG10859	btsz	Syf2	Arpc3A	Dmel\CG13855	Lamtor1	COX4L	mus312	Kdm2	Nipped-B	Atg14	RpLP1	TfIIA-L	MrgBP	Chrac-14	Cog3	Lsm11	ATPsynbeta	Dmel\CG13893	PolG1	PF1	SEC61G1	beta-Spec	Vps50	RpL10Aa	CG9899	Tango1	NELF-B	Dmel\CG9667	Dmel\CG44774	Bfc	Use1	JIL-1	ATP6AP2	SppL	CG11263	Syt1	Ercc1	Vps51	Br140	Mtpalpha	CG7886	thoc7	Muted	yin	Jra	CG6204	Xpc
+GO:0043230	"extracellular organelle"	Dmel\CG18745	Acph-1
+GO:0043231	"intracellular membrane-bounded organelle"	Gas41	Irbp	Aladin	Dmel\CG13097	PGAP5	Aos1	g	i207	mtDNA-helicase	ATPsyndelta	ATPsynB	Bap111	CG1544	CG10324	Cdk7	osa	Cdc45	AP-1gamma	ATPsynepsilonL	CG15760	Past1	CG11178	TORIP	GM130	Polr2A	Dmel\CG3294	Vha14-1	Afg3l2	Cyt-c-d	Dpy-30L1	Bet3	ABCB7	Mat89Ba	EcR	E3	Atg8a	CG6724	Afti	Stam	EMC1	Slu7	Dmel\CG13442	nrm	Uspl1l	hry	Dmel\CG12848	CG7137	Dmel\CG11110	Chc	Vps4	CG11583	Bap170	PICK1	Ufd1	mdlc	Msp300	Csl4	CG31922	CG15651	CG5662	Dmel\CG3420	Trs31	SERCA	Rcd5	Sec22	mdcds_12730	AP-1-2beta	PIG-A	Ada1-1	CG5356	Tim10	Dmel\CG8237	Pex7	IntS1	kud	spn-B	CG5608	Dmel\CG44242	Acf	Gdi	Fib	sip1	Dmel\CG5946	Pop1	Dmel\CG5986	stac	Asx	CstF50	PolrMT	CG14803	Slbp	ORMDL	U2af50	Sar1	Rab3GAP1	ALiX	Prp18	Dmel\CG8199	Bgb	Naglu	Vha100-1	SdhB	Rint1	CG17996	SIDL	SrpRalpha	Sirt1	BcDNA:RH52355	Rab10	COX7A	ema	Ak3	TAF1B	Hus1-like	lin-52	MED14	Rab14	Der-2	RpS26	Noc1	Nup35	Dap160	Trf4-1	CG9243	Hel25E	Dmel\CG12316	Dmel\CG3448	CG12320	Abcd1	NdufV3	ArfGAP3	CG30459	dre4	Dmel\CG34194	BcDNA.GH08385	Dmel\CG12885	Clk	Ada2b	Dmel\CG10029	Chd3	Prp31	Atu	Dmel\CG10435	CG11779	TfIIEalpha	FIG4	Spase12	CG15458	Rich	Dbp80	BNIP3	tho2	mip40	Aatf	CG1409	Cpsf5	HDAC4	Rac2	hay	Tom20	Dmel\CG30389	Dmel\CG1622	APC10	Dmel\CG6005	corto	Acsf3	Gos28	CG1598	Dmel\CG10026	mldr	Sec63	sau	btz	mRpL1	Clp	Syn	clu	spel1	Dmel\CG4080	NSD	Vps25	Atac2	Brr2	CG10700	CG17059	PCID2	Dmel\CG4293	TfIIFalpha	Nup107	CG9132	7B2	polybromo	bonsai	Psf1	Tsen34	arm	OXA1L	DNAlig3	Suv3	Dmel\CG32971	Xrcc2	BEST:LD14959	CG5235	Alg10	CycT	Hsc70-3	tim	Saf6	Ire1	CG42374	Dmel\CG3198	anon-WO0118547.140	Ssl1	Xpac	CG1161	Vta1	Acadvl	CG7637	anon-WO0118547.376	Dmel\CG43321	PIG-M	Slh	CG33774	Smg6	Nup93-1	Tti1	rept	Caf1-55	Ect3	RabX2	Vps11	Cog1	Mad	CG7741	Dop1R2	Gp210	pasha	Cdk9	Dmel\CG14270	APC4	NC2beta	Arv1	PolD1	Dmel\CG12325	Nup188	Snr1	Orc2	GAA1	Fancl	Dmel\CG10761	Bub3	DMAP1	Mau2	Polr2M	Dmel\CG10931	Dmel\CG10365	mre11	Sf3a1	Pms2	Ptip	narya	Uvrag	BORCS5	Ns3	EloA	usp	EG:25E8.3	Nf-YB	PCNA2	Alg13	Spt5	Atg1	anon-WO0140519.93	PolA2	CG12479	l(3)neo7	CG11777	dgrn	Chpf	Dmel\CG8435	Polr1C	Dmel\CG7685	btsz	Syf2	Dmel\CG13855	Lamtor1	COX4L	mus312	Kdm2	Nipped-B	Atg14	RpLP1	TfIIA-L	MrgBP	Chrac-14	Cog3	Lsm11	ATPsynbeta	Dmel\CG13893	PolG1	PF1	SEC61G1	Vps50	Tango1	NELF-B	Dmel\CG9667	Dmel\CG44774	Bfc	Use1	JIL-1	ATP6AP2	SppL	Syt1	Br140	Vps51	Ercc1	Mtpalpha	thoc7	Muted	yin	Jra	CG6204	Xpc
+GO:0043232	"intracellular non-membrane-bounded organelle"	SA1	Grip84	smc1	Dmel\CG13097	Acf	Fib	RacGAP84C	tmod	CG10336	mtDNA-helicase	mod(mdg4)	Pop1	CG10874-RB	Kmn1	Dnali1	CG13588	RpS18	Cp1	CG14803	Bap111	Grip128	osa	Septin1	Arp10	CG10510	mRpS4	Cam	Mlc1	frtz	Fim	BcDNA:RE44624	Bug22	Rev1	Mink	Klp67A	mRpL1	PolD1	Dmel\CG12325	kat80	Rsph4a	Snr1	Orc2	NSD	Ndc80	Fife	Arl8	Gnf1	pigs	CG18301	TAF1B	Mat89Ba	Hus1-like	CG15644	ver	BigH1	Dmel\CG10834	Noa36	Acam	Zmynd10	CG6724	Fmr1	narya	bonsai	polybromo	Cdlc2	EG:25E8.3	Septin4	sba	Psf1	Zasp66	Arpc1	Wdr62	sktl	MED17	CG5286	dgt6	Dmel\CG12848	PolA2	CG10845	CG7137	nopo	FRG1	Cep89	Actn	BEST:LD14959	dre4	Dmel\CG46427	CG11583	Bap170	Cap-D3	Dmel\CG10859	tim	Dmel\CG32371	RpS23	Zw10	Arpc3A	CCDC151	Rpn2	nudE	ens	BBS4	mus312	up	RpLP1	Dmel\CG15564	RpL19	chb	Mhc	Chrac-14	Chd3	Arl6	CG31879	Dmel\CG11788	mdcds_12730	CG30183	Mzt1	Incenp	PF1	beta-Spec	Cap-D2	RpL10Aa	CG7637	rod	CG9899	Kap3	Atat	Arp2	Mlc-c	zormin	Dmel\CG44774	JIL-1	Atx2	gammaTub23C	CG11263	Tti1	CG7886	rept	shot	Cdc14	Dnaaf3	Patronin	CG6664	Dmel\CG3339	Caf1-55	Rad17	Bre1	Tctp
+GO:0043233	"organelle lumen"	Gas41	Dmel\CG44242	Dmel\CG13097	Fib	HDAC4	i207	mtDNA-helicase	Pop1	corto	CG14803	CG10324	Cdk7	Cdk9	Cdc45	Dmel\CG8199	APC4	Naglu	mRpL1	CG17996	PolD1	Dmel\CG12325	Polr2A	Orc2	NSD	Dpy-30L1	Ak3	Atac2	DMAP1	TAF1B	Mat89Ba	Hus1-like	Polr2M	Dmel\CG10931	TfIIFalpha	E3	CG6724	Ptip	narya	bonsai	Ns3	EloA	Slu7	EG:25E8.3	Psf1	Dmel\CG12316	Uspl1l	Spt5	anon-WO0140519.93	Dmel\CG12848	PolA2	dre4	CG11583	CycT	tim	Saf6	Csl4	Dmel\CG12885	mus312	Ada2b	Dmel\CG10029	RpLP1	TfIIA-L	MrgBP	Rcd5	Chrac-14	Chd3	Atu	mdcds_12730	PolG1	PF1	CG11779	TfIIEalpha	CG7637	Ada1-1	NELF-B	Dmel\CG44774	Tim10	Br140	Mtpalpha	rept	Pex7
+GO:0043235	"receptor complex"	Amnionless	GluRIA	PlexB	ItgaPS4	babo	Traf6	mGluR	stg1	Lcch3	nAChRalpha1	GABA-B-R1	put	InR	Nmdar1	metro
+GO:0043240	"Fanconi anaemia nuclear complex"	Fancl
+GO:0043256	"laminin complex"	LanB1
+GO:0043291	"RAVE complex"	rogdi
+GO:0043292	"contractile fiber"	up	zormin	FRG1	Mlc1	mod(mdg4)	tmod
+GO:0043296	"apical junction complex"	sdt	Shrm	CG3770
+GO:0043527	"tRNA methyltransferase complex"	CG4045	Trmt6
+GO:0043529	"GET complex"	CG1598
+GO:0043541	"UDP-N-acetylglucosamine transferase complex"	Alg13
+GO:0043564	"Ku70:Ku80 complex"	Irbp
+GO:0043596	"nuclear replication fork"	tim	RpLP1	PolD1	PolA2	CG14803
+GO:0043601	"nuclear replisome"	PolD1	PolA2	RpLP1
+GO:0043614	"multi-eIF complex"	eIF1
+GO:0043625	"delta DNA polymerase complex"	PolD1
+GO:0043626	"PCNA complex"	PCNA2
+GO:0043679	"axon terminus"	unc-13	Csp
+GO:0044232	"organelle membrane contact site"	CG30459	Pdzd8	Start1	Dmel\CG30284	Vps15
+GO:0044233	"ER-mitochondrion membrane contact site"	Pdzd8
+GO:0044284	"mitochondrial crista junction"	CG30459
+GO:0044291	"cell-cell contact zone"	Vinc
+GO:0044292	"dendrite terminus"	VGAT
+GO:0044295	"axonal growth cone"	NetA
+GO:0044297	"cell body"	Shaw	Neurochondrin	ple
+GO:0044298	"cell body membrane"	Shaw
+GO:0044306	"neuron projection terminus"	unc-13	Csp	VGAT
+GO:0044309	"neuron spine"	X11L
+GO:0044391	"ribosomal subunit"	RpS18	mRpL1	mRpS4	RpL10Aa	RpL19	bonsai
+GO:0044545	"NSL complex"	Rcd5
+GO:0044611	"nuclear pore inner ring"	Nup188
+GO:0044613	"nuclear pore central transport channel"	Nup35
+GO:0044614	"nuclear pore cytoplasmic filaments"	Dbp80
+GO:0044615	"nuclear pore nuclear basket"	Nup93-1
+GO:0044665	"MLL1/2 complex"	Rcd5	Dpy-30L1
+GO:0044666	"MLL3/4 complex"	Ptip
+GO:0044796	"DNA polymerase processivity factor complex"	PCNA2
+GO:0044815	"DNA packaging complex"	Cap-D2	BigH1
+GO:0044853	"plasma membrane raft"	nSMase
+GO:0045025	"mitochondrial degradosome"	Suv3
+GO:0045095	"keratin filament"	CG5286
+GO:0045111	"intermediate filament cytoskeleton"	shot	CG5286
+GO:0045121	"membrane raft"	Lamtor1	nSMase
+GO:0045171	"intercellular bridge"	Cul3
+GO:0045172	"germline ring canal"	Cul3
+GO:0045177	"apical part of cell"	Dmel\CG5921	ex	Mer	insc	Dmel\CG6688
+GO:0045178	"basal part of cell"	CD98hc	Egfr	CG11620
+GO:0045179	"apical cortex"	insc
+GO:0045180	"basal cortex"	CG11620
+GO:0045202	"synapse"	Liprin-beta	Syn	Prosap	Clc	Csp	Calx	Syx1A	g	VGlut	CG42673	Fife	Cals	lap	CG8907-RB	Lrp4	Dop1R2	X11L	PICK1	EndoA	vlc	Dmel\CG1909	unc-13	KaiR1D
+GO:0045211	"postsynaptic membrane"	KaiR1D	Cals
+GO:0045239	"tricarboxylic acid cycle enzyme complex"	Scsalpha1	Fum1	Dmel\CG44242	alpha-KGDHC	Dmel\CG8199	ScsbetaG
+GO:0045240	"dihydrolipoyl dehydrogenase complex"	Dmel\CG8199	Dmel\CG44242	alpha-KGDHC
+GO:0045252	"oxoglutarate dehydrogenase complex"	Dmel\CG44242	alpha-KGDHC
+GO:0045254	"pyruvate dehydrogenase complex"	E3	muc
+GO:0045257	"succinate dehydrogenase complex (ubiquinone)"	SdhB
+GO:0045259	"proton-transporting ATP synthase complex"	ATPsynbeta	CG15458	ATPsynB	ATPsynepsilonL	ATPsyndelta	ATPsynC
+GO:0045261	"proton-transporting ATP synthase complex, catalytic core F(1)"	ATPsynepsilonL	ATPsyndelta	ATPsynbeta
+GO:0045263	"proton-transporting ATP synthase complex, coupling factor F(o)"	ATPsynB	ATPsynC
+GO:0045265	"proton-transporting ATP synthase, stator stalk"	ATPsynB
+GO:0045267	"proton-transporting ATP synthase, catalytic core"	ATPsynbeta
+GO:0045269	"proton-transporting ATP synthase, central stalk"	ATPsyndelta
+GO:0045271	"respiratory chain complex I"	NdufV3
+GO:0045273	"respiratory chain complex II"	SdhB	SdhC
+GO:0045275	"respiratory chain complex III"	mt:Cyt-b	Cyt-c-d
+GO:0045277	"respiratory chain complex IV"	COX4L	Dmel\CG42376
+GO:0045281	"succinate dehydrogenase complex"	SdhB	SdhC
+GO:0045283	"fumarate reductase complex"	SdhB
+GO:0045293	"mRNA editing complex"	Flacc
+GO:0045334	"clathrin-coated endocytic vesicle"	AP-1-2beta	Chc
+GO:0045335	"phagocytic vesicle"	yin	Rab14
+GO:0045495	"pole plasm"	CG11263
+GO:0046536	"dosage compensation complex"	JIL-1
+GO:0046540	"U4/U6 x U5 tri-snRNP complex"	CG5356
+GO:0046695	"SLIK (SAGA-like) complex"	Saf6
+GO:0048179	"activin receptor complex"	babo
+GO:0048188	"Set1C/COMPASS complex"	Dmel\CG12885
+GO:0048471	"perinuclear region of cytoplasm"	Anp32a
+GO:0048475	"coated membrane"	Chc	CG9132	Sar1	AP-1-2beta	AP-1gamma	Dmel\CG5946	cm
+GO:0048476	"Holliday junction resolvase complex"	mms4
+GO:0048500	"signal recognition particle"	Srp14
+GO:0048786	"presynaptic active zone"	unc-13	Liprin-beta	Syx1A	Fife
+GO:0048787	"presynaptic active zone membrane"	Syx1A
+GO:0048788	"cytoskeleton of presynaptic active zone"	Fife
+GO:0051233	"spindle midzone"	Klp67A	Incenp	Arl8
+GO:0055029	"nuclear DNA-directed RNA polymerase complex"	TfIIFalpha	Gas41	Cdk7	Atu	TfIIA-L	TfIIEalpha	PolA2	Polr1C	Polr2M	Polr2A
+GO:0055037	"recycling endosome"	Past1	CG11178	Vps50
+GO:0055038	"recycling endosome membrane"	Past1
+GO:0055087	"Ski complex"	SKI3
+GO:0055120	"striated muscle dense body"	FRG1
+GO:0060076	"excitatory synapse"	VGlut
+GO:0060091	"kinocilium"	Cdc14
+GO:0060170	"ciliary membrane"	Dmel\CG14020
+GO:0060293	"germ plasm"	CG11263
+GO:0060388	"vitelline envelope"	Vm26Ab
+GO:0061174	"type I terminal bouton"	Csp
+GO:0061177	"type Is terminal bouton"	Csp
+GO:0061574	"ASAP complex"	RnpS1
+GO:0061617	"MICOS complex"	CG12479
+GO:0061673	"mitotic spindle astral microtubule"	Klp67A
+GO:0061689	"tricellular tight junction"	ci
+GO:0061695	"transferase complex, transferring phosphorus-containing groups"	Gas41	CycE	Atg14	babo	TfIIA-L	PolD1	Cdk5	Chrac-14	IKKbeta	Polr2A	Atu	PolG1	TfIIEalpha	PolA2	PolD2	CG6316	CycA	PhKgamma	InR	plu	Dmel\CG14131	Cdk2	Pi3K59F	PolrMT	Polr1C	CycT	Polr2M	Pfk	TfIIFalpha	Cdk7	Prps	Ask1	Atg13	Cdk9	Pi3K21B	AMPKalpha	CG6204	CG5608
+GO:0061700	"GATOR2 complex"	Wdr24
+GO:0065010	"extracellular membrane-bounded organelle"	Dmel\CG18745	Acph-1
+GO:0070013	"intracellular organelle lumen"	Gas41	Dmel\CG44242	Dmel\CG13097	Fib	HDAC4	i207	mtDNA-helicase	Pop1	corto	CG14803	CG10324	Cdk7	Cdk9	Cdc45	Dmel\CG8199	APC4	Naglu	mRpL1	CG17996	PolD1	Dmel\CG12325	Polr2A	Orc2	NSD	Dpy-30L1	Ak3	Atac2	DMAP1	TAF1B	Mat89Ba	Hus1-like	Polr2M	Dmel\CG10931	TfIIFalpha	E3	CG6724	Ptip	narya	bonsai	Ns3	EloA	Slu7	EG:25E8.3	Psf1	Dmel\CG12316	Uspl1l	Spt5	anon-WO0140519.93	Dmel\CG12848	PolA2	dre4	CG11583	CycT	tim	Saf6	Csl4	Dmel\CG12885	mus312	Ada2b	Dmel\CG10029	RpLP1	TfIIA-L	MrgBP	Rcd5	Chrac-14	Chd3	Atu	mdcds_12730	PolG1	PF1	CG11779	TfIIEalpha	CG7637	Ada1-1	NELF-B	Dmel\CG44774	Tim10	Br140	Mtpalpha	rept	Pex7
+GO:0070062	"extracellular exosome"	Acph-1
+GO:0070069	"cytochrome complex"	COX4L	mt:Cyt-b	Dmel\CG42376	Cyt-c-d
+GO:0070160	"occluding junction"	Shrm	ci	CG3770
+GO:0070161	"anchoring junction"	Fit1	shot	CG3770	ci	sdt	Fak	shakB	Vinc	Mec2	p120ctn	Csk	Shrm
+GO:0070176	"DRM complex"	lin-52
+GO:0070209	"ASTRA complex"	Tti1
+GO:0070274	"RES complex"	anon-WO0118547.376
+GO:0070382	"exocytic vesicle"	btsz	Dop1R2	Syn
+GO:0070390	"transcription export complex 2"	PCID2
+GO:0070419	"nonhomologous end joining complex"	Dmel\CG3448
+GO:0070421	"DNA ligase III-XRCC1 complex"	DNAlig3
+GO:0070449	"elongin complex"	EloA
+GO:0070461	"SAGA-type complex"	Atac2	Saf6	Ada1-1	Ada2b
+GO:0070469	"respiratory chain"	SdhB	SdhC	Dmel\CG42376	mt:Cyt-b	COX7A	Cyt-c-d	NdufV3	COX4L
+GO:0070522	"ERCC4-ERCC1 complex"	Ercc1
+GO:0070545	"PeBoW complex"	CG6724
+GO:0070578	"RISC-loading complex"	AGO2
+GO:0070603	"SWI/SNF superfamily-type complex"	rept	mdcds_12730	osa	BEST:LD14959	Bap170	polybromo	Chd3	Caf1-55	Chrac-14	Acf	Bap111	Snr1
+GO:0070652	"HAUS complex"	dgt6
+GO:0070691	"dimeric positive transcription elongation factor complex b"	Cdk9
+GO:0070724	"BMP receptor complex"	put
+GO:0070725	"Yb body"	piwi
+GO:0070761	"pre-snoRNP complex"	Dmel\CG1463
+GO:0070762	"nuclear pore transmembrane ring"	Gp210
+GO:0070765	"gamma-secretase complex"	Nct
+GO:0070772	"PAS complex"	CG5608
+GO:0070775	"H3 histone acetyltransferase complex"	Br140
+GO:0070776	"MOZ/MORF histone acetyltransferase complex"	Br140
+GO:0070822	"Sin3-type complex"	PF1	Dmel\CG44774
+GO:0070847	"core mediator complex"	MED14
+GO:0070860	"RNA polymerase I core factor complex"	TAF1B
+GO:0070876	"SOSS complex"	CG42374
+GO:0070877	"microprocessor complex"	pasha
+GO:0070938	"contractile ring"	CG30183
+GO:0070939	"Dsl1p complex"	Rint1
+GO:0070971	"endoplasmic reticulum exit site"	Tango1
+GO:0070985	"TFIIK complex"	Cdk7
+GO:0070993	"translation preinitiation complex"	eIF2alpha	eIF1
+GO:0071004	"U2-type prespliceosome"	Dmel\CG5986
+GO:0071006	"U2-type catalytic step 1 spliceosome"	Dmel\CG8435
+GO:0071007	"U2-type catalytic step 2 spliceosome"	Syf2
+GO:0071008	"U2-type post-mRNA release spliceosomal complex"	sip1
+GO:0071010	"prespliceosome"	Dmel\CG5986
+GO:0071011	"precatalytic spliceosome"	Dmel\CG1622
+GO:0071012	"catalytic step 1 spliceosome"	Dmel\CG8435
+GO:0071013	"catalytic step 2 spliceosome"	Syf2	CG11777
+GO:0071014	"post-mRNA release spliceosomal complex"	sip1	CG7741
+GO:0071020	"post-spliceosomal complex"	Dmel\CG9667	Prp18
+GO:0071021	"U2-type post-spliceosomal complex"	Prp18
+GO:0071141	"SMAD protein complex"	Mad
+GO:0071144	"SMAD2-SMAD3 protein complex"	Mad
+GO:0071203	"WASH complex"	CCDC53
+GO:0071204	"histone pre-mRNA 3'end processing complex"	Slbp
+GO:0071254	"cytoplasmic U snRNP body"	Lsm10
+GO:0071256	"translocon complex"	SEC61G1
+GO:0071261	"Ssh1 translocon complex"	SEC61G1
+GO:0071339	"MLL1 complex"	Rcd5
+GO:0071439	"clathrin complex"	Chc
+GO:0071513	"phosphopantothenoylcysteine decarboxylase complex"	Ppcdc
+GO:0071540	"eukaryotic translation initiation factor 3 complex, eIF3e"	eIF3a
+GO:0071541	"eukaryotic translation initiation factor 3 complex, eIF3m"	eIF3i
+GO:0071561	"nucleus-vacuole junction"	Vps15
+GO:0071564	"npBAF complex"	Snr1
+GO:0071565	"nBAF complex"	Snr1
+GO:0071595	"Nem1-Spo7 phosphatase complex"	Cnep1r1
+GO:0071598	"neuronal ribonucleoprotein granule"	Fmr1
+GO:0071683	"sensory dendrite"	stum
+GO:0071782	"endoplasmic reticulum tubular network"	Arv1	Rab3GAP1
+GO:0071797	"LUBAC complex"	LUBEL
+GO:0071818	"BAT3 complex"	Prx5
+GO:0071942	"XPC complex"	Xpc
+GO:0071944	"cell periphery"	Egfr	kmr	Dg	Syx1A	nAChRalpha1	Exo70	Dmel\CG14020	Ca-alpha1D	alpha-Cat	put	Ih	Nct	insc	anon-f	Scgbeta	Septin1	Fadd	Pxn	unc-13	Tbcd	KaiR1D	CG31123	CG17740	Arv1	Shaw	Syn	cnn	Fife	crb	Traf6	GABA-B-R1	nSMase	InR	Nmdar1	Dmel\CG43324	DIP-kappa	gogo	ex	mGluR	nuf	Or10a	Clc	Septin4	CD98hc	Vm26Ab	cta	18w	NaCP60E	ItgaPS4	Scgalpha	Cals	Actn	Chc	lap	CG11703	Spec2	sdt	AMT	CG10948	Hydr2	GluRIA	Sgs5bis	Nox	babo	stg1	Dmel\CG6688	CG30183	AP-1-2beta	beta-Spec	CG11620	shrb	Dmel\CG1806	Elk	Dmel\CG17211	Lrp4	LanB1	Sec8	VhaM9.7-d	Fkbp59	GCR 1
+GO:0071986	"Ragulator complex"	Lamtor1
+GO:0072357	"PTW/PP1 phosphatase complex"	PNUTS
+GO:0072379	"ER membrane insertion complex"	Prx5	Sgt
+GO:0072380	"TRC complex"	Sgt
+GO:0072487	"MSL complex"	Dmel\CG12316
+GO:0072546	"ER membrane protein complex"	EMC1
+GO:0072588	"box H/ACA RNP complex"	CG7637
+GO:0072669	"tRNA-splicing ligase complex"	RtcB
+GO:0072686	"mitotic spindle"	RacGAP84C	Klp67A	dgt6	Wdr62
+GO:0072687	"meiotic spindle"	Incenp
+GO:0080008	"Cul4-RING E3 ubiquitin ligase complex"	ohgt	Fbw5
+GO:0089701	"U2AF"	Dmel\CG3294
+GO:0090443	"FAR/SIN/STRIPAK complex"	Ccm3
+GO:0090533	"cation-transporting ATPase complex"	CG11703
+GO:0090545	"CHD-type complex"	Chd3
+GO:0090571	"RNA polymerase II transcription repressor complex"	lin-52	hry	NC2beta
+GO:0090575	"RNA polymerase II transcription factor complex"	TfIIFalpha	Gas41	Cdk7	Ssl1	usp	EcR	Bfc	TfIIA-L	TfIIEalpha	Jra	MED14	Nf-YB	Mad	arm	Clk	Bgb
+GO:0090576	"RNA polymerase III transcription factor complex"	CG7099	Tbp
+GO:0090665	"glycoprotein complex"	Syn	Dg	Dmel\CG1806	Scgalpha
+GO:0097002	"mitochondrial inner boundary membrane"	OXA1L
+GO:0097014	"ciliary plasm"	CG10510	Dmel\CG15701	frtz	Arl6	Bug22	Rsph4a	Dmel\CG10859	Dnali1
+GO:0097060	"synaptic membrane"	KaiR1D	lap	Lrp4	Syx1A	unc-13	Cals
+GO:0097124	"cyclin A2-CDK2 complex"	CycA
+GO:0097134	"cyclin E1-CDK2 complex"	CycE
+GO:0097149	"centralspindlin complex"	RacGAP84C
+GO:0097224	"sperm connecting piece"	Dmel\CG14079
+GO:0097255	"R2TP complex"	pont
+GO:0097268	"cytoophidium"	Ctps
+GO:0097344	"Rix1 complex"	i207
+GO:0097346	"INO80-type complex"	rept	mdcds_12730
+GO:0097361	"CIA complex"	Ciao1
+GO:0097447	"dendritic tree"	CG4537	stum	Or10a	X11L	VGAT	Psn
+GO:0097517	"contractile actin filament bundle"	pigs
+GO:0097524	"sperm plasma membrane"	Hydr2
+GO:0097525	"spliceosomal snRNP complex"	Prp31	CG5356	Sf3a1	CG12320	Dmel\CG3198	l(3)neo7
+GO:0097526	"spliceosomal tri-snRNP complex"	CG5356	Prp31
+GO:0097539	"ciliary transition fiber"	twy
+GO:0097541	"axonemal basal plate"	frtz
+GO:0097542	"ciliary tip"	CCDC151
+GO:0097546	"ciliary base"	Dmel\CG14367
+GO:0097550	"transcriptional preinitiation complex"	TfIIB
+GO:0097629	"extrinsic component of omegasome membrane"	Atg14
+GO:0097632	"extrinsic component of pre-autophagosomal structure membrane"	Atg14
+GO:0097648	"G-protein coupled receptor complex"	GABA-B-R1	mGluR
+GO:0097651	"phosphatidylinositol 3-kinase complex, class I"	Pi3K21B
+GO:0097708	"intracellular vesicle"	CG15760	CG9243	Syn	Gdi	Past1	CG11178	SIDL	RabX2	g	Vta1	Rac2	Vps11	Sec22	AP-1-2beta	Dmel\CG4080	Dmel\CG10435	BcDNA:RH52355	Rab10	FIG4	Vps50	Vps25	Dmel\CG5946	Dmel\CG6005	ema	stac	Chc	Vps4	CG5235	Dop1R2	SppL	Rab14	PICK1	Dmel\CG4293	Slh	Syt1	Vps51	Dmel\CG10026	Muted	CG9132	btsz	Sar1	yin	Dap160	Dmel\CG13855	Lamtor1	7B2	BcDNA.GH08385	ALiX	anon-WO0118547.140	AP-1gamma	Stam
+GO:0098533	"ATPase dependent transmembrane transport complex"	CG11703	AMT
+GO:0098552	"side of membrane"	CG13515	kmr	ex	BcDNA:RH52355	Use1	shrb	BORCS5	RpS26	CG10948	Dmel\CG43324
+GO:0098554	"cytoplasmic side of endoplasmic reticulum membrane"	RpS26	Use1
+GO:0098556	"cytoplasmic side of rough endoplasmic reticulum membrane"	RpS26
+GO:0098562	"cytoplasmic side of membrane"	CG13515	kmr	ex	Use1	BcDNA:RH52355	shrb	BORCS5	RpS26	Dmel\CG43324
+GO:0098573	"intrinsic component of mitochondrial membrane"	CG12479	Afg3l2
+GO:0098574	"cytoplasmic side of lysosomal membrane"	BORCS5
+GO:0098588	"bounding membrane of organelle"	Vha100-1	Atg14	CG5662	clu	Past1	CG1161	Dmel\CG14020	SrpRalpha	Sec22	Dmel\CG13893	Tom20	AP-1-2beta	SEC61G1	Vha14-1	Dmel\CG10435	Abcd1	BcDNA:RH52355	FIG4	Dmel\CG30389	Dmel\CG4080	Vps25	Dmel\CG5946	Dmel\CG6005	Bet3	ema	Dmel\CG10761	Chc	Vps4	CG5235	Dop1R2	ATP6AP2	SppL	RpS26	Atg8a	CG9132	Sec63	Sar1	yin	Msp300	Lamtor1	BcDNA.GH08385	BORCS5	AP-1gamma	CG5608
+GO:0098590	"plasma membrane region"	Egfr	nuf	Or10a	CG31123	CD98hc	Syx1A	Dmel\CG14020	Dmel\CG6688	cta	AP-1-2beta	crb	Cals	nSMase	DIP-kappa	Chc	lap	Lrp4	ex	unc-13	KaiR1D
+GO:0098592	"cytoplasmic side of apical plasma membrane"	ex
+GO:0098636	"protein complex involved in cell adhesion"	ItgaPS4
+GO:0098687	"chromosomal region"	MED17	Cap-D3	Zw10	Noa36	Ndc80	RpLP1	Kmn1
+GO:0098791	"Golgi subcompartment"	Dmel\CG10365	Chpf	sau	Afti	Gos28	ArfGAP3	GM130
+GO:0098793	"presynapse"	Liprin-beta	lap	Dop1R2	Fife	Syn	Csp	Syx1A	unc-13	EndoA	g
+GO:0098794	"postsynapse"	vlc	KaiR1D	X11L	Prosap	Clc	Calx	PICK1	Cals
+GO:0098796	"membrane protein complex"	Trpml	Dg	nAChRalpha1	Ca-alpha1D	alpha-Cat	Vps11	Tom20	Dmel\CG5946	put	Cnep1r1	ATPsyndelta	Ih	Dmel\CG14131	SdhC	Nct	ATPsynB	ORMDL	Sec63	Sar1	Fadd	Dmel\CG14270	AP-1gamma	Snx1	ATPsynepsilonL	Snx3	Vha14-2	Vha100-1	SdhB	mt:Cyt-b	Syn	TORIP	SrpRalpha	CG13530	cnn	GAA1	Vha14-1	Traf6	Afg3l2	Vps25	Cyt-c-d	GABA-B-R1	InR	Nmdar1	Dmel\CG43324	mGluR	Der-2	CG9132	CG4074	EMC1	Alg13	NaCP60E	ItgaPS4	Scgalpha	CG1824	NdufV3	cm	CG12479	Dmel\CG11110	Chc	Vps4	CG11703	Ufd1	ATPsynC	Ire1	sdt	Dmel\CG42376	Msp300	Lamtor1	Dmel\CG34194	BcDNA.GH08385	AMT	COX4L	GluRIA	Atg14	Nox	CG5662	babo	stg1	mt:ND3	Vha26	ATPsynbeta	AP-1-2beta	SEC61G1	Dmel\CG10435	CG11779	Spase12	PIG-A	Dmel\CG43321	CG15458	Bet1	Dmel\CG1806	Elk	Pi3K59F	ATP6AP2	Dmel\CG8237	CG33774	VhaM9.7-d	SCAP	Fkbp59	Pi3K21B	kud	CG5608	CG1409
+GO:0098797	"plasma membrane protein complex"	GluRIA	Nox	babo	Dg	Syn	stg1	nAChRalpha1	Ca-alpha1D	alpha-Cat	cnn	AP-1-2beta	NaCP60E	ItgaPS4	Traf6	Scgalpha	GABA-B-R1	put	InR	Nmdar1	Dmel\CG43324	Ih	Dmel\CG1806	Elk	Chc	Nct	CG11703	mGluR	VhaM9.7-d	sdt	Fkbp59	Fadd	AMT
+GO:0098798	"mitochondrial protein complex"	SdhB	mRpL1	Dmel\CG44242	CG5662	ATPsynbeta	Tom20	PolG1	CG11779	Afg3l2	Suv3	Cyt-c-d	NdufV3	CG12479	Dmel\CG11110	ATPsyndelta	CG15458	Dmel\CG43321	PolrMT	Tim10	ATPsynB	Mtpalpha	E3	mldr	Dmel\CG14270	bonsai	COX4L	ATPsynepsilonL	Dmel\CG8199	CG1409
+GO:0098799	"outer mitochondrial membrane protein complex"	Tom20	CG5662
+GO:0098800	"inner mitochondrial membrane protein complex"	SdhB	Dmel\CG43321	ATPsynbeta	Dmel\CG14270	CG11779	Afg3l2	CG12479	ATPsynB	ATPsyndelta	Cyt-c-d	NdufV3	COX4L	ATPsynepsilonL	Dmel\CG11110	CG15458	CG1409
+GO:0098802	"plasma membrane receptor complex"	GluRIA	ItgaPS4	babo	Traf6	mGluR	stg1	nAChRalpha1	GABA-B-R1	put	InR	Nmdar1
+GO:0098803	"respiratory chain complex"	SdhB	SdhC	Dmel\CG42376	mt:Cyt-b	Cyt-c-d	NdufV3	COX4L
+GO:0098820	"trans-synaptic protein complex"	Nlg1
+GO:0098827	"endoplasmic reticulum subcompartment"	EMC1	Arv1	SrpRalpha	Alg13	GAA1	SEC61G1	Dmel\CG30389	Spase12	PIG-A	Use1	Dmel\CG8237	Alg10	Ufd1	Der-2	RpS26	CG33774	ORMDL	Ire1	Sec63	Dmel\CG34194	kud	Rab3GAP1
+GO:0098830	"presynaptic endosome"	g
+GO:0098831	"presynaptic active zone cytoplasmic component"	unc-13	Fife
+GO:0098833	"presynaptic endocytic zone"	lap
+GO:0098835	"presynaptic endocytic zone membrane"	lap
+GO:0098839	"postsynaptic density membrane"	KaiR1D
+GO:0098842	"postsynaptic early endosome"	PICK1
+GO:0098843	"postsynaptic endocytic zone"	Clc
+GO:0098845	"postsynaptic endosome"	PICK1
+GO:0098852	"lytic vacuole membrane"	CG1161	ema	BORCS5
+GO:0098855	"HCN channel complex"	Ih
+GO:0098857	"membrane microdomain"	Lamtor1	nSMase
+GO:0098858	"actin-based cell projection"	abitram	Mer	dysc	Myo95E	Myo10A
+GO:0098862	"cluster of actin-based cell projections"	dysc	Cdc14	cta
+GO:0099501	"exocytic vesicle membrane"	Dop1R2
+GO:0099503	"secretory vesicle"	stac	btsz	CG5235	Dop1R2	Rab10	Syn	Dmel\CG13855	7B2	Syt1
+GO:0099512	"supramolecular fiber"	up	Klp67A	chb	Zasp66	tmod	CG5286	dgt6	mod(mdg4)	rod	Arp2	Atat	FRG1	zormin	lva	shot	Dmel\CG32371	Patronin	Mlc1	Bug22	Tctp
+GO:0099513	"polymeric cytoskeletal fiber"	Klp67A	shot	CG5286	Dmel\CG32371	dgt6	Patronin	rod	Arp2	chb	Zasp66	Atat	Bug22	Tctp
+GO:0099568	"cytoplasmic region"	CG10510	CG11620	Fife	insc	Fmr1	Dmel\CG15701	Clc	frtz	unc-13	Arl6	Bug22	Rsph4a	Dmel\CG10859	Dnali1
+GO:0099569	"presynaptic cytoskeleton"	Fife
+GO:0099572	"postsynaptic specialization"	Prosap	vlc	KaiR1D
+GO:0099631	"postsynaptic endocytic zone, cytoplasmic component"	Clc
+GO:0099634	"postsynaptic specialization membrane"	KaiR1D
+GO:0099738	"cell cortex region"	CG11620	Fife	insc	Clc	unc-13
+GO:1902493	"acetyltransferase complex"	Naa30A	vnc	Atac2	Saf6	DMAP1	Ada2b	Br140	MrgBP	Rcd5	Ada1-1	Dmel\CG12316	psidin	Naa15-16	Dmel\CG10931
+GO:1902494	"catalytic complex"	Gas41	Dmel\CG44242	muc	Acf	Dmel\CG5447	HDAC4	Aos1	Gbs-76A	APC10	Pop1	Gclc	corto	Flacc	Cnep1r1	Dnali1	Dmel\CG14131	SdhC	Pdss2	Cdk2	PolrMT	Bap111	Pfk	Cdk7	ORMDL	pasha	Ask1	mldr	osa	Cdk9	CG10510	ohgt	AMPKalpha	CIA30	Prosbeta1	Dmel\CG11597	Pop4	Dmel\CG8199	Tango14	SdhB	CycE	Fbw5	CG8858	Mccc1	PolD1	mt:Cyt-b	Rpn1	icln	Naa15-16	Snr1	Polr2A	Naa30A	RnrL	GAA1	Ppcdc	Rep	Cul5	Afg3l2	PolD2	Cyt-c-d	Dpy-30L1	InR	Dmel\CG43324	Cib2	Atac2	DMAP1	Tps1	Nubp1	PIG-V	alpha-KGDHC	mms4	Eno	Dmel\CG4911	Der-2	Polr2M	CG15644	Dmel\CG10931	TfIIFalpha	E3	Ptpa	Dmel\CG10834	PNUTS	Ptip	CG4045	polybromo	alpha-PheRS	Scsalpha1	vnc	Prosalpha1	Cul3	LUBEL	Tsen34	Dmel\CG12316	IKKbeta	Rpn11	Atg12	PolA2	Suv3	NdufV3	Ski6	Fntb	CG11777	dgrn	BEST:LD14959	Vps4	EloB	PPP4R2r	Dmel\CG8435	Bap170	Polr1C	CycT	AGO2	ScsbetaG	Dmel\CG10859	CG12084	Prps	Saf6	Syf2	Dmel\CG34194	Csl4	Dmel\CG12885	Ada2b	Atg14	Nox	TfIIA-L	babo	MrgBP	REG	CG30493	HemK2	Cdk5	Rcd5	Chrac-14	Chd3	mt:ND3	Atu	mdcds_12730	PolG1	PF1	TfIIEalpha	CG7637	CG6316	Trmt6	Spase12	PIG-A	PhKgamma	psidin	Ada1-1	CycA	plu	betaggt-I	Dmel\CG44774	Pi3K59F	PIG-M	Dmel\CG8237	Br140	Rpt4R	CG33774	rept	Atg13	Gpdh1	Pi3K21B	Dpm1	kud	Dmel\CG3339	Caf1-55	CG6204	Dmel\CG3473	Marc	CG5608	Bre1
+GO:1902495	"transmembrane transporter complex"	Ih	Elk	CG13530	GluRIA	CG11703	NaCP60E	AMT	Trpml	mt:Cyt-b	nAChRalpha1	Cyt-c-d	stg1	NdufV3	CG1824	Dmel\CG43321	Ca-alpha1D	Nmdar1
+GO:1902554	"serine/threonine protein kinase complex"	plu	Cdk7	Atg13	CycE	Cdk9	Cdk2	babo	Cdk5	CycA	CycT	PhKgamma	IKKbeta
+GO:1902555	"endoribonuclease complex"	Pop4	pasha	mldr	CG6316	Pop1	Tsen34	AGO2
+GO:1902562	"H4 histone acetyltransferase complex"	DMAP1	MrgBP	Rcd5	Dmel\CG12316
+GO:1902636	"kinociliary basal body"	Cdc14
+GO:1902710	"GABA receptor complex"	Lcch3
+GO:1902711	"GABA-A receptor complex"	Lcch3
+GO:1902773	"GTPase activator complex"	Lamtor1	Rich	eIF2Bgamma
+GO:1902911	"protein kinase complex"	plu	Cdk7	Atg13	Ask1	CycE	InR	Cdk9	Cdk2	babo	AMPKalpha	CG6316	Cdk5	CycA	CycT	PhKgamma	IKKbeta
+GO:1903095	"ribonuclease III complex"	pasha
+GO:1903293	"phosphatase complex"	Cib2	Gbs-76A	PNUTS	PPP4R2r	Dmel\CG11597	Cnep1r1
+GO:1903349	"omegasome membrane"	Atg14
+GO:1903561	"extracellular vesicle"	Dmel\CG18745	Acph-1
+GO:1903958	"nitric-oxide synthase complex"	Marc
+GO:1904423	"dehydrodolichyl diphosphate synthase complex"	Tango14
+GO:1904564	"Nbp35-Cfd1 ATPase complex"	Nubp1
+GO:1904949	"ATPase complex"	rept	mdcds_12730	Nubp1	osa	BEST:LD14959	Vps4	Ptpa	Bap170	polybromo	Chd3	Caf1-55	Chrac-14	Acf	Bap111	Snr1
+GO:1990023	"mitotic spindle midzone"	Klp67A
+GO:1990070	"TRAPPI protein complex"	Trs31
+GO:1990071	"TRAPPII protein complex"	SIDL
+GO:1990072	"TRAPPIII protein complex"	Trs31
+GO:1990112	"RQC complex"	Ltn1
+GO:1990124	"messenger ribonucleoprotein complex"	Sxl
+GO:1990130	"Iml1 complex"	Nprl3
+GO:1990131	"Gtr1-Gtr2 GTPase complex"	RagC-D
+GO:1990204	"oxidoreductase complex"	E3	SdhB	RnrL	SdhC	Marc	Gpdh1	Nox	Dmel\CG44242	alpha-KGDHC	mt:Cyt-b	muc	CIA30	Cyt-c-d	NdufV3	mt:ND3	Dmel\CG8199
+GO:1990221	"L-cysteine desulfurase complex"	Nfs1
+GO:1990229	"iron-sulfur cluster assembly complex"	Nubp1
+GO:1990234	"transferase complex"	Gas41	Dmel\CG44242	Dmel\CG5447	APC10	corto	Flacc	Dmel\CG14131	Pdss2	Cdk2	PolrMT	Pfk	Cdk7	ORMDL	Ask1	Cdk9	ohgt	AMPKalpha	Tango14	CycE	Fbw5	PolD1	icln	Naa15-16	Polr2A	Naa30A	Rep	Cul5	PolD2	Dpy-30L1	InR	Atac2	DMAP1	Tps1	PIG-V	alpha-KGDHC	Dmel\CG4911	Der-2	Polr2M	CG15644	Dmel\CG10931	TfIIFalpha	Ptip	CG4045	vnc	Cul3	LUBEL	Dmel\CG12316	IKKbeta	Atg12	PolA2	Fntb	dgrn	EloB	Polr1C	CycT	CG12084	Prps	Saf6	Dmel\CG34194	Dmel\CG12885	Ada2b	Atg14	babo	TfIIA-L	MrgBP	HemK2	CG30493	Cdk5	Rcd5	Chrac-14	Atu	PolG1	TfIIEalpha	CG6316	Trmt6	CycA	PIG-A	PhKgamma	psidin	Ada1-1	plu	betaggt-I	Pi3K59F	PIG-M	Dmel\CG8237	Br140	CG33774	Atg13	Pi3K21B	Dpm1	kud	CG6204	Dmel\CG3473	CG5608	Bre1
+GO:1990246	"uniplex complex"	Dmel\CG43321
+GO:1990298	"bub1-bub3 complex"	Bub3
+GO:1990316	"ATG1/ULK1 kinase complex"	Atg13
+GO:1990351	"transporter complex"	Pex12	GluRIA	Trpml	mt:Cyt-b	stg1	nAChRalpha1	CG13530	Ca-alpha1D	Dmel\CG4301	NaCP60E	Cyt-c-d	CG1824	NdufV3	Dmel\CG43321	Nmdar1	Ih	Elk	CG11703	Tim10	AMT
+GO:1990385	"meiotic spindle midzone"	Incenp
+GO:1990391	"DNA repair complex"	Dmel\CG3448	Mlh1	hay	Pms2	spel1	Xpac	Ercc1	Xpc
+GO:1990415	"Pex17p-Pex14p docking complex"	Pex12
+GO:1990423	"RZZ complex"	Zw10
+GO:1990429	"peroxisomal importomer complex"	Pex12
+GO:1990462	"omegasome"	Atg14
+GO:1990498	"mitotic spindle microtubule"	dgt6
+GO:1990513	"CLOCK-BMAL transcription complex"	Clk
+GO:1990529	"glycosylphosphatidylinositol-mannosyltransferase I complex"	PIG-M
+GO:1990531	"Lem3p-Dnf1p complex"	Dmel\CG4301
+GO:1990533	"Dom34-Hbs1 complex"	pelo
+GO:1990604	"IRE1-TRAF2-ASK1 complex"	Ire1
+GO:1990621	"Vps4-Vta1 complex"	Vps4
+GO:1990726	"Lsm1-7-Pat1 complex"	CG4279
+GO:1990745	"EARP complex"	Vps50
+GO:1990752	"microtubule end"	Patronin	Dmel\CG32371
+GO:1990851	"Wnt-Frizzled-LRP5/6 complex"	cnn
+GO:1990904	"ribonucleoprotein complex"	mRpL1	RpL19	Srp14	Dmel\CG12325	Dmel\CG13097	eIF2alpha	Bka	Lsm11	Prp31	Prp18	sip1	CG12320	Dmel\CG1622	RpL10Aa	CG7637	CG6316	Pop1	l(3)neo7	Dmel\CG5986	eIF1	Dmel\CG16753	RpS18	CG11777	CG7741	Lsm10	Brr2	CG5356	Mat89Ba	Dmel\CG9667	JIL-1	Dmel\CG8435	AGO2	Dmel\CG10803	mdlc	Slbp	Smg6	Noc1	Pop4	U2af50	mldr	RpS23	Syf2	Sf3a1	CG6724	mRpS4	Sxl	Dmel\CG1463	Dmel\CG3198	Rbp6	Nop56	CG31922	bonsai	CG10341
+GO:1990907	"beta-catenin-TCF complex"	arm
+GO:1990923	"PET complex"	CG11263
