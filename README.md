@@ -124,12 +124,14 @@ Type, name, link and citation of the databases we cover:
 |                                     |                       [TRRUST](https://www.grnpedia.org/trrust/)                       |                                                     Transcription factor - target gene interactions for human.                                                     |              Han,H. *et al.* (2018) TRRUST v2: an expanded reference database of human and mouse transcriptional regulatory interactions. *Nucleic Acids Res*, **46**, D380–D386.              |
 |                                     |                         [Yeastract](http://www.yeastract.com/)                         |                                          Transcription factor - target gene interactions for *Saccharomyces cerevisiae*.                                           |    Teixeira,M.C. *et al.* (2018) YEASTRACT: an upgraded database for the analysis of transcription regulatory networks in Saccharomyces cerevisiae. *Nucleic Acids Res*, **46**, D348–D353.    |
 
-## Citation
+## How to Cite the `mulea` Package?
 
-To cite the GMT files in publications use:
+To cite package `mulea` in publications use:
 
-Ari E, Ölbei M, Gul L, Bohár B, Stirling T (2024). muleaData:
-ExperimentalData Bioconductor Package for the mulea R Package, Contains
-Genes Sets for Functional Enrichment Analysis in GMT File Format. R
-package version 0.99.0,
-<https://github.com/ELTEbioinformatics/muleaData>.
+Turek, Cezary, Márton Ölbei, Tamás Stirling, Gergely Fekete, Ervin
+Tasnádi, Leila Gul, Balázs Bohár, Balázs Papp, Wiktor Jurkowski, and
+Eszter Ari. 2024. “mulea: An R Package for Enrichment Analysis Using
+Multiple Ontologies and Empirical False Discovery Rate.” *BMC
+Bioinformatics* 25 (1): 334.
+<https://doi.org/10.1186/s12859-024-05948-7>.
+
