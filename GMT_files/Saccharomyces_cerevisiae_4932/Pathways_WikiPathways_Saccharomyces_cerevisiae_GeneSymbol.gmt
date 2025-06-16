@@ -32,12 +32,12 @@ WP478_r94234	Glycogen Catabolism WikiPathways_20171010 WP478 Saccharomyces cerev
 WP559_r89708	Glutamate degradation VII WikiPathways_20171010 WP559 Saccharomyces cerevisiae	SDH1	LSC1	SDH2	AAT1	FUM1	SDH4	SDH3	LSC2	AAT2
 WP210_r70142	Cytoplasmic Ribosomal Proteins WikiPathways_20171010 WP210 Saccharomyces cerevisiae	RPL13B	RPL43A	RPL4B	RPS1B	RPL17B	RPS16A	RPS6A	RPL21A	RPL26B	RPS4A	RPL16B	RPL43A	RPS15	RPL2A	RPP2A	RPL41A	RPL29	RPP1B	RPS27B	RPS1A	RPL2A	RPL36A	RPL34A	RPS2	RPS0B	RPS4A	RPL33B	RPL8A	RPL9A	RPS9A	RPL21B	RPL6B	RPS26B	RPL18A	RPL1A	RPL35A	RPS3	RPL38	RPL35A	RPL15B	RPS21A	RPL33A	RPL7A	RPS19A	RPL14B	RPS7B	RPS5	RPS18A	RPL23A	RPL28	RPL41A	RPL37B	RPS25A	RPS6A	RPS20	RPL24B	RPS14A	RPL39	RPL19A	RPL19A	RPL22A	RPL18A	RPL5	RPL27A	RPS26A	RPL42A	RPS17B	RPL3	RPL26A	RPL36B	RPP0	RPS22A	RPS24A	RPS14B	RPS9B	RPL25	RPS8A	RPS12	RPS16A	RPS0A	RPS13	RPL12A	RPL22B	RPL32	RPL8B	RPS10A	RPL37A	RPS23A	RPS10B	RPL1A	RPS18A	RPS19B	RPS17A	RPS31	RPL11B	RPS28B	RPL4A	RPL40A	RPL34B	RPS30A	RPS7A	RPL7B	RPL10	RPS29B	RPL15A	RPS30A	RPL16A	RPL17A	RPS11A	RPP2B	RPS23A	RPL14A	RPL20A	RPL12A	RLP7	RPL40A	RPL24A	RPL30	RPL31A	RPS8A	RPS24A	RPL6A	RPL42A	RPS29A	RPS11A	RPL20A	RPS27A	RPL13A	RPP1A	RPL23A	RPL9B
 WP392_r89669	Glutathione-Glutaredoxin Redox Reaction WikiPathways_20171010 WP392 Saccharomyces cerevisiae	GPX1	GPX2	GTT2	GLR1	GTT1	HYR1
-WP16_r89650	Fatty Acid Elongation, Unsaturated WikiPathways_20171010 WP16 Saccharomyces cerevisiae	OAR1	FAS2	CEM1	NA
+WP16_r89650	Fatty Acid Elongation, Unsaturated WikiPathways_20171010 WP16 Saccharomyces cerevisiae	OAR1	FAS2	CEM1
 WP440_r92909	Sulfur degradation WikiPathways_20171010 WP440 Saccharomyces cerevisiae	MET6	STR3	MCY1	MET3
 WP54_r89653	Arginine degradation WikiPathways_20171010 WP54 Saccharomyces cerevisiae	PUT1	PRO3	CAR1	CAR2
 WP91_r71343	Fatty acid oxidation WikiPathways_20171010 WP91 Saccharomyces cerevisiae	FAT1	FAA2	FAA4	POT1	FOX2	FAA1	DCI1	POX1	ECI1	FAA3
 WP296_r76239	TCA Cycle - Detailed WikiPathways_20171010 WP296 Saccharomyces cerevisiae	ACO1	MDH2	PYC2	SDH2	PYC1	MDH3	CIT2	FUM1	MDH1	ACO2	KGD1	SDH3	IDH1	SDH1	LSC1	CIT3	IDH2	KGD2	SDH4	CIT1	LSC2
-WP14_r93725	Sucrose Biosynthesis WikiPathways_20171010 WP14 Saccharomyces cerevisiae	YHL012W	NA	NA	NA
+WP14_r93725	Sucrose Biosynthesis WikiPathways_20171010 WP14 Saccharomyces cerevisiae	YHL012W
 WP275_r89705	Arginine Biosynthesis WikiPathways_20171010 WP275 Saccharomyces cerevisiae	ARG7	ARG5,6	ARG4	ARG3	ARG1	ARG8	ARG2
 WP328_r71348	Allantoin Degradation WikiPathways_20171010 WP328 Saccharomyces cerevisiae	DAL3	DAL2	DUR1,2	DAL1
 WP301_r67723	Tryptophan Degradation WikiPathways_20171010 WP301 Saccharomyces cerevisiae	ARO9	ADH1	PDC1	ARO8	ADH4	SFA1	ADH5	ADH3	ADH2	PDC5	ARO10	PDC6
@@ -50,7 +50,7 @@ WP180_r89517	Leucine Biosynthesis WikiPathways_20171010 WP180 Saccharomyces cere
 WP198_r89683	Isoleucine, Leucine, and Valine biosynthesis WikiPathways_20171010 WP198 Saccharomyces cerevisiae	LEU4	LEU1	BAT1	LEU2	BAT2	ILV5	ILV2	ILV6	ILV3	ILV1	LEU9
 WP1518_r87001	Aspartate Biosynthesis WikiPathways_20171010 WP1518 Saccharomyces cerevisiae	PYC2	AAT1	PYC1	AAT2
 WP346_r89527	Protein Modifications WikiPathways_20171010 WP346 Saccharomyces cerevisiae	BPL1	PMT1	PMT6	RAM2	PMT5	RAM1	PMT4	CDC43	PMT2	BET2	PMT3
-WP575_r89136	Anaerobic respiration WikiPathways_20171010 WP575 Saccharomyces cerevisiae	YJL045W	GUT2	NA	NA
+WP575_r89136	Anaerobic respiration WikiPathways_20171010 WP575 Saccharomyces cerevisiae	YJL045W	GUT2
 WP77_r89655	Glutamate biosynthesis WikiPathways_20171010 WP77 Saccharomyces cerevisiae	GLT1	IDP3	IDP1	IDP2	GDH1	GDH3	GLN1
 WP390_r87656	Serine-isocitrate lyase pathway WikiPathways_20171010 WP390 Saccharomyces cerevisiae	ICL1	ACO1	MDH2	CIT2	MDH3	ENO1	MDH1	ACO2	ERR1	ENO2	CIT3	SHM2	GPM3	ERR3	GPM1	SHM1	ERR1
 WP2_r89647	Valine Biosynthesis WikiPathways_20171010 WP2 Saccharomyces cerevisiae	BAT1	BAT2	ILV2	ILV6	ILV3
@@ -77,7 +77,7 @@ WP361_r87431	Xylulose-monophosphate cycle WikiPathways_20171010 WP361 Saccharomy
 WP224_r89053	Aerobic Glycerol Catabolism WikiPathways_20171010 WP224 Saccharomyces cerevisiae	TPI1	ENO1	TDH3	TDH1	PGK1	ERR1	GUT1	GUT2	ENO2	GPD2	CDC19	ERR3	PYK2	GPM1	ERR1	GPD1	TDH2
 WP191_r89685	Superpathway of Glutamate Biosynthesis WikiPathways_20171010 WP191 Saccharomyces cerevisiae	GLT1	IDP3	IDP1	IDP2	GDH1	GDH3	GLN1
 WP156_r94080	Gluconeogenesis WikiPathways_20171010 WP156 Saccharomyces cerevisiae	MDH2	MDH3	PCK1	MDH1	ERR1	MAE1	ERR1
-WP228_r87234	Deoxyribose phosphate metabolism WikiPathways_20171010 WP228 Saccharomyces cerevisiae	CDD1	TKL2	TKL1	NA
+WP228_r87234	Deoxyribose phosphate metabolism WikiPathways_20171010 WP228 Saccharomyces cerevisiae	CDD1	TKL2	TKL1
 WP463_r73550	Purine Fermentation WikiPathways_20171010 WP463 Saccharomyces cerevisiae	MIS1	FDH1	ADE3	AAH1
 WP381_r94656	Riboflavin, FMN, and FAD Biosynthesis WikiPathways_20171010 WP381 Saccharomyces cerevisiae	RIB1	RIB2	RIB7	RIB5	RIB4	FMN1	FAD1	RIB3
 WP7_r92811	Sulfur Amino Acid biosynthesis WikiPathways_20171010 WP7 Saccharomyces cerevisiae	SAM2	MET16	MET5	MET6	MET17	CYS4	MET10	SAM1	MET14	STR2	CYS3	STR3	MET2	MET3
@@ -99,15 +99,15 @@ WP287_r69848	Upiquinone Q Prenylation WikiPathways_20171010 WP287 Saccharomyces 
 WP416_r94664	Superpathway of Histidine, Purine, and Pyrimidine WikiPathways_20171010 WP416 Saccharomyces cerevisiae	ADE16	ADE8	HIS3	PRS2	HIS5	URA4	URA7	RNR3	HIS6	URA6	PRS1	ADE57	HIS1	GUA1	URA5	IMD2	ADE2	ADE1	IMD4	RNR4	URA10	URA8	ADE17	ADE6	PRS3	URA3	ADE13	URA1	PRS5	HIS2	IMD3	PRS4	ADE4	RNR2	RNR1	YNK1	HIS4	URA2
 WP60_r89654	Toluene degradation WikiPathways_20171010 WP60 Saccharomyces cerevisiae	AAD15	AAD10	AAD14	AAD4	AAD3
 WP70_r94082	Trehalose Degradation, Low Osmolarity WikiPathways_20171010 WP70 Saccharomyces cerevisiae	NTH1	TPS2	NTH2	ATH1	GLK1
-WP280_r89704	Carbon monoxide dehydrogenase pathway WikiPathways_20171010 WP280 Saccharomyces cerevisiae	MIS1	ADE3	NA	NA
+WP280_r89704	Carbon monoxide dehydrogenase pathway WikiPathways_20171010 WP280 Saccharomyces cerevisiae	MIS1	ADE3
 WP423_r89661	Threonine and Methionine biosynthesis WikiPathways_20171010 WP423 Saccharomyces cerevisiae	THR1	MET6	MET17	HOM6	MET2	HOM2	THR4	HOM3
 WP181_r88288	P-cymene Degradation WikiPathways_20171010 WP181 Saccharomyces cerevisiae	AAD15	AAD10	AAD14	AAD4	AAD3
-WP556_r89710	Glutamate degradation I WikiPathways_20171010 WP556 Saccharomyces cerevisiae	UGA1	UGA2	GAD1	NA
+WP556_r89710	Glutamate degradation I WikiPathways_20171010 WP556 Saccharomyces cerevisiae	UGA1	UGA2	GAD1
 WP92_r87230	De Novo Biosynthesis of Pyrimidine Ribonucleotides WikiPathways_20171010 WP92 Saccharomyces cerevisiae	URA3	URA1	URA6	YNK1	URA5	URA4	URA10	URA8	URA7	URA2
 WP503_r69932	Glutamate degradation III WikiPathways_20171010 WP503 Saccharomyces cerevisiae	LSC1	GDH2	KGD2	KGD1	LSC2
 WP546_r94317	Lactose degradation and Galactose metabolism WikiPathways_20171010 WP546 Saccharomyces cerevisiae	GAL10	GAL7	GAL1	PGM2	PGM1
 WP99_r89656	Glutamate degradation VIII WikiPathways_20171010 WP99 Saccharomyces cerevisiae	ARG7	ARG5,6	ARG8	ARG2
-WP196_r76277	Glutathione Biosynthesis WikiPathways_20171010 WP196 Saccharomyces cerevisiae	GSH2	GSH1	NA	NA
+WP196_r76277	Glutathione Biosynthesis WikiPathways_20171010 WP196 Saccharomyces cerevisiae	GSH2	GSH1
 WP257_r94135	Starch and Cellulose Biosynthesis WikiPathways_20171010 WP257 Saccharomyces cerevisiae	YHL012W	PGM2	UGP1	GLC3	PGM1
 WP370_r89668	Sphingolipid Metabolism WikiPathways_20171010 WP370 Saccharomyces cerevisiae	YDC1	LCB2	LCB5	IPT1	YSR3	TSC10	LCB3	LAC1	SUR2	LAG1	LCB1	CSG2	SUR1	AUR1	YPC1	LCB4
 WP121_r94081	Colanic Acid Building Blocks Biosynthesis WikiPathways_20171010 WP121 Saccharomyces cerevisiae	YHL012W	PMI40	GAL10	GAL7	GAL1	PSA1	SEC53	UGP1
