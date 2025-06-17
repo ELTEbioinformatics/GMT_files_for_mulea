@@ -16,22 +16,22 @@
 
 
 
-GO:0003674	"molecular_function"	24573120	24573121
-GO:0003824	"catalytic activity"	24573121	24573120
-GO:0004129	"cytochrome-c oxidase activity"	24573120
-GO:0005215	"transporter activity"	24573121	24573120
-GO:0008121	"ubiquinol-cytochrome-c reductase activity"	24573121
-GO:0008324	"cation transmembrane transporter activity"	24573121	24573120
-GO:0009055	"electron carrier activity"	24573121	24573120
-GO:0015075	"ion transmembrane transporter activity"	24573121	24573120
-GO:0015078	"hydrogen ion transmembrane transporter activity"	24573120	24573121
-GO:0015318	"inorganic solute uptake transmembrane transporter activity"	24573121	24573120
-GO:0015399	"primary active transmembrane transporter activity"	24573120	24573121
-GO:0015453	"oxidoreduction-driven active transmembrane transporter activity"	24573121	24573120
-GO:0016491	"oxidoreductase activity"	24573121	24573120
-GO:0016675	"oxidoreductase activity, acting on a heme group of donors"	24573120
-GO:0016679	"oxidoreductase activity, acting on diphenols and related substances as donors"	24573121
-GO:0022804	"active transmembrane transporter activity"	24573121	24573120
-GO:0022853	"active ion transmembrane transporter activity"	24573121	24573120
-GO:0022857	"transmembrane transporter activity"	24573121	24573120
-GO:0022890	"inorganic cation transmembrane transporter activity"	24573121	24573120
+GO:0003674	molecular_function	24573120	24573121
+GO:0003824	catalytic activity	24573121	24573120
+GO:0004129	cytochrome-c oxidase activity	24573120
+GO:0005215	transporter activity	24573121	24573120
+GO:0008121	ubiquinol-cytochrome-c reductase activity	24573121
+GO:0008324	cation transmembrane transporter activity	24573121	24573120
+GO:0009055	electron carrier activity	24573121	24573120
+GO:0015075	ion transmembrane transporter activity	24573121	24573120
+GO:0015078	hydrogen ion transmembrane transporter activity	24573120	24573121
+GO:0015318	inorganic solute uptake transmembrane transporter activity	24573121	24573120
+GO:0015399	primary active transmembrane transporter activity	24573120	24573121
+GO:0015453	oxidoreduction-driven active transmembrane transporter activity	24573121	24573120
+GO:0016491	oxidoreductase activity	24573121	24573120
+GO:0016675	oxidoreductase activity, acting on a heme group of donors	24573120
+GO:0016679	oxidoreductase activity, acting on diphenols and related substances as donors	24573121
+GO:0022804	active transmembrane transporter activity	24573121	24573120
+GO:0022853	active ion transmembrane transporter activity	24573121	24573120
+GO:0022857	transmembrane transporter activity	24573121	24573120
+GO:0022890	inorganic cation transmembrane transporter activity	24573121	24573120

@@ -16,40 +16,40 @@
 
 
 
-GO:0000228	"nuclear chromosome"	swi2	mrc1
-GO:0000785	"chromatin"	swi2
-GO:0005575	"cellular_component"	cdc22	ape2	fip1	wtf13	mrc1	swi2
-GO:0005622	"intracellular"	cdc22	mrc1	swi2
-GO:0005634	"nucleus"	swi2	mrc1
-GO:0005657	"replication fork"	mrc1
-GO:0005694	"chromosome"	swi2	mrc1
-GO:0005737	"cytoplasm"	cdc22
-GO:0005829	"cytosol"	cdc22
-GO:0005886	"plasma membrane"	fip1
-GO:0005971	"ribonucleoside-diphosphate reductase complex"	cdc22
-GO:0016020	"membrane"	fip1
-GO:0016021	"integral component of membrane"	fip1
-GO:0031224	"intrinsic component of membrane"	fip1
-GO:0031298	"replication fork protection complex"	mrc1
-GO:0031974	"membrane-enclosed lumen"	swi2	mrc1
-GO:0031981	"nuclear lumen"	swi2	mrc1
-GO:0032991	"macromolecular complex"	cdc22	ape2	fip1	mrc1	swi2
-GO:0033573	"high-affinity iron permease complex"	fip1
-GO:0034974	"Swi5-Swi2 complex"	swi2
-GO:0043226	"organelle"	mrc1	swi2
-GO:0043227	"membrane-bounded organelle"	swi2	mrc1
-GO:0043228	"non-membrane-bounded organelle"	swi2	mrc1
-GO:0043229	"intracellular organelle"	mrc1	swi2
-GO:0043231	"intracellular membrane-bounded organelle"	swi2	mrc1
-GO:0043232	"intracellular non-membrane-bounded organelle"	swi2	mrc1
-GO:0043233	"organelle lumen"	swi2	mrc1
-GO:0043596	"nuclear replication fork"	mrc1
-GO:0070013	"intracellular organelle lumen"	swi2	mrc1
-GO:0071944	"cell periphery"	fip1
-GO:0072324	"ascus epiplasm"	wtf13
-GO:0098796	"membrane protein complex"	fip1
-GO:0098797	"plasma membrane protein complex"	fip1
-GO:1902494	"catalytic complex"	fip1	cdc22
-GO:1902495	"transmembrane transporter complex"	fip1
-GO:1990204	"oxidoreductase complex"	fip1	cdc22
-GO:1990351	"transporter complex"	fip1
+GO:0000228	nuclear chromosome	swi2	mrc1
+GO:0000785	chromatin	swi2
+GO:0005575	cellular_component	cdc22	ape2	fip1	wtf13	mrc1	swi2
+GO:0005622	intracellular	cdc22	mrc1	swi2
+GO:0005634	nucleus	swi2	mrc1
+GO:0005657	replication fork	mrc1
+GO:0005694	chromosome	swi2	mrc1
+GO:0005737	cytoplasm	cdc22
+GO:0005829	cytosol	cdc22
+GO:0005886	plasma membrane	fip1
+GO:0005971	ribonucleoside-diphosphate reductase complex	cdc22
+GO:0016020	membrane	fip1
+GO:0016021	integral component of membrane	fip1
+GO:0031224	intrinsic component of membrane	fip1
+GO:0031298	replication fork protection complex	mrc1
+GO:0031974	membrane-enclosed lumen	swi2	mrc1
+GO:0031981	nuclear lumen	swi2	mrc1
+GO:0032991	macromolecular complex	cdc22	ape2	fip1	mrc1	swi2
+GO:0033573	high-affinity iron permease complex	fip1
+GO:0034974	Swi5-Swi2 complex	swi2
+GO:0043226	organelle	mrc1	swi2
+GO:0043227	membrane-bounded organelle	swi2	mrc1
+GO:0043228	non-membrane-bounded organelle	swi2	mrc1
+GO:0043229	intracellular organelle	mrc1	swi2
+GO:0043231	intracellular membrane-bounded organelle	swi2	mrc1
+GO:0043232	intracellular non-membrane-bounded organelle	swi2	mrc1
+GO:0043233	organelle lumen	swi2	mrc1
+GO:0043596	nuclear replication fork	mrc1
+GO:0070013	intracellular organelle lumen	swi2	mrc1
+GO:0071944	cell periphery	fip1
+GO:0072324	ascus epiplasm	wtf13
+GO:0098796	membrane protein complex	fip1
+GO:0098797	plasma membrane protein complex	fip1
+GO:1902494	catalytic complex	fip1	cdc22
+GO:1902495	transmembrane transporter complex	fip1
+GO:1990204	oxidoreductase complex	fip1	cdc22
+GO:1990351	transporter complex	fip1
